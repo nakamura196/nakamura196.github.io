@@ -137,13 +137,13 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "satoru196"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : profile.jpg  # default square image for link previews
+og_description           : "Associate Professor at the University of Tokyo. Digital humanities, IIIF, Linked Open Data, and digital archives."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

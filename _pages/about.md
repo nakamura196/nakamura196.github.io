@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Satoru Nakamura"
 author_profile: true
+header:
+  og_image: og.png
 redirect_from:
   - /about/
   - /about.html
