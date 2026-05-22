@@ -1,0 +1,57 @@
+name: Update content from researchmap & GitHub
+
+# Regenerates publications / talks / CV (researchmap) and the software portfolio
+# (GitHub API) on a schedule, commits any changes, and asks GitHub Pages to
+# rebuild. No local Ruby/Docker needed — everything runs here.
+
+on:
+  schedule:
+    - cron: "0 21 * * 0"   # Sundays 21:00 UTC = Mondays 06:00 JST
+  workflow_dispatch:        # manual "Run workflow" button
+
+permissions:
+  contents: write           # commit regenerated content
+  pages: write              # request a Pages build
+
+concurrency:
+  group: content-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate from researchmap
+        run: python3 scripts/build_from_researchmap.py
+
+      - name: Regenerate GitHub portfolio
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_github_portfolio.py
+
+      - name: Commit changes if any
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _publications _talks _portfolio _data/cv.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No content changes."
+          else
+            git commit -m "chore: auto-update content from researchmap & GitHub"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Request a Pages rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"

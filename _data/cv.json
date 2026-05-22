@@ -1,0 +1,673 @@
+{
+  "basics": {
+    "name": "Satoru Nakamura",
+    "email": "",
+    "website": "https://nakamura196.github.io",
+    "summary": "Associate Professor at The University of Tokyo.",
+    "location": {
+      "city": "Tokyo",
+      "countryCode": "JP",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0000-0001-8245-7925"
+      },
+      {
+        "network": "GitHub",
+        "username": "nakamura196",
+        "url": "https://github.com/nakamura196"
+      },
+      {
+        "network": "researchmap",
+        "username": "nakamura.satoru",
+        "url": "https://researchmap.jp/nakamura.satoru"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "The University of Tokyo",
+      "company": "The University of Tokyo",
+      "position": "Associate Professor, Historiographical Institute",
+      "startDate": "2026-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "らいおん建築事務所",
+      "company": "らいおん建築事務所",
+      "position": "建築家デジタルアーカイブ制作アドバイザー",
+      "startDate": "2026-04",
+      "endDate": "2026-07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The Graduate University for Advanced Studies",
+      "company": "The Graduate University for Advanced Studies",
+      "position": "オープンアクセス加速化事業システム開発アドバイザー",
+      "startDate": "2024-12",
+      "endDate": "2025-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "研究DX部門員, DX本部",
+      "startDate": "2022-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "毎日新聞社",
+      "company": "毎日新聞社",
+      "position": "特別顧問, 戦中写真アーカイブ委員会",
+      "startDate": "2022-01",
+      "endDate": "2026-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The University of Tokyo",
+      "company": "The University of Tokyo",
+      "position": "Fellow, Humanities Center",
+      "startDate": "2022",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "デジタル・アーカイブ更新事業協力者, 文書館",
+      "startDate": "2021-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Tokyo University of Foreign Studies",
+      "company": "Tokyo University of Foreign Studies",
+      "position": "共同研究員, Research Institute for Languages and Cultures of Asia and Africa",
+      "startDate": "2021-02",
+      "endDate": "2029-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The Toyo Bunko",
+      "company": "The Toyo Bunko",
+      "position": "研究協力者, 総合アジア圏域研究班研究データベース 共同研究グループ",
+      "startDate": "2020-12",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "National Museum of Japanese History",
+      "company": "National Museum of Japanese History",
+      "position": "共同研究員",
+      "startDate": "2020-11",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The University of Tokyo",
+      "company": "The University of Tokyo",
+      "position": "Assistant Professor, Historiographical Institute",
+      "startDate": "2020-07",
+      "endDate": "2026-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Tokyo University of Foreign Studies",
+      "company": "Tokyo University of Foreign Studies",
+      "position": "Joint Researcher, Research Institute for Languages and Cultures of Asia and Africa",
+      "startDate": "2020-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "National Diet Library",
+      "company": "National Diet Library",
+      "position": "Part-time investigator",
+      "startDate": "2019-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "データ科学専門委員会, 情報基盤センター",
+      "startDate": "2017-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "学術資産アーカイブ化推進室員, 学術資産等アーカイブズ委員会",
+      "startDate": "2017-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The University of Tokyo",
+      "company": "The University of Tokyo",
+      "position": "Assistant Professor, Information Technology Center",
+      "startDate": "2017-04",
+      "endDate": "2020-06",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Tokyo, Graduate School of Frontier Sciences",
+      "area": "Department of Human and Engineered Environment Studies",
+      "studyType": "",
+      "startDate": "2014-04",
+      "endDate": "2017-03"
+    },
+    {
+      "institution": "The University of Tokyo, Graduate School of Frontier Sciences",
+      "area": "Department of Human and Engineered Environment Studies",
+      "studyType": "",
+      "startDate": "2012-04",
+      "endDate": "2014-03"
+    },
+    {
+      "institution": "Pacific Gateway International College",
+      "area": "",
+      "studyType": "",
+      "startDate": "2009-09",
+      "endDate": "2010-08"
+    },
+    {
+      "institution": "The University of Tokyo, Faculty of Engineering",
+      "area": "Department of Systems innovation",
+      "studyType": "",
+      "startDate": "2009-04",
+      "endDate": "2012-03"
+    },
+    {
+      "institution": "The University of Tokyo, College of Arts and Sciences",
+      "area": "",
+      "studyType": "",
+      "startDate": "2007-04",
+      "endDate": "2009-03"
+    },
+    {
+      "institution": "Tokyo Metropolitan Tachikawa High School",
+      "area": "",
+      "studyType": "",
+      "startDate": "2004-04",
+      "endDate": "2007-03"
+    }
+  ],
+  "awards": [
+    {
+      "title": "DAPCON産業賞2025",
+      "date": "2026-03",
+      "awarder": "デジタルアーカイブ推進コンソーシアム",
+      "summary": "Cultural Japan"
+    },
+    {
+      "title": "Linked Open Data チャレンジ Japan 2025 IIJ賞",
+      "date": "2026-02",
+      "awarder": "株式会社インターネットイニシアティブ",
+      "summary": "OdGenji：源氏物語の香りDB"
+    },
+    {
+      "title": "Linked Open Data チャレンジ Japan 2025 データ作成部門 優秀賞",
+      "date": "2026-02",
+      "awarder": "Linked Open Data チャレンジ 2025 実行委員会",
+      "summary": "OdGenji：源氏物語の香りDB"
+    },
+    {
+      "title": "第7回デジタルアーカイブ学会賞・学術賞（著書）",
+      "date": "2026-01",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "デジタル時代のコレクション論"
+    },
+    {
+      "title": "第7回デジタルアーカイブ学会賞・学術賞（研究論文）最優秀賞",
+      "date": "2026-01",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "デジタル資料の長期保存のためのOAIS参照モデルによる情報パッケージの作成：東京大学史料編纂所を事例に"
+    },
+    {
+      "title": "デジタルアーカイブジャパン・アワード（DAJアワード）2025",
+      "date": "2025-08",
+      "awarder": "デジタルアーカイブジャパン推進委員会実務者検討委員会",
+      "summary": "デジタル源氏物語"
+    },
+    {
+      "title": "じんもんこん2024「優秀論文賞」",
+      "date": "2025-02",
+      "awarder": "情報処理学会 (IPSJ) 人文科学とコンピュータ研究会 (SIG-CH)",
+      "summary": "荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用"
+    },
+    {
+      "title": "ベストポスター賞",
+      "date": "2024-12",
+      "awarder": "人文科学とコンピュータシンポジウム「じんもんこん2024」",
+      "summary": "TEIによる編纂史料の構造化ー『大日本史料』を例に"
+    },
+    {
+      "title": "Linked Open Data Challenge 2024 学術LOD賞",
+      "date": "2024-11",
+      "awarder": "",
+      "summary": "nihuBridge LOD; 荘園関係DB LOD"
+    },
+    {
+      "title": "第6回デジタルアーカイブ学会賞・実践賞",
+      "date": "2024-11",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": ""
+    },
+    {
+      "title": "デジタルアーカイブジャパン・アワード（DAJアワード）2024",
+      "date": "2024-08",
+      "awarder": "デジタルアーカイブジャパン推進委員会実務者検討委員会",
+      "summary": "東京大学デジタルアーカイブポータル"
+    },
+    {
+      "title": "第59回国立大学図書館協会賞",
+      "date": "2024-06",
+      "awarder": "国立大学図書館協会",
+      "summary": "デジタル源氏物語：研究者との連携による「源氏物語」研究プラットフォームの構築"
+    },
+    {
+      "title": "Linked Open Data Challenge 2023 優秀賞（データ作成部門）",
+      "date": "2023-11",
+      "awarder": "Linked Open Data チャレンジ 2023 実行委員会",
+      "summary": "S×UKILAM（スキラム）教育メタデータLOD"
+    },
+    {
+      "title": "学術賞（著書)",
+      "date": "2022-11",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "自然史・理工系研究データの活用（デジタルアーカイブ・ベーシックス3）."
+    },
+    {
+      "title": "IPSJ Yamashita SIG Research Award",
+      "date": "2022-07",
+      "awarder": "Information Processing Society of Japan",
+      "summary": "デジタル源氏物語（AI画像検索版）：くずし字OCRと編集距離を用いた写本・版本の比較支援システムの開発"
+    },
+    {
+      "title": "第3回学会賞",
+      "date": "2021-04",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "実践賞"
+    },
+    {
+      "title": "第3回学会賞",
+      "date": "2021-04",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "実践賞"
+    },
+    {
+      "title": "第3回学会賞",
+      "date": "2021-04",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "実践賞"
+    },
+    {
+      "title": "学生奨励賞",
+      "date": "2019-12",
+      "awarder": "情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2019」",
+      "summary": "構造化記述された財務記録史料データの分析手法の開発：イギリスの船舶解体業を事例に"
+    },
+    {
+      "title": "学生奨励賞",
+      "date": "2018-05",
+      "awarder": "情報処理学会 人文科学とコンピュータ研究会",
+      "summary": "歴史研究者・アーキビスト・エンジニアの学際的協働に基づくコミュニティ構築：Tokyo Digital Historyを事例に"
+    },
+    {
+      "title": "The Scholarship award of Japan Society of Naval Architects and Ocean Engineers",
+      "date": "2014-03",
+      "awarder": "Japan Society of Naval Architects and Ocean Engineers",
+      "summary": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築",
+      "startDate": "2026-04",
+      "endDate": "2029-03",
+      "description": "共同利用・共同研究課題",
+      "entity": "東京外国語大学アジア・アフリカ言語文化研究所"
+    },
+    {
+      "name": "外見描写と内面評価の相関性史―創発的・学際的協働研究",
+      "startDate": "2025-06",
+      "endDate": "2028-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "Creating AI-based methods for handwriting analysis of Chinese woodslips",
+      "startDate": "2025-04-01",
+      "endDate": "2029-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Establishment of a Buddhist Texts Digital Library Hub by Integrating Bibliography and Digital Archiving",
+      "startDate": "2025-04",
+      "endDate": "2030-03",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "中世⽇本禅宗史料の学術資源化とその応⽤研究",
+      "startDate": "2025-04",
+      "endDate": "2030-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "TEIを中心とした高度な歴史テキスト構築",
+      "startDate": "2025-04",
+      "endDate": "2030-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "言語データ連結システムの開発と古代エジプトの文学語を対象とした言語記述の実践",
+      "startDate": "2025-04",
+      "endDate": "2028-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "Establishment of the Japan Islands Memory Inheritance Model based on Historical Data Sensing",
+      "startDate": "2024-04-01",
+      "endDate": "2029-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "『エミール』関連手稿群の分析にもとづくルソーの道徳思想形成に関する文献学的研究",
+      "startDate": "2024-04-01",
+      "endDate": "2028-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み",
+      "startDate": "2023-09",
+      "endDate": "2025-03",
+      "description": "AI等の活用を推進する研究データエコシステム構築事業",
+      "entity": "国立情報学研究所"
+    },
+    {
+      "name": "大型絵図類のデータ構造化と関連史料の連携による南西諸島「海上の道」の復元的研究",
+      "startDate": "2023-04-01",
+      "endDate": "2027-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons",
+      "startDate": "2023-04-01",
+      "endDate": "2026-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons",
+      "startDate": "2023-04-01",
+      "endDate": "2026-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践",
+      "startDate": "2023-04",
+      "endDate": "2026-03",
+      "description": "共同利用・共同研究課題",
+      "entity": "東京外国語大学アジア・アフリカ言語文化研究所"
+    },
+    {
+      "name": "Comprehensive research on \"Shoen-ezu\" survey and analysis methods and applied research on general-purpose historical geographic information",
+      "startDate": "2022-04-01",
+      "endDate": "2027-03-31",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Design of a storytelling digital archive using prewar and wartime news photographs",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "科学研究費助成事業 基盤研究(B)",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "Construction of a network connecting 'people' and 'data' to promote the educational use of diverse digital cultural resources",
+      "startDate": "2022-04",
+      "endDate": "2023-03",
+      "description": "公募型共同研究（自由提案公募型）",
+      "entity": "National Institute of Informatics"
+    },
+    {
+      "name": "Establishment of a philological research platform for Chinese Buddhist Canons: Utilization and expansion of the Original and Collated Texts Database of the Taisho Shinshu Daizokyo",
+      "startDate": "2021-04-05",
+      "endDate": "2026-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "断片的史料情報の集積と歴史知識情報の相互参照体制の確立による新たな史料学構築研究",
+      "startDate": "2021-04-05",
+      "endDate": "2026-03-31",
+      "description": "科学研究費助成事業 基盤研究(A)",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature.",
+      "startDate": "2021-04-01",
+      "endDate": "2026-03-31",
+      "description": "Grants-in-Aid for Scientific Research",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature.",
+      "startDate": "2021-04-01",
+      "endDate": "2026-03-31",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "古代エジプト神官文字写本の地域差を含めた言語記述とⅢF検索プラットフォームの構築",
+      "startDate": "2021-04-01",
+      "endDate": "2024-03-31",
+      "description": "科学研究費助成事業 基盤研究(C)",
+      "entity": "日本学術振興会"
+    },
+    {
+      "name": "Development of a Method for Constructing Digital Archive Systems Considering Sustainability and Utilization",
+      "startDate": "2021-04-01",
+      "endDate": "2024-03-31",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "A Study of Contextual Data Packaging for Humanities",
+      "startDate": "2020-04",
+      "endDate": "2025-03",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "A Study of punishment in early modern China",
+      "startDate": "2019-04",
+      "endDate": "2022-03",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (C)",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Development of Online Transcription System with IIIF and TEI",
+      "startDate": "2019-04",
+      "endDate": "2021-03",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Development of Integrated Knowledge through Establishment of an Interactive Research Scheme based on the Open-Data of Research Resources for Wooden Tablets and Related Topics",
+      "startDate": "2018-06-11",
+      "endDate": "2023-03-31",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (S)",
+      "entity": "Japan Society for the Promotion of Science"
+    },
+    {
+      "name": "Development of information sharing system using linguistic description of ancient Egyptian hieroglyphic inscriptions and IIIF images",
+      "startDate": "2018-04",
+      "endDate": "2021-03",
+      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (C)",
+      "entity": "Japan Society for the Promotion of Science"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "評議員",
+      "startDate": "2026-04",
+      "endDate": "2029-03"
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "第10回研究大会実行委員",
+      "startDate": "2025-04",
+      "endDate": "2026-03"
+    },
+    {
+      "organization": "第14回日本デジタル・ヒューマニティーズ学会年次大会（JADH）",
+      "position": "プログラム委員長",
+      "startDate": "2024-10",
+      "endDate": "2025-09"
+    },
+    {
+      "organization": "日本学術振興会",
+      "position": "人文学・社会科学データインフラストラクチャー強化事業 人文学部門担当責任者",
+      "startDate": "2023-10",
+      "endDate": ""
+    },
+    {
+      "organization": "第13回日本デジタル・ヒューマニティーズ学会年次大会（JADH）",
+      "position": "プログラム委員長",
+      "startDate": "2023-10",
+      "endDate": "2024-09"
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "人材養成・活用検討委員会",
+      "startDate": "2021-04",
+      "endDate": ""
+    },
+    {
+      "organization": "情報処理学会 人文科学とコンピュータ研究会",
+      "position": "運営委員",
+      "startDate": "2021-04",
+      "endDate": ""
+    },
+    {
+      "organization": "情報処理学会 人文科学とコンピュータ研究会",
+      "position": "幹事",
+      "startDate": "2021-04",
+      "endDate": "2023-03"
+    },
+    {
+      "organization": "情報処理学会 人文科学とコンピュータ研究会 シンポジウム 2021",
+      "position": "実行委員",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "organization": "第11回日本デジタル・ヒューマニティーズ学会年次大会（JADH）",
+      "position": "実行委員",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "organization": "日本学術振興会",
+      "position": "人文学・社会科学データインフラストラクチャー構築推進事業 実務者",
+      "startDate": "2020-07",
+      "endDate": "2023-03"
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "第4回研究大会実行委員",
+      "startDate": "2019-04",
+      "endDate": "2020"
+    },
+    {
+      "organization": "Conference of Japanese Association for Digital Humanities",
+      "position": "Program Committee",
+      "startDate": "2018-10",
+      "endDate": ""
+    },
+    {
+      "organization": "26th ISTE International Conference on Transdisciplinary Engineering",
+      "position": "Conference Co-Chair",
+      "startDate": "2018-09",
+      "endDate": "2019-08"
+    },
+    {
+      "organization": "Text Encoding Initiative",
+      "position": "East Asian/Japanese Special Interest Group Steering Committee",
+      "startDate": "2018-06",
+      "endDate": ""
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "学会誌編集委員",
+      "startDate": "2018-04",
+      "endDate": ""
+    },
+    {
+      "organization": "Code4Lib JAPAN",
+      "position": "Conference Program Committee",
+      "startDate": "2018-04",
+      "endDate": "2021-09"
+    }
+  ],
+  "publications": [],
+  "skills": []
+}

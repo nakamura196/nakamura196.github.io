@@ -1,0 +1,14 @@
+---
+title: "Software"
+layout: archive
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>A selection of my open-source projects, ranked by GitHub stars. The full list is on my <a href="https://github.com/nakamura196" target="_blank">GitHub profile</a>.</p>
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
