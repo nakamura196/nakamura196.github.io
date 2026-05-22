@@ -22,7 +22,7 @@ repository               : "nakamura196/nakamura196.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/nakamura196.png"
+  avatar           : "profile.jpg"
   name             : "Satoru Nakamura / 中村 覚"
   pronouns         : # example: "she/her"
   bio              : "Associate Professor, Historiographical Institute, The University of Tokyo. Building open-source software for digital humanities."
