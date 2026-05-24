@@ -1,6 +1,6 @@
 ---
 title: "iiif_geo"
-excerpt: "IIIF Viewer with IIIF Georeference Extension<br/><small>★ 5 · CSS</small>"
+excerpt: "IIIF Viewer with IIIF Georeference Extension<br/><small>★ 5 · Vue</small>"
 collection: "portfolio"
 link: "https://github.com/nakamura196/iiif_geo"
 ---
