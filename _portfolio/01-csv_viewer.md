@@ -1,6 +1,6 @@
 ---
 title: "csv_viewer"
-excerpt: "A simple, responsive web-based CSV viewer that supports URL-based CSV loading<br/><small>★ 5</small>"
+excerpt: "A simple, responsive web-based CSV viewer that supports URL-based CSV loading<br/><small>★ 6</small>"
 collection: "portfolio"
 link: "https://github.com/nakamura196/csv_viewer"
 ---
