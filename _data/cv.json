@@ -3,7 +3,7 @@
     "name": "Satoru Nakamura",
     "email": "",
     "website": "https://nakamura196.github.io",
-    "summary": "Associate Professor at The University of Tokyo.",
+    "summary": "Associate Professor at The University of British Columbia.",
     "location": {
       "city": "Tokyo",
       "countryCode": "JP",
@@ -33,6 +33,15 @@
     ]
   },
   "work": [
+    {
+      "name": "The University of British Columbia",
+      "company": "The University of British Columbia",
+      "position": "Visiting Faculty Member, Department of Electrical and Computer Engineering, Faculty of Applied Science",
+      "startDate": "2026-08",
+      "endDate": "2027-08",
+      "summary": "",
+      "highlights": []
+    },
     {
       "name": "The University of Tokyo",
       "company": "The University of Tokyo",
@@ -88,24 +97,6 @@
       "highlights": []
     },
     {
-      "name": "東京大学",
-      "company": "東京大学",
-      "position": "デジタル・アーカイブ更新事業協力者, 文書館",
-      "startDate": "2021-04",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Tokyo University of Foreign Studies",
-      "company": "Tokyo University of Foreign Studies",
-      "position": "共同研究員, Research Institute for Languages and Cultures of Asia and Africa",
-      "startDate": "2021-02",
-      "endDate": "2029-03",
-      "summary": "",
-      "highlights": []
-    },
-    {
       "name": "The Toyo Bunko",
       "company": "The Toyo Bunko",
       "position": "研究協力者, 総合アジア圏域研究班研究データベース 共同研究グループ",
@@ -146,25 +137,7 @@
       "company": "National Diet Library",
       "position": "Part-time investigator",
       "startDate": "2019-04",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "東京大学",
-      "company": "東京大学",
-      "position": "データ科学専門委員会, 情報基盤センター",
-      "startDate": "2017-04",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "東京大学",
-      "company": "東京大学",
-      "position": "学術資産アーカイブ化推進室員, 学術資産等アーカイブズ委員会",
-      "startDate": "2017-04",
-      "endDate": "",
+      "endDate": "2026-07",
       "summary": "",
       "highlights": []
     },
@@ -601,6 +574,12 @@
       "endDate": "2024-09"
     },
     {
+      "organization": "東京大学文書館",
+      "position": "デジタル・アーカイブ更新事業協力者",
+      "startDate": "2021-04",
+      "endDate": ""
+    },
+    {
       "organization": "デジタルアーカイブ学会",
       "position": "人材養成・活用検討委員会",
       "startDate": "2021-04",
@@ -671,6 +650,18 @@
       "position": "Conference Program Committee",
       "startDate": "2018-04",
       "endDate": "2021-09"
+    },
+    {
+      "organization": "東京大学情報基盤センター",
+      "position": "データ科学専門委員会 委員",
+      "startDate": "2017-04",
+      "endDate": ""
+    },
+    {
+      "organization": "東京大学",
+      "position": "学術資産等アーカイブズ委員会 学術資産アーカイブ化推進室員",
+      "startDate": "2017-04",
+      "endDate": ""
     }
   ],
   "publications": [],
