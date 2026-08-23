@@ -36,6 +36,12 @@ Most of my tools are open source and built around IIIF and Linked Data. A few st
 
 See my [GitHub profile](https://github.com/nakamura196) for the full list, and the [Publications](/publications/) and [Talks](/talks/) pages for my academic output.
 
+## Writing
+
+I write up the technical side of this work — IIIF, TEI, OCR, and digital archive
+infrastructure — at [ldas.jp](https://ldas.jp/), a bilingual (Japanese / English)
+technical blog with around 1,100 articles.
+
 ---
 
 ## 日本語
@@ -44,4 +50,4 @@ See my [GitHub profile](https://github.com/nakamura196) for the full list, and t
 
 **IIIF**・**Linked Open Data**・**TEI**・**デジタルアーカイブ** を軸に、画像・テキスト・メタデータをつなぎ、歴史資料の発見可能性と再利用性を高めることに取り組んでいます。研究者が自分の史料をより使いやすくするための「道具」を作ることに関心があります。
 
-業績の一覧は [researchmap](https://researchmap.jp/nakamura.satoru)、ソフトウェアは [GitHub](https://github.com/nakamura196) をご覧ください。
+業績の一覧は [researchmap](https://researchmap.jp/nakamura.satoru)、ソフトウェアは [GitHub](https://github.com/nakamura196) をご覧ください。技術的な記事は [ldas.jp](https://ldas.jp/ja/) に公開しています。
