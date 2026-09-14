@@ -36,6 +36,8 @@ PROFILE = {
     "orcid": "https://orcid.org/0000-0001-8245-7925",
     "github": "nakamura196",
     "googlescholar": "https://scholar.google.com/citations?user=gbuswBEAAAAJ",
+    "semanticscholar": "https://www.semanticscholar.org/author/2111225943",
+    "dblp": "https://dblp.org/pid/51/6055.html",
 }
 
 
@@ -323,19 +325,18 @@ def gen_cv():
             "summary": f"Associate Professor at {current}.",
             "location": {"city": "Tokyo", "countryCode": "JP", "region": ""},
             "profiles": [
-                {"network": "ORCID", "username": "", "url": PROFILE["orcid"]},
-                {"network": "Google Scholar", "username": "",
-                 "url": PROFILE["googlescholar"]},
-                {"network": "GitHub", "username": PROFILE["github"],
-                 "url": f"https://github.com/{PROFILE['github']}"},
-                {"network": "researchmap", "username": PERMALINK,
-                 "url": f"https://researchmap.jp/{PERMALINK}"},
-            ] if PROFILE["googlescholar"] else [
-                {"network": "ORCID", "username": "", "url": PROFILE["orcid"]},
-                {"network": "GitHub", "username": PROFILE["github"],
-                 "url": f"https://github.com/{PROFILE['github']}"},
-                {"network": "researchmap", "username": PERMALINK,
-                 "url": f"https://researchmap.jp/{PERMALINK}"},
+                p for p in [
+                    {"network": "ORCID", "username": "", "url": PROFILE["orcid"]},
+                    {"network": "Google Scholar", "username": "",
+                     "url": PROFILE["googlescholar"]},
+                    {"network": "Semantic Scholar", "username": "",
+                     "url": PROFILE["semanticscholar"]},
+                    {"network": "DBLP", "username": "", "url": PROFILE["dblp"]},
+                    {"network": "GitHub", "username": PROFILE["github"],
+                     "url": f"https://github.com/{PROFILE['github']}"},
+                    {"network": "researchmap", "username": PERMALINK,
+                     "url": f"https://researchmap.jp/{PERMALINK}"},
+                ] if p["url"]
             ],
         },
         "work": work,

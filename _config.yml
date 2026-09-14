@@ -38,7 +38,8 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8245-7925"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/2111225943"
+  dblp             : "https://dblp.org/pid/51/6055.html"
   ssrn             : # URL
   pubmed           : #
   researchgate     : # URL
