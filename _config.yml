@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Satoru Nakamura / 中村 覚"
   pronouns         : # example: "she/her"
-  bio              : "Associate Professor, Historiographical Institute, The University of Tokyo. Building open-source software for digital humanities."
+  bio              : "Associate Professor, The University of Tokyo. Building open-source software for digital humanities."
   location         : "Tokyo, Japan"
   employer         : "The University of Tokyo"
   uri              : "https://ldas.jp/"  # technical blog
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nakamura196"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -178,6 +178,8 @@ exclude:
   - assets/js/vendor
   - CHANGELOG
   - Capfile
+  - master
+  - build
   - config
   - Dockerfile
   - Gemfile

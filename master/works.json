@@ -1,0 +1,3266 @@
+[
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/53693694",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "53693694",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-05-19T03:15:38Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-05-19T03:19:45Z",
+    "work_title": {
+      "ja": "TEI Tools（DOCX→TEI/XML変換・TEI/XMLビューワ）",
+      "en": "TEI Tools (DOCX to TEI/XML Converter and TEI/XML Viewer)"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-04",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "50040755"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://toyo-bunko.github.io/tei-tools/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/53693694.jpg",
+    "x-thumbnail-source": "og:image"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/52984791",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "52984791",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-03-19T07:19:35Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-03-19T07:19:35Z",
+    "work_title": {
+      "ja": "デジタル水滸伝",
+      "en": "Digital Suikoden"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://uparl-suikoden.vercel.app/",
+        "is_downloadable": false,
+        "label": "url"
+      }
+    ],
+    "x-thumbnail": "/images/works/52984791.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/52982867",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "52982867",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-03-19T04:54:07Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-03-19T06:43:22Z",
+    "work_title": {
+      "ja": "TEI/XML 3Dモデル（IIIF）ビューア",
+      "en": "TEI/XML 3D Model (IIIF) Viewer"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "50040755"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://25-h01244.vercel.app/tei-3d-viewer",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/52982867.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/52982866",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "52982866",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-03-19T04:54:07Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-03-19T06:43:12Z",
+    "work_title": {
+      "ja": "科研費「TEIを中心とした高度な歴史テキスト構築」成果ツール公開サイト",
+      "en": "KAKENHI \"Advanced Historical Text Construction Centered on TEI\" Tools Website"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "50040755"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://25-h01244.vercel.app/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/52982866.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433830",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433830",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:42:44Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-04-13T02:09:25Z",
+    "work_title": {
+      "ja": "Digital Cultural Heritage"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学大学院情報学環附属社会情報研究資料センター"
+        }
+      ]
+    },
+    "from_date": "2024-03-19",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "39508593"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/46433830.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433855",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433855",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:46:23Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:46:23Z",
+    "work_title": {
+      "ja": "TEI Genetic Editions Viewer"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "飯田賢穂"
+        },
+        {
+          "name": "中村覚"
+        },
+        {
+          "name": "淵田仁"
+        }
+      ]
+    },
+    "from_date": "2023-12-03",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://timeline-ashen.vercel.app/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433855.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433835",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433835",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:43:35Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:43:35Z",
+    "work_title": {
+      "ja": "S×UKILAM LOD Easy アプリ"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "大井将生"
+        },
+        {
+          "name": "中村覚"
+        }
+      ]
+    },
+    "from_date": "2023-10-11",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://sukilam-educational-metadata.vercel.app/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433835.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433783",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433783",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:40:03Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:40:21Z",
+    "work_title": {
+      "ja": "都城島津邸所蔵「琉球并諸島図」デジタルアーカイブ"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学史料編纂所"
+        }
+      ]
+    },
+    "from_date": "2023-09-20",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/ryukyu_miyakonojo/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433783.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433791",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433791",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:41:06Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:41:26Z",
+    "work_title": {
+      "ja": "日本史用語翻訳グロッサリー・データベース"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学史料編纂所"
+        }
+      ]
+    },
+    "from_date": "2023-08-21",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/glossary/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433791.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433780",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433780",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:39:10Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:39:10Z",
+    "work_title": {
+      "ja": "策彦周良文集"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学史料編纂所"
+        }
+      ]
+    },
+    "from_date": "2023-03-31",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/sakugenbunshu/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433780.jpg",
+    "x-thumbnail-source": "og:image"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433775",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433775",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:38:22Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:38:22Z",
+    "work_title": {
+      "ja": "ゲーテ自署付書簡テキストデータ（TEI準拠）"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学総合図書館"
+        }
+      ]
+    },
+    "from_date": "2023-03-14",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://utda.github.io/goethe/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433775.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433769",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433769",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:36:30Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:36:59Z",
+    "work_title": {
+      "ja": "浄土真宗聖典オンライン検索システム"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "浄土真宗本願寺派総合研究所"
+        }
+      ]
+    },
+    "from_date": "2022-12-16",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://j-soken.net/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433769.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433763",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "46433763",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-05-09T10:34:36Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T10:36:47Z",
+    "work_title": {
+      "ja": "電子展示『捃拾帖』（拡張版）"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学総合図書館"
+        }
+      ]
+    },
+    "from_date": "2022-08-31",
+    "to_date": "9999",
+    "see_also": [
+      {
+        "@id": "https://kunshujo-i.dl.itc.u-tokyo.ac.jp/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/46433763.jpg",
+    "x-thumbnail-source": "og:image"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900480",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T02:44:35Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-03-19T06:35:36Z",
+    "work_title": {
+      "ja": "デジタル延喜式"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "国立歴史民俗博物館"
+        }
+      ]
+    },
+    "from_date": "2022-04-20",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239",
+        "13226485",
+        "50040755"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://khirin-t.rekihaku.ac.jp/engishiki/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900480.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900489",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900489",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T02:46:21Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T03:04:05Z",
+    "work_title": {
+      "ja": "倭寇図巻デジタルアーカイブ"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学史料編纂所"
+        }
+      ]
+    },
+    "from_date": "2021-12-03",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239",
+        "13226485"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900489.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900486",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900486",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T02:45:43Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T02:54:34Z",
+    "work_title": {
+      "ja": "正保琉球国絵図デジタルアーカイブ"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学史料編纂所"
+        }
+      ]
+    },
+    "from_date": "2021-12-03",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900486.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900498",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900498",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T02:47:48Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T02:54:26Z",
+    "work_title": {
+      "ja": "東洋文庫水経注図データベース"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東洋文庫"
+        }
+      ]
+    },
+    "from_date": "2021-11-10",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://static.toyobunko-lab.jp/suikeichuzu/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900498.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900748",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900748",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T03:11:07Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T03:11:07Z",
+    "work_title": {
+      "ja": "酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東洋文庫"
+        }
+      ]
+    },
+    "from_date": "2021-07-06",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "13226485"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://static.toyobunko-lab.jp/u-renja/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900748.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900746",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900746",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T03:10:16Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T03:10:16Z",
+    "work_title": {
+      "ja": "『大正新脩大蔵経』底本・校本データベース"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東洋文庫"
+        }
+      ]
+    },
+    "from_date": "2021-07-06",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://static.toyobunko-lab.jp/taishozo/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900746.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900545",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900545",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T02:52:12Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T02:54:41Z",
+    "work_title": {
+      "ja": "デジタル源氏物語（AI画像検索版）"
+    },
+    "from_date": "2021-04-27",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239",
+        "13226485"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://genji-ai.web.app/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900545.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900554",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900554",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T02:53:58Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T02:54:53Z",
+    "work_title": {
+      "ja": "渋沢栄一ダイアリー"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "渋沢栄一記念財団"
+        }
+      ]
+    },
+    "from_date": "2021-04-23",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239",
+        "13226485"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://shibusawa-dlab.github.io/app1/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900554.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900540",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "36900540",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-05-06T02:50:51Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-05-06T02:55:03Z",
+    "work_title": {
+      "ja": "デジタル源氏物語"
+    },
+    "from_date": "2019-11-29",
+    "to_date": "9999",
+    "identifiers": {
+      "rm:research_project_id": [
+        "32708239",
+        "13226485"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://genji.dl.itc.u-tokyo.ac.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+        "label": "rm:research_project_id"
+      }
+    ],
+    "x-thumbnail": "/images/works/36900540.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/24601597",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "24601597",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2020-02-25T00:46:36Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2020-02-25T00:46:36Z",
+    "work_title": {
+      "ja": "電子展示『捃拾帖』"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学学術資産アーカイブ化推進室"
+        }
+      ]
+    },
+    "work_type": "database",
+    "from_date": "2019-01-16",
+    "to_date": "9999",
+    "description": {
+      "ja": "明治時代の博物学者である田中芳男が収集した、幕末から大正時代にかけてのパンフレットや商品ラベルなどを貼り込んだ膨大なスクラップブックである『捃拾帖』の内容検索を可能としたシステム。東京大学史料編纂所で作成された書誌データと、東京大学デジタルアーカイブズ構築事業でデジタル化した画像データをIIIF Curation Platformを用いて統合させることにより、『捃拾帖』(第1帖から第18帖)に貼り込まれた資料（以下、貼り込み資料）1点ごとの年代や内容に基づく資料検索を可能とした。その他、「歴史地名データ」を用いた地図へのマッピングや、深層学習を用いた貼り込み資料の自動抽出などにも取り組んでいる。本システムは静的サイトとして構築し、GitHub Pagesを用いて公開している。これにより、サーバ管理などの運用コストを下げ、長期的に運用可能なシステムを目指している。"
+    },
+    "see_also": [
+      {
+        "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/24601597.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330241",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "6330241",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2018-02-18T06:43:35Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2020-02-25T01:34:13Z",
+    "work_title": {
+      "ja": "東京大学学術資産等アーカイブズプラットフォーム",
+      "en": "UTokyo Academic Archives Platform"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "東京大学学術資産アーカイブ化推進室"
+        }
+      ]
+    },
+    "creators_text": {
+      "ja": "中村 覚",
+      "en": "Nakamura Satoru"
+    },
+    "work_type": "database",
+    "from_date": "2017-12",
+    "to_date": "9999",
+    "description": {
+      "ja": "「東京大学が保持する学術資産のアーカイブを構築し、その公開と活用を促進することで、学術の多様性を支える基盤を強化する」ことを目的とした東京大学デジタルアーカイブズ構築事業において、画像等の公開と学術資産の発見可能性の向上、データの利活用促進を支援するシステム群の総称。学内の学術資産デジタル化に関連するウェブサイトをまとめた「リンク集」、東京大学内の各部局等でデジタル公開されている資料のメタデータを集積し資料単位での横断検索を可能とする「ポータル」、デジタルアーカイブシステムの構築・運用が困難な部局等に対する公開支援を行う「共用サーバ」、の3つのシステムから構成され、これらのシステムの設計、開発、運用に関わっている。\n特に「ポータル」については、システムの設計、プロトタイプの開発、仕様書の作成、業者との開発を担当した。また「共用サーバ」については、システムの設計、開発、導入、運用を担当し、IIIFやTEI、LODなどのデータの利活用を支援するための国際標準規格、OmekaをはじめとするDH関連のオープンソースソフトウェアを積極的に採用している。"
+    },
+    "see_also": [
+      {
+        "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/overview",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/6330241.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330239",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "6330239",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2018-02-18T06:36:44Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2020-02-25T00:47:11Z",
+    "work_title": {
+      "ja": "明るい低炭素社会の実現に向けた都市変革プログラム 社会実験事例データベース"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "creators_text": {
+      "ja": "中村 覚"
+    },
+    "work_type": "database",
+    "from_date": "2015-03",
+    "to_date": "9999",
+    "location": {
+      "ja": "東京大学"
+    },
+    "see_also": [
+      {
+        "@id": "https://low-carbon-k.github.io/sedb/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/6330239.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330237",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "6330237",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2018-02-18T05:58:13Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2020-02-25T00:16:20Z",
+    "work_title": {
+      "ja": "平賀譲デジタルアーカイブ",
+      "en": "Yuzuru Hiraga Digital Archive"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村 覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Nakamura Satoru"
+        }
+      ]
+    },
+    "creators_text": {
+      "ja": "中村 覚",
+      "en": "Nakamura Satoru"
+    },
+    "work_type": "database",
+    "from_date": "2014-10-10",
+    "to_date": "2019-06-14",
+    "description": {
+      "ja": "海軍造船官であった故平賀譲（ひらが・ゆずる：海軍造船中将・第13代東京帝国大学総長）の遺した艦艇計画・建造関係の技術資料を中心とする資料を公開するデジタルアーカイブ。2014年5月にセキュリティ上の問題のため一旦閉鎖したが、ソフトウェアを全面的に改定することでセキュリティ問題を解決し、2014年10月10日に再公開した。この時のシステム構築、およびその後の運用とシステムリプレイス（Omeka Classicの利用）を担当した。2019年6月14日からは「東京大学学術資産等アーカイブズ共用サーバ」上での公開に移行した。"
+    },
+    "see_also": [
+      {
+        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/6330237.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330238",
+    "@type": "works",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/works",
+    "rm:id": "6330238",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2018-02-18T05:58:59Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2020-02-25T00:48:27Z",
+    "work_title": {
+      "ja": "東京大学柏図書館「第11回」企画展示 ふね遺産『平賀譲文書』"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ]
+    },
+    "creators_text": {
+      "ja": "中村覚"
+    },
+    "work_type": "artistic_activity",
+    "from_date": "2017-12",
+    "to_date": "2018-12",
+    "see_also": [
+      {
+        "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/kashiwa/news/20171218",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-thumbnail": "/images/works/6330238.jpg",
+    "x-thumbnail-source": "og:image"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "バンクーバーの遊び場",
+      "en": "Vancouver Playgrounds"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-10",
+    "to_date": "9999",
+    "description": {
+      "ja": "バンクーバー市の公園にある遊び場を、遊具の種類から探せるようにする記録。市のオープンデータにある公園を地図と一覧で示し、現地で撮った遊具の写真を Wikimedia Commons に置いて IIIF で見せる。遊具の語彙を SKOS で公開している。",
+      "en": "A record of playgrounds in Vancouver's parks, made searchable by type of play equipment. Parks from the City's open data are shown on a map and in a list; photos taken on site are kept on Wikimedia Commons and shown through IIIF. The equipment vocabulary is published in SKOS."
+    },
+    "see_also": [
+      {
+        "@id": "https://play.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://play.ldas.jp/en/",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-playgrounds",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: playgrounds)",
+    "x-thumbnail": "/images/works/ldas-playgrounds.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "モリソンパンフレット統合データベース",
+      "en": "Morrison Pamphlets Integrated Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-10",
+    "to_date": "9999",
+    "description": {
+      "ja": "G.E.モリソンが蒐集した「モリソンパンフレット」の画像データベース。書誌での検索とファセット、本文 OCR の全文検索、IIIF 画像と Mirador での閲覧、TEI/XML・IIIF マニフェスト・DTS による提供に対応。",
+      "en": "Image database of the Morrison Pamphlets collected by G. E. Morrison. Bibliographic search with facets, full-text search over OCR, IIIF images viewable in Mirador, and data delivered as TEI/XML, IIIF manifests and DTS."
+    },
+    "see_also": [
+      {
+        "@id": "https://morrison.toyobunko-lab.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://morrison.toyobunko-lab.jp/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-morrison",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: morrison)",
+    "x-thumbnail": "/images/works/ldas-morrison.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "東洋文庫 漢籍データベース",
+      "en": "Toyo Bunko Chinese Classics Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-10",
+    "to_date": "9999",
+    "description": {
+      "ja": "東洋文庫が所蔵する漢籍（中国古典籍）約10万件の書誌を検索できるデータベース。旧字体・簡体字・拼音での検索、7つのファセット、叢書と収録書目のたどり、一部貴重書の IIIF 画像閲覧に対応。",
+      "en": "Searchable bibliographic records of about 100,000 classical Chinese books held by the Toyo Bunko. Search in traditional or simplified characters and pinyin, seven facets, collectanea and their contents, and IIIF images for some rare books."
+    },
+    "see_also": [
+      {
+        "@id": "https://kanseki.toyobunko-lab.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://kanseki.toyobunko-lab.jp/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-kanseki",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: kanseki)",
+    "x-thumbnail": "/images/works/ldas-kanseki.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "ヴェラム文書総合データベース（VCDD）",
+      "en": "Vellum Contract Document Database (VCDD)"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-02",
+    "to_date": "9999",
+    "description": {
+      "ja": "モロッコ・フェズで作成された16〜19世紀の羊皮紙契約文書15点について、アラビア語校訂テキスト・英文解題・紫外線撮影の写真を関連づけて公開。文書からも、個々の証書の検索からも、テキストと写真を突き合わせて読める。TEI/XML・DTS・IIIF 対応。",
+      "en": "Fifteen vellum contract documents written in Fes, Morocco, between the 16th and 19th centuries, with edited Arabic texts, English descriptions and ultraviolet photographs linked together. Browse by document or search individual deeds, and read the text against the image. TEI/XML, DTS and IIIF."
+    },
+    "see_also": [
+      {
+        "@id": "https://toyobunko-lab.jp/app/vellum/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://toyobunko-lab.jp/app/vellum/en/",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-vellum",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: vellum)",
+    "x-thumbnail": "/images/works/ldas-vellum.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "疫病年表データベース",
+      "en": "Epidemic Chronology Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-02",
+    "to_date": "9999",
+    "description": {
+      "ja": "19世紀末〜20世紀初の中国の感染症流行に関するデータベース。Medical Reports（海関医報）の疫病年表データを地図上で閲覧できる。",
+      "en": "Infectious disease outbreaks in late 19th- and early 20th-century China, from the epidemic chronology in the Medical Reports of the Chinese Maritime Customs, viewable on a map."
+    },
+    "see_also": [
+      {
+        "@id": "https://toyobunko-lab.jp/app/epidemic/ja/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://toyobunko-lab.jp/app/epidemic/en/",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-epidemic",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: epidemic)",
+    "x-thumbnail": "/images/works/ldas-epidemic.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "東洋文庫 画像公開リポジトリ",
+      "en": "Toyo Bunko Media Repository"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2022-06",
+    "to_date": "9999",
+    "description": {
+      "ja": "東洋文庫の所蔵資料の画像を IIIF で公開するリポジトリ。",
+      "en": "Image repository publishing the Toyo Bunko collection through IIIF."
+    },
+    "see_also": [
+      {
+        "@id": "https://app.toyobunko-lab.jp/s/main/page/home",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-media-repository",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: media-repository)",
+    "x-thumbnail": "/images/works/ldas-media-repository.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "仏典書誌データベース",
+      "en": "Buddhist Texts Bibliographic Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2024-09",
+    "to_date": "9999",
+    "description": {
+      "ja": "仏典の書誌情報と画像を閲覧するためのデータベース。仏典単位でも巻ごとにも調べられ、データセットと IIIF マニフェストを公開している。『大正新脩大蔵経』底本・校本データベースや酉蓮社の嘉興版大蔵経目録とつながる。",
+      "en": "A database for browsing bibliographic records and images of Buddhist texts, searchable by text or by fascicle, with a published dataset and IIIF manifests. Linked with the Taishō Canon base-text database and the Yūren-ja Jiaxing Canon catalogue."
+    },
+    "see_also": [
+      {
+        "@id": "https://toyobunko-lab.jp/butten-shoshi/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://toyobunko-lab.jp/butten-shoshi/en/",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-butten-shoshi",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: butten-shoshi)",
+    "x-thumbnail": "/images/works/ldas-butten-shoshi.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "東洋文庫「大明地理之図」データベース",
+      "en": "Toyo Bunko Daimin Chiri no Zu Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2023-05",
+    "to_date": "9999",
+    "description": {
+      "ja": "東洋文庫が所蔵する江戸時代の写本「大明地理之図」（明代中国の地理を4巻の絵図に描いたもの）の画像を公開し、絵図に書き込まれた地名など3,897件を注釈として付けたデジタルアーカイブ。注釈の検索・詳細検索、現在の地図上での位置の確認、データセットの提供に対応。",
+      "en": "A digital archive of the Daimin Chiri no Zu, an Edo-period manuscript in the Toyo Bunko that maps Ming China in four scrolls. The images carry 3,897 annotations of place names and other writing, which can be searched in detail, located on a present-day map and downloaded as a dataset."
+    },
+    "see_also": [
+      {
+        "@id": "https://toyobunko-lab.jp/app/daiminchiri/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-daiminchiri",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: daiminchiri)",
+    "x-thumbnail": "/images/works/ldas-daiminchiri.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "東京大学デジタルアーカイブポータル",
+      "en": "UTokyo Digital Archive Portal"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2019-06",
+    "to_date": "9999",
+    "description": {
+      "ja": "東京大学の各部局が公開するデジタルアーカイブを横断して検索できるポータル。約28万件の資料を、画像の有無や利用条件で絞り込んで探せる。",
+      "en": "A portal for searching across the digital archives published by departments of the University of Tokyo. About 280,000 items, filterable by whether images are available and by terms of use."
+    },
+    "see_also": [
+      {
+        "@id": "https://da.dl.itc.u-tokyo.ac.jp/portal/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://da.dl.itc.u-tokyo.ac.jp/portal/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-utokyo-portal",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: utokyo-portal)",
+    "x-thumbnail": "/images/works/ldas-utokyo-portal.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "校異源氏物語テキストDB",
+      "en": "Kōi Genji Monogatari Text Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2019-11",
+    "to_date": "9999",
+    "description": {
+      "ja": "『校異源氏物語』のテキストデータをLOD・DTS・IIIF対応で公開するデータベース。TEI/XMLによる構造化テキストを提供。",
+      "en": "Database publishing text data of Kōi Genji Monogatari in LOD, DTS, and IIIF formats with TEI/XML structured text."
+    },
+    "see_also": [
+      {
+        "@id": "https://kouigenjimonogatari.github.io/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-kouigenji",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: kouigenji)",
+    "x-thumbnail": "/images/works/ldas-kouigenji.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Kano Knowledge Portal",
+      "en": "Kano Knowledge Portal"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "狩野亨吉旧蔵書・関係文書統合サイト。東北大学・東京大学・九州大学の図書館が所蔵する資料を横断的に検索・閲覧可能。",
+      "en": "Integrated search portal for Kano Kōkichi's former collection and related documents across Tohoku, Tokyo, and Kyushu universities."
+    },
+    "see_also": [
+      {
+        "@id": "https://kanokp.lib.u-tokyo.ac.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://kanokp.lib.u-tokyo.ac.jp/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-kanokp",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: kanokp)",
+    "x-thumbnail": "/images/works/ldas-kanokp.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "15世紀の日本図・琉球図デジタルアーカイブ",
+      "en": "15th Century Japan/Ryukyu Maps Archive"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "15世紀の日本図・琉球図のデジタルアーカイブ。IIIF準拠の画像公開と地図情報の構造化に取り組む。",
+      "en": "Digital archive of 15th-century maps of Japan and Ryukyu. IIIF-compliant image publication and structured map data."
+    },
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/nihonzu/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-nihonzu",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: nihonzu)",
+    "x-thumbnail": "/images/works/ldas-nihonzu.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "沖縄美ら島財団所蔵「琉球国之図」デジタルアーカイブ",
+      "en": "Shouke Ryukyu Map Digital Archive"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "沖縄美ら島財団所蔵「琉球国之図」の画像をWeb上で公開し、絵図に描き込まれた情報を分析するためのデジタルアーカイブ。",
+      "en": "Digital archive of the Ryukyu Map held by the Okinawa Churashima Foundation. Web publication and analysis of inscribed information."
+    },
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/shouke/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-shouke-ryukyu",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: shouke-ryukyu)",
+    "x-thumbnail": "/images/works/ldas-shouke-ryukyu.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "中世禅籍史料研究プロジェクト 成果公開サイト",
+      "en": "Medieval Zen Texts Research Project"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2023-04",
+    "to_date": "9999",
+    "description": {
+      "ja": "中世禅籍史料研究プロジェクトの成果を公開。史料の翻刻をTEI/XML形式で提供し、ウェブブラウザ上で史料画像と翻刻を並べて表示可能。",
+      "en": "Publication site for the Medieval Zen Texts Research Project. Provides TEI/XML transcriptions with side-by-side image and text viewing."
+    },
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/zenseki/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-zenseki",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: zenseki)",
+    "x-thumbnail": "/images/works/ldas-zenseki.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "史料集版面検索",
+      "en": "Historiographical Image Page Search"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2022-05",
+    "to_date": "9999",
+    "description": {
+      "ja": "東京大学史料編纂所が公開する史料集の版面を全文検索できるサイト。NDL OCR で作ったテキストと IIIF 画像を合わせて検索し、語の出現頻度の推移や、地名からの地図検索にも対応。",
+      "en": "Full-text search across page images of the source collections published by the Historiographical Institute. Combines NDL OCR text with IIIF images, with term-frequency trends over time and map browsing by place name."
+    },
+    "see_also": [
+      {
+        "@id": "https://dip-s.lab.hi.u-tokyo.ac.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://dip-s.lab.hi.u-tokyo.ac.jp/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-dip-s",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: dip-s)",
+    "x-thumbnail": "/images/works/ldas-dip-s.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "ピラネージ版画データベース",
+      "en": "Opere di Giovanni Battista Piranesi Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2020-05",
+    "to_date": "9999",
+    "description": {
+      "ja": "総合図書館の亀井文庫『ピラネージ版画集』（1835〜39年、パリ刊）全29巻のオリジナル版画1,440点のデータベース。科研費 COE で作られた旧データベースを作り直したもの。巻・頁、キーワード、主題、描かれたローマの場所（地図）から探せる。",
+      "en": "A database of the 1,440 original etchings in the 29 volumes of the Opere di Giovanni Battista Piranesi (Paris, 1835–39) in the General Library's Kamei Collection, rebuilt from a database made under a COE research grant. Browse by volume and page, or search by keyword, subject or the place in Rome on a map."
+    },
+    "see_also": [
+      {
+        "@id": "https://piranesi.dl.itc.u-tokyo.ac.jp/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-piranesi",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: piranesi)",
+    "x-thumbnail": "/images/works/ldas-piranesi.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "シェリー書簡 透過光画像を使った IIIF アプリケーション",
+      "en": "Shelley Letter: IIIF Application with Transmitted-Light Images"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2020-08",
+    "to_date": "9999",
+    "description": {
+      "ja": "総合図書館が所蔵するシェリーの書簡を、通常の画像と透過光で撮った画像で見比べられるようにしたもの。IIIF Image API level 0 を使い、画像も含めて静的なファイルだけで作っている。",
+      "en": "A letter by Shelley held by the General Library, shown so that the ordinary image can be compared with one taken in transmitted light. Built from static files only, images included, using IIIF Image API level 0."
+    },
+    "see_also": [
+      {
+        "@id": "https://utda.github.io/shelley/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-shelley",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: shelley)",
+    "x-thumbnail": "/images/works/ldas-shelley.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "大日本海志編纂資料「起絵図」",
+      "en": "Okoshi-ezu from the Dai Nihon Kaishi Materials"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2020-08",
+    "to_date": "9999",
+    "description": {
+      "ja": "駒場図書館が所蔵する大日本海志編纂資料のうち、船の起絵図（平面図に壁や天井の図を貼り、組み立てると立体になる折り畳みの模型図）6点を、IIIF のレイヤー機能で組み立てる様子が見えるように表現した例。",
+      "en": "Six okoshi-ezu of ships from the Dai Nihon Kaishi materials in the Komaba Library — folding plans whose wall and ceiling sheets stand up into a 3D model — shown with IIIF layers so the assembly can be played step by step."
+    },
+    "see_also": [
+      {
+        "@id": "https://utda.github.io/kaishi/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-kaishi",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: kaishi)",
+    "x-thumbnail": "/images/works/ldas-kaishi.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Von West nach Ost（鷗外「演劇問題に就いて」TEI）",
+      "en": "Von West nach Ost (Ōgai, Über die Theaterfrage, TEI)"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2023-11",
+    "to_date": "9999",
+    "description": {
+      "ja": "第一高等学校旧蔵資料のうち、森鷗外のドイツ語の文章『Über die Theaterfrage』（演劇問題に就いて）を TEI/XML で翻刻し、原本の画像と並べて読めるようにした特設サイト。",
+      "en": "A site for Mori Ōgai's German essay Über die Theaterfrage, from the First Higher School collection, transcribed in TEI/XML and shown beside images of the original."
+    },
+    "see_also": [
+      {
+        "@id": "https://utda.github.io/ogai/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-ogai",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: ogai)",
+    "x-thumbnail": "/images/works/ldas-ogai.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "東京大学学術資産等アーカイブズポータル・ポスター検索",
+      "en": "UTokyo Digital Archive Portal: Poster Search"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2019-08",
+    "to_date": "9999",
+    "description": {
+      "ja": "東京大学デジタルアーカイブポータルで公開されているポスターを、画像の一覧で眺めて探せるようにしたサイト。",
+      "en": "A gallery for browsing the posters published in the UTokyo Digital Archive Portal by their images."
+    },
+    "see_also": [
+      {
+        "@id": "https://portal-pro.dl.itc.u-tokyo.ac.jp/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-portal-posters",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: portal-posters)",
+    "x-thumbnail": "/images/works/ldas-portal-posters.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "東京大学史料編纂所デジタルコレクション",
+      "en": "Historiographical Institute Digital Collection"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-07",
+    "to_date": "9999",
+    "description": {
+      "ja": "史料編纂所が所蔵する資料をコレクションごとに公開するサイト。荘園絵図摸本コレクション（絵図名称・模写時所蔵・原本製作年代での検索、地図、アノテーション）と錦絵ギャラリーを収める。",
+      "en": "Collections of materials held by the Historiographical Institute, published one by one: the copies of shōen (estate) maps, searchable by title, holder and date with a map and annotations, and a gallery of nishiki-e prints."
+    },
+    "see_also": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/dc/ja/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/dc/en/",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-hi-dc",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: hi-dc)",
+    "x-thumbnail": "/images/works/ldas-hi-dc.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "nihuBridge LOD / 荘園関係DB LOD",
+      "en": "nihuBridge LOD — Shōen Database"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2024-09",
+    "to_date": "9999",
+    "description": {
+      "ja": "人間文化研究機構のnihuBridgeから国立歴史民俗博物館のデータベースをLOD形式で提供するサイト。",
+      "en": "Site providing National Museum of Japanese History database data in LOD format via the nihuBridge platform."
+    },
+    "see_also": [
+      {
+        "@id": "https://shoen.vercel.app",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-shoen-lod",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: shoen-lod)",
+    "x-thumbnail": "/images/works/ldas-shoen-lod.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Cultural Japan",
+      "en": "Cultural Japan"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2020-08",
+    "to_date": "9999",
+    "description": {
+      "ja": "日本の文化財デジタルアーカイブを横断的に検索・閲覧できるプラットフォーム。IIIF準拠のマルチコレクション統合基盤。",
+      "en": "Platform for cross-searching Japanese cultural heritage digital archives. Multi-collection integration infrastructure compliant with IIIF."
+    },
+    "see_also": [
+      {
+        "@id": "https://cultural.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://cultural.jp/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-cultural-japan",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: cultural-japan)",
+    "x-thumbnail": "/images/works/ldas-cultural-japan.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Webcat Plus",
+      "en": "Webcat Plus — Associative Search"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2023-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "本・作品・人物の連想検索サービス。Elasticsearch・SPARQLを活用して知の世界を横断的に探索できる。",
+      "en": "Associative search service for books, works, and people. Uses Elasticsearch and SPARQL for cross-domain knowledge exploration."
+    },
+    "see_also": [
+      {
+        "@id": "https://webcatplus.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://webcatplus.jp/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-webcat-plus",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: webcat-plus)",
+    "x-thumbnail": "/images/works/ldas-webcat-plus.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "れきおん文字起こし検索",
+      "en": "Historical Audio — Whisper + IIIF Search"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2024-07",
+    "to_date": "9999",
+    "description": {
+      "ja": "国立国会図書館の歴史的音源をWhisperで自動文字起こしし、IIIFアノテーションとして構造化。音声の横断検索と、時刻を指定した参照ができる。",
+      "en": "Historical audio recordings from the National Diet Library, transcribed with Whisper and structured as IIIF annotations, for cross-searching the audio and citing it by timestamp."
+    },
+    "see_also": [
+      {
+        "@id": "https://ab.ldas.jp/na-kamura-1263/rekion",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://ab.ldas.jp/en/na-kamura-1263/rekion",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-rekion",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: rekion)",
+    "x-thumbnail": "/images/works/ldas-rekion.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "『ヒエラティック古書体学』データベース",
+      "en": "Hieratische Paläographie DB"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2019-12",
+    "to_date": "9999",
+    "description": {
+      "ja": "ゲオルク・メラー『ヒエラティック古書体学』(1909–36)のヒエラティック(古代エジプト神官文字)字形を検索できるデータベース。東京大学アジア研究図書館所蔵のIIIF画像を使用し、RDF/SPARQLにも対応。",
+      "en": "Searchable database of hieratic (ancient Egyptian) script forms from Georg Möller's Hieratische Paläographie (1909–36). Uses IIIF images held by the Asian Research Library of the University of Tokyo, with RDF/SPARQL support."
+    },
+    "see_also": [
+      {
+        "@id": "https://moeller.jinsha.tsukuba.ac.jp/ja/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://moeller.jinsha.tsukuba.ac.jp/en/",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-moeller",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: moeller)",
+    "x-thumbnail": "/images/works/ldas-moeller.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "日本のデジタル文学地図",
+      "en": "Digital Literary Map of Japan"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-11",
+    "to_date": "9999",
+    "description": {
+      "ja": "文学作品に登場する歌枕・名所を地図上にプロットし、作品をまたいで探索できるサイト。",
+      "en": "Utamakura and famous places from literary works plotted on a map, for exploring across works."
+    },
+    "see_also": [
+      {
+        "@id": "https://literarymaps.nijl.ac.jp",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://literarymaps.nijl.ac.jp/en",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-literary-map",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: literary-map)",
+    "x-thumbnail": "/images/works/ldas-literary-map.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "OdGenji — 嗅覚データベース",
+      "en": "Olfactory Database for Genji Monogatari"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-10",
+    "to_date": "9999",
+    "description": {
+      "ja": "『源氏物語』における香り・嗅覚表現を体系的に収録・公開するデータベース。",
+      "en": "Database collecting olfactory expressions in The Tale of Genji."
+    },
+    "see_also": [
+      {
+        "@id": "https://odgenji.vercel.app/ja/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://odgenji.vercel.app/en/",
+        "label": "url_en",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-odgenji",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: odgenji)",
+    "x-thumbnail": "/images/works/ldas-odgenji.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "地域文化資源デジタルアーカイブ",
+      "en": "Yanaka–Nezu–Sendagi Magazine Archive"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2016-10",
+    "to_date": "9999",
+    "description": {
+      "ja": "1984年に谷根千工房が創刊した地域雑誌『谷中・根津・千駄木』1〜10号と関連資料のデジタルアーカイブ。IIIF で公開し、既存の IIIF ビューアから直接閲覧できる。",
+      "en": "Digital archive of issues 1–10 of the local magazine \"Yanaka, Nezu, Sendagi\" (1984–) and related materials, published through IIIF and viewable in any IIIF viewer."
+    },
+    "see_also": [
+      {
+        "@id": "https://nakamura196.github.io/lda/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-yanesen",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: yanesen)",
+    "x-thumbnail": "/images/works/ldas-yanesen.jpg",
+    "x-thumbnail-source": "og:image"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "抽斎年譜 TEI ビジュアライザ",
+      "en": "Chūsai Nenpu TEI Visualizer"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-06",
+    "to_date": "9999",
+    "description": {
+      "ja": "森鷗外『渋江抽斎』の素材となった『抽斎年譜』の TEI/XML（若手図書館員DH勉強会・CC BY 4.0）を二次利用し、人物ネットワーク・登場タイムライン・年譜と『渋江抽斎』の対照を可視化。",
+      "en": "A reuse of the Chūsai Nenpu TEI/XML (CC BY 4.0) behind Mori Ōgai's \"Shibue Chūsai\": a person co-occurrence network, an appearance timeline, and a parallel reading of the chronology against the novel."
+    },
+    "see_also": [
+      {
+        "@id": "https://chusai.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-chusai",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: chusai)",
+    "x-thumbnail": "/images/works/ldas-chusai.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Domesday Digital Text Project",
+      "en": "Domesday Digital Text Project"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2024-05",
+    "to_date": "9999",
+    "description": {
+      "ja": "11世紀イングランドの土地台帳『ドゥームズデイ・ブック』のデジタル学術編集版。構造化した本文を TEI で記述して検索できるようにし、IIIF の頁画像と対応づけている。編者 David Roffe、鶴島博和氏の科研費プロジェクト。",
+      "en": "A digital scholarly edition of the Domesday Book, the great land survey of eleventh-century England: its structured text in TEI, searchable and aligned with IIIF page images. Edited by David Roffe, in a KAKENHI project led by Hirokazu Tsurushima."
+    },
+    "see_also": [
+      {
+        "@id": "https://gdb.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-domesday",
+    "x-source": "https://ldas.jp/ja/projects/ (works.ts id: domesday)",
+    "x-thumbnail": "/images/works/ldas-domesday.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "KotenOCR",
+      "en": "Classical Japanese OCR — iOS App"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "国立国会図書館のAIモデルを活用した、完全オフラインの古典籍・近代活字OCRアプリ。くずし字や活字をスマホで読む。",
+      "en": "Fully offline OCR app for classical and modern Japanese texts, powered by NDL AI models. Read kuzushiji and printed text on your smartphone."
+    },
+    "see_also": [
+      {
+        "@id": "https://kotenocr.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/koten-ocr-ios",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-kotenOCR",
+    "x-source": "https://ldas.jp/ja/tools/ (id: kotenOCR)",
+    "x-thumbnail": "/images/works/ldas-kotenOCR.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "IIIF AR アプリ",
+      "en": "IIIF Augmented Reality — iOS App"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "IIIFマニフェストと連携し、史料・古地図をARで現実空間に重ねて閲覧できるiOSアプリ。屋外での地図比較・現地調査に活用可能。",
+      "en": "iOS app that overlays historical documents and old maps onto real space via AR using IIIF manifests. Useful for outdoor map comparison and fieldwork."
+    },
+    "see_also": [
+      {
+        "@id": "https://ar.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/iiif-ar-ios",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-iiifAR",
+    "x-source": "https://ldas.jp/ja/tools/ (id: iiifAR)",
+    "x-thumbnail": "/images/works/ldas-iiifAR.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "IIIF VR ビューア",
+      "en": "IIIF VR Viewer — WebXR"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "IIIF対応画像を原寸大で体験できるWebXRビューア。和室空間に画像を実寸配置し、VRヘッドセットやブラウザ上で閲覧できる。",
+      "en": "WebXR viewer displaying IIIF-compatible images at full scale. Experience cultural resources in a virtual Japanese room via VR headset or browser."
+    },
+    "see_also": [
+      {
+        "@id": "https://iiif-vr-next.vercel.app/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/iiif-vr-next",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-edoVR",
+    "x-source": "https://ldas.jp/ja/tools/ (id: edoVR)"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Mirador v4 物理定規プラグイン",
+      "en": "Physical Ruler Plugin for Mirador v4"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "IIIFビューワーMirador v4に物理スケール（cm/mm）の定規機能を追加するプラグイン。史料の実寸計測をブラウザ上で実現。",
+      "en": "Plugin adding a physical scale ruler (cm/mm) to the IIIF viewer Mirador v4. Enables actual-size measurement of historical documents in the browser."
+    },
+    "see_also": [
+      {
+        "@id": "https://ruler.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/mirador-physical-ruler",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-mirador",
+    "x-source": "https://ldas.jp/ja/tools/ (id: mirador)",
+    "x-thumbnail": "/images/works/ldas-mirador.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "IIIF Animated Viewer",
+      "en": "IIIF Animated Viewer — AI Video Overlay"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "IIIF画像上にAI生成動画（Google Veo）をオーバーレイ表示するビューア。百鬼夜行図の妖怪たちが動き出す。空間音声・日英アノテーション対応。",
+      "en": "Viewer overlaying AI-generated videos (Google Veo) onto IIIF images. Brings Hyakki Yagyō scroll creatures to life with spatial audio and bilingual annotations."
+    },
+    "see_also": [
+      {
+        "@id": "https://anim.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/iiif-animated-viewer",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-iiifAnimated",
+    "x-source": "https://ldas.jp/ja/tools/ (id: iiifAnimated)",
+    "x-thumbnail": "/images/works/ldas-iiifAnimated.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Omeka S Themes",
+      "en": "Omeka S Themes Browser"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2024-01",
+    "to_date": "9999",
+    "description": {
+      "ja": "GitHubで公開されているOmeka SのThemesについて、スター数やサムネイルを一覧表示するツール。",
+      "en": "Tool displaying star counts and thumbnails for Omeka S themes published on GitHub."
+    },
+    "see_also": [
+      {
+        "@id": "https://omeka.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/OmekaS",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-omekaSThemes",
+    "x-source": "https://ldas.jp/ja/tools/ (id: omekaSThemes)",
+    "x-thumbnail": "/images/works/ldas-omekaSThemes.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "ndlkotenocr-lite-iiif",
+      "en": "NDL Koten OCR Lite — IIIF Integration"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-05",
+    "to_date": "2026-09",
+    "description": {
+      "ja": "IIIFマニフェストURLを入力することで、マニフェスト内の全画像に対してNDL古典籍OCRを実行するツール。",
+      "en": "Tool that runs NDL classical script OCR on all images in a manifest by entering an IIIF manifest URL."
+    },
+    "see_also": [
+      {
+        "@id": "https://nakamura196-ndlkotenocr-lite-iiif.hf.space/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/ndlocr-lite-spaces",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-ndlkotenIIIF",
+    "x-source": "https://ldas.jp/ja/tools/ (id: ndlkotenIIIF)"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "DTS Viewer",
+      "en": "Distributed Text Services Viewer"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-05",
+    "to_date": "9999",
+    "description": {
+      "ja": "DTS（Distributed Text Services）APIを使用してテキストコレクションを閲覧・検索できるアプリ。",
+      "en": "Application for browsing and searching text collections using the DTS (Distributed Text Services) API."
+    },
+    "see_also": [
+      {
+        "@id": "https://dtsview.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/dts-viewer",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-dtsViewer",
+    "x-source": "https://ldas.jp/ja/tools/ (id: dtsViewer)",
+    "x-thumbnail": "/images/works/ldas-dtsViewer.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "IIIF Annotator",
+      "en": "IIIF Annotator"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-04",
+    "to_date": "9999",
+    "description": {
+      "ja": "Annotorious v3を用いてIIIF画像にアノテーションを付与するツール。Firebase連携でデータを永続化。",
+      "en": "Tool for annotating IIIF images using Annotorious v3. Data persisted via Firebase."
+    },
+    "see_also": [
+      {
+        "@id": "https://anno.ldas.jp",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/iiif-annotator",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-iiifAnnotator",
+    "x-source": "https://ldas.jp/ja/tools/ (id: iiifAnnotator)",
+    "x-thumbnail": "/images/works/ldas-iiifAnnotator.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "IIIF 3D ビューア",
+      "en": "IIIF 3D Viewer"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-07",
+    "to_date": "9999",
+    "description": {
+      "ja": "IIIFマニフェストに基づいた3Dモデルの表示とアノテーション機能を提供するビューアアプリケーション。Three.js使用。",
+      "en": "Viewer providing 3D model display and annotation based on IIIF manifests. Built with Three.js."
+    },
+    "see_also": [
+      {
+        "@id": "https://3d.ldas.jp",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/iiif-3d-viewer",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-iiif3dViewer",
+    "x-source": "https://ldas.jp/ja/tools/ (id: iiif3dViewer)",
+    "x-thumbnail": "/images/works/ldas-iiif3dViewer.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "IIIF Georeference Viewer",
+      "en": "IIIF Georeference Viewer"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-08",
+    "to_date": "9999",
+    "description": {
+      "ja": "IIIF Georeference Extensionに対応したビューア。IIIFマニフェストに記述されたジオリファレンス情報を地図上に可視化。",
+      "en": "Viewer supporting the IIIF Georeference Extension. Visualizes georeferencing data from IIIF manifests on a map."
+    },
+    "see_also": [
+      {
+        "@id": "https://geo.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/iiif_geo",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-iiifGeoViewer",
+    "x-source": "https://ldas.jp/ja/tools/ (id: iiifGeoViewer)",
+    "x-thumbnail": "/images/works/ldas-iiifGeoViewer.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "画像コレクション管理ツール",
+      "en": "Image Collection Manager"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-08",
+    "to_date": "9999",
+    "description": {
+      "ja": "画像をまとめて整理・公開・共有できるサービス。国際規格IIIF対応で、AWS上でスケーラブルに運用。",
+      "en": "Service for organizing, publishing, and sharing image collections. IIIF-compliant, scalably operated on AWS."
+    },
+    "see_also": [
+      {
+        "@id": "https://pocket.webcatplus.jp",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-imageCollection",
+    "x-source": "https://ldas.jp/ja/tools/ (id: imageCollection)",
+    "x-thumbnail": "/images/works/ldas-imageCollection.jpg",
+    "x-thumbnail-source": "screenshot"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "NDL古典籍OCR Lite Next.js版",
+      "en": "NDL Koten OCR Lite — Next.js Port"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-08",
+    "to_date": "2026-09",
+    "description": {
+      "ja": "NDL古典籍OCR-liteのNext.js移植版。くずし字OCRをブラウザから手軽に利用できるインターフェースを提供。",
+      "en": "Next.js port of NDL Koten OCR-lite. Browser-friendly interface for kuzushiji (classical cursive) OCR."
+    },
+    "see_also": [
+      {
+        "@id": "https://nkol.vercel.app/ja/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/ndlkotenocr-lite",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-ndlOcrLite",
+    "x-source": "https://ldas.jp/ja/tools/ (id: ndlOcrLite)",
+    "x-thumbnail": "/images/works/ldas-ndlOcrLite.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "IIIF Annotation Viewer",
+      "en": "IIIF Annotation Viewer — Clustering"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-10",
+    "to_date": "9999",
+    "description": {
+      "ja": "IIIF Presentation API v3対応のアノテーションビューアー。大量のアノテーションをマーカークラスタリングで効率的に表示。",
+      "en": "IIIF Presentation API v3 annotation viewer with marker clustering for large annotation sets. Includes virtual scroll and search."
+    },
+    "see_also": [
+      {
+        "@id": "https://iiif-annotation-viewer.vercel.app/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/iiif-annotation-viewer",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-iiifAnnoViewer",
+    "x-source": "https://ldas.jp/ja/tools/ (id: iiifAnnoViewer)",
+    "x-thumbnail": "/images/works/ldas-iiifAnnoViewer.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "YouTube GPS Viewer",
+      "en": "YouTube GPS Viewer"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2025-11",
+    "to_date": "2026-09",
+    "description": {
+      "ja": "Insta360 X5の360度動画とGPXファイルのGPSデータを同期して再生。360度映像と位置情報を地図上でリアルタイム可視化。",
+      "en": "Syncs 360-degree video from Insta360 X5 with GPX GPS data. Real-time visualization of 360-degree footage and location on a map."
+    },
+    "see_also": [
+      {
+        "@id": "https://insta360-viewer.vercel.app/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-youtubeGPS",
+    "x-source": "https://ldas.jp/ja/tools/ (id: youtubeGPS)",
+    "x-thumbnail": "/images/works/ldas-youtubeGPS.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "デジタル文学地図 Experimental",
+      "en": "Digital Literary Map — Experimental"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "「日本のデジタル文学地図」に関する実験的なツール群。AIによるRAG検索や、地図上への文学資料のマッピングなど。",
+      "en": "Experimental tools for the Digital Literary Map of Japan. AI-powered RAG search and interactive literary mapping."
+    },
+    "see_also": [
+      {
+        "@id": "https://dlm.ldas.jp/ja",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/digital-literary-map",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-dlitMapExperimental",
+    "x-source": "https://ldas.jp/ja/tools/ (id: dlitMapExperimental)",
+    "x-thumbnail": "/images/works/ldas-dlitMapExperimental.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "デジタル教材作成支援システム",
+      "en": "Digital Teaching Material Creation Support System"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2024-03",
+    "to_date": "9999",
+    "description": {
+      "ja": "教材作成を支援するシステムのプロトタイプ。",
+      "en": "Prototype system supporting the creation of teaching materials."
+    },
+    "see_also": [
+      {
+        "@id": "https://kyozai.tana.ai/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-kyozai",
+    "x-source": "https://ldas.jp/ja/tools/ (id: kyozai)"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "CSV Viewer",
+      "en": "CSV Viewer — URL-based CSV Browser"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2024-12",
+    "to_date": "9999",
+    "description": {
+      "ja": "CSVファイルのURLを指定するだけで、ページング・検索・ソートに対応したインタラクティブなテーブルとして表示できるWebビューア。Omeka S BulkImport の Dublin Core サンプルなどクイックロード用CSVも同梱。Tailwind CSS・PapaParse・DataTables 構成。",
+      "en": "Web-based CSV viewer that loads CSV files via URL or query parameter and displays them as an interactive table with paging, search, and sorting. Ships with quick-load samples including the Omeka S BulkImport Dublin Core layout. Built with Tailwind CSS, PapaParse, and DataTables."
+    },
+    "see_also": [
+      {
+        "@id": "https://csv.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/csv_viewer",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-csvViewer",
+    "x-source": "https://ldas.jp/ja/tools/ (id: csvViewer)",
+    "x-thumbnail": "/images/works/ldas-csvViewer.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Local OCR",
+      "en": "Local OCR — Desktop App"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-09",
+    "to_date": "9999",
+    "description": {
+      "ja": "画像に写っている文字を、手元のパソコンの中だけで読み取るアプリ。複数の OCR エンジンを切り替えて使え、くずし字・漢籍・チベット語にも対応。IIIF の画像を読み込み、TEI/XML で書き出せる。macOS・Windows 対応。",
+      "en": "Read text out of images entirely on your own computer. Switch between several OCR engines, including ones for kuzushiji, classical Chinese and Tibetan. Takes IIIF images in and writes TEI/XML out. For macOS and Windows."
+    },
+    "see_also": [
+      {
+        "@id": "https://lo.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/local-ocr",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-localOCR",
+    "x-source": "https://ldas.jp/ja/tools/ (id: localOCR)",
+    "x-thumbnail": "/images/works/ldas-localOCR.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "Archival Packager",
+      "en": "Archival Packager — Desktop App"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-09",
+    "to_date": "9999",
+    "description": {
+      "ja": "デジタル資料から、OAIS の情報パッケージ（SIP / AIP）を作るアプリ。ファイル形式の識別、ウイルス検査、チェックサム、METS/PREMIS、BagIt までをコマンドなしで行う。macOS・Windows 対応。",
+      "en": "Create OAIS information packages (SIP / AIP) from digital materials without the command line: file format identification, virus scan, checksums, METS/PREMIS and BagIt. For macOS and Windows."
+    },
+    "see_also": [
+      {
+        "@id": "https://ap.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/archival-packager",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-archivalPackager",
+    "x-source": "https://ldas.jp/ja/tools/ (id: archivalPackager)",
+    "x-thumbnail": "/images/works/ldas-archivalPackager.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  },
+  {
+    "@type": "works",
+    "display": "disclosed",
+    "work_title": {
+      "ja": "LD Browser",
+      "en": "LD Browser — Linked Data in the Browser"
+    },
+    "creators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "from_date": "2026-10",
+    "to_date": "9999",
+    "description": {
+      "ja": "URI を入れると、その Linked Data をブラウザだけで取りに行き、表とグラフにしてたどれる。Turtle・N-Triples・TriG・JSON-LD・RDF/XML のほか、HTML に埋め込まれた JSON-LD・microdata・RDFa も読む。神崎正英氏の LD Browser に着想を得て、サーバを使わない形で作り直した。",
+      "en": "Enter a URI and the browser itself fetches the Linked Data and shows it as tables and graphs you can follow link by link. Reads Turtle, N-Triples, TriG, JSON-LD and RDF/XML, plus JSON-LD, microdata and RDFa embedded in HTML. Inspired by Masahide Kanzaki's LD Browser, rebuilt to run without a server."
+    },
+    "see_also": [
+      {
+        "@id": "https://browser.ldas.jp/",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://github.com/nakamura196/ld-browser",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-local-id": "ldas-ldBrowser",
+    "x-source": "https://ldas.jp/ja/tools/ (id: ldBrowser)",
+    "x-thumbnail": "/images/works/ldas-ldBrowser.jpg",
+    "x-thumbnail-source": "ldas.jp works.ts"
+  }
+]

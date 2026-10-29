@@ -149,7 +149,7 @@
   
   {% if cv.awards.size > 0 %}
   <!-- Awards -->
-  <div class="cv-section">
+  <div class="cv-section" id="awards">
     <h2>{{ L.awards }}</h2>
     <ul class="cv-list">
       {% for award in cv.awards %}
@@ -191,7 +191,7 @@
 
   {% if cv.volunteer.size > 0 %}
   <!-- Professional Service -->
-  <div class="cv-section">
+  <div class="cv-section" id="service">
     <h2>{{ L.service }}</h2>
     <ul class="cv-list">
       {% for v in cv.volunteer %}

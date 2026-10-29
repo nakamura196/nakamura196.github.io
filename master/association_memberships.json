@@ -1,0 +1,159 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952752",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "8952752",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:43:34Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-04-13T02:49:57Z",
+  "academic_society_name": {
+   "ja": "情報知識学会",
+   "en": "Japan Society of Information and Knowledge"
+  },
+  "from_date": "2017-04",
+  "to_date": "2020-03"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/9155799",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "9155799",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-08-20T13:41:20Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-04-13T02:50:21Z",
+  "academic_society_name": {
+   "ja": "Text Encoding Initiative",
+   "en": "Text Encoding Initiative"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/9155798",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "9155798",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-08-20T13:40:22Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-08-20T13:42:33Z",
+  "academic_society_name": {
+   "ja": "The Alliance of Digital Humanities Organizations",
+   "en": "The Alliance of Digital Humanities Organizations"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952755",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "8952755",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:53:43Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-07-30T02:40:46Z",
+  "academic_society_name": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952754",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "8952754",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:47:28Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T05:47:28Z",
+  "academic_society_name": {
+   "ja": "日本デジタル・ヒューマニティーズ学会",
+   "en": "Japanese Association for Digital Humanities"
+  },
+  "x-en-source": {
+   "academic_society_name": "https://www.jadh.org/"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952751",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "8952751",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:43:34Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T04:43:34Z",
+  "academic_society_name": {
+   "ja": "情報処理学会",
+   "en": "INFORMATION PROCESSING SOCIETY OF JAPAN"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952750",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "8952750",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:43:34Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T04:43:34Z",
+  "academic_society_name": {
+   "ja": "人工知能学会",
+   "en": "THE JAPANESE SOCIETY FOR ARTIFICIAL INTELLIGENCE"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952749",
+  "@type": "association_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/association_memberships",
+  "rm:id": "8952749",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:43:34Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T04:43:34Z",
+  "academic_society_name": {
+   "ja": "日本船舶海洋工学会",
+   "en": "THE JAPAN SOCIETY OF NAVAL ARCHITECTS AND OCEAN ENGINEERS"
+  }
+ }
+]

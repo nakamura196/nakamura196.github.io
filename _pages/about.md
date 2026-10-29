@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the [Historiographical Institute](https://www.hi.u-tokyo.ac.jp/), The University of Tokyo, working at the intersection of **digital humanities** and **information technology**. I build open-source software that helps researchers create, structure, and use cultural and historical data.
+I am an Associate Professor at The University of Tokyo, working at the intersection of **digital humanities** and **information technology**. I build open-source software that helps researchers create, structure, and use cultural and historical data.
 
 My work centers on **IIIF** (International Image Interoperability Framework), **Linked Open Data**, **TEI**, and **digital archives** — connecting images, texts, and metadata so that historical materials become computable and reusable. I am especially interested in lowering the barrier between humanities researchers and the tools that make their sources discoverable.
 

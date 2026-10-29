@@ -8,9 +8,6 @@ header:
 ---
 
 {% assign rm = site.data.researchmap %}
-{% assign a = rm.affiliations | first %}
-**{{ a.institutionJa }} {{ a.jobJa }}**
-
 {{ rm.profileJa }}
 
 ## 業績の概要
@@ -24,7 +21,8 @@ header:
 
 ## リンク
 
-- 業績の全体: [researchmap](https://researchmap.jp/nakamura.satoru)
+- researchmap: [nakamura.satoru](https://researchmap.jp/nakamura.satoru)
+- ORCID: [0000-0001-8245-7925](https://orcid.org/0000-0001-8245-7925)
 - ソフトウェア: [GitHub](https://github.com/nakamura196)
 - 技術ブログ: [ldas.jp](https://ldas.jp/ja/)
 

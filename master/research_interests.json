@@ -1,0 +1,97 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_interests/8836605",
+  "@type": "research_interests",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_interests",
+  "rm:id": "8836605",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:52:44Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:23:45Z",
+  "keyword": {
+   "ja": "Linked Data",
+   "en": "Linked Data"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_interests/8836604",
+  "@type": "research_interests",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_interests",
+  "rm:id": "8836604",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:48:56Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:23:59Z",
+  "keyword": {
+   "ja": "オントロジー",
+   "en": "Ontology"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_interests/8836603",
+  "@type": "research_interests",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_interests",
+  "rm:id": "8836603",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:48:56Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:24:09Z",
+  "keyword": {
+   "ja": "人文情報学",
+   "en": "Digital Humanities"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_interests/8836602",
+  "@type": "research_interests",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_interests",
+  "rm:id": "8836602",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:48:56Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:24:15Z",
+  "keyword": {
+   "ja": "メタデータ",
+   "en": "Metadata"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_interests/8836601",
+  "@type": "research_interests",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_interests",
+  "rm:id": "8836601",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:48:56Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:23:53Z",
+  "keyword": {
+   "ja": "デジタルアーカイブ",
+   "en": "Digital Archive"
+  }
+ }
+]

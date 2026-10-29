@@ -46,6 +46,43 @@
   line-height: 1.6;
 }
 
+.rm-item--thumb {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+}
+
+.rm-thumb {
+  flex: 0 0 160px;
+
+  img {
+    display: block;
+    width: 160px;
+    height: 100px;
+    object-fit: contain;
+    padding: 4px;
+    box-sizing: border-box;
+    background: var(--global-code-background-color, #f6f6f6);
+    border-radius: 4px;
+    border: 1px solid var(--global-border-color);
+  }
+}
+
+.rm-body {
+  min-width: 0;
+}
+
+@media (max-width: 599px) {
+  .rm-item--thumb {
+    display: block;
+  }
+
+  .rm-thumb {
+    display: block;
+    margin-bottom: 0.4em;
+  }
+}
+
 .rm-title {
   font-weight: bold;
 }

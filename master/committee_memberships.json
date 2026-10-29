@@ -1,0 +1,556 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/52101895",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "52101895",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:38:35Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T09:38:35Z",
+  "from_date": "2023-10",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "人文学・社会科学データインフラストラクチャー強化事業 人文学部門担当責任者"
+  },
+  "association": {
+   "ja": "日本学術振興会",
+   "en": "Japan Society for the Promotion of Science"
+  },
+  "committee_type": "government",
+  "x-en-source": {
+   "association": "https://www.jsps.go.jp/english/"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/54951154",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "54951154",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-09-15T03:00:04Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-09-15T03:00:04Z",
+  "from_date": "2022-01",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "戦中写真アーカイブ委員会 特別顧問"
+  },
+  "association": {
+   "ja": "株式会社毎日新聞社"
+  },
+  "committee_type": "others"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/54538669",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "54538669",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T07:42:02Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T07:42:02Z",
+  "from_date": "2021-04",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "デジタル・アーカイブ更新事業協力者"
+  },
+  "association": {
+   "ja": "東京大学文書館"
+  },
+  "committee_type": "others"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/32461541",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "32461541",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-05-10T23:22:14Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-05-10T23:22:14Z",
+  "from_date": "2021-04",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "人材養成・活用検討委員会"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "committee_type": "society",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/32461537",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "32461537",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-05-10T23:19:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-05-10T23:19:59Z",
+  "from_date": "2021-04",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "運営委員"
+  },
+  "association": {
+   "ja": "情報処理学会 人文科学とコンピュータ研究会",
+   "en": "Information Processing Society of Japan, Special Interest Group on Computer and Humanities (SIG-CH)"
+  },
+  "committee_type": "society",
+  "x-en-source": {
+   "association": "https://www.ipsj.or.jp/english/sigs/index2025.html"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/6658043",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "6658043",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:44:55Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-04-13T02:48:25Z",
+  "from_date": "2018-10",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "プログラム委員",
+   "en": "Program Committee"
+  },
+  "association": {
+   "ja": "Conference of Japanese Association for Digital Humanities",
+   "en": "Conference of Japanese Association for Digital Humanities"
+  },
+  "committee_type": "society"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/5111114",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "5111114",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-25T16:24:08Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-04-13T02:46:47Z",
+  "from_date": "2018-06",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "東アジア/日本語分科会 運営委員",
+   "en": "East Asian/Japanese Special Interest Group Steering Committee"
+  },
+  "association": {
+   "ja": "Text Encoding Initiative",
+   "en": "Text Encoding Initiative"
+  },
+  "committee_type": "society"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/6658044",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "6658044",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:46:06Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:46:06Z",
+  "from_date": "2018-04",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "学会誌編集委員"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "committee_type": "society",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/54538667",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "54538667",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T07:41:48Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T07:41:48Z",
+  "from_date": "2017-04",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "データ科学専門委員会 委員"
+  },
+  "association": {
+   "ja": "東京大学情報基盤センター",
+   "en": "Information Technology Center, The University of Tokyo"
+  },
+  "committee_type": "others",
+  "x-en-source": {
+   "association": "https://www.itc.u-tokyo.ac.jp/en/"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/54538665",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "54538665",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T07:41:32Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T07:41:32Z",
+  "from_date": "2017-04",
+  "to_date": "9999",
+  "committee_name": {
+   "ja": "学術資産等アーカイブズ委員会 学術資産アーカイブ化推進室員"
+  },
+  "association": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "committee_type": "others",
+  "x-en-source": {
+   "association": "https://www.u-tokyo.ac.jp/en/"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/53091775",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "53091775",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-27T11:19:34Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-27T11:19:34Z",
+  "from_date": "2026-04",
+  "to_date": "2029-03",
+  "committee_name": {
+   "ja": "評議員"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "committee_type": "society",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/51187921",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "51187921",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-09-17T09:50:37Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-03T08:35:55Z",
+  "from_date": "2025-04",
+  "to_date": "2026-03",
+  "committee_name": {
+   "ja": "第10回研究大会実行委員"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "committee_type": "society",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/51187877",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "51187877",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-09-17T09:48:27Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-03T08:36:07Z",
+  "from_date": "2024-10",
+  "to_date": "2025-09",
+  "committee_name": {
+   "ja": "プログラム委員長"
+  },
+  "association": {
+   "ja": "第14回日本デジタル・ヒューマニティーズ学会年次大会（JADH）"
+  },
+  "committee_type": "society"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/51187905",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "51187905",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-09-17T09:49:12Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-09-17T09:49:12Z",
+  "from_date": "2023-10",
+  "to_date": "2024-09",
+  "committee_name": {
+   "ja": "プログラム委員長"
+  },
+  "association": {
+   "ja": "第13回日本デジタル・ヒューマニティーズ学会年次大会（JADH）"
+  },
+  "committee_type": "society"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/51187975",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "51187975",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-09-17T09:58:21Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-09-17T09:58:40Z",
+  "from_date": "2021-04",
+  "to_date": "2023-03",
+  "committee_name": {
+   "ja": "幹事"
+  },
+  "association": {
+   "ja": "情報処理学会 人文科学とコンピュータ研究会",
+   "en": "Information Processing Society of Japan, Special Interest Group on Computer and Humanities (SIG-CH)"
+  },
+  "committee_type": "society",
+  "x-en-source": {
+   "association": "https://www.ipsj.or.jp/english/sigs/index2025.html"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/52101894",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "52101894",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:38:35Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T09:38:35Z",
+  "from_date": "2020-07",
+  "to_date": "2023-03",
+  "committee_name": {
+   "ja": "人文学・社会科学データインフラストラクチャー構築推進事業 実務者"
+  },
+  "association": {
+   "ja": "日本学術振興会",
+   "en": "Japan Society for the Promotion of Science"
+  },
+  "committee_type": "government",
+  "x-en-source": {
+   "association": "https://www.jsps.go.jp/english/"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/5111115",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "5111115",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-25T16:24:37Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-02-26T09:33:13Z",
+  "from_date": "2018-04",
+  "to_date": "2021-09",
+  "committee_name": {
+   "ja": "カンファレンス実行委員",
+   "en": "Conference Program Committee"
+  },
+  "association": {
+   "ja": "Code4Lib JAPAN",
+   "en": "Code4Lib JAPAN"
+  },
+  "committee_type": "society"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/39368191",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "39368191",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2022-08-01T04:39:27Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-08-01T04:40:55Z",
+  "from_date": "2021",
+  "to_date": "2021",
+  "committee_name": {
+   "ja": "実行委員"
+  },
+  "association": {
+   "ja": "情報処理学会 人文科学とコンピュータ研究会 シンポジウム 2021"
+  },
+  "committee_type": "society"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/33631487",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "33631487",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-09-10T06:28:22Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-09-10T06:28:22Z",
+  "from_date": "2021",
+  "to_date": "2021",
+  "committee_name": {
+   "ja": "実行委員"
+  },
+  "association": {
+   "ja": "第11回日本デジタル・ヒューマニティーズ学会年次大会（JADH）"
+  },
+  "committee_type": "society"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/6658045",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "6658045",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:46:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-09-10T06:29:11Z",
+  "from_date": "2019-04",
+  "to_date": "2020",
+  "committee_name": {
+   "ja": "第4回研究大会実行委員"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "committee_type": "society",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/committee_memberships/6658042",
+  "@type": "committee_memberships",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/committee_memberships",
+  "rm:id": "6658042",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:41:41Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:41:41Z",
+  "from_date": "2018-09",
+  "to_date": "2019-08",
+  "committee_name": {
+   "ja": "Conference Co-Chair"
+  },
+  "association": {
+   "ja": "26th ISTE International Conference on Transdisciplinary Engineering"
+  },
+  "committee_type": "society"
+ }
+]

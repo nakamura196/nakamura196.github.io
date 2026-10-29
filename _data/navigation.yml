@@ -12,9 +12,6 @@ main:
   - title: "Grants"
     url: /grants/
 
-  - title: "Software"
-    url: /portfolio/
-
   - title: "CV"
     url: /cv/
 
@@ -30,9 +27,6 @@ ja:
 
   - title: "研究課題"
     url: /ja/grants/
-
-  - title: "ソフトウェア"
-    url: /portfolio/
 
   - title: "経歴"
     url: /ja/cv/

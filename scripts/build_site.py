@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-"""Generate academicpages content from a researchmap profile.
+"""Generate the site content from the local master (master/*.json).
 
-Pulls achievements from the researchmap public API and writes:
+master/ holds the achievement data in researchmap API format and is the
+source of truth (see README "master"). Writes:
   - _publications/*.md   (books, journal/proceedings papers, misc articles)
   - _talks/*.md          (presentations)
   - _data/cv.json        (jsonresume: basics, work, education, awards,
                           research grants, committee memberships)
 
-Re-runnable: regenerates the above from scratch on every run, so adding a
-publication on researchmap and re-running keeps the site in sync. Hand edits
-to generated files are intentionally overwritten — edit researchmap instead.
+Re-runnable: regenerates the above from scratch on every run. Hand edits
+to generated files are intentionally overwritten — edit master/ instead.
+Fields prefixed `x-` in master are local-only (e.g. x-thumbnail).
 
 Usage:
-    python3 scripts/build_from_researchmap.py            # uses PERMALINK below
-    PERMALINK=nakamura.satoru python3 scripts/build_from_researchmap.py
+    python3 scripts/build_site.py
 """
 from __future__ import annotations
 
@@ -21,18 +21,12 @@ import json
 import os
 import re
 import sys
-import urllib.request
 from pathlib import Path
 
 PERMALINK = os.environ.get("PERMALINK", "nakamura.satoru")
 API = "https://api.researchmap.jp"
 ROOT = Path(__file__).resolve().parent.parent
-CACHE = Path(__file__).resolve().parent / "rm_cache"
-# English forms for records registered on researchmap in Japanese only.
-# Keyed "<kind>/<rm:id>" → {field: {"en": ..., "source": URL}}. Used only
-# while researchmap itself has no English; entering the English on
-# researchmap makes the entry here redundant.
-EN_OVERRIDES = Path(__file__).resolve().parent / "en_overrides.json"
+MASTER = ROOT / "master"
 _JA = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
 
 # --- static profile bits not in researchmap (edit here) ---
@@ -57,67 +51,35 @@ _fetched: dict[str, list[dict]] = {}
 
 
 def fetch(kind: str) -> list[dict]:
-    """Fetch all items of one achievement type (cached to disk).
-
-    Raises FetchError when researchmap is unreachable and there is no cache,
-    so that an outage never wipes the generated pages.
-    """
+    """Read all items of one achievement type from master/<kind>.json."""
     if kind in _fetched:
         return _fetched[kind]
-    CACHE.mkdir(exist_ok=True)
-    cache_file = CACHE / f"{kind}.json"
-    url = f"{API}/{PERMALINK}/{kind}?limit=2000"
+    f = MASTER / f"{kind}.json"
     try:
-        req = urllib.request.Request(url, headers={"Accept": "application/json"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            data = json.load(r)
-        if not isinstance(data, dict):
-            raise ValueError(f"unexpected response type {type(data).__name__}")
-        cache_file.write_text(json.dumps(data, ensure_ascii=False, indent=1))
-    except Exception as e:  # fall back to cache if network fails
-        if cache_file.exists():
-            print(f"  ! {kind}: network failed ({e}); using cache")
-            data = json.loads(cache_file.read_text())
-        else:
-            raise FetchError(f"{kind}: unavailable ({e})") from e
-    items = data.get("items", []) or []
-    apply_en_overrides(kind, items)
+        items = json.loads(f.read_text(encoding="utf-8"))
+    except Exception as e:
+        raise FetchError(f"{kind}: unreadable ({e})") from e
+    if not isinstance(items, list):
+        raise FetchError(f"{kind}: expected a list")
     _fetched[kind] = items
     return items
-
-
-def apply_en_overrides(kind: str, items: list[dict]):
-    if not EN_OVERRIDES.exists():
-        return
-    table = json.loads(EN_OVERRIDES.read_text())
-    for it in items:
-        for field, v in (table.get(f"{kind}/{it.get('rm:id')}") or {}).items():
-            cur = it.get(field)
-            if not isinstance(cur, dict):
-                continue
-            en = cur.get("en") or ""
-            if not en or _JA.search(en):
-                cur["en"] = v["en"]
 
 
 _root: dict = {}
 
 
 def fetch_root() -> dict:
-    """Fetch the researcher's basic profile (affiliation, degrees, bio)."""
+    """Read the researcher's basic profile (affiliation, degrees, bio)."""
     if _root:
         return _root
-    url = f"{API}/{PERMALINK}"
     try:
-        req = urllib.request.Request(url, headers={"Accept": "application/json"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            data = json.load(r)
+        data = json.loads((MASTER / "profile.json").read_text(encoding="utf-8"))
         if not isinstance(data, dict) or "family_name" not in data:
-            raise ValueError("unexpected response")
-        _root.update(data)
-        return _root
+            raise ValueError("unexpected content")
     except Exception as e:
-        raise FetchError(f"profile: unavailable ({e})") from e
+        raise FetchError(f"profile: unreadable ({e})") from e
+    _root.update(data)
+    return _root
 
 
 def end_date(d) -> str:
@@ -528,6 +490,7 @@ def gen_profile_data():
             "url": link(it),
             "description": lang(it.get("description")),
             "descriptionJa": lang(it.get("description"), "ja"),
+            **({"thumbnail": it["x-thumbnail"]} if it.get("x-thumbnail") else {}),
         })
 
     memberships = []
@@ -610,9 +573,9 @@ def gen_profile_data():
 
 
 def main():
-    print(f"Building from researchmap: {PERMALINK}")
-    # Fetch everything first: if researchmap is down, stop before touching
-    # any generated file (the site keeps showing the last good copy).
+    print("Building from master/")
+    # Read everything first: if master is broken, stop before touching
+    # any generated file.
     try:
         for kind in ("books_etc", "published_papers", "misc", "presentations",
                      "research_experience", "education", "awards",
@@ -625,7 +588,7 @@ def main():
         print(f"Aborted, nothing changed: {e}", file=sys.stderr)
         return 1
     if not _fetched["published_papers"] or not _fetched["presentations"]:
-        print("Aborted, nothing changed: researchmap returned no papers/talks",
+        print("Aborted, nothing changed: master has no papers/talks",
               file=sys.stderr)
         return 1
     gen_publications()

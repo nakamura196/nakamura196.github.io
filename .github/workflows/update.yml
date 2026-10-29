@@ -1,6 +1,6 @@
-name: Update content from researchmap & GitHub
+name: Update content from master & GitHub
 
-# Regenerates publications / talks / CV (researchmap) and the software portfolio
+# Regenerates publications / talks / CV (from master/) and the software portfolio
 # (GitHub API) on a schedule, commits any changes, and asks GitHub Pages to
 # rebuild. No local Ruby/Docker needed — everything runs here.
 
@@ -12,6 +12,7 @@ on:
 permissions:
   contents: write           # commit regenerated content
   pages: write              # request a Pages build
+  issues: write             # report researchmap differences
 
 concurrency:
   group: content-update
@@ -27,8 +28,33 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Regenerate from researchmap
-        run: python3 scripts/build_from_researchmap.py
+      - name: Compare master with researchmap
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="researchmap と手元のマスタの差分"
+          set +e
+          python3 scripts/rm_diff.py > diff.md
+          rc=$?
+          set -e
+          if [ "$rc" -ne 0 ]; then
+            echo "researchmap unreachable; skipping diff report."
+          else
+            number=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
+            if grep -q "差分はありません" diff.md; then
+              if [ -n "$number" ]; then
+                gh issue close "$number" --comment "差分がなくなりました。"
+              fi
+            elif [ -n "$number" ]; then
+              gh issue edit "$number" --body-file diff.md
+            else
+              gh issue create --title "$title" --body-file diff.md
+            fi
+          fi
+          rm -f diff.md
+
+      - name: Regenerate site content from master
+        run: python3 scripts/build_site.py
 
       - name: Regenerate GitHub portfolio
         env:
@@ -45,7 +71,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No content changes."
           else
-            git commit -m "chore: auto-update content from researchmap & GitHub"
+            git commit -m "chore: auto-update content from master & GitHub"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi

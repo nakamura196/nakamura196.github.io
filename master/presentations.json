@@ -1,0 +1,6201 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54650711",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "54650711",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-16T05:49:14Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-16T05:49:14Z",
+  "presentation_title": {
+   "ja": "Date Normalisation at Semantic Document Boundaries: LLM Capabilities and Limits in Historical TEI Encoding",
+   "en": "Date Normalisation at Semantic Document Boundaries: LLM Capabilities and Limits in Historical TEI Encoding"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "小風尚樹"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "小風綾乃"
+    },
+    {
+     "name": "後藤真"
+    }
+   ],
+   "en": [
+    {
+     "name": "Naoki Kokaze"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Ayano Kokaze"
+    },
+    {
+     "name": "Makoto Goto"
+    }
+   ]
+  },
+  "event": {
+   "ja": "TEI 2026: Creating Connections, Unsettling Practices",
+   "en": "TEI 2026: Creating Connections, Unsettling Practices"
+  },
+  "publication_date": "2026-08-11",
+  "from_event_date": "2026-08-10",
+  "to_event_date": "2026-08-14",
+  "invited": false,
+  "presentation_type": "poster_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538482",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "54538482",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T06:48:27Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T06:48:27Z",
+  "presentation_title": {
+   "ja": "東洋文庫所蔵の東アジア関連資料における多言語OCR・TEI・IIIFと生成AIの適用事例",
+   "en": "Applications of Multilingual OCR, TEI, IIIF and Generative AI to East Asian Materials in the Toyo Bunko Collection"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "国際ワークショップ（2026年度）「ポストデジタルデータ化の東アジア文献研究－超域と越境、そして生成AI」（東洋文庫総合アジア圏域研究班）",
+   "en": "International Workshop 2026: East Asian Textual Studies in the Post-Digitization Era - Transregionality, Border-Crossing, and Generative AI (Toyo Bunko)"
+  },
+  "publication_date": "2026-08-02",
+  "from_event_date": "2026-08-02",
+  "to_event_date": "2026-08-02",
+  "invited": true,
+  "presentation_type": "invited_oral_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538492",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "54538492",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T06:52:36Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T06:52:36Z",
+  "presentation_title": {
+   "ja": "An IIIF- and Linked Data-Based Framework for Semantic 3D Annotation of Cultural Heritage Objects",
+   "en": "An IIIF- and Linked Data-Based Framework for Semantic 3D Annotation of Cultural Heritage Objects"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "小川潤"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "大向一輝"
+    }
+   ],
+   "en": [
+    {
+     "name": "Jun Ogawa"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Ikki Ohmukai"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Digital Humanities 2026 (DH2026)",
+   "en": "Digital Humanities 2026 (DH2026)"
+  },
+  "publication_date": "2026-07-31",
+  "from_event_date": "2026-07-27",
+  "to_event_date": "2026-07-31",
+  "invited": false,
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538480",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "54538480",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T06:48:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T06:48:01Z",
+  "presentation_title": {
+   "ja": "Reconstructing Maritime Routes: A IIIF-based Digital Archive for Comparative Analysis of Historical Maps and Geographic Information",
+   "en": "Reconstructing Maritime Routes: A IIIF-based Digital Archive for Comparative Analysis of Historical Maps and Geographic Information"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "黒嶋敏"
+    },
+    {
+     "name": "山田太造"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Satoru Kuroshima"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Digital Humanities 2026 (DH2026)",
+   "en": "Digital Humanities 2026 (DH2026)"
+  },
+  "publication_date": "2026-07-30",
+  "from_event_date": "2026-07-27",
+  "to_event_date": "2026-07-31",
+  "invited": false,
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538495",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "54538495",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T06:53:03Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T06:53:03Z",
+  "presentation_title": {
+   "ja": "Constructing an Event-Centered Knowledge Graph from the Dainihon Shiryo Integrated Database: Modelling Causal and Sequential Relations among Historical Events",
+   "en": "Constructing an Event-Centered Knowledge Graph from the Dainihon Shiryo Integrated Database: Modelling Causal and Sequential Relations among Historical Events"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "小風綾乃"
+    },
+    {
+     "name": "井上聡"
+    },
+    {
+     "name": "金子拓"
+    }
+   ],
+   "en": [
+    {
+     "name": "Taizo Yamada"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Ayano Kokaze"
+    },
+    {
+     "name": "Satoshi Inoue"
+    },
+    {
+     "name": "Hiraku Kaneko"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Digital Humanities 2026 (DH2026)",
+   "en": "Digital Humanities 2026 (DH2026)"
+  },
+  "publication_date": "2026-07-29",
+  "from_event_date": "2026-07-27",
+  "to_event_date": "2026-07-31",
+  "invited": false,
+  "presentation_type": "poster_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538478",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "54538478",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T06:47:33Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T06:47:33Z",
+  "presentation_title": {
+   "ja": "データ分析と可視化入門",
+   "en": "Introduction to Data Analysis and Visualization"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタル人文学セミナー第3回（東洋文庫データベース会議）",
+   "en": "Digital Humanities Seminar No. 3 (Toyo Bunko Database Conference)"
+  },
+  "publication_date": "2026-07-11",
+  "from_event_date": "2026-07-11",
+  "to_event_date": "2026-07-11",
+  "invited": true,
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53693684",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "53693684",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-05-19T03:15:07Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-19T03:19:25Z",
+  "presentation_title": {
+   "ja": "TEIデータ構築の実践：入門ワークショップ",
+   "en": "Practice of TEI Data Construction: Introductory Workshop"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタル人文学セミナー第2回（東洋文庫研究データベース会議）",
+   "en": "Digital Humanities Seminar No. 2 (Toyo Bunko Research Database Conference)"
+  },
+  "publication_date": "2026-05-09",
+  "from_event_date": "2026-05-09",
+  "to_event_date": "2026-05-09",
+  "invited": true,
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "50040755"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53536682",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "53536682",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-05-01T10:53:24Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T10:53:24Z",
+  "presentation_title": {
+   "ja": "Cultural Japan：世界の文化機関が公開する日本文化資源の集約・横断検索システム"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "DAPCON産業賞2025 授賞式"
+  },
+  "publication_date": "2026-03-25",
+  "from_event_date": "2026-03-25",
+  "to_event_date": "2026-03-25",
+  "invited": true,
+  "presentation_type": "invited_oral_presentation",
+  "dataset": {
+   "dataset_name": "DAPCON産業賞2025.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/53536682/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/53536682/attachment_file.pdf?thumbnail"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53536588",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "53536588",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-05-01T10:35:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T10:35:16Z",
+  "presentation_title": {
+   "ja": "NDL古典籍OCR-Liteを活用したiOSアプリの開発"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "次世代システム開発研究室 オンライン勉強会（2026年3月）"
+  },
+  "publication_date": "2026-03-19",
+  "from_event_date": "2026-03-19",
+  "to_event_date": "2026-03-19",
+  "invited": false,
+  "presentation_type": "oral_presentation",
+  "dataset": {
+   "dataset_name": "2026-03-19_nakamura.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/53536588/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/53536588/attachment_file.pdf?thumbnail"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52982498",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52982498",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-19T04:29:42Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-19T09:44:42Z",
+  "presentation_title": {
+   "ja": "デジタル人文学の全体像",
+   "en": "Overview of Digital Humanities"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "2025年度 東洋文庫データベース会議",
+   "en": "Toyo Bunko Database Conference 2025"
+  },
+  "publication_date": "2026-02-28",
+  "from_event_date": "2026-02-28",
+  "to_event_date": "2026-02-28",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "50040755",
+    "51361068"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+    "label": "rm:research_project_id"
+   },
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101737",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52101737",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T08:59:48Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T08:59:48Z",
+  "presentation_title": {
+   "ja": "史料編纂所における全学FW外のデバイスを守る取り組み"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "山田太造"
+    }
+   ]
+  },
+  "event": {
+   "ja": "2025年度第2回部局CERTミーティング"
+  },
+  "publication_date": "2026-01-23",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101743",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52101743",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:01:38Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T09:01:38Z",
+  "presentation_title": {
+   "ja": "Comments on \"From Archiving to Intelligence: Developing Interoperable and AI-Ready GIS Datasets\"",
+   "en": "Comments on \"From Archiving to Intelligence: Developing Interoperable and AI-Ready GIS Datasets\""
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "社会科学データインフラストラクチャーワークショップ（国際ワークショップ）2026",
+   "en": "JSPS Humanities and Social Sciences Data Infrastructure Workshop 2026"
+  },
+  "publication_date": "2026-01-22",
+  "from_event_date": "2026-01-22",
+  "to_event_date": "2026-01-22",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101540",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52101540",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T08:22:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-22T05:46:34Z",
+  "presentation_title": {
+   "ja": "DA for AI における長期保存と真正性の担保に関するシステム検討"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会 第10回研究大会"
+  },
+  "publication_date": "2026-01-09",
+  "from_event_date": "2026-01-09",
+  "to_event_date": "2026-01-10",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "47578926",
+    "39508593",
+    "51008201"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+    "label": "rm:research_project_id"
+   },
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "label": "rm:research_project_id"
+   },
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51008201",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101757",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52101757",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:07:09Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-19T09:50:07Z",
+  "presentation_title": {
+   "ja": "デジタルキュレーションの実践と展開",
+   "en": "デジタルキュレーションの実践と展開"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "人文情報学の諸相（東京大学大学院横断型教育プログラム）"
+  },
+  "publication_date": "2026-01-07",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "51361068"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101759",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52101759",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:07:29Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-09T06:45:10Z",
+  "presentation_title": {
+   "ja": "テキストが拓くデジタルアーカイブの可能性 ―生成・構造化・活用の実践―（運営責任者）",
+   "en": "テキストが拓くデジタルアーカイブの可能性 ―生成・構造化・活用の実践―（運営責任者）"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会 第10回研究大会 サテライト企画セッション"
+  },
+  "publication_date": "2026-01-06",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "50040755",
+    "47578926"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+    "label": "rm:research_project_id"
+   },
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53536997",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "53536997",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-05-01T11:51:15Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T11:51:15Z",
+  "presentation_title": {
+   "ja": "A TEI-Based OCR Correction Tool Using GitHub for Collaborative Digital Humanities: Practical Implementation and Applications",
+   "en": "A TEI-Based OCR Correction Tool Using GitHub for Collaborative Digital Humanities: Practical Implementation and Applications"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "會谷佳光"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Yoshimitsu Aitani"
+    }
+   ]
+  },
+  "event": {
+   "ja": "27th International Conference on Asia-Pacific Digital Libraries (ICADL 2025)",
+   "en": "27th International Conference on Asia-Pacific Digital Libraries (ICADL 2025)"
+  },
+  "publication_date": "2025-12-04",
+  "from_event_date": "2025-12-03",
+  "to_event_date": "2025-12-05",
+  "invited": false,
+  "presentation_type": "oral_presentation",
+  "dataset": {
+   "dataset_name": "icadl2025.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/53536997/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/53536997/attachment_file.pdf?thumbnail"
+  },
+  "is_international_presentation": true,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "@id": "https://doi.org/10.1007/978-981-95-4861-3_22",
+    "label": "url",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796134",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "51796134",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-12-04T21:38:27Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-19T06:35:25Z",
+  "presentation_title": {
+   "ja": "Technical Implementation of Digital Systems for Historical Materials: Experiences from Toyo Bunko’s Database Projects",
+   "en": "Technical Implementation of Digital Systems for Historical Materials: Experiences from Toyo Bunko’s Database Projects"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”",
+   "en": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”"
+  },
+  "publication_date": "2025-11-29",
+  "from_event_date": "2025-11-29",
+  "to_event_date": "2025-11-30",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "51361068",
+    "50040755"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+    "label": "rm:research_project_id"
+   },
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101854",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52101854",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:24:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-13T02:10:55Z",
+  "presentation_title": {
+   "ja": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み（ポスター発表）",
+   "en": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み（ポスター発表）"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "研究データエコシステム構築事業シンポジウム 2025"
+  },
+  "publication_date": "2025-10-09",
+  "from_event_date": "2025-10-09",
+  "to_event_date": "2025-10-10",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "poster_presentation",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "39508593"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101853",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52101853",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:24:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-13T02:10:45Z",
+  "presentation_title": {
+   "ja": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み（パネルディスカッション）",
+   "en": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み（パネルディスカッション）"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "研究データエコシステム構築事業シンポジウム 2025"
+  },
+  "publication_date": "2025-10-09",
+  "from_event_date": "2025-10-09",
+  "to_event_date": "2025-10-10",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "39508593"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52891762",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "52891762",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-10T06:34:56Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-09T06:44:50Z",
+  "presentation_title": {
+   "ja": "Vectorizing History: Sentence-BERT-Based Similarity Analysis of Japanese Historical Event",
+   "en": "Vectorizing History: Sentence-BERT-Based Similarity Analysis of Japanese Historical Event"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Taizo Yamada"
+    },
+    {
+     "name": "Satoru Nakamura"
+    }
+   ],
+   "en": [
+    {
+     "name": "Taizo Yamada"
+    },
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "PNC 2025 Annual Conference and Joint Meetings",
+   "en": "PNC 2025 Annual Conference and Joint Meetings"
+  },
+  "publication_date": "2025-09-21",
+  "from_event_date": "2025-09-20",
+  "to_event_date": "2025-09-22",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "47578926"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796187",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "51796187",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-12-04T22:24:05Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-12-04T22:24:05Z",
+  "presentation_title": {
+   "en": "Uncovering Editors' Intentions and Implicit Historical Perspectives through TEI Markup: Case Study on Dai Nihon Shiryo"
+  },
+  "presenters": {
+   "en": [
+    {
+     "name": "Ayano Kokaze"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ]
+  },
+  "event": {
+   "en": "Digital Humanities 2025"
+  },
+  "publication_date": "2025-07-17",
+  "from_event_date": "2025-07-14",
+  "to_event_date": "2025-07-18",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "promoter": {
+   "en": "The Alliance of Digital Humanities Organizations (ADHO)"
+  },
+  "location": {
+   "en": "Lisbon"
+  },
+  "address_country": "PRT",
+  "description": {
+   "en": "This project reevaluates the historiographical practices of Dai Nihon Shiryo, focusing on the functional representation of Bouchū (marginal notes) and Warichū (interlinear annotations) using TEI. By addressing their embedded temporal semantics and editorial distinctions, this study uncovers implicit historical perspectives and contributes to advancing TEI applications in digital scholarly editing."
+  },
+  "is_international_presentation": true,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53536925",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "53536925",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-05-01T11:39:20Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T11:39:20Z",
+  "presentation_title": {
+   "ja": "DTS（Distributed Text Services）とNDL古典籍OCRの応用"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "次世代システム開発研究室 オンライン勉強会（2025年6月）"
+  },
+  "publication_date": "2025-06-19",
+  "from_event_date": "2025-06-19",
+  "to_event_date": "2025-06-19",
+  "invited": false,
+  "presentation_type": "oral_presentation",
+  "dataset": {
+   "dataset_name": "DTS（Distributed Text Services）とNDLOCR.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/53536925/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/53536925/attachment_file.pdf?thumbnail"
+  },
+  "description": {
+   "ja": "NDL（古典籍）OCRにより作成されたTEI/XMLデータのAIPサービスを利用した公開について、OCRから公開までの流れと応用事例「酉蓮社目録DB」（https://u-renja.toyobunko-lab.jp/）を紹介する。"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/50180014",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "50180014",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-05-17T00:54:53Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-13T02:10:22Z",
+  "presentation_title": {
+   "ja": "デジタル・ヒューマニティーズ （DH）の概要と事例紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "KNS 関西ネットワークシステム【関東支部】ミニ井戸端会議Vol.52｢デジタル・ヒューマニティーズを学ぶ会｣（No.1,177）"
+  },
+  "publication_date": "2025-05-16",
+  "from_event_date": "2025-05-16",
+  "to_event_date": "2025-05-16",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "39508593"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49526817",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "49526817",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-03-24T04:35:26Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-03-24T04:35:26Z",
+  "presentation_title": {
+   "ja": "研究データの管理と公開 ：人文学の観点から"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "三重大学オープンサイエンス推進シンポジウム「学術データの管理と共有、未来ヘの課題―科研費等の動向を踏まえて―」"
+  },
+  "publication_date": "2025-03-18",
+  "from_event_date": "2025-03-18",
+  "to_event_date": "2025-03-18",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49526886",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "49526886",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-03-24T04:38:33Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-03-24T04:38:33Z",
+  "presentation_title": {
+   "ja": "データ駆動型の歴史研究支援に向けた テキスト作成とその応用"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "キックオフフォーラム「日本史研究に関するデータフロー確立に向けて」"
+  },
+  "publication_date": "2025-02-21",
+  "from_event_date": "2025-02-21",
+  "to_event_date": "2025-02-21",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49104703",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "49104703",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-02-09T02:41:26Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-02-09T02:41:26Z",
+  "presentation_title": {
+   "ja": "デジタル・ヒューマニティーズ （DH）の概要と事例紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "文化資源学のこれまでとこれから"
+  },
+  "publication_date": "2025-02-08",
+  "from_event_date": "2025-02-08",
+  "to_event_date": "2025-02-08",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49104690",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "49104690",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-02-09T02:38:31Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-02-09T02:38:31Z",
+  "presentation_title": {
+   "ja": "TEIデータ構築の実践"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "千葉大学卓越大学院プログラム・人間文化研究機構DHコンソーシアム事業 DHウインターワークショップ"
+  },
+  "publication_date": "2025-02-04",
+  "from_event_date": "2025-02-03",
+  "to_event_date": "2025-02-05",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48693533",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48693533",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-12-12T04:21:22Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-12-12T04:21:22Z",
+  "presentation_title": {
+   "ja": "Linked Data with Old Illustrated Maps",
+   "en": "Linked Data with Old Illustrated Maps"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Aayano Kokaze"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Aayano Kokaze"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1",
+   "en": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1"
+  },
+  "publication_date": "2024-12-10",
+  "from_event_date": "2024-12-09",
+  "to_event_date": "2024-12-12",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "public_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48693526",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48693526",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-12-12T04:20:09Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-12-12T04:20:09Z",
+  "presentation_title": {
+   "ja": "暦日リソースの活用",
+   "en": "Applications of the calendar date resource"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1",
+   "en": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1"
+  },
+  "publication_date": "2024-12-09",
+  "from_event_date": "2024-12-09",
+  "to_event_date": "2024-12-12",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48588857",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48588857",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-12-02T12:08:15Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-12-02T12:08:15Z",
+  "presentation_title": {
+   "ja": "デジタル源氏物語​ 研究者と図書館職員との連携による​ 「源氏物語」研究プラットフォームの構築",
+   "en": "デジタル源氏物語​ 研究者と図書館職員との連携による​ 「源氏物語」研究プラットフォームの構築"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "裏源氏勉強会"
+    },
+    {
+     "name": "東京大学附属図書館職員有志"
+    },
+    {
+     "name": "教員によるデジタルアーカイブ活用に関する"
+    }
+   ],
+   "en": [
+    {
+     "name": "裏源氏勉強会"
+    },
+    {
+     "name": "東京大学附属図書館職員有志"
+    },
+    {
+     "name": "教員によるデジタルアーカイブ活用に関する"
+    }
+   ]
+  },
+  "event": {
+   "ja": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」",
+   "en": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」"
+  },
+  "publication_date": "2024-12-01",
+  "from_event_date": "2024-12-01",
+  "to_event_date": "2024-12-01",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48588819",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48588819",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-12-02T12:05:44Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-12-02T12:05:52Z",
+  "presentation_title": {
+   "ja": "前近代日本史史料を対象とした研究データ管理基盤の整備",
+   "en": "前近代日本史史料を対象とした研究データ管理基盤の整備"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」",
+   "en": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」"
+  },
+  "publication_date": "2024-12-01",
+  "from_event_date": "2024-12-01",
+  "to_event_date": "2024-12-01",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48588795",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48588795",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-12-02T12:02:39Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-12-02T12:02:39Z",
+  "presentation_title": {
+   "ja": "研究・教育ツールとしての日本デジタル文学地図",
+   "en": "研究・教育ツールとしての日本デジタル文学地図"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "飯倉 洋一"
+    },
+    {
+     "name": "アロカイ"
+    },
+    {
+     "name": "ユディット"
+    },
+    {
+     "name": "中尾 薫"
+    },
+    {
+     "name": "中村 覚"
+    },
+    {
+     "name": "黄 夢鴿"
+    },
+    {
+     "name": "樋口 純子"
+    }
+   ],
+   "en": [
+    {
+     "name": "飯倉 洋一"
+    },
+    {
+     "name": "アロカイユディット"
+    },
+    {
+     "name": "中尾 薫"
+    },
+    {
+     "name": "中村 覚"
+    },
+    {
+     "name": "黄 夢鴿"
+    },
+    {
+     "name": "樋口 純子"
+    }
+   ]
+  },
+  "event": {
+   "ja": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」",
+   "en": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」"
+  },
+  "publication_date": "2024-12-01",
+  "from_event_date": "2024-12-01",
+  "to_event_date": "2024-12-01",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48509170",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48509170",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-21T17:23:31Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-21T17:27:03Z",
+  "presentation_title": {
+   "ja": "Morrison Pamphlet database",
+   "en": "Morrison Pamphlet database"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "GEORGE ERNEST MORRISON A ONE-DAY SYMPOSIUM",
+   "en": "GEORGE ERNEST MORRISON A ONE-DAY SYMPOSIUM"
+  },
+  "publication_date": "2024-11-21",
+  "from_event_date": "2024-11-21",
+  "to_event_date": "2024-11-21",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "nominated_symposium",
+  "promoter": {
+   "ja": "State Library of New South Wales",
+   "en": "State Library of New South Wales"
+  },
+  "location": {
+   "ja": "State Library of New South Wales",
+   "en": "State Library of New South Wales"
+  },
+  "address_country": "AUS",
+  "description": {
+   "ja": "Hear about the database being developed to enhance the accessibility and utilization of the Morrison Pamphlets, by the Toyo Bunko. The use of IIIF for image distribution, OCR for full-text search, and various visualization techniques will be covered.",
+   "en": "Hear about the database being developed to enhance the accessibility and utilization of the Morrison Pamphlets, by the Toyo Bunko. The use of IIIF for image distribution, OCR for full-text search, and various visualization techniques will be covered."
+  },
+  "is_international_presentation": true,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "@id": "https://www.sl.nsw.gov.au/sites/default/files/2024-11/6262_GeorgeMorrison_program_final.pdf",
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48485965",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48485965",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T05:52:25Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-21T17:24:14Z",
+  "presentation_title": {
+   "ja": "Technologies Supporting the Digitalization of Historical Materials",
+   "en": "Technologies Supporting the Digitalization of Historical Materials"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "International Symposium Commemorating the 100 th Anniversary of the Toyo Bunko",
+   "en": "International Symposium Commemorating the 100 th Anniversary of the Toyo Bunko"
+  },
+  "publication_date": "2024-11-17",
+  "from_event_date": "2024-11-16",
+  "to_event_date": "2024-11-17",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "nominated_symposium",
+  "promoter": {
+   "ja": "東洋文庫"
+  },
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48485983",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48485983",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T05:56:30Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T05:56:30Z",
+  "presentation_title": {
+   "ja": "東京大学史料編纂所における史料編纂・歴史研究支援に関する取り組み",
+   "en": "Efforts to Support Historical Compilation and Research at the Historiographical Institute of the University of Tokyo"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第140回 国際ＡＲＣセミナー",
+   "en": "140th International ARC Seminar"
+  },
+  "publication_date": "2024-11-13",
+  "from_event_date": "2024-11-13",
+  "to_event_date": "2024-11-13",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48485970",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48485970",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T05:54:21Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T05:54:21Z",
+  "presentation_title": {
+   "ja": "System Using NDLOCR for Print Images of the Historiographical Institute The University of Tokyo",
+   "en": "System Using NDLOCR for Print Images of the Historiographical Institute The University of Tokyo"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Sophia Research Week presents the International Symposium: Showcasing the Japan Biographical Database (JBDB)",
+   "en": "Sophia Research Week presents the International Symposium: Showcasing the Japan Biographical Database (JBDB)"
+  },
+  "publication_date": "2024-11-09",
+  "from_event_date": "2024-11-09",
+  "to_event_date": "2024-11-09",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486058",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48486058",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T06:05:03Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T06:05:03Z",
+  "presentation_title": {
+   "ja": "DAテック話題提供"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会 第9回研究大会"
+  },
+  "publication_date": "2024-11-02",
+  "from_event_date": "2024-11-01",
+  "to_event_date": "2024-11-02",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486107",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48486107",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T06:12:20Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T06:12:20Z",
+  "presentation_title": {
+   "ja": "デジタルアーカイブ・人文情報学に関する技術紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第34回書学書道史学会大会"
+  },
+  "publication_date": "2024-10-26",
+  "from_event_date": "2024-10-26",
+  "to_event_date": "2024-10-27",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486084",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48486084",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T06:08:34Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T06:08:34Z",
+  "presentation_title": {
+   "ja": "Analysis of Issues When Creating OAIS-based Archival Information Packages: Through an Exploratory Survey Using an Online Questionnaire",
+   "en": "Analysis of Issues When Creating OAIS-based Archival Information Packages: Through an Exploratory Survey Using an Online Questionnaire"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Boyoung Kim"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Yasuyuki Minamiyama"
+    },
+    {
+     "name": "Hidenori Watanave"
+    }
+   ],
+   "en": [
+    {
+     "name": "Boyoung Kim"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Yasuyuki Minamiyama"
+    },
+    {
+     "name": "Hidenori Watanave"
+    }
+   ]
+  },
+  "event": {
+   "ja": "DCMI2024",
+   "en": "DCMI2024"
+  },
+  "publication_date": "2024-10-20",
+  "from_event_date": "2024-10-21",
+  "to_event_date": "2024-10-23",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486239",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48486239",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T06:23:26Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T06:23:26Z",
+  "presentation_title": {
+   "ja": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "山田 太造"
+    },
+    {
+     "name": "金 甫榮"
+    },
+    {
+     "name": "南山 泰之"
+    }
+   ]
+  },
+  "event": {
+   "ja": "研究データエコシステム構築事業シンポジウム2024"
+  },
+  "publication_date": "2024-10-08",
+  "from_event_date": "2024-10-08",
+  "to_event_date": "2024-10-08",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486144",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48486144",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T06:17:53Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T06:17:53Z",
+  "presentation_title": {
+   "ja": "東京大学史料編纂所における前近代日本史関係研究データの提供と利用",
+   "en": "東京大学史料編纂所における前近代日本史関係研究データの提供と利用"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "JADH2024プレシンポジウム | 人文学・社会科学データインフラストラクチャー強化事業 人文学データシンポジウム「人文学研究データに関する提供と利用のギャップ」",
+   "en": "JADH2024プレシンポジウム | 人文学・社会科学データインフラストラクチャー強化事業 人文学データシンポジウム「人文学研究データに関する提供と利用のギャップ」"
+  },
+  "publication_date": "2024-09-18",
+  "from_event_date": "2024-09-18",
+  "to_event_date": "2024-09-18",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486163",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48486163",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T06:20:30Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T06:21:05Z",
+  "presentation_title": {
+   "ja": "東京大学における人文学・社会科学データの共有・利活用に関する取組",
+   "en": "Initiatives for Sharing and Utilization of Humanities and Social Science Data at the University of Tokyo"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "三輪悟"
+    },
+    {
+     "name": "横内陳正"
+    },
+    {
+     "name": "渋谷綾子"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "平澤加奈子"
+    }
+   ],
+   "en": [
+    {
+     "name": "Taizo Yamada"
+    },
+    {
+     "name": "Satoshi Miwa"
+    },
+    {
+     "name": "Nobutada Yokouchi"
+    },
+    {
+     "name": "Ayako Shibutani"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Kanako Hirasawa"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第34回日本資料専門家欧州協会年次大会",
+   "en": "The 34th EAJRS Conference"
+  },
+  "publication_date": "2024-09-11",
+  "from_event_date": "2024-09-11",
+  "to_event_date": "2024-09-14",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486599",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "48486599",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T07:08:22Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T07:08:22Z",
+  "presentation_title": {
+   "ja": "歴史資料のデジタル化を支える技術",
+   "en": "歴史資料のデジタル化を支える技術"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタル化と歴史研究の未来―人文学・社会科学の協働",
+   "en": "デジタル化と歴史研究の未来―人文学・社会科学の協働"
+  },
+  "publication_date": "2024-09-07",
+  "from_event_date": "2024-09-07",
+  "to_event_date": "2024-09-07",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46855268",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "46855268",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-06-24T03:58:29Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T10:45:50Z",
+  "presentation_title": {
+   "ja": "AIPを作成・利用するツール紹介",
+   "en": "AIPを作成・利用するツール紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Japan Open Science Summit 2024",
+   "en": "Japan Open Science Summit 2024"
+  },
+  "publication_date": "2024-06-21",
+  "from_event_date": "2024-06-21",
+  "to_event_date": "2024-06-21",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "dataset": {
+   "dataset_name": "AIPを作成・利用する ツール紹介.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/46855268/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/46855268/attachment_file.pdf?thumbnail"
+  },
+  "promoter": {
+   "ja": "国立情報学研究所、科学技術振興機構、物質・材料研究機構、科学技術・学術政策研究所、 情報通信研究機構、学術資源リポジトリ協議会、情報知識学会、合同会社AMANE"
+  },
+  "location": {
+   "ja": "国立情報学研究所 12階 1208会議室"
+  },
+  "address_country": "JPN",
+  "is_international_presentation": false,
+  "is_international_collaboration": false,
+  "rm:is_open_access": true,
+  "identifiers": {
+   "rm:research_project_id": [
+    "45661896"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://zenodo.org/doi/10.5281/zenodo.12508032",
+    "label": "url",
+    "is_downloadable": true
+   },
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45661896",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46743571",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "46743571",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-06-10T00:00:25Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-06-10T00:00:25Z",
+  "presentation_title": {
+   "ja": "Analytical Support Tools for Historical Drawing Maps: Utilization and Development of IIIF Georeference Extension and Mirador Plugin",
+   "en": "Analytical Support Tools for Historical Drawing Maps: Utilization and Development of IIIF Georeference Extension and Mirador Plugin"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ]
+  },
+  "event": {
+   "ja": "2024 IIIF Annual Conference",
+   "en": "2024 IIIF Annual Conference"
+  },
+  "publication_date": "2024-06-04",
+  "from_event_date": "2024-06-04",
+  "to_event_date": "2024-06-07",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": true,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "@id": "https://iiif.io/event/2024/los-angeles/schedule/#112",
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46743543",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "46743543",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-06-09T23:57:35Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-06-09T23:58:23Z",
+  "presentation_title": {
+   "ja": "Cross-Institutional collaboration to create learning materials and metadata as LOD for promoting the use of digital cultural heritage in schools",
+   "en": "Cross-Institutional collaboration to create learning materials and metadata as LOD for promoting the use of digital cultural heritage in schools"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Masao OI"
+    },
+    {
+     "name": "Satoru MAKAMURA"
+    }
+   ],
+   "en": [
+    {
+     "name": "Masao OI"
+    },
+    {
+     "name": "Satoru MAKAMURA"
+    }
+   ]
+  },
+  "event": {
+   "ja": "DHNB 2024 (Digital Humanities in the Nordic and Baltic countries 8th Conference) from experimentation to experience: lessons learned from the intersections between digital humanities and cultural heritage, session #10:collaborations [Peer-reviewed]",
+   "en": "DHNB 2024 (Digital Humanities in the Nordic and Baltic countries 8th Conference) from experimentation to experience: lessons learned from the intersections between digital humanities and cultural heritage, session #10:collaborations [Peer-reviewed]"
+  },
+  "publication_date": "2024-05-30",
+  "from_event_date": "2024-05-27",
+  "to_event_date": "2024-05-31",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "promoter": {
+   "ja": "DHNB",
+   "en": "DHNB"
+  },
+  "location": {
+   "ja": "the University of Iceland School of Education, Reykjavík (Iceland)",
+   "en": "the University of Iceland School of Education, Reykjavík (Iceland)"
+  },
+  "address_country": "ISL",
+  "is_international_presentation": true,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "@id": "https://dhnb.eu/conferences/dhnb2024/",
+    "label": "url"
+   },
+   {
+    "is_downloadable": false,
+    "@id": "https://www.conftool.org/dhnb2024/index.php?page=browseSessions&form_date=2024-05-30&presentations=show",
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46018550",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "46018550",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-04-03T08:26:06Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-13T02:09:03Z",
+  "presentation_title": {
+   "ja": "戦中写真とデジタルヒューマニティーズ"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "ミライ世代と読む戦中写真～データを紡いで平和につなぐ～"
+  },
+  "publication_date": "2024-03-31",
+  "from_event_date": "2024-03-31",
+  "to_event_date": "2024-03-31",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "39508593"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45846290",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "45846290",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-03-19T00:51:26Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T12:00:55Z",
+  "presentation_title": {
+   "ja": "Domesday Bookの可視化システムの開発"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "「延喜式のデジタル技術による汎用化」プロジェクト研究会"
+  },
+  "publication_date": "2024-03-17",
+  "from_event_date": "2024-03-17",
+  "to_event_date": "2024-03-17",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "dataset": {
+   "dataset_name": "Domesday Bookの 可視化システムの開発.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/45846290/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/45846290/attachment_file.pdf?thumbnail"
+  },
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45846279",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "45846279",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-03-19T00:48:44Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T11:57:55Z",
+  "presentation_title": {
+   "ja": "人文学におけるLinked Dataの普及・教育"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "Linked Pasts Japan Kick-off"
+  },
+  "publication_date": "2024-03-08",
+  "from_event_date": "2024-03-07",
+  "to_event_date": "2024-03-10",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "dataset": {
+   "dataset_name": "人文学におけるLinked Data の普及・教育.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/45846279/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/45846279/attachment_file.pdf?thumbnail"
+  },
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45700819",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "45700819",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-03-02T03:44:05Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-13T02:09:58Z",
+  "presentation_title": {
+   "ja": "Cataloging images of historical materials taken by individual researchers: A case study of Ottoman documents of Bosnia",
+   "en": "Cataloging images of historical materials taken by individual researchers: A case study of Ottoman documents of Bosnia"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Natsuko Saji"
+    },
+    {
+     "name": "Satoru Nakamura"
+    }
+   ],
+   "en": [
+    {
+     "name": "Natsuko Saji"
+    },
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "The 3rd Islamic Trust Studies International Conference “Exploring the Tacit Knowledge of Trust Building and Connectivity amidst Predicaments”",
+   "en": "The 3rd Islamic Trust Studies International Conference “Exploring the Tacit Knowledge of Trust Building and Connectivity amidst Predicaments”"
+  },
+  "publication_date": "2024-03-02",
+  "from_event_date": "2024-03-01",
+  "to_event_date": "2024-03-03",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "poster_presentation",
+  "is_international_presentation": true,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "39508593"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45720828",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "45720828",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-03-04T13:00:37Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-03-04T13:00:37Z",
+  "presentation_title": {
+   "ja": "Introduction to Practice Examples of Digital Curation and Digital History with a Focus on Japanese Materials",
+   "en": "Introduction to Practice Examples of Digital Curation and Digital History with a Focus on Japanese Materials"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "21th CODH Seminar Digital History: Concepts and Practices",
+   "en": "21th CODH Seminar Digital History: Concepts and Practices"
+  },
+  "publication_date": "2024-03-04",
+  "from_event_date": "2024-03-04",
+  "to_event_date": "2024-03",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45667900",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "45667900",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-02-27T08:04:53Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-13T02:09:36Z",
+  "presentation_title": {
+   "ja": "持続性と利活用性を考慮したデジタルアーカイブ構築手法の提案",
+   "en": "Proposal to develop Digital Archive System considering Sustainability and Reusability"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "令和５年度第２回自然科学系アーカイブズ研究会",
+   "en": "令和５年度第２回自然科学系アーカイブズ研究会"
+  },
+  "publication_date": "2024-02-27",
+  "from_event_date": "2024-02-27",
+  "to_event_date": "2024-02-28",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "39508593"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "label": "rm:research_project_id"
+   }
+  ],
+  "x-en-source": {
+   "presentation_title": "https://cir.nii.ac.jp/crid/1390850092194337152"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45661845",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "45661845",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-02-26T09:21:06Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-04-14T23:43:49Z",
+  "presentation_title": {
+   "ja": "Development of a User-friendly Application to Support Long-term Digital Preservation Using Archivematica",
+   "en": "Development of a User-friendly Application to Support Long-term Digital Preservation Using Archivematica"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Kim Boyoung"
+    },
+    {
+     "name": "Yasuyuki Minamiyama"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Kim Boyoung"
+    },
+    {
+     "name": "Yasuyuki Minamiyama"
+    }
+   ]
+  },
+  "event": {
+   "ja": "18th International Digital Curation Conference",
+   "en": "18th International Digital Curation Conference"
+  },
+  "publication_date": "2024-02-20",
+  "from_event_date": "2024-02-19",
+  "to_event_date": "2024-02-21",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": true,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45661788",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "45661788",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-02-26T09:13:12Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-02-26T09:13:12Z",
+  "presentation_title": {
+   "ja": "「日本のデジタル文学地図」の概要"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "黄夢鴿"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "教育ツールとしての日本デジタル文学地図"
+  },
+  "publication_date": "2024-02-17",
+  "from_event_date": "2024-02-17",
+  "to_event_date": "2024-02-17",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "39508596"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508596",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46157933",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "46157933",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-04-15T00:57:13Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-04-15T00:57:13Z",
+  "presentation_title": {
+   "ja": "通过WEB API实现史料古籍字形的交叉检索：以史料古籍字形探索的构建开发为例",
+   "en": "通过WEB API实现史料古籍字形的交叉检索：以史料古籍字形探索的构建开发为例"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "刘冠伟"
+    },
+    {
+     "name": "中村觉"
+    },
+    {
+     "name": "山田太造"
+    }
+   ],
+   "en": [
+    {
+     "name": "刘冠伟"
+    },
+    {
+     "name": "中村觉"
+    },
+    {
+     "name": "山田太造"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第十三屆漢字與漢字教育國際研討會",
+   "en": "第十三屆漢字與漢字教育國際研討會"
+  },
+  "publication_date": "2024-02-17",
+  "invited": false,
+  "languages": [
+   "zho"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": true,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/44305777",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "44305777",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-12-21T01:46:54Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-12-21T01:46:54Z",
+  "presentation_title": {
+   "ja": "東京大学史料編纂所における史料編纂・歴史研究支援に関する取り組み"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "歴博共同研究・日本歴史文化知 人文情報ユニット研究会 「DHのデータ構築の先にあるもの、研究の促進と広がり」"
+  },
+  "publication_date": "2023-12-15",
+  "invited": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/44305808",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "44305808",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-12-21T01:52:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-12-21T01:52:01Z",
+  "presentation_title": {
+   "ja": "日本史史料データワークフローの自動化に向けた取組"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "劉冠偉"
+    }
+   ]
+  },
+  "event": {
+   "ja": "DHSympo2023：国際シンポジウム「 デジタル・ヒューマニティーズと研究基盤 欧州と日本の最新トレンド」"
+  },
+  "publication_date": "2023-11-18",
+  "invited": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/44305782",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "44305782",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-12-21T01:48:27Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-04-23T21:14:48Z",
+  "presentation_title": {
+   "ja": "オープンソースのOCR処理プログラム 「NDLOCR」の応用事例紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会「第18回 DAショートトーク／産業のシーズを見つけよう！ 」"
+  },
+  "publication_date": "2023-10-27",
+  "invited": true,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "@id": "https://www.youtube.com/watch?v=pOmBTfj2yjk",
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46162059",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "46162059",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-04-15T05:18:18Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-01T12:07:27Z",
+  "presentation_title": {
+   "ja": "日本語史料を対象としたテキストエンコーディングの事例紹介",
+   "en": "日本語史料を対象としたテキストエンコーディングの事例紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "史料のハイパーテキスト化（ハイパーリンク）研究会",
+   "en": "史料のハイパーテキスト化（ハイパーリンク）研究会"
+  },
+  "publication_date": "2023-05-12",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "dataset": {
+   "dataset_name": "Introduction of Case Studies of Text Encoding for Japanese Historical Documents.pdf",
+   "dataset_type": "published",
+   "access_url": "https://researchmap.jp/nakamura.satoru/presentations/46162059/attachment_file.pdf",
+   "rm:media_type": "application/pdf",
+   "rm:use_password": false,
+   "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/46162059/attachment_file.pdf?thumbnail"
+  },
+  "is_international_presentation": false,
+  "is_international_collaboration": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/42060770",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "42060770",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-04-17T07:22:57Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-04-17T07:22:57Z",
+  "presentation_title": {
+   "ja": "「カルチュラル・ジャパン」に関する取り組み紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第141回デジタルアーカイブサロン"
+  },
+  "publication_date": "2023-04-14",
+  "from_event_date": "2023-04-14",
+  "to_event_date": "2023-04-14",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656265",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41656265",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-03-07T22:37:06Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-03-07T22:37:06Z",
+  "presentation_title": {
+   "ja": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望（ディスカッサント）",
+   "en": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望（ディスカッサント）"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望",
+   "en": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望"
+  },
+  "publication_date": "2023-03-06",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656256",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41656256",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-03-07T22:33:35Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-03-07T22:33:35Z",
+  "presentation_title": {
+   "ja": "ジャパンサーチAPIの利活用事例",
+   "en": "ジャパンサーチAPIの利活用事例"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "ジャパンサーチAPIハッカソン ―ミュージアム、図書館、地域で使えるサービスを作ろう！―",
+   "en": "ジャパンサーチAPIハッカソン ―ミュージアム、図書館、地域で使えるサービスを作ろう！―"
+  },
+  "publication_date": "2023-02-11",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656226",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41656226",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-03-07T22:22:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-03-07T22:22:59Z",
+  "presentation_title": {
+   "ja": "東京大学史料編纂所出版物を用いたNDLOCRの応用事例紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "2022年度「NDLデジタルライブラリーカフェ」"
+  },
+  "publication_date": "2023-01-18",
+  "invited": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41108148",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41108148",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-01-12T01:08:44Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-01-12T01:08:44Z",
+  "presentation_title": {
+   "ja": "TEIおよびTEIデータの活用について"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "前近代日本史情報国際センター研究会"
+  },
+  "publication_date": "2023-01-12",
+  "from_event_date": "2023-01-12",
+  "to_event_date": "2023-01-12",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41108144",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41108144",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-01-12T01:06:57Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-01-12T01:06:57Z",
+  "presentation_title": {
+   "ja": "水滸伝版本対照プログラムの作り方"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "2022-2023年度U-PARL協働型アジア研究プロジェクト３「東京大学蔵『水滸伝』諸版本デジタルデータの整備およびこれを用いた研究」第2回研究報告会"
+  },
+  "publication_date": "2023-01-10",
+  "from_event_date": "2023-01-10",
+  "to_event_date": "2023-01-10",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656244",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41656244",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-03-07T22:24:11Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-03-07T22:24:11Z",
+  "presentation_title": {
+   "ja": "Digital Tale of Genji: Development of a Research Support System for the Text of the Tale of Genji using IIIF, TEI, and Machine Learning",
+   "en": "Digital Tale of Genji: Development of a Research Support System for the Text of the Tale of Genji using IIIF, TEI, and Machine Learning"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Nakamura Satoru"
+    }
+   ]
+  },
+  "event": {
+   "ja": "The Digital Turn in Early Modern Japanese Studies",
+   "en": "The Digital Turn in Early Modern Japanese Studies"
+  },
+  "publication_date": "2022-12-02",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656245",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41656245",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-03-07T22:24:58Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-03-07T22:24:58Z",
+  "presentation_title": {
+   "ja": "Historical Knowledge Graph Creation with User-friendly Linked Data Editor",
+   "en": "Historical Knowledge Graph Creation with User-friendly Linked Data Editor"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Jun OGAWA"
+    },
+    {
+     "name": "Satoru NAKAMURA"
+    },
+    {
+     "name": "Asanobu KITAMOTO"
+    }
+   ],
+   "en": [
+    {
+     "name": "Jun OGAWA"
+    },
+    {
+     "name": "Satoru NAKAMURA"
+    },
+    {
+     "name": "Asanobu KITAMOTO"
+    }
+   ]
+  },
+  "event": {
+   "ja": "DH_BUDAPEST_2022 & DARIAH DAYS",
+   "en": "DH_BUDAPEST_2022 & DARIAH DAYS"
+  },
+  "publication_date": "2022-11-23",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656254",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "41656254",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-03-07T22:32:10Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-03-07T22:32:10Z",
+  "presentation_title": {
+   "ja": "OCRテキストを用いた幕末維新史料・横断検索システムの開発",
+   "en": "OCRテキストを用いた幕末維新史料・横断検索システムの開発"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "明治維新史学会例会",
+   "en": "明治維新史学会例会"
+  },
+  "publication_date": "2022-10-29",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/39996013",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "39996013",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2022-09-16T13:12:26Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-09-16T13:12:26Z",
+  "presentation_title": {
+   "ja": "Digital Archives of the Shoho Ryukyu Kuniezu and Wako-zukan",
+   "en": "Digital Archives of the Shoho Ryukyu Kuniezu and Wako-zukan"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Kuroshima Satoru"
+    },
+    {
+     "name": "Suda Makiko"
+    },
+    {
+     "name": "Nakamura Satoru"
+    }
+   ],
+   "en": [
+    {
+     "name": "Kuroshima Satoru"
+    },
+    {
+     "name": "Suda Makiko"
+    },
+    {
+     "name": "Nakamura Satoru"
+    }
+   ]
+  },
+  "event": {
+   "ja": "The 32nd EAJRS Conference",
+   "en": "The 32nd EAJRS Conference"
+  },
+  "publication_date": "2022-09-16",
+  "from_event_date": "2022-09-16",
+  "to_event_date": "2022-09-16",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "rm:research_project_id": [
+    "32708239"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/39756308",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "39756308",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2022-08-27T07:24:07Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-08-27T07:24:07Z",
+  "presentation_title": {
+   "ja": "源氏物语文本研究支援系统 《数字版源氏物语》的开发",
+   "en": "源氏物语文本研究支援系统 《数字版源氏物语》的开发"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第21回中国古典小説・戯曲文献及びそのデジタル化国際学会",
+   "en": "第21届中国古典小说戏曲文献暨数字化国际研讨会"
+  },
+  "publication_date": "2022-08-29",
+  "from_event_date": "2022-08-29",
+  "to_event_date": "2022-08-29",
+  "invited": true,
+  "languages": [
+   "zho"
+  ],
+  "presentation_type": "keynote_oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/36122180",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "36122180",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-12-26T07:05:20Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-12-26T07:05:20Z",
+  "presentation_title": {
+   "ja": "TEIを用いた『延喜式』テキストの構造化とビューアの開発"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "総合書物学シンポジウム 「総合書物学」の現在"
+  },
+  "publication_date": "2021-12-26",
+  "from_event_date": "2021-12-26",
+  "to_event_date": "2021-12-26",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/35987582",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "35987582",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-12-05T00:28:46Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-12-05T00:28:46Z",
+  "presentation_title": {
+   "ja": "史料編纂所の新たな画像公開方法について―倭寇図巻デジタルアーカイブの構築を例として―"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "須田牧子"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "東京大学史料編纂所画像史料解析センター・前近代日本史情報国際センター主催の公開研究集会「新たな画像公開方法とデジタル連携」"
+  },
+  "publication_date": "2021-12-03",
+  "from_event_date": "2021-12-03",
+  "to_event_date": "2021-12-03",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/35987585",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "35987585",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-12-05T00:31:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-12-05T00:31:16Z",
+  "presentation_title": {
+   "ja": "ジャパンサーチのAPIを用いたオープンデータの活用事例の紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "研究データ利活用協議会（RDUF）公開シンポジウム"
+  },
+  "publication_date": "2021-11-22",
+  "from_event_date": "2021-11-22",
+  "to_event_date": "2021-11-22",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/34057145",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "34057145",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-10-17T15:33:47Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-10-17T15:33:47Z",
+  "presentation_title": {
+   "ja": "分野横断型統合ポータルへの視線",
+   "en": "Lecture 3-3: Consideration of cross-disciplinary integrated portal"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会, 第 6 回研究大会第 2 部企画セッション, セッション 1. デジタルアーキビストの在り方"
+  },
+  "publication_date": "2021-10-16",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false,
+  "x-en-source": {
+   "presentation_title": "https://cir.nii.ac.jp/crid/1390854717648641792"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/34057135",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "34057135",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-10-17T15:31:36Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-10-17T15:31:36Z",
+  "presentation_title": {
+   "ja": "カルチュラル・ジャパンを使ってもらう",
+   "en": "Lecture 5-1: Getting people to use Cultural Japan"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会, 第 6 回研究大会第 2 部サテライト・セッション, 技術部会・ジャパンサーチ研究会共催「ジャパンサーチの活用例としてのカルチュラル・ジャパン」"
+  },
+  "publication_date": "2021-10-12",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false,
+  "x-en-source": {
+   "presentation_title": "https://cir.nii.ac.jp/crid/1390010292705794560"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/33631794",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "33631794",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-09-10T06:36:42Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-09-10T06:36:42Z",
+  "presentation_title": {
+   "ja": "多面的な日本史研究に向けたデータの長期利用と共有・連結化",
+   "en": "多面的な日本史研究に向けたデータの長期利用と共有・連結化"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "渋谷綾子"
+    },
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "平澤加奈子"
+    },
+    {
+     "name": "山田俊幸"
+    },
+    {
+     "name": "渡邉要一郎"
+    },
+    {
+     "name": "大向一輝"
+    }
+   ],
+   "en": [
+    {
+     "name": "渋谷綾子"
+    },
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "平澤加奈子"
+    },
+    {
+     "name": "山田俊幸"
+    },
+    {
+     "name": "渡邉要一郎"
+    },
+    {
+     "name": "大向一輝"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第31回日本資料専門家欧州協会年次大会",
+   "en": "第31回日本資料専門家欧州協会年次大会"
+  },
+  "publication_date": "2021-09-16",
+  "from_event_date": "2021-09-15",
+  "to_event_date": "2021-09-18",
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/33631753",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "33631753",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-09-10T06:34:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-09-10T06:34:59Z",
+  "presentation_title": {
+   "ja": "東京大学における日本史史料の長期利用とデータ共有・連結化"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "渋谷綾子"
+    },
+    {
+     "name": "大向一輝"
+    },
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "渡邉要一郎"
+    },
+    {
+     "name": "平澤加奈子"
+    },
+    {
+     "name": "山田俊幸"
+    }
+   ]
+  },
+  "event": {
+   "ja": "日本デジタル・ヒューマニティーズ学会第11回年次シンポジウム（JADH2021）"
+  },
+  "publication_date": "2021-09-06",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/32844912",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "32844912",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-06-20T05:37:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-06-20T05:37:17Z",
+  "presentation_title": {
+   "ja": "研究資源の共有と持続可能性の追究――オンライン・データベースDatabase of Historical Monuments in Islamic Cairoの制作を通じて"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "熊倉和歌子"
+    },
+    {
+     "name": "深見奈緒子"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "佐藤将"
+    },
+    {
+     "name": "吉村武典"
+    },
+    {
+     "name": "宍戸克実"
+    }
+   ]
+  },
+  "event": {
+   "ja": "東京外国語大学アジア・アフリカ言語文化研究所 2021年度海外学術調査フォーラム"
+  },
+  "publication_date": "2021-06-20",
+  "from_event_date": "2021-06-20",
+  "to_event_date": "2021-06-20",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "poster_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/32844922",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "32844922",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-06-20T05:39:41Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-06-20T05:39:41Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業におけるデータ保存の取り組み"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "ジャパン・オープンサイエンス・サミット2021"
+  },
+  "publication_date": "2021-06-15",
+  "from_event_date": "2021-06-14",
+  "to_event_date": "2021-06-18",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/32765762",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "32765762",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-06-11T04:28:35Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-06-11T04:28:35Z",
+  "presentation_title": {
+   "ja": "ジャパンサーチとの連携とその活用"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "専門図書館協議会 2021年度 全国研究集会"
+  },
+  "publication_date": "2021-06-09",
+  "from_event_date": "2021-06-08",
+  "to_event_date": "2021-06-09",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31963530",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "31963530",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-03-23T04:04:52Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-03-23T04:04:52Z",
+  "presentation_title": {
+   "ja": "機械は紙を見分けられるのか―紙質観察画像データベースの構築と画像分類における機械学習技術応用の試み―"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "徐小潔"
+    },
+    {
+     "name": "段宇"
+    },
+    {
+     "name": "多々良圭介"
+    }
+   ]
+  },
+  "event": {
+   "ja": "紙のレンズから見た古典籍 -- 高精細デジタルマイクロスコープの世界"
+  },
+  "publication_date": "2021-03-14",
+  "from_event_date": "2021-03-13",
+  "to_event_date": "2021-03-14",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31585200",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "31585200",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-02-04T06:50:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-02-04T06:50:17Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業の取り組みとその利活用について"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "2020年度KU-ORCAS国際シンポジウム：デジタルヒューマニティーズ推進のための環境構築とその課題"
+  },
+  "publication_date": "2021-02-27",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31584982",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "31584982",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-02-04T06:46:45Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-02-04T06:46:45Z",
+  "presentation_title": {
+   "ja": "IIIF Curation Platformを用いたデジタルアーカイブの活用"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "第14回CODHセミナー：IIIF Curation Platform利活用レシピ100連発"
+  },
+  "publication_date": "2021-02-18",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31603093",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "31603093",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-02-07T12:04:37Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-02-07T12:04:37Z",
+  "presentation_title": {
+   "ja": "平賀譲における造船学と粛学のあいだ"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "大和裕幸"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "東京大学工学部11号館HASEKO-KUMA HALLアカデミックセミナー#001・ビブリオシリーズ「吉見俊哉/森本祥子編著『東大という思想: 群像としての近代知』工学系編」"
+  },
+  "publication_date": "2021-02-06",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31141793",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "31141793",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-12-08T07:03:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-12-08T07:03:16Z",
+  "presentation_title": {
+   "ja": "源氏物語本文研究支援システム「デジタル源氏物語」の開発におけるIIIFとTEIの活用"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "U-PARL [協働型アジア研究オンラインセミナー]IIIFに準拠した画像公開の方法とTEIとの連携"
+  },
+  "publication_date": "2020-12-01",
+  "invited": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31141449",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "31141449",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-12-08T06:23:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-12-08T06:23:01Z",
+  "presentation_title": {
+   "ja": "「デジタル源氏物語」の構築と展開"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "田村隆"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "中村美里"
+    },
+    {
+     "name": "永崎研宣"
+    }
+   ]
+  },
+  "event": {
+   "ja": "国文学研究資料館 第6回日本語の歴史的典籍国際研究集会"
+  },
+  "publication_date": "2020-11-07",
+  "invited": true,
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31141924",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "31141924",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-12-08T07:11:48Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-12-08T07:11:48Z",
+  "presentation_title": {
+   "ja": "ジャパンサーチとカルチュラル・ジャパン"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "図書館総合展 2020年度 フォーラム 正式公開となったジャパンサーチを使ってみる"
+  },
+  "publication_date": "2020-11-06",
+  "invited": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/30519871",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "30519871",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-10-19T22:14:25Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-10-19T22:14:46Z",
+  "presentation_title": {
+   "ja": "Omeka Sを用いたIIIF対応デジタルアーカイブ構築の実際",
+   "en": "Omeka Sを用いたIIIF対応デジタルアーカイブ構築の実際"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "CMSを利用したデジタルアーカイブの構築",
+   "en": "CMSを利用したデジタルアーカイブの構築"
+  },
+  "publication_date": "2020-09-11",
+  "from_event_date": "2020-09-11",
+  "to_event_date": "2020-09-11",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "@id": "http://www.tulips.tsukuba.ac.jp/lib/ja/information/20200806",
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/27840068",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "27840068",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-06-18T01:35:51Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-06-18T01:35:51Z",
+  "presentation_title": {
+   "ja": "Cultural Japan -- 日本文化に関する情報源のディスカバリーシステム",
+   "en": "Cultural Japan -- Discovery System for Cultural Japanese Resources"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "event": {
+   "ja": "IIIF Week: Japan Showcase 「日本におけるIIIF関連活動の紹介」",
+   "en": "IIIF Week: Japan Showcase"
+  },
+  "publication_date": "2020-06-03",
+  "from_event_date": "2020-06-03",
+  "to_event_date": "2020-06-03",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/24533130",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "24533130",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-02-07T13:13:26Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-02-07T13:13:26Z",
+  "presentation_title": {
+   "ja": "東京大学発のデジタル文化資源について"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "文化資源学会「デジタル文化資源の未来」シンポジウム"
+  },
+  "publication_date": "2020-01-26",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451891",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "20451891",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-12-11T10:28:27Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-11T10:29:19Z",
+  "presentation_title": {
+   "ja": "Update: Hieratic Database Project (with IIIF system)",
+   "en": "Update: Hieratic Database Project (with IIIF system)"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Masakatsu Nagai"
+    },
+    {
+     "name": "Toshihito Waki"
+    },
+    {
+     "name": "Yona Takahashi"
+    },
+    {
+     "name": "Satoru Nakamura"
+    }
+   ],
+   "en": [
+    {
+     "name": "Masakatsu Nagai"
+    },
+    {
+     "name": "Toshihito Waki"
+    },
+    {
+     "name": "Yona Takahashi"
+    },
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "Masakatsu Nagai, Toshihito Waki, Yona Takahashi, Satoru Nakamura",
+   "en": "Masakatsu Nagai, Toshihito Waki, Yona Takahashi, Satoru Nakamura"
+  },
+  "event": {
+   "ja": "Ägyptologische „Binsen“-Weisheiten IV",
+   "en": "Ägyptologische „Binsen“-Weisheiten IV"
+  },
+  "publication_date": "2019-12-11",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "location": {
+   "ja": "Mainz",
+   "en": "Mainz"
+  },
+  "is_international_presentation": true,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://aku.uni-mainz.de/aegyptologische-binsen-weisheiten-iv/"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451867",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "20451867",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-12-11T10:13:52Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-11T10:13:52Z",
+  "presentation_title": {
+   "ja": "IIIF ハンズオンワークショップ：アノテーションやキュレーションを体験する"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "東京外国語大学アジア・アフリカ言語文化研究所情報資源利用研究センター（IRC）ワークショップ IIIF［トリプル・アイ・エフ］を使ってみよう"
+  },
+  "publication_date": "2019-12-04",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://irc.aa.tufs.ac.jp/news/ircws-20191204.html"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451870",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "20451870",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-12-11T10:15:22Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-11T10:15:22Z",
+  "presentation_title": {
+   "ja": "デジタルヒューマニティーズの研究動向と技術紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "情報化時代の東洋学 ーデジタルアーカイブスの現状と課題ー"
+  },
+  "publication_date": "2019-11-30",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://www.ku-orcas.kansai-u.ac.jp/news/20191030_521/"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451874",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "20451874",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-12-11T10:16:55Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-11T10:16:55Z",
+  "presentation_title": {
+   "ja": "デジタルアーカイブ活用のために 最新技術の紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "第3回東京大学学術資産アーカイブ化推進室主催セミナー"
+  },
+  "publication_date": "2019-11-29",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/event/20191015"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451886",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "20451886",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-12-11T10:23:40Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-11T10:23:40Z",
+  "presentation_title": {
+   "ja": "青空文庫TEI勉強会 in 図書館総合展"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "岡田一祐"
+    },
+    {
+     "name": "永崎研宣"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村覚, 岡田一祐, 永崎研宣"
+  },
+  "event": {
+   "ja": "OpenGLAM JAPAN 図書館総合展2019 ブース＆フォーラム「〈Open〉のための逗留地」"
+  },
+  "publication_date": "2019-11-14",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://openglam.github.io/LF2019.html"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451882",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "20451882",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-12-11T10:21:04Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-11T10:22:07Z",
+  "presentation_title": {
+   "ja": "IIIF勉強会 in 図書館総合展"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "岡田一祐"
+    },
+    {
+     "name": "永崎研宣"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村覚, 岡田一祐, 永崎研宣"
+  },
+  "event": {
+   "ja": "OpenGLAM JAPAN 図書館総合展2019 ブース＆フォーラム「〈Open〉のための逗留地」"
+  },
+  "publication_date": "2019-11-14",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://openglam.github.io/LF2019.html"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12994901",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12994901",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-31T01:29:20Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-31T01:29:20Z",
+  "presentation_title": {
+   "ja": "東京大学学術資産等アーカイブズポータルの構築プロジェクト"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "前田朗"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "前田朗, 中村覚"
+  },
+  "event": {
+   "ja": "Code4Lib JAPANカンファレンス2019"
+  },
+  "publication_date": "2019-09-08",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12994904",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12994904",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-31T01:35:08Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-31T01:35:27Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業 －学術資産等の公開と活用－"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "東京大学学術資産アーカイブ化推進室"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村覚（東京大学学術資産アーカイブ化推進室）"
+  },
+  "event": {
+   "ja": "データ活用社会創成シンポジウム"
+  },
+  "publication_date": "2019-09-02",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_symposium",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12994902",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12994902",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-31T01:31:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-31T01:31:16Z",
+  "presentation_title": {
+   "ja": "Work shop on TEI by SIG-EA/JP",
+   "en": "Work shop on TEI by SIG-EA/JP"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Kazuhiro Okada"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Kiyonori Nagasaki"
+    }
+   ],
+   "en": [
+    {
+     "name": "Kazuhiro Okada"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Kiyonori Nagasaki"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "Kazuhiro Okada,Satoru Nakamura,Kiyonori Nagasaki",
+   "en": "Kazuhiro Okada,Satoru Nakamura,Kiyonori Nagasaki"
+  },
+  "event": {
+   "ja": "The 9th Conference of Japanese Association for Digital Humanities",
+   "en": "The 9th Conference of Japanese Association for Digital Humanities"
+  },
+  "publication_date": "2019-08-29",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "nominated_symposium",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420381",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12420381",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:51:30Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:51:30Z",
+  "presentation_title": {
+   "ja": "ジャパンサーチのメタデータ利活用事例：ジャパンサーチを使う"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "ジャパンサーチ発進！～連携拡大に向けて"
+  },
+  "publication_date": "2019-07-17",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.ndl.go.jp/jp/event/events/201907jps.html"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420388",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12420388",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:56:19Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:56:19Z",
+  "presentation_title": {
+   "ja": "DH支援システムを用いたボスニアのカトリック修道院所蔵のオスマン・ トルコ語文書群のデータ整理"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "佐治奈通子"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "佐治奈通子, 中村覚"
+  },
+  "event": {
+   "ja": "2019年度 海外学術調査フェスタ"
+  },
+  "publication_date": "2019-07-06",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_symposium",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://www.aa.tufs.ac.jp/~gisr/forum/2019/festa.html"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420390",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12420390",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:59:18Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:59:18Z",
+  "presentation_title": {
+   "ja": "東京大学学術資産等アーカイブズポータルが提供するLODとその活用例"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "LODチャレンジ2019ミートアップ"
+  },
+  "publication_date": "2019-07-05",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://2019.lodc.jp/archives/2019/meetup.html"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420389",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12420389",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T07:58:31Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:58:31Z",
+  "presentation_title": {
+   "ja": "ジャパンサーチが提供するLODとその活用例"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "LODチャレンジ2019ミートアップ"
+  },
+  "publication_date": "2019-07-05",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://2019.lodc.jp/archives/2019/meetup.html"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420405",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12420405",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T08:15:14Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T08:15:43Z",
+  "presentation_title": {
+   "ja": "Digital Humanities for Japanese Culture: Resources and Methods",
+   "en": "Digital Humanities for Japanese Culture: Resources and Methods"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "Kiyonori Nagasaki"
+    },
+    {
+     "name": "Asanobu Kitamoto"
+    },
+    {
+     "name": "Yuta Hashimoto"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Tatsuki Sekino"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ],
+   "en": [
+    {
+     "name": "Kiyonori Nagasaki"
+    },
+    {
+     "name": "Asanobu Kitamoto"
+    },
+    {
+     "name": "Yuta Hashimoto"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Tatsuki Sekino"
+    },
+    {
+     "name": "Taizo Yamada"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "Kiyonori Nagasaki, Asanobu Kitamoto, Yuta Hashimoto, Satoru Nakamura, Tatsuki Sekino, and Taizo Yamada",
+   "en": "Kiyonori Nagasaki, Asanobu Kitamoto, Yuta Hashimoto, Satoru Nakamura, Tatsuki Sekino, and Taizo Yamada"
+  },
+  "event": {
+   "ja": "Digital Humanities Summer Institute",
+   "en": "Digital Humanities Summer Institute"
+  },
+  "publication_date": "2019-06-03",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": true,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://www.dhsi.org/courses.php#JapanDH"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/10985839",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "10985839",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-05-29T15:30:15Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:52:32Z",
+  "presentation_title": {
+   "ja": "国立国会図書館をめぐるデータオープン化の現状と展望 ～データの利活用促進に向けた取組～ 利活用サービスの実際"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "Japan Open Science Summit 2019"
+  },
+  "publication_date": "2019-05-27",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://joss.rcos.nii.ac.jp/session/0527/?id=se_97"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/10985841",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "10985841",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-05-29T15:32:52Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T07:53:22Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業 - 学術資産の公開と活用 -"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "国立大学共同利用・共同研究拠点協議会 知の拠点セミナー"
+  },
+  "publication_date": "2019-04-19",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://www.kyoten.org/seminar/H31/85/"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420395",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "12420395",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T08:01:42Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T08:01:42Z",
+  "presentation_title": {
+   "ja": "チュートリアル「Omeka」"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "宮本隆史"
+    },
+    {
+     "name": "元ナミ"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村覚, 宮本隆史, 元ナミ"
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会第3回研究大会"
+  },
+  "publication_date": "2019-03-15",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://digitalarchivejapan.org/kenkyutaikai/3rd/tutorial"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/7085792",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "7085792",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-01-31T13:44:15Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-02-10T01:23:11Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業におけるオープンデータに関する取り組み"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "シンポジウム 「オープンデータと大学」| 九州大学附属図書館"
+  },
+  "publication_date": "2019-01-30",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://hdl.handle.net/2324/2197530"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/4348711",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "4348711",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-12-08T22:57:38Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-05-14T03:51:42Z",
+  "presentation_title": {
+   "ja": "Usage of Digitized “Daimin-chiri-no-zu”",
+   "en": "Usage of Digitized “Daimin-chiri-no-zu”"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "NAKAMURA Satoru"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚",
+   "en": "NAKAMURA Satoru"
+  },
+  "event": {
+   "ja": "Old Maps in Asia: Basic Information and Perspective for New Research, The Seventh International Symposium of Inter-Asia Research Networks",
+   "en": "Old Maps in Asia: Basic Information and Perspective for New Research, The Seventh International Symposium of Inter-Asia Research Networks"
+  },
+  "publication_date": "2018-12-08",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "others",
+  "is_international_presentation": true,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://id.nii.ac.jp/1629/00007055/"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/3129068",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "3129068",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-11-30T09:13:06Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-11-30T09:13:22Z",
+  "presentation_title": {
+   "ja": "大学が公開するIIIFデータ"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "じんもんこん・総合資料学共催セッション「歴史研究と人文研究のためのデータを学ぶ」"
+  },
+  "publication_date": "2018-12-02",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.metaresource.jp/2018jmc/"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/6942268",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "6942268",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-01-25T01:29:28Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-01-25T01:29:28Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業の進捗状況"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "第2回東京大学学術資産アーカイブ化推進室主催セミナー"
+  },
+  "publication_date": "2018-11-22",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://hdl.handle.net/2261/00076473"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505074",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "22505074",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-11-18T07:13:15Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-11-18T07:13:15Z",
+  "presentation_title": {
+   "ja": "Omekaワークショップ"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "歴史災害研究のためのオープンデータ・ショーケース"
+  },
+  "publication_date": "2018-11-20",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505068",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "22505068",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-11-18T07:11:41Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-11-18T07:12:01Z",
+  "presentation_title": {
+   "ja": "「IIIF Discovery in Japan」について"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "歴史災害研究のためのオープンデータ・ショーケース"
+  },
+  "publication_date": "2018-11-19",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505037",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "22505037",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-11-18T07:09:19Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-11-18T07:09:19Z",
+  "presentation_title": {
+   "ja": "NCC Digital Scholarship Workshop: IIIF",
+   "en": "NCC Digital Scholarship Workshop: IIIF"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "永崎研宣"
+    },
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Kiyonori NAGASAKI"
+    },
+    {
+     "name": "Satoru NAKAMURA"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "永崎研宣, 中村覚",
+   "en": "Kiyonori NAGASAKI, Satoru NAKAMURA"
+  },
+  "event": {
+   "ja": "NCC Digital Scholarship Workshop November 15-16, 2018",
+   "en": "NCC Digital Scholarship Workshop November 15-16, 2018"
+  },
+  "publication_date": "2018-11-16",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "public_discourse",
+  "promoter": {
+   "ja": "北米日本研究資料調整協議会",
+   "en": "North American Coordinating Council on Japanese Library Resources"
+  },
+  "location": {
+   "ja": "Princeton University",
+   "en": "Princeton University"
+  },
+  "is_international_presentation": true,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://guides.nccjapan.org/homepage/news/ncc-digital-scholarship-workshop-november-15-16-2018"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505376",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "22505376",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-11-18T09:23:36Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-11-18T09:23:36Z",
+  "presentation_title": {
+   "ja": "Tokyo Digital History活動紹介"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "人文情報学の諸相 - デジタル・ヒューマニティーズ 東京大学大学院横断型教育プログラム"
+  },
+  "publication_date": "2018-11-07",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/21535282",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "21535282",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-10-31T01:50:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-10-31T01:50:16Z",
+  "presentation_title": {
+   "ja": "デジタルアーカイブの技術（IIIFとOmeka体験）"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "第20回図書館総合展メーカーズ・ラボ：図書館・博物館（美術館）・文書館を拓く技術とは"
+  },
+  "publication_date": "2018-10-30",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.slideshare.net/satorunakamura7/iiifomeka/"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19699974",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "19699974",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-09-14T01:38:51Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-09-14T01:38:51Z",
+  "presentation_title": {
+   "ja": "Integration of TEI and IIIF",
+   "en": "Integration of TEI and IIIF"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "NAKAMURA Satoru"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚",
+   "en": "NAKAMURA Satoru"
+  },
+  "event": {
+   "ja": "TEI SIG East Asian / Japanese Meeting 2018",
+   "en": "TEI SIG East Asian / Japanese Meeting 2018"
+  },
+  "publication_date": "2018-09-11",
+  "invited": true,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "nominated_symposium",
+  "is_international_presentation": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19193790",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "19193790",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-29T12:48:49Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-02-10T01:28:25Z",
+  "presentation_title": {
+   "ja": "Omekaを用いたデジタルコレクションの公開と活用：東京大学デジタルアーカイブズ構築事業における構築事例"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "Code4Lib JAPANカンファレンス2018"
+  },
+  "publication_date": "2018-09-02",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.slideshare.net/satorunakamura7/omeka-112638897"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19178669",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "19178669",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-25T23:50:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-07-25T23:50:59Z",
+  "presentation_title": {
+   "ja": "『百科全書』項目間ネットワークの可視化モデルの実装"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "山王綾乃"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "小風尚樹"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "山王綾乃, 中村覚, 小風尚樹"
+  },
+  "event": {
+   "ja": "『百科全書』・啓蒙研究会"
+  },
+  "publication_date": "2018-07-21",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19151962",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "19151962",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-22T01:49:52Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-07-22T01:49:52Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業：学術資産の利活用に向けた取り組み"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "漢字文献情報処理研究会2018年夏期公開シンポジウム「教育・研究資源としてのデジタルアーカイブ：その管理・活用・保存」"
+  },
+  "publication_date": "2018-07-21",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "nominated_symposium",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19077741",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "19077741",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-09T13:34:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-07-09T13:34:01Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業について"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "国際シンポジウム：デジタル時代における人文学の学術基盤をめぐって"
+  },
+  "publication_date": "2018-07-06",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18648977",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18648977",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-05-07T03:24:32Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-05-07T03:24:32Z",
+  "presentation_title": {
+   "ja": "軍艦から拓本まで 〜東京大学のデジタル文化資源"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "文化資源学会 展望プロジェクト デジタル文化資源の未来"
+  },
+  "publication_date": "2018-04-29",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "invited_oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18193204",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18193204",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-03-01T06:36:25Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-03-01T06:39:04Z",
+  "presentation_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業とLOD（Linked Open Data）による利活用"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "第6回東北大学史料館アーカイブズセミナー"
+  },
+  "publication_date": "2018-02-28",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "location": {
+   "ja": "東北大学附属図書館本館"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139252",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18139252",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T06:11:52Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T06:32:21Z",
+  "presentation_title": {
+   "ja": "LOD（Linked Open Data）について"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "東京大学学術資産アーカイブ化推進室主催セミナー「学術資産アーカイブズとメタデータ」"
+  },
+  "publication_date": "2018-02-13",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "promoter": {
+   "ja": "東京大学学術資産アーカイブ化推進室"
+  },
+  "location": {
+   "ja": "東京大学医学部総合中央館"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/event/20180112"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139249",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18139249",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T06:10:25Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T10:15:49Z",
+  "presentation_title": {
+   "ja": "東京大学学術資産等アーカイブズシステム(仮称)について"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "東京大学学術資産アーカイブ化推進室主催セミナー「学術資産アーカイブズとメタデータ」"
+  },
+  "publication_date": "2018-02-13",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "promoter": {
+   "ja": "東京大学学術資産アーカイブ化推進室"
+  },
+  "location": {
+   "ja": "東京大学医学部総合中央館"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/event/20180112"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139245",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18139245",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T06:03:51Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T10:17:09Z",
+  "presentation_title": {
+   "ja": "平賀譲文書 ― デジタルアーカイブを利用した歴史学の研究手法とそれを支える情報技術"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "大和裕幸"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "大和裕幸, 中村覚"
+  },
+  "event": {
+   "ja": "東京大学柏図書館第16回サイエンスカフェ"
+  },
+  "publication_date": "2018-01-19",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "promoter": {
+   "ja": "東京大学柏図書館"
+  },
+  "location": {
+   "ja": "東京大学柏図書館"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/kashiwa/news/20180105"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139258",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18139258",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T06:25:48Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T06:25:48Z",
+  "presentation_title": {
+   "ja": "デジタルアーカイブ管理ツールであるOmeka チュートリアル"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "じんもんこん2017国立歴史民俗博物館 企画セッション「歴史研究と人文研究のためのツールを学ぶ」"
+  },
+  "publication_date": "2017-12-10",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "location": {
+   "ja": "大阪市立大学 学術情報総合センター"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://www.metaresource.jp/2017%E5%B9%B412%E6%9C%8810%E6%97%A5%E3%80%80%E3%81%98%E3%82%93%E3%82%82%E3%82%93%E3%81%93%E3%82%932017%E6%AD%B4%E5%8D%9A%E5%85%B1%E5%82%AC%E4%BC%81%E7%94%BB%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7/"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139259",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18139259",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T06:29:29Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T10:16:33Z",
+  "presentation_title": {
+   "ja": "flickrにもう一工夫でできること"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "アジアンライブラリーカフェno.002 古典籍 on flickr!～漢籍･法帖を写真サイトでオープンしてみると～"
+  },
+  "publication_date": "2017-10-20",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "public_discourse",
+  "promoter": {
+   "ja": "東京大学附属図書館アジア研究図書館上廣倫理財団寄付研究部門"
+  },
+  "location": {
+   "ja": "東京大学伊藤国際学術研究センター"
+  },
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "is_downloadable": false,
+    "label": "url",
+    "@id": "http://u-parl.lib.u-tokyo.ac.jp/archives/japanese/asianlibrarycafe2"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139271",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "18139271",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T10:22:58Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:19:53Z",
+  "presentation_title": {
+   "ja": "デジタルアーカイブとLinked Dataを用いた歴史学研究支援に関する研究"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "presenters_text": {
+   "ja": "中村 覚"
+  },
+  "event": {
+   "ja": "第5回ナショナルデジタルアーカイブ研究会"
+  },
+  "publication_date": "2017",
+  "invited": true,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": false,
+  "rm:is_open_access": false
+ }
+]

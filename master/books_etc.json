@@ -1,0 +1,853 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/55220947",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "55220947",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-10-10T03:18:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-10-10T03:18:01Z",
+  "book_title": {
+   "ja": "日本古典文学DHシリーズ 源氏物語篇"
+  },
+  "book_owner_role": "contributor",
+  "authors": {
+   "ja": [
+    {
+     "name": "海野圭介"
+    },
+    {
+     "name": "加藤弓枝"
+    },
+    {
+     "name": "田村隆"
+    },
+    {
+     "name": "舟見一哉"
+    },
+    {
+     "name": "古田正幸"
+    },
+    {
+     "name": "横山恵理"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "〔技術ポイント〕画像とテキストをつなぐデータ構築の舞台裏、〔技術ポイント〕AI画像検索─自動化で広がる諸本比較、〔技術ポイント〕挿絵を並べる・重ねる技術"
+  },
+  "publisher": {
+   "ja": "武蔵野書院"
+  },
+  "publication_date": "2026-10-19",
+  "total_page": "238",
+  "identifiers": {
+   "isbn": [
+    "9784838608287"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://www.musashinoshoin.co.jp/shoseki/view/3146/",
+    "label": "url",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/48486101",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "48486101",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-19T06:10:21Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-19T06:10:21Z",
+  "book_title": {
+   "ja": "デジタル時代のコレクション論"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村, 覚"
+    },
+    {
+     "name": "逢坂, 裕紀子"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "勉誠社"
+  },
+  "publication_date": "2024-10",
+  "total_page": "8, 289p",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "cinii_nc_id": [
+    "BD09097608"
+   ],
+   "isbn": [
+    "9784585303046"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BD09097608",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/46773493",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "46773493",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-06-13T02:06:43Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-06-13T02:06:43Z",
+  "book_title": {
+   "ja": "デジタルアーカイブの理論と実践 : デジタルアーキビスト入門"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "日本デジタルアーキビスト資格認定機構"
+    },
+    {
+     "name": "井上, 透"
+    },
+    {
+     "name": "大井, 将生"
+    },
+    {
+     "name": "細川, 季穂"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "樹村房"
+  },
+  "publication_date": "2023-04",
+  "total_page": "108p",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "cinii_nc_id": [
+    "BD0179071X"
+   ],
+   "isbn": [
+    "9784883673797"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BD0179071X",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/52101866",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "52101866",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:29:03Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T09:34:59Z",
+  "book_title": {
+   "ja": "古文書の科学 料紙を複眼的に分析する",
+   "en": "古文書の科学 料紙を複眼的に分析する"
+  },
+  "book_owner_role": "contributor",
+  "authors": {
+   "ja": [
+    {
+     "name": "渋谷綾子"
+    },
+    {
+     "name": "天野真志"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "第4部"
+  },
+  "publisher": {
+   "ja": "文学通信"
+  },
+  "publication_date": "2023-03",
+  "total_page": "240",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "isbn": [
+    "9784867660041"
+   ]
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/52101867",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "52101867",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:29:03Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T09:34:59Z",
+  "book_title": {
+   "ja": "デジタル時代のアーカイブ系譜学",
+   "en": "デジタル時代のアーカイブ系譜学"
+  },
+  "book_owner_role": "contributor",
+  "authors": {
+   "ja": [
+    {
+     "name": "柳与志夫"
+    },
+    {
+     "name": "加藤諭"
+    },
+    {
+     "name": "宮本隆史"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "第8章 デジタルテキストのメディア特性"
+  },
+  "publisher": {
+   "ja": "みすず書房"
+  },
+  "publication_date": "2022-12",
+  "total_page": "280",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "isbn": [
+    "9784622095552"
+   ]
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/39477491",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "39477491",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2022-08-03T05:49:27Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-08-03T05:49:27Z",
+  "book_title": {
+   "ja": "人文学のためのテキストデータ構築入門: TEIガイドラインに準拠した取り組みにむけて"
+  },
+  "book_owner_role": "contributor",
+  "authors": {
+   "ja": [
+    {
+     "name": "石田 友梨"
+    },
+    {
+     "name": "大向 一輝"
+    },
+    {
+     "name": "小風 綾乃"
+    },
+    {
+     "name": "永崎 研宣"
+    },
+    {
+     "name": "宮川 創"
+    },
+    {
+     "name": "渡邉 要一郎"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "第3部 事例編：テキストデータ構築の最新事情①・第4章 TEIデータの可視化方法と事例紹介"
+  },
+  "publisher": {
+   "ja": "文学通信"
+  },
+  "publication_date": "2022-08-04",
+  "total_page": "424",
+  "identifiers": {
+   "ean": [
+    "9784909658845"
+   ],
+   "isbn": [
+    "490965884X"
+   ],
+   "asin": [
+    "490965884X"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://www.amazon.co.jp/dp/490965884X?linkCode=osi&th=1&psc=1",
+    "label": "amazon"
+   },
+   {
+    "@id": "https://m.media-amazon.com/images/I/51DzQzM7x3L._SL75_.jpg",
+    "label": "amazon_small_image"
+   },
+   {
+    "@id": "https://m.media-amazon.com/images/I/51DzQzM7x3L._SL160_.jpg",
+    "label": "amazon_medium_image"
+   },
+   {
+    "@id": "https://m.media-amazon.com/images/I/51DzQzM7x3L._SL500_.jpg",
+    "label": "amazon_large_image"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/36903133",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "36903133",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2022-05-06T07:19:55Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-05-06T07:19:55Z",
+  "book_title": {
+   "ja": "紙のレンズから見た古典籍"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "勉誠"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "紙質観察画像のデータベース構築と自動分類に関する試み"
+  },
+  "publisher": {
+   "ja": "勉誠出版 (発売)"
+  },
+  "publication_date": "2022-02",
+  "total_page": "106, 20p",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "cinii_nc_id": [
+    "BC13224326"
+   ],
+   "isbn": [
+    "9784585307198"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BC13224326",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/34057128",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "34057128",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-10-17T15:28:57Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-10-17T15:28:57Z",
+  "book_title": {
+   "ja": "新しい産業創造へ (デジタルアーカイブ・ベーシックス 5)"
+  },
+  "book_owner_role": "joint_editor",
+  "authors": {
+   "ja": [
+    {
+     "name": "久永, 一郎"
+    },
+    {
+     "name": "時実, 象一"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "勉誠出版"
+  },
+  "publication_date": "2021-05-31",
+  "total_page": "238",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "ean": [
+    "9784585202851"
+   ],
+   "cinii_nc_id": [
+    "BC07624013"
+   ],
+   "isbn": [
+    "4585202854"
+   ],
+   "asin": [
+    "4585202854"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BC07624013",
+    "is_downloadable": false
+   },
+   {
+    "@id": "https://www.amazon.co.jp/dp/4585202854?linkCode=osi&th=1&psc=1",
+    "label": "amazon"
+   },
+   {
+    "@id": "https://m.media-amazon.com/images/I/41bap+TluXS._SL75_.jpg",
+    "label": "amazon_small_image"
+   },
+   {
+    "@id": "https://m.media-amazon.com/images/I/41bap+TluXS._SL160_.jpg",
+    "label": "amazon_medium_image"
+   },
+   {
+    "@id": "https://m.media-amazon.com/images/I/41bap+TluXS._SL500_.jpg",
+    "label": "amazon_large_image"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/30519879",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "30519879",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-10-19T22:21:20Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-02-04T07:03:50Z",
+  "book_title": {
+   "ja": "デジタルアーカイブ・ベーシックス 4：アートシーンを支える"
+  },
+  "book_owner_role": "joint_editor",
+  "authors": {
+   "ja": [
+    {
+     "name": "嘉村, 哲郎"
+    },
+    {
+     "name": "高野, 明彦"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "勉誠出版"
+  },
+  "publication_date": "2020-11",
+  "total_page": "7, 295p",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "cinii_nc_id": [
+    "BC04508887"
+   ],
+   "isbn": [
+    "9784585202844"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BC04508887",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/31503264",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "31503264",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-01-21T14:25:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-01-21T14:25:16Z",
+  "book_title": {
+   "ja": "東大という思想 : 群像としての近代知"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "吉見, 俊哉"
+    },
+    {
+     "name": "森本, 祥子"
+    },
+    {
+     "name": "岡本, 拓司"
+    },
+    {
+     "name": "加藤, 詔士"
+    },
+    {
+     "name": "苅部, 直"
+    },
+    {
+     "name": "佐藤, 健二"
+    },
+    {
+     "name": "武田, 晴人"
+    },
+    {
+     "name": "永井, 良三"
+    },
+    {
+     "name": "中村, 覚"
+    },
+    {
+     "name": "橋本, 毅彦"
+    },
+    {
+     "name": "藤森, 照信"
+    },
+    {
+     "name": "藤原, 毅夫"
+    },
+    {
+     "name": "大和, 裕幸"
+    },
+    {
+     "name": "吉沢, 誠一郎"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "第７章 平賀譲における造船学と粛学のあいだ(大和裕幸・中村覚)"
+  },
+  "publisher": {
+   "ja": "東京大学出版会"
+  },
+  "publication_date": "2020-08",
+  "total_page": "v, 332p",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "cinii_nc_id": [
+    "BC01981335"
+   ],
+   "isbn": [
+    "9784130201599"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BC01981335",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/30519878",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "30519878",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-10-19T22:19:28Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-02-04T07:04:16Z",
+  "book_title": {
+   "ja": "デジタルアーカイブ・ベーシックス 3：自然史・理工系研究データの活用"
+  },
+  "book_owner_role": "editor",
+  "authors": {
+   "ja": [
+    {
+     "name": "中村, 覚"
+    },
+    {
+     "name": "井上, 透"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "勉誠出版"
+  },
+  "publication_date": "2020-04",
+  "total_page": "233p",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "cinii_nc_id": [
+    "BB30439354"
+   ],
+   "isbn": [
+    "9784585202837"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BB30439354",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/30519876",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "30519876",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-10-19T22:18:07Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-02-04T07:03:30Z",
+  "book_title": {
+   "ja": "デジタルアーカイブ・ベーシックス 2：災害記録を未来に活かす",
+   "en": "災害記録を未来に活かす"
+  },
+  "book_owner_role": "joint_editor",
+  "authors": {
+   "en": [
+    {
+     "name": "鈴木, 親彦"
+    },
+    {
+     "name": "今村, 文彦"
+    }
+   ]
+  },
+  "publisher": {
+   "en": "勉誠出版"
+  },
+  "publication_date": "2019-08",
+  "total_page": "274p, 図版6p",
+  "identifiers": {
+   "cinii_nc_id": [
+    "BB28833692"
+   ],
+   "isbn": [
+    "9784585202820"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BB28833692",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/13442040",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "13442040",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-04-09T14:45:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-02-04T07:04:45Z",
+  "book_title": {
+   "ja": "デジタルアーカイブ・ベーシックス 1：権利処理と法の実務"
+  },
+  "book_owner_role": "editor",
+  "authors": {
+   "ja": [
+    {
+     "name": "数藤, 雅彦"
+    },
+    {
+     "name": "福井, 健策"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "勉誠出版"
+  },
+  "publication_date": "2019-03",
+  "total_page": "8, 223p",
+  "languages": [
+   "jpn"
+  ],
+  "identifiers": {
+   "cinii_nc_id": [
+    "BB27953112"
+   ],
+   "isbn": [
+    "9784585202813"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/BB27953112",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/13442039",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "13442039",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-04-09T14:41:13Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-04-09T14:47:44Z",
+  "book_title": {
+   "ja": "歴史情報学の教科書"
+  },
+  "book_owner_role": "contributor",
+  "authors": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "歴史データをつなぐこと - 画像データ -"
+  },
+  "publisher": {
+   "ja": "文学通信"
+  },
+  "publication_date": "2019-03",
+  "total_page": "207",
+  "rep_page": "37-52",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "book_type": "scholarly_book",
+  "identifiers": {
+   "isbn": [
+    "4909658122"
+   ]
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/13060585",
+  "@type": "books_etc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/books_etc",
+  "rm:id": "13060585",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-12-07T03:21:23Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-04-09T14:52:08Z",
+  "book_title": {
+   "ja": "現代思想2018年12月号 特集＝図書館の未来"
+  },
+  "book_owner_role": "joint_work",
+  "authors": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "book_owner_range": {
+   "ja": "学校図書館の行方：大学図書館とデジタルアーカイブ——東京大学における取り組みを例として"
+  },
+  "publisher": {
+   "ja": "現代思想"
+  },
+  "publication_date": "2018-11",
+  "rep_page": "108-113",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "identifiers": {
+   "isbn": [
+    "9784791713745"
+   ]
+  }
+ }
+]

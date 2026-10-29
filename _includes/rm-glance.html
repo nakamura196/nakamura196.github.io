@@ -7,5 +7,6 @@
   <li><a href="{{ p }}/talks/"><strong>{{ c.talks }}</strong>{% if lang == "ja" %}講演・口頭発表（招待 {{ c.invited }}）{% else %}talks ({{ c.invited }} invited){% endif %}</a></li>
   <li><a href="{{ p }}/works/"><strong>{{ c.works }}</strong>{% if lang == "ja" %}作品等{% else %}works{% endif %}</a></li>
   <li><a href="{{ p }}/grants/"><strong>{{ c.grants }}</strong>{% if lang == "ja" %}研究課題{% else %}research grants{% endif %}</a></li>
-  <li><a href="{{ p }}/cv/"><strong>{{ c.awards }}</strong>{% if lang == "ja" %}受賞{% else %}awards{% endif %}</a></li>
+  <li><a href="{{ p }}/cv/#awards"><strong>{{ c.awards }}</strong>{% if lang == "ja" %}受賞{% else %}awards{% endif %}</a></li>
+  <li><a href="{{ p }}/cv/#service"><strong>{{ c.committees }}</strong>{% if lang == "ja" %}委員歴{% else %}committees{% endif %}</a></li>
 </ul>

@@ -1,0 +1,928 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/55220945",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "55220945",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-10-10T03:16:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-10-10T03:16:59Z",
+  "paper_title": {
+   "ja": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”",
+   "en": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "Chizuko Yoshimizu"
+    },
+    {
+     "name": "Jonathan Silk"
+    },
+    {
+     "name": "Tokio Takata"
+    },
+    {
+     "name": "Yoshimitsu Aitani"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Markus Viehbeck"
+    },
+    {
+     "name": "Christian Luczanits"
+    },
+    {
+     "name": "Fumi Yao"
+    },
+    {
+     "name": "Fumio Shoji"
+    },
+    {
+     "name": "Tensho Miyazaki"
+    },
+    {
+     "name": "Akira Saito"
+    }
+   ],
+   "en": [
+    {
+     "name": "Chizuko Yoshimizu"
+    },
+    {
+     "name": "Jonathan Silk"
+    },
+    {
+     "name": "Tokio Takata"
+    },
+    {
+     "name": "Yoshimitsu Aitani"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Markus Viehbeck"
+    },
+    {
+     "name": "Christian Luczanits"
+    },
+    {
+     "name": "Fumi Yao"
+    },
+    {
+     "name": "Fumio Shoji"
+    },
+    {
+     "name": "Tensho Miyazaki"
+    },
+    {
+     "name": "Akira Saito"
+    }
+   ]
+  },
+  "publication_date": "2026-10-09",
+  "publication_name": {
+   "ja": "Asian Research Trends, Third series",
+   "en": "Asian Research Trends, Third series"
+  },
+  "volume": "1",
+  "number": "1",
+  "starting_page": "49",
+  "ending_page": "58",
+  "referee": false,
+  "invited": false,
+  "misc_type": "meeting_report",
+  "is_international_collaboration": true,
+  "rm:is_open_access": true,
+  "identifiers": {
+   "doi": [
+    "10.82641/artt.1.1_49"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "doi",
+    "@id": "https://doi.org/10.82641/artt.1.1_49",
+    "is_downloadable": false
+   },
+   {
+    "@id": "https://www.jstage.jst.go.jp/article/artt/1/1/1_49/_article/-char/en",
+    "label": "url",
+    "is_downloadable": true
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/49788556",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "49788556",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-04-10T06:20:55Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-04-10T06:20:55Z",
+  "paper_title": {
+   "ja": "デジタル・ヒューマニティーズと書学・書道史研究"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "published_paper_owner_roles": [
+   "lead"
+  ],
+  "publication_date": "2025-03",
+  "publication_name": {
+   "ja": "桐墨 : 大東文化大学書道研究所報 : kirisumi"
+  },
+  "number": "16",
+  "starting_page": "2",
+  "ending_page": "3",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/46364843",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "46364843",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-05-02T06:56:36Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-05-02T06:56:36Z",
+  "paper_title": {
+   "ja": "検索アルゴリズムの基本"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "publication_date": "2023-12",
+  "publication_name": {
+   "ja": "西洋史学",
+   "en": "The studies in Western history"
+  },
+  "number": "276",
+  "starting_page": "44",
+  "ending_page": "48",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": true,
+  "rm:is_open_access": false,
+  "x-en-source": {
+   "publication_name": "https://cir.nii.ac.jp/crid/1520580859423736576"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/52899942",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "52899942",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-11T01:17:48Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-11T01:17:48Z",
+  "paper_title": {
+   "ja": "東京大学蔵水滸伝諸版本テキストデータ作成について"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "荒木達雄"
+    }
+   ]
+  },
+  "publication_date": "2022-08",
+  "publication_name": {
+   "ja": "2020-2021年度協働型アジア研究「東京大学所蔵水滸伝諸版本に関する研究」成果報告集"
+  },
+  "starting_page": "37",
+  "ending_page": "50",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/17341123",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "17341123",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T08:21:34Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T08:21:54Z",
+  "paper_title": {
+   "ja": "Enriching the Life Cycle of data: Supporting a project by DH approach",
+   "en": "Enriching the Life Cycle of data: Supporting a project by DH approach"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "Ayano Kokaze"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Kiyonori Nagasaki"
+    },
+    {
+     "name": "Naoki Kokaze"
+    }
+   ],
+   "en": [
+    {
+     "name": "Ayano Kokaze"
+    },
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Kiyonori Nagasaki"
+    },
+    {
+     "name": "Naoki Kokaze"
+    }
+   ]
+  },
+  "publication_date": "2019-07",
+  "publication_name": {
+   "ja": "International Society for Eighteenth-Century Studies Congress 2019",
+   "en": "International Society for Eighteenth-Century Studies Congress 2019"
+  },
+  "languages": [
+   "eng"
+  ],
+  "referee": true,
+  "invited": false,
+  "misc_type": "summary_international_conference",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/17341048",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "17341048",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-08-07T08:12:13Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-08-07T08:12:13Z",
+  "paper_title": {
+   "ja": "IIIF2019カンファレンス参加記"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "publication_date": "2019-07",
+  "publication_name": {
+   "ja": "人文情報学月報"
+  },
+  "number": "96",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": true,
+  "misc_type": "meeting_report",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/14947620",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "14947620",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-01-25T01:26:29Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-01-25T01:26:29Z",
+  "paper_title": {
+   "ja": "（翻訳論文）Nancy Ide, Michael Sperberg-McQueen, & Lou Burnard「TEI：それはどこからきたのか。 そして、なぜ、今もなおここにあるのか？」"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "永崎研宣"
+    },
+    {
+     "name": "王一凡監訳"
+    },
+    {
+     "name": "小風綾乃"
+    },
+    {
+     "name": "小風尚樹"
+    },
+    {
+     "name": "中村覚訳"
+    }
+   ]
+  },
+  "publication_date": "2019-01",
+  "publication_name": {
+   "ja": "デジタル・ヒューマニティーズ"
+  },
+  "volume": "1",
+  "starting_page": "3",
+  "ending_page": "28",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": true,
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/15762837",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "15762837",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-04-02T01:43:05Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-04-02T01:43:05Z",
+  "paper_title": {
+   "ja": "Omeka S を用いたデータ管理システムの試作"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "publication_date": "2018-12",
+  "publication_name": {
+   "ja": "人文情報学月報"
+  },
+  "number": "89",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": false,
+  "misc_type": "others",
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "label": "url",
+    "@id": "https://www.dhii.jp/DHM/dhm89-2",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/12881664",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "12881664",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-12-07T03:24:46Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-12-07T03:25:04Z",
+  "paper_title": {
+   "ja": "日本におけるデジタルアーカイブの動向について"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "publication_date": "2018-12",
+  "publication_name": {
+   "ja": "専門図書館",
+   "en": "Bulletin of the Japan Special Libraries Association"
+  },
+  "number": "292",
+  "starting_page": "2",
+  "ending_page": "7",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": false,
+  "rm:is_open_access": false,
+  "x-en-source": {
+   "publication_name": "https://cir.nii.ac.jp/crid/1522543655886257408"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/4593956",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "4593956",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-10-10T03:09:41Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-10-10T03:09:41Z",
+  "paper_title": {
+   "ja": "法帖画像アーカイブを研究資源として活用するために"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "成田健太郎"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "publication_date": "2018-10",
+  "publication_name": {
+   "ja": "第29回書学書道史学会大会"
+  },
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": false,
+  "misc_type": "summary_national_conference",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/4593942",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "4593942",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-10-10T03:07:42Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-10-10T03:07:42Z",
+  "paper_title": {
+   "ja": "東京大学デジタルアーカイブズ構築事業における学術資産の利活用に向けた取り組み"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "publication_date": "2018-09",
+  "publication_name": {
+   "ja": "東北大学史料館だより"
+  },
+  "number": "29",
+  "starting_page": "2",
+  "ending_page": "3",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": true,
+  "misc_type": "others",
+  "rm:is_open_access": false
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23968610",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "23968610",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-08-23T07:45:00Z",
+  "rm:modifier_id": "ai:identify_based_internal_feeds",
+  "rm:modifier_type": "ai",
+  "rm:modified": "2020-08-25T00:10:24Z",
+  "paper_title": {
+   "ja": "対話の場としてのデジタルアーカイブ : 歴史研究者のためのデータ・リテラシーとウェブデザイン (歴史家とアーキビストの対話(第4回))",
+   "en": "Digital Archives as a Locus of Dialogue : Data Literacy and Web Design for Historians"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "小風 尚樹"
+    },
+    {
+     "name": "中村 覚"
+    },
+    {
+     "name": "金 甫榮"
+    },
+    {
+     "name": "清原 和之"
+    },
+    {
+     "name": "福田 真人"
+    },
+    {
+     "name": "田中 聡"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "績文堂出版"
+  },
+  "publication_date": "2018-09",
+  "publication_name": {
+   "ja": "歴史学研究 = Journal of historical studies",
+   "en": "Journal of historical studies"
+  },
+  "number": "974",
+  "starting_page": "31",
+  "ending_page": "38",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": true,
+  "rm:is_open_access": false,
+  "identifiers": {
+   "issn": [
+    "0386-9237"
+   ],
+   "cinii_na_id": [
+    "40021636756"
+   ],
+   "cinii_nc_id": [
+    "AN00299161"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_articles",
+    "@id": "http://ci.nii.ac.jp/naid/40021636756",
+    "is_downloadable": false
+   },
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/AN00299161",
+    "is_downloadable": false
+   },
+   {
+    "label": "url",
+    "@id": "http://id.ndl.go.jp/bib/029167484",
+    "is_downloadable": false
+   }
+  ],
+  "x-en-source": {
+   "publication_name": "https://ci.nii.ac.jp/ncid/AN00299161"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23707562",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "23707562",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-05-11T00:42:15Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-05-11T00:42:15Z",
+  "paper_title": {
+   "ja": "デジタルヒストリー入門 : 2018 Spring Tokyo Digital History Symposium開催報告"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "小風 尚樹"
+    },
+    {
+     "name": "中村 覚"
+    },
+    {
+     "name": "纓田 宗紀"
+    },
+    {
+     "name": "山王 綾乃"
+    },
+    {
+     "name": "小林 拓実"
+    },
+    {
+     "name": "清原 和之"
+    },
+    {
+     "name": "金 甫榮"
+    },
+    {
+     "name": "福田 真人"
+    },
+    {
+     "name": "山崎 翔平"
+    },
+    {
+     "name": "槙野 翔"
+    },
+    {
+     "name": "小川 潤"
+    },
+    {
+     "name": "橋本 雄太"
+    },
+    {
+     "name": "宮本 隆史"
+    },
+    {
+     "name": "菊池 信彦"
+    },
+    {
+     "name": "後藤 真"
+    },
+    {
+     "name": "崎山 直樹"
+    },
+    {
+     "name": "元 ナミ"
+    },
+    {
+     "name": "加藤 諭"
+    }
+   ]
+  },
+  "publication_date": "2018-05",
+  "publication_name": {
+   "ja": "東京大学学術機関リポジトリ"
+  },
+  "starting_page": "1",
+  "ending_page": "57",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": false,
+  "misc_type": "meeting_report",
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "label": "url",
+    "@id": "http://hdl.handle.net/2261/00074493",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23638744",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "23638744",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-04-02T01:32:09Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-04-02T01:38:19Z",
+  "paper_title": {
+   "ja": "「東京大学デジタルアーカイブズ構築事業」について"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "東京大学学術資産アーカイブ化推進室"
+    }
+   ]
+  },
+  "publication_date": "2018-03",
+  "publication_name": {
+   "ja": "東京大学大学院情報学環社会情報研究資料センターニュース"
+  },
+  "number": "28",
+  "starting_page": "1",
+  "ending_page": "2",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": false,
+  "misc_type": "others",
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "label": "url",
+    "@id": "http://www.center.iii.u-tokyo.ac.jp/wp-content/uploads/28_1.pdf",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23509563",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "23509563",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T09:29:04Z",
+  "rm:modifier_id": "ai:identify_based_internal_feeds",
+  "rm:modifier_type": "ai",
+  "rm:modified": "2022-08-26T01:19:11Z",
+  "paper_title": {
+   "ja": "社会情報研究資料センター『Digital Cultural Heritage』の公開休止に関する考察と再構築"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "宮本隆史"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "東京大学大学院情報学環"
+  },
+  "publication_date": "2017-03",
+  "publication_name": {
+   "ja": "東京大学大学院情報学環社会情報研究資料センターニュース"
+  },
+  "number": "27",
+  "starting_page": "274",
+  "ending_page": "279",
+  "languages": [
+   "jpn"
+  ],
+  "referee": false,
+  "invited": true,
+  "misc_type": "report_research_institution",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "issn": [
+    "1880-7011"
+   ],
+   "cinii_na_id": [
+    "40021174743"
+   ],
+   "cinii_nc_id": [
+    "AA12126475"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "cinii_articles",
+    "@id": "http://ci.nii.ac.jp/naid/40021174743",
+    "is_downloadable": false
+   },
+   {
+    "label": "cinii_books",
+    "@id": "http://ci.nii.ac.jp/ncid/AA12126475",
+    "is_downloadable": false
+   },
+   {
+    "@id": "http://www.center.iii.u-tokyo.ac.jp/wp-content/uploads/27_1.pdf",
+    "is_downloadable": false,
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23509573",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "23509573",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T10:03:52Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T10:03:52Z",
+  "paper_title": {
+   "ja": "システムの仕様変更調査における設計情報を用いた影響分析システムの開発",
+   "en": "Development of Impact Analysis System for Specification Change of System"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "稗方和夫"
+    },
+    {
+     "name": "大和裕幸"
+    },
+    {
+     "name": "深田直人"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "岡田伊策"
+    },
+    {
+     "name": "齋藤稔"
+    },
+    {
+     "name": "笈田佳彰"
+    },
+    {
+     "name": "渡辺郁雄"
+    },
+    {
+     "name": "松本滋"
+    }
+   ]
+  },
+  "publication_date": "2014-09",
+  "publication_name": {
+   "ja": "日本機械学会第24回設計工学・システム部門講演会講演論文集",
+   "en": "日本機械学会第24回設計工学・システム部門講演会講演論文集"
+  },
+  "starting_page": "1305",
+  "referee": false,
+  "invited": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "label": "url",
+    "@id": "http://hdl.handle.net/2261/56330",
+    "is_downloadable": false
+   }
+  ]
+ }
+]

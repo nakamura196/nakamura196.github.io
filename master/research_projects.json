@@ -1,0 +1,3063 @@
+[
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "51361068",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-10-10 02:50:42",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_papers",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-09-30T06:47:10Z",
+    "rm:modifier_id": "ai:assign_based_papers",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-09-30T06:47:10Z",
+    "research_project_title": {
+      "ja": "書誌学とデジタルアーカイブの融合による仏典デジタルライブラリの拠点形成",
+      "en": "Establishment of a Buddhist Texts Digital Library Hub by Integrating Bibliography and Digital Archiving"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "會谷 佳光"
+        },
+        {
+          "name": "相原 佳之"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "宮崎 展昌"
+        },
+        {
+          "name": "清水 信子"
+        }
+      ],
+      "en": [
+        {
+          "name": "Aitani Yoshimitsu"
+        },
+        {
+          "name": "Aihara Yoshiyuki"
+        },
+        {
+          "name": "Nakamura Satoru"
+        },
+        {
+          "name": "Miyazaki Tensho"
+        },
+        {
+          "name": "Shimizu Nobuko"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(A)",
+      "en": "Grant-in-Aid for Scientific Research (A)"
+    },
+    "institution_name": {
+      "ja": "公益財団法人東洋文庫",
+      "en": "Toyo Bunko"
+    },
+    "from_date": "2025-04",
+    "to_date": "2030-03",
+    "overall_grant_amount": {
+      "total_cost": "45370000",
+      "direct_cost": "34900000",
+      "indirect_cost": "10470000"
+    },
+    "description": {
+      "ja": "本研究は、これまでの研究課題（18K00073、21H04345）で構築してきた『大正新脩大蔵経』底本・校本DB、仏典書誌DB、酉蓮社蔵嘉興版大蔵経目録DBを基盤に、伝統的な書誌学の手法とデジタルアーカイブを融合して、『大正蔵』の枠を超えて仏典デジタルライブラリを構築し、これによって仏典の文献学的研究やデジタル保存の基盤を形成することを目指す。\n具体的には、『大正蔵』未収の仏典、酉蓮社本以外の大蔵経、『大正蔵』の底本・校本に用いられた寺院所蔵本や国内外所蔵の仏典等を対象に書誌調査を行うと同時に、酉蓮社本の続蔵・又続蔵や寺院所蔵本等のデジタル化を進め、国際規格IIIFで公開し、DBを拡充していく。"
+    },
+    "fund_type": "competitive_research_funding",
+    "identifiers": {
+      "grant_number": [
+        "25H00464"
+      ],
+      "national_grant_number": [
+        "JP25H00464"
+      ],
+      "rm:published_paper_id": [
+        "52107631",
+        "51774561",
+        "50180021"
+      ],
+      "rm:presentation_id": [
+        "52982498",
+        "52101757",
+        "51796134"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://app.toyobunko-lab.jp/s/main/collection/25H00464",
+        "label": "url"
+      },
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25H00464"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/50180021"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52982498"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101757"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796134"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50257651",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "50257651",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-06-08 06:14:57",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_papers",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-05-27T09:03:51Z",
+    "rm:modifier_id": "ai:assign_based_papers",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-05-27T09:03:51Z",
+    "research_project_title": {
+      "ja": "中世⽇本禅宗史料の学術資源化とその応⽤研究"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "岡本真"
+        },
+        {
+          "name": "岩永紘和"
+        },
+        {
+          "name": "榎本渉"
+        },
+        {
+          "name": "川本慎自"
+        },
+        {
+          "name": "小瀬玄士"
+        },
+        {
+          "name": "須田牧子"
+        },
+        {
+          "name": "中村覚"
+        },
+        {
+          "name": "芳澤元"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業"
+    },
+    "category": {
+      "ja": "基盤研究(B)"
+    },
+    "institution_name": {
+      "ja": "東京大学史料編纂所"
+    },
+    "from_date": "2025-04",
+    "to_date": "2030-03",
+    "identifiers": {
+      "grant_number": [
+        "25K00493"
+      ]
+    },
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "50040755",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-10-15 03:55:02",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_papers",
+    "rm:creator_type": "coauthor",
+    "rm:created": "2025-05-01T09:02:56Z",
+    "rm:modifier_id": "ai:assign_based_papers",
+    "rm:modifier_type": "coauthor",
+    "rm:modified": "2025-05-01T09:02:56Z",
+    "research_project_title": {
+      "ja": "TEIを中心とした高度な歴史テキスト構築"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "小風 尚樹"
+        },
+        {
+          "name": "中村覚"
+        },
+        {
+          "name": "王 雯璐"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業"
+    },
+    "category": {
+      "ja": "学術変革領域研究(A)「歴史情報学の創成」"
+    },
+    "institution_name": {
+      "ja": "千葉大学"
+    },
+    "from_date": "2025-04",
+    "to_date": "2030-03",
+    "overall_grant_amount": {
+      "total_cost": "106600000",
+      "direct_cost": "82000000",
+      "indirect_cost": "24600000"
+    },
+    "fund_type": "competitive_research_funding",
+    "identifiers": {
+      "grant_number": [
+        "25H01244"
+      ],
+      "national_grant_number": [
+        "JP25H01244"
+      ],
+      "rm:published_paper_id": [
+        "52107631",
+        "52101821",
+        "52101820",
+        "52101818",
+        "51774561",
+        "51796110",
+        "50180021"
+      ],
+      "rm:presentation_id": [
+        "53693684",
+        "52982498",
+        "52101759",
+        "51796134"
+      ],
+      "rm:work_id": [
+        "53693694",
+        "52982867",
+        "52982866",
+        "36900480"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PLANNED-25H01244",
+        "label": "kaken"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51796110"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/50180021"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53693684"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52982498"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101759"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796134"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/53693694"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/52982867"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/52982866"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51008201",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "51008201",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-05-12 00:54:52",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-08-31T06:03:06Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-08-31T06:03:06Z",
+    "research_project_title": {
+      "ja": "AIを活用した中国木簡の筆跡分析の方途創出",
+      "en": "Creating AI-based methods for handwriting analysis of Chinese woodslips"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "藤田 高夫"
+        },
+        {
+          "name": "畑野 吉則"
+        },
+        {
+          "name": "吉田 壮"
+        },
+        {
+          "name": "宮崎 肇"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "institution_name": {
+      "ja": "関西大学",
+      "en": "Kansai University"
+    },
+    "from_date": "2025-04-01",
+    "to_date": "2029-03-31",
+    "overall_grant_amount": {
+      "total_cost": "14040000",
+      "direct_cost": "10800000",
+      "indirect_cost": "3240000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "25K00510"
+      ],
+      "national_grant_number": [
+        "JP25K00510"
+      ],
+      "rm:published_paper_id": [
+        "52101818",
+        "51774561"
+      ],
+      "rm:presentation_id": [
+        "52101540"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00510"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101540"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "47578926",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-09-29 05:45:21",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_papers",
+    "rm:creator_type": "ai",
+    "rm:created": "2024-08-30T09:04:28Z",
+    "rm:modifier_id": "ai:assign_based_papers",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-08-30T09:04:28Z",
+    "research_project_title": {
+      "ja": "史料データセンシングに基づく日本列島記憶継承モデルの確立",
+      "en": "Establishment of the Japan Islands Memory Inheritance Model based on Historical Data Sensing"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "山田 太造"
+        },
+        {
+          "name": "井上 聡"
+        },
+        {
+          "name": "本郷 恵子"
+        },
+        {
+          "name": "末柄 豊"
+        },
+        {
+          "name": "箱石 大"
+        },
+        {
+          "name": "杉森 玲子"
+        },
+        {
+          "name": "林 晃弘"
+        },
+        {
+          "name": "新井 重行"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "関野 樹"
+        },
+        {
+          "name": "木村 直樹"
+        },
+        {
+          "name": "馬場 基"
+        },
+        {
+          "name": "原 正一郎"
+        },
+        {
+          "name": "後藤 真"
+        },
+        {
+          "name": "大向 一輝"
+        },
+        {
+          "name": "永井 信"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(S)",
+      "en": "Grant-in-Aid for Scientific Research (S)"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2024-04-01",
+    "to_date": "2029-03-31",
+    "overall_grant_amount": {
+      "total_cost": "202150000",
+      "direct_cost": "155500000",
+      "indirect_cost": "46650000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "24H00011"
+      ],
+      "national_grant_number": [
+        "JP24H00011"
+      ],
+      "rm:published_paper_id": [
+        "52101817",
+        "52107631",
+        "52101820",
+        "52101819",
+        "52101818",
+        "51774561"
+      ],
+      "rm:presentation_id": [
+        "52101540",
+        "52101759",
+        "52891762"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24H00011"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101817"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101819"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101540"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101759"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52891762"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53627737",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "53627737",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-05-11T22:02:23Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-05-11T22:02:23Z",
+    "research_project_title": {
+      "ja": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "熊倉 和歌子"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+    },
+    "system_name": {
+      "ja": "共同利用・共同研究課題"
+    },
+    "category": {
+      "ja": "共同利用・共同研究課題（一般型）"
+    },
+    "institution_name": {
+      "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+    },
+    "from_date": "2026-04",
+    "to_date": "2029-03",
+    "research_project_owner_role": "coinvestigator_not_use_grants",
+    "identifiers": {
+      "grant_number": [
+        "jrp000319"
+      ]
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/48001914",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "48001914",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-04-17 00:51:06",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2024-09-29T06:01:12Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-09-29T06:01:12Z",
+    "research_project_title": {
+      "ja": "『エミール』関連手稿群の分析にもとづくルソーの道徳思想形成に関する文献学的研究"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "飯田 賢穂"
+        },
+        {
+          "name": "淵田 仁"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業"
+    },
+    "category": {
+      "ja": "基盤研究(C)"
+    },
+    "institution_name": {
+      "ja": "筑波大学"
+    },
+    "from_date": "2024-04-01",
+    "to_date": "2028-03-31",
+    "overall_grant_amount": {
+      "total_cost": "4550000",
+      "direct_cost": "3500000",
+      "indirect_cost": "1050000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "24K03416"
+      ],
+      "national_grant_number": [
+        "JP24K03416"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K03416"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50553053",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "50553053",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-05-08 02:01:18",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_papers",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-07-05T09:03:10Z",
+    "rm:modifier_id": "ai:assign_based_papers",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-07-05T09:03:10Z",
+    "research_project_title": {
+      "ja": "外見描写と内面評価の相関性史―創発的・学際的協働研究",
+      "en": "A Multidisciplinary Historical Analysis of Personal Appearance Impressions--With a Focus on Japan"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "永井久美子"
+        },
+        {
+          "name": "髙岸輝"
+        },
+        {
+          "name": "上田竜平"
+        },
+        {
+          "name": "鈴木 敦命"
+        },
+        {
+          "name": "鈴木 親彦"
+        },
+        {
+          "name": "出口 智之"
+        },
+        {
+          "name": "梶谷 真司"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "石井 悠加"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業"
+    },
+    "category": {
+      "ja": "挑戦的研究(萌芽)"
+    },
+    "institution_name": {
+      "ja": "東京大学"
+    },
+    "from_date": "2025-06",
+    "to_date": "2028-03",
+    "overall_grant_amount": {
+      "total_cost": "6500000",
+      "direct_cost": "5000000",
+      "indirect_cost": "1500000"
+    },
+    "fund_type": "competitive_research_funding",
+    "identifiers": {
+      "grant_number": [
+        "25K21831"
+      ],
+      "national_grant_number": [
+        "JP25K21831"
+      ],
+      "rm:published_paper_id": [
+        "52107631",
+        "52101821"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K21831",
+        "label": "kaken"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/",
+      "research_project_title": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K21831/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53678648",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "53678648",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-05-17T09:16:22Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-05-17T09:16:22Z",
+    "research_project_title": {
+      "ja": "言語データ連結システムの開発と古代エジプトの文学語を対象とした言語記述の実践"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "永井 正勝"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業"
+    },
+    "category": {
+      "ja": "基盤研究(C)"
+    },
+    "institution_name": {
+      "ja": "筑波大学"
+    },
+    "from_date": "2025-04",
+    "to_date": "2028-03",
+    "research_project_owner_role": "coinvestigator",
+    "overall_grant_amount": {
+      "total_cost": "6370000",
+      "direct_cost": "4900000",
+      "indirect_cost": "1470000"
+    },
+    "fund_type": "competitive_research_funding",
+    "identifiers": {
+      "grant_number": [
+        "25K04084"
+      ],
+      "rm:published_paper_id": [
+        "52101822"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K04084",
+        "label": "url"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101822"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/44559197",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "44559197",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-04-21 13:01:15",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2024-01-30T04:46:28Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-01-30T04:46:28Z",
+    "research_project_title": {
+      "ja": "大型絵図類のデータ構造化と関連史料の連携による南西諸島「海上の道」の復元的研究"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "黒嶋 敏"
+        },
+        {
+          "name": "山田 浩世"
+        },
+        {
+          "name": "杉本 史子"
+        },
+        {
+          "name": "木土 博成"
+        },
+        {
+          "name": "畑山 周平"
+        },
+        {
+          "name": "松尾 晋一"
+        },
+        {
+          "name": "屋良 健一郎"
+        },
+        {
+          "name": "岡本 真"
+        },
+        {
+          "name": "須田 牧子"
+        },
+        {
+          "name": "渡辺 美季"
+        },
+        {
+          "name": "上杉 和央"
+        },
+        {
+          "name": "片桐 千亜紀"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業"
+    },
+    "category": {
+      "ja": "基盤研究(A)"
+    },
+    "institution_name": {
+      "ja": "東京大学"
+    },
+    "from_date": "2023-04-01",
+    "to_date": "2027-03-31",
+    "overall_grant_amount": {
+      "total_cost": "46930000",
+      "direct_cost": "36100000",
+      "indirect_cost": "10830000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23H00012"
+      ],
+      "national_grant_number": [
+        "JP23H00012"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H00012"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508595",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "39508595",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-09-01 06:07:11",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-08-05T02:18:11Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T11:15:08Z",
+    "research_project_title": {
+      "ja": "荘園絵図調査・解析方法に関する総括的研究と汎用的な歴史地理情報への応用研究",
+      "en": "Comprehensive research on \"Shoen-ezu\" survey and analysis methods and applied research on general-purpose historical geographic information"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "井上 聡"
+        },
+        {
+          "name": "榎原 雅治"
+        },
+        {
+          "name": "藤原 重雄"
+        },
+        {
+          "name": "岡本 真"
+        },
+        {
+          "name": "山田 太造"
+        },
+        {
+          "name": "菊地 大樹"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "守田 逸人"
+        },
+        {
+          "name": "渡辺 晃宏"
+        },
+        {
+          "name": "高田 祐一"
+        },
+        {
+          "name": "関野 樹"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(A)",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)"
+    },
+    "category": {
+      "ja": "基盤研究(A)",
+      "en": "Grant-in-Aid for Scientific Research (A)"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2022-04-01",
+    "to_date": "2027-03-31",
+    "overall_grant_amount": {
+      "total_cost": "39910000",
+      "direct_cost": "30700000",
+      "indirect_cost": "9210000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "22H00016"
+      ],
+      "national_grant_number": [
+        "JP22H00016"
+      ],
+      "rm:published_paper_id": [
+        "52101817",
+        "52101820",
+        "52101819",
+        "52101818"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00016"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101817"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101819"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/55292852",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "55292852",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-10-19T16:46:00Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-10-19T16:46:00Z",
+    "research_project_title": {
+      "ja": "Google Antigravity 科学研究支援プログラム（最高利用枠）",
+      "en": "Google Antigravity Scientific Research Program (Highest Usage Tier)"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "中村 覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "Google",
+      "en": "Google"
+    },
+    "system_name": {
+      "ja": "Google Antigravity Scientific Research Program",
+      "en": "Google Antigravity Scientific Research Program"
+    },
+    "category": {
+      "ja": "計算資源・AIモデル提供",
+      "en": "Compute & AI Model Allocation"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2026-10",
+    "to_date": "2027-03",
+    "research_project_owner_role": "principal_investigator",
+    "description": {
+      "ja": "Google Antigravityの学術研究支援プログラム（最高利用枠・6ヶ月間）に採択。Gemini 4 Argonモデルおよび最上位の利用枠制限を活用した学術研究の推進。",
+      "en": "Selected for Google Antigravity's highest usage tier scientific research support program (6 months) to accelerate academic research using Gemini 4 Argon and upgraded usage limits."
+    },
+    "fund_type": "competitive_research_funding",
+    "is_international_collaboration": true,
+    "see_also": [
+      {
+        "@id": "https://antigravity.google/",
+        "label": "url"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/49806428",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "49806428",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-10-20 10:48:14",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_papers",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-04-11T09:00:59Z",
+    "rm:modifier_id": "ai:assign_based_papers",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-04-11T09:00:59Z",
+    "research_project_title": {
+      "ja": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "en": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "永崎 研宣"
+        },
+        {
+          "name": "間淵 洋子"
+        },
+        {
+          "name": "岡田 一祐"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "後藤 真"
+        },
+        {
+          "name": "王 一凡"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "institution_name": {
+      "ja": "一般財団法人人文情報学研究所",
+      "en": "International Institute for Digital Humanities"
+    },
+    "from_date": "2023-04-01",
+    "to_date": "2026-03-31",
+    "overall_grant_amount": {
+      "total_cost": "18720000",
+      "direct_cost": "14400000",
+      "indirect_cost": "4320000"
+    },
+    "description": {
+      "ja": "2023年度の本研究の実績としては、TEI協会東アジア／日本分科会の定例研究会をオンラインで共催し、ほぼ毎週、49回にわたり、東アジア／日本に関するテキスト構造化に関する議論と実践を行った。\n定例研究会においては、TEI (Text Encoding Initiative)ガイドライン及びODDの日本語訳、方言談話資料の協働マークアップが主なテーマとなるとともに、オンライン開催のため国内外各地でテキスト構造化に取り組む研究者・実践者が集い、テキスト構造化に関する活発な議論が展開された。\nこの活動をベースとしつつ、日本の歴史的テキストの構造化に関する取り組みが進められた。以下に、テキストのタイプ毎にみてみよう。 和歌に関しては、近代短歌、歌合及び虫歌合に関する取り組みに協力する形でテキスト構造化のルールが検討され、それを踏まえた統合ビューワ及び個別対応のビューワの双方の開発が進められた。この成果はTEI国際会議、じんもんこんシンポジウム等で発表された。 近代文学の草稿に関しては、テキスト構造化に関する議論と個別対応の専用ビューワの開発が行われ、これもドイツ・パーダーボルンで開催されたTEI国際会議で発表された。 古辞書に関しては、歴史的辞書の構造化ガイドラインであるTEI-lex0のプロジェクトを率いるToma Tasovacを招聘してワークショップを開催し、議論を深めた。 また、歴史史料全般に関して、RDFとテキスト構造化との関係について検討するとともにこれもTEI国際会議で発表した。 仏典に関するテキスト構造化も議論し、情報処理学会人文科学とコンピュータ研究会や日本印度学仏教学会で共同発表を行った。\n以上の構造化実践を踏まえ、本年1月に汎用のTEI古典籍ビューワをWeb公開し、誰もが気軽にテキスト構造化に取り組める環境を提供した。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23K28385"
+      ],
+      "national_grant_number": [
+        "JP23K28385"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/44574994",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "44574994",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-09-15 14:22:01",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2024-01-30T05:06:22Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-01-30T05:06:22Z",
+    "research_project_title": {
+      "ja": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "en": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "永崎 研宣"
+        },
+        {
+          "name": "間淵 洋子"
+        },
+        {
+          "name": "岡田 一祐"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "後藤 真"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "institution_name": {
+      "ja": "一般財団法人人文情報学研究所",
+      "en": "International Institute for Digital Humanities"
+    },
+    "from_date": "2023-04-01",
+    "to_date": "2026-03-31",
+    "overall_grant_amount": {
+      "total_cost": "18720000",
+      "direct_cost": "14400000",
+      "indirect_cost": "4320000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23H03696"
+      ],
+      "national_grant_number": [
+        "JP23H03696"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H03696"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961919",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "35961919",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-10-10 02:50:42",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-12-01T03:22:06Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T09:20:39Z",
+    "research_project_title": {
+      "ja": "漢文大蔵経の文献学的研究基盤の構築：『大正新脩大蔵経』底本・校本DBの活用と拡充",
+      "en": "Establishment of a philological research platform for Chinese Buddhist Canons: Utilization and expansion of the Original and Collated Texts Database of the Taisho Shinshu Daizokyo"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "會谷 佳光"
+        },
+        {
+          "name": "相原 佳之"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "宮崎 展昌"
+        },
+        {
+          "name": "清水 信子"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(A)",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(A)",
+      "en": "Grant-in-Aid for Scientific Research (A)"
+    },
+    "institution_name": {
+      "ja": "公益財団法人東洋文庫",
+      "en": "The Toyo Bunko"
+    },
+    "from_date": "2021-04-05",
+    "to_date": "2026-03-31",
+    "overall_grant_amount": {
+      "total_cost": "40820000",
+      "direct_cost": "31400000",
+      "indirect_cost": "9420000"
+    },
+    "description": {
+      "ja": "2021年度は、『大正新脩大蔵経』底本・校本データベース（以下「本DB」）の一般公開、酉蓮社本のデジタル撮影、データ作成、書誌調査、本DBの周知活動に取り組んだ。\n研究代表者會谷は、3社相見積もりで酉蓮社本の撮影業者を選定して、計15箱（全42函309冊）33,330コマのデジタル撮影を実施した。DB連携を行うSAT大藏經テキストデータベース研究会との連絡役を務め、新たに「宮内庁書陵部収蔵漢籍集覧」中の「[大藏經]1454種5733卷」（「備考」参照。所謂「宮本」）と連携させるためのリンク用データを作成した。また、これまで経典単位で公開していた画像データに対して、目次単位で書誌と画像データを紐付けるためのリンク用データの作成を行った。\n研究分担者相原は作業人員を指揮してIIIF化作業を推進した。清水は大谷大学図書館所蔵の原本20点の書誌調査を実施した。中村は本DBの設計・構築・改修を進め、DB化作業のための助言を行った。宮崎は本DBの外部への周知に取り組み、會谷とともに他科研の研究会（「学会発表」参照）にて本DBの利用法を紹介するともに、仏教学者の視点から改善・利活用の方法等を提示した。\n2021年6月に第1回研究打ち合わせを行い、本DBにGoogleフォームによるレビュー収集ページを組み込むなど改修を行った上で一般公開した（「備考」参照）。12月の第2回打ち合わせでは本DBの改修・拡張計画を検討して、2021年度に準備した撮影データや外部データベースとのリンク用データを取り込んで、2022年度の早い時期にリニューアル公開する方針を決定した。2022年2月には東洋文庫で開催した研究データベース会議にて、會谷、相原、中村、宮崎がそれぞれのテーマで報告を行い、質疑応答を通じて、有益な助言を得た。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "21H04345"
+      ],
+      "national_grant_number": [
+        "JP21H04345"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04345"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961918",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "35961918",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-05-08 02:01:18",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-12-01T03:22:06Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T09:20:40Z",
+    "research_project_title": {
+      "ja": "断片的史料情報の集積と歴史知識情報の相互参照体制の確立による新たな史料学構築研究",
+      "en": "Constructing a new historical materials study by accumulating fragmentary historical material information and cross-referencing historical knowledge information"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "西田 友広"
+        },
+        {
+          "name": "佐藤 雄基"
+        },
+        {
+          "name": "守田 逸人"
+        },
+        {
+          "name": "深川 大路"
+        },
+        {
+          "name": "井上 聡"
+        },
+        {
+          "name": "三輪 眞嗣"
+        },
+        {
+          "name": "高橋 悠介"
+        },
+        {
+          "name": "貫井 裕恵"
+        },
+        {
+          "name": "山田 太造"
+        },
+        {
+          "name": "堀川 康史"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "高田 智和"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(A)",
+      "en": "Grant-in-Aid for Scientific Research (A)"
+    },
+    "category": {
+      "ja": "基盤研究(A)"
+    },
+    "institution_name": {
+      "ja": "東京大学"
+    },
+    "from_date": "2021-04-05",
+    "to_date": "2026-03-31",
+    "overall_grant_amount": {
+      "total_cost": "40690000",
+      "direct_cost": "31300000",
+      "indirect_cost": "9390000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "21H04356"
+      ],
+      "national_grant_number": [
+        "JP21H04356"
+      ],
+      "rm:published_paper_id": [
+        "52107631",
+        "52101818"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04356"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/",
+      "research_project_title": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04356/",
+      "system_name": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04356/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50851868",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "50851868",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-08-18 08:16:44",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-08-14T06:10:57Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-08-14T06:10:57Z",
+    "research_project_title": {
+      "ja": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "en": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature."
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "飯倉 洋一"
+        },
+        {
+          "name": "中尾 薫"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "institution_name": {
+      "ja": "大阪大学",
+      "en": "Osaka University"
+    },
+    "from_date": "2021-04-01",
+    "to_date": "2026-03-31",
+    "overall_grant_amount": {
+      "total_cost": "12870000",
+      "direct_cost": "9900000",
+      "indirect_cost": "2970000"
+    },
+    "description": {
+      "ja": "〇デジタル文学地図のウェブサイト（https://literarymaps.nijl.ac.jp/）について、新規データの入力、入力内容のチェックをした。新規データは主として謡曲の用例である。今年度増加した名所の項目の地理的・歴史的概要を記した。英訳は、名所の地理歴史の概要およびテキストの英訳を進めている。またシステムについても改善を進めている。\n〇代表者・研究分担者・海外共同研究者・ＲＡが、デジタル文学地図開発過程での学際的議論をベースとし2023年８月ペルギーのゲントで行われたＥＡＪＳで「前近代日本文学における〈名所〉の喚起力」と題したパネル発表を行うなど、積極的に研究成果の発信を行った。\n〇定例の打ち合わせを年10回開催し、作業状況をその都度確認し、システムの改善に関する議論とデータ入力方針の策定を行った。\n〇2024年2月17日（土）、大阪大学において、国際研究集会「教育ツールとしての日本デジタル文学地図」を開催した。ユディット・アロカイ（海外共同研究員）が「デジタル文学地図プロジェクトの沿革」を、黄 夢鴿（ＲＡ）・中村覚（研究分担者）が「「日本のデジタル文学地図」の概要」を、中尾薫（研究分担者）が「日本のデジタル文学地図の活用 ―ハイデルベルク大学・大阪大学の合同授業報告― 」を発表した。ゲストに招いた加藤直志が「デジタル文学地図を高２「文学国語」で使ってみた」を、岡部誠が「デジタル文学地図の教育への利活用―歌枕〈白山〉を例に―」を、加藤十握 は「デジタル文学地図活用の可能性について考える」を、横山恵理が「デジタル文学地図を活用した情報科学部生むけ授業実践報告」を発表した。\n〇昨年度に引き続き、デジタル文学地図を活用した国際的日本古典文学教育の実践として、大阪大学とハイデルベルク大学の間でオンラインによる共同授業を行った（１セメスター15回）。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23K20445"
+      ],
+      "national_grant_number": [
+        "JP23K20445"
+      ],
+      "rm:published_paper_id": [
+        "52107631",
+        "52101821"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508596",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "39508596",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2024-09-14 04:59:13",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-08-05T02:18:11Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T09:11:51Z",
+    "research_project_title": {
+      "ja": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "en": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature."
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "飯倉 洋一"
+        },
+        {
+          "name": "中尾 薫"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(B)",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "institution_name": {
+      "ja": "大阪大学",
+      "en": "Osaka University"
+    },
+    "from_date": "2021-04-01",
+    "to_date": "2026-03-31",
+    "overall_grant_amount": {
+      "total_cost": "12870000",
+      "direct_cost": "9900000",
+      "indirect_cost": "2970000"
+    },
+    "description": {
+      "ja": "〇デジタル文学地図について、データを入力、入力内容チェックした。名所の項目は76項目となり、地理的・歴史的な概要を記し、八代集・伊勢物語・源氏物語・平家物語・奥の細道・謡曲から用例を採取し、デジタル文学地図に反映した。なお概要については英訳を行った。用例のテキストの画像および項目ごとの名所絵について、国文学研究資料館の画像データ（パブリックドメイン）にリンクを張り、公開可能な状態とした。\n〇プログラム参加者による定例の打ち合わせ（コロナ感染防止のため全てオンライン）を11回開催した。この打ち合わせを通して、システムの改善・入力データ方針の策定を行った。\n〇デジタル文学地図開発過程での学際的議論をベースにした基礎的な研究を、共同研究メンバーの飯倉洋一、ユディット・アロカイ、中尾薫、RAの大学院生（４名）が行い、論文化した。論文はハイデルベルク大学日本学科の刊行するオンライン学術雑誌に掲載される予定である。\n〇９月26日、オンラインで「デジタル文学地図の可能性」と題した国際研究集会を行った。飯倉洋一「デジタル文学地図の研究への活用-『雨月物語』を例に」、ユディット・アロカイ「デジタル文学地図を利用した文学史教育の提案」の２本の基調報告、黄夢鴿（RA）「『和漢名所詩歌合』における名所」、杉本亘（RA)「都の中の逢坂」の２本の発表があった。２月16日、オンラインで国際シンポジウムを開催した。基調講演に美術史の大久保純一氏を招いた。また発表としては田代一葉「江戸時代の屏風歌・障子歌にみる名所」、真島望「名所イメージの生成と固定 江戸地誌・名所絵本を例として」門脇むつみ「名所絵の作り方」の３本があり、ユディット・アロカイをディスカサントとして登壇者全員で討論を行った。\n〇デジタル文学地図を活用した国際的日本古典文化教育の実践として、大阪大学とハイデルベルク大学の間で共同授業を行った。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "21H00506"
+      ],
+      "national_grant_number": [
+        "JP21H00506"
+      ],
+      "rm:presentation_id": [
+        "45661788"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H00506"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45661788"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53627734",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "53627734",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-05-11T22:01:57Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-05-11T22:01:57Z",
+    "research_project_title": {
+      "ja": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "熊倉 和歌子"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+    },
+    "system_name": {
+      "ja": "共同利用・共同研究課題"
+    },
+    "category": {
+      "ja": "共同利用・共同研究課題（一般型）"
+    },
+    "institution_name": {
+      "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+    },
+    "from_date": "2023-04",
+    "to_date": "2026-03",
+    "research_project_owner_role": "coinvestigator_not_use_grants",
+    "identifiers": {
+      "grant_number": [
+        "jrp000290"
+      ]
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51327482",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "51327482",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-09-29T11:02:56Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-09-29T11:02:56Z",
+    "research_project_title": {
+      "ja": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "en": "Design of a storytelling digital archive using prewar and wartime news photographs"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "渡邉 英徳"
+        },
+        {
+          "name": "貴志 俊彦"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2022-04-01",
+    "to_date": "2025-03-31",
+    "overall_grant_amount": {
+      "total_cost": "12220000",
+      "direct_cost": "9400000",
+      "indirect_cost": "2820000"
+    },
+    "description": {
+      "ja": "社会に“ストック”されていた,戦前・戦中の特派員写真の希少資料を“フロー”化する情報デザイン手法を探求し，ストーリーテリング型のコンテンツを制作した。また，資料のデジタル化と分析を行ない，メタデータを付与してデジタルアーカイブ構築を継続した。加えて，紙面連動や大型端末によるワークショップの実践を通して，多面的な“フロー”の生成を試みた。\n当初の計画に沿って，戦中写真を用いた可視化コンテンツのアップデート・新規開発を，ユーザのフィードバックを反映しつつ実施した。また，戦中写真のデジタルアーカイブ構築・API生成，デジタルデータの作成とDB登録，報道写真の場所・時代の特定と内容分析，関係者へのインタビュー調査を行なった。研究成果の社会実装の取り組みとして，展覧会とワークショップを開催し，マスメディアと連携して研究成果を発信した。さらに当初の計画よりも前倒しで，編著書籍・雑誌論文を発表，口頭発表を実施するとともに，フィールド調査も実施した。\n具体的には，①可視化コンテンツとしてデジタルマップ×2，アバターによる古写真空間の体験システム×1， 写真を活用した紙ベースの平和学習教材，を公開・展示した。②デジタルアーカイブ構築とデータの格納を予定通りに実施し，現時点で18,912件のデータが格納された。加えて③関係者へのインタビュー10件を実施した。さらに，④広島テレビ本社や東京大学における展覧会×3，⑤グッドデザイン・ニューホープ賞を含む受賞×2，⑥NHK，毎日新聞などのマスメディア報道×5の業績を挙げた。これまでの成果を⑦編著書籍・雑誌論文 × 9，口頭発表 ×8，において発表した。加えて，⑧シンガポール・マレーシア・韓国・新潟・群馬・神奈川におけるフィールド調査を実施した。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23K25139"
+      ],
+      "national_grant_number": [
+        "JP23K25139"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51320494",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "51320494",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2025-09-29T10:55:21Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2025-09-29T10:55:21Z",
+    "research_project_title": {
+      "ja": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "en": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "杉本 史子"
+        },
+        {
+          "name": "菊地 智博"
+        },
+        {
+          "name": "林 晃弘"
+        },
+        {
+          "name": "立石 了"
+        },
+        {
+          "name": "稲葉 継陽"
+        },
+        {
+          "name": "箱石 大"
+        },
+        {
+          "name": "母利 美和"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "鶴田 啓"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業",
+      "en": "Grants-in-Aid for Scientific Research"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "from_date": "2022-04-01",
+    "to_date": "2025-03-31",
+    "overall_grant_amount": {
+      "total_cost": "17420000",
+      "direct_cost": "13400000",
+      "indirect_cost": "4020000"
+    },
+    "description": {
+      "ja": "本研究では、①デジタライゼーションによる史料研究、②史料所蔵機関との連携強化による社会連携、③研究交流による研究成果発信を行っている。\n①については、引き続き日本近世史基幹的史料集のデジタルデータ作成を集中的に行い、史料編纂所のデータベースから公開した。『大日本維新史料 類纂之部 井伊家史料』について、17051レコードの索引データを作成・登録・修正して公開したほか、未刊行原稿について843件のデータ化を行った。『大日本近世史料 市中取締類集』の目次データ896件を作成した。さらに、『大日本近世史料 細川家史料』第17巻の本文データを作成・公開した。また、後述のデジタライジング研究会で得た知見をもとに、オンラインによる会議を開催してデータベース改良方針を策定した。\n②については、公益財団法人永青文庫と同文庫所蔵史料のデジタル公開方法について協議を深め、公開の準備作業として目録データの作成を進めたほか、同文庫所蔵史料に関するシンポジウム「近世初期における「御国」と「公儀」」を熊本大学永青文庫研究センターと共同して開催した。\n③については、熊本大学永青文庫研究センターと共に9月にシンポジウム「近世初期における「御国」と「公儀」」を対面・オンラインのハイブリッドにて開催したほか、12月には史料編纂所・同所維新史料研究国際ハブ拠点形成プロジェクト主催の国際研究集会「維新史料研究と国際発信」開催に協力した。また、昨年度開催の国際研究集会「幕末維新史研究と井伊家史料」の成果を『東京大学史料編纂所研究紀要』第34号に掲載した。さらに、デジタル技術やその課題に関する理解を深めるために、デジタライジング研究会を4回開催し、最新の知見を共有した。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23K21964"
+      ],
+      "national_grant_number": [
+        "JP23K21964"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508594",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "39508594",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2024-12-02 03:50:04",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-08-05T02:18:10Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T11:16:32Z",
+    "research_project_title": {
+      "ja": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "en": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "杉本 史子"
+        },
+        {
+          "name": "鶴田 啓"
+        },
+        {
+          "name": "林 晃弘"
+        },
+        {
+          "name": "立石 了"
+        },
+        {
+          "name": "稲葉 継陽"
+        },
+        {
+          "name": "箱石 大"
+        },
+        {
+          "name": "母利 美和"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(B)",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)"
+    },
+    "category": {
+      "ja": "基盤研究(B)",
+      "en": "Grant-in-Aid for Scientific Research (B)"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2022-04-01",
+    "to_date": "2025-03-31",
+    "overall_grant_amount": {
+      "total_cost": "17420000",
+      "direct_cost": "13400000",
+      "indirect_cost": "4020000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "22H00692"
+      ],
+      "national_grant_number": [
+        "JP22H00692"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00692"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "39508593",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-05-08 02:01:18",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-08-05T02:18:10Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T11:23:05Z",
+    "research_project_title": {
+      "ja": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "en": "Design of a storytelling digital archive using prewar and wartime news photographs"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "渡邉 英徳"
+        },
+        {
+          "name": "貴志 俊彦"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(B)"
+    },
+    "category": {
+      "ja": "基盤研究(B)"
+    },
+    "institution_name": {
+      "ja": "東京大学"
+    },
+    "from_date": "2022-04-01",
+    "to_date": "2025-03-31",
+    "overall_grant_amount": {
+      "total_cost": "12220000",
+      "direct_cost": "9400000",
+      "indirect_cost": "2820000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "22H03885"
+      ],
+      "national_grant_number": [
+        "JP22H03885"
+      ],
+      "rm:published_paper_id": [
+        "52107631",
+        "46364342",
+        "45735266"
+      ],
+      "rm:presentation_id": [
+        "52101540",
+        "52101854",
+        "52101853",
+        "50180014",
+        "46018550",
+        "45700819",
+        "45667900"
+      ],
+      "rm:work_id": [
+        "46433830"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H03885"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46364342"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/45735266"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101540"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101854"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101853"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/50180014"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46018550"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45700819"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45667900"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433830"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/",
+      "research_project_title": "https://kaken.nii.ac.jp/en/search/?kw=22H03885"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45661896",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "45661896",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-05-01 10:45:50",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-02-26T09:29:32Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-02-26T09:31:15Z",
+    "research_project_title": {
+      "ja": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み",
+      "en": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "中村覚"
+        },
+        {
+          "name": "金甫榮"
+        },
+        {
+          "name": "南山泰之"
+        },
+        {
+          "name": "山田太造"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        },
+        {
+          "name": "Kim Boyoung"
+        },
+        {
+          "name": "Yasuyuki Minamiyama"
+        },
+        {
+          "name": "Taizo Yamada"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "国立情報学研究所"
+    },
+    "system_name": {
+      "ja": "AI等の活用を推進する研究データエコシステム構築事業"
+    },
+    "institution_name": {
+      "ja": "東京大学"
+    },
+    "from_date": "2023-09",
+    "to_date": "2025-03",
+    "identifiers": {
+      "rm:presentation_id": [
+        "46855268"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46855268"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/30022275",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "30022275",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-05-31 05:08:46",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2020-09-10T02:45:17Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T07:12:35Z",
+    "research_project_title": {
+      "ja": "コンテキストに応じた人文科学データパッケージ化に関する研究",
+      "en": "A Study of Contextual Data Packaging for Humanities"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "山家 浩樹"
+        },
+        {
+          "name": "本郷 恵子"
+        },
+        {
+          "name": "尾上 陽介"
+        },
+        {
+          "name": "阿児 雄之"
+        },
+        {
+          "name": "林 晃弘"
+        },
+        {
+          "name": "井上 聡"
+        },
+        {
+          "name": "小瀬 玄士"
+        },
+        {
+          "name": "馬場 基"
+        },
+        {
+          "name": "山田 太造"
+        },
+        {
+          "name": "渋谷 綾子"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(A)",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)"
+    },
+    "category": {
+      "ja": "基盤研究(A)",
+      "en": "Grant-in-Aid for Scientific Research (A)"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2020-04",
+    "to_date": "2025-03",
+    "research_project_owner_role": "coinvestigator",
+    "overall_grant_amount": {
+      "total_cost": "44200000",
+      "direct_cost": "34000000",
+      "indirect_cost": "10200000"
+    },
+    "description": {
+      "ja": "2020年度までの成果にもとづき、以下に示す3課題を実施した。\n１．多様かつ大量なデータの統合と永続的な提供を可能にする環境整備：史料編纂所における基幹である所蔵史料目録DB（Hi-CAT）と史資料の物理的データ（紙質・状態・修理履歴など）を集約する「史料情報統合管理システム」との連携を引き続き進めた。大量のデータを管理・共有していくため、新規にストレージを導入した。さらにデスクトップ上で顕微鏡画像へアノテーションを簡易に付与し管理できるアプリケーション「caid」を史料情報統合管理システムへアップロードできるなど出力方式の確立と実装を進めた。\n2. データのパッケージ化と提示手法の確立：1.の成果をもとに、史料に関わるさまざまなデータの収集していくコンテキストに基づいたパッケージ化方式の確立につとめた。この結果に対して、LDAやCNNといったAI・機械学習手法の適用を進めることでデータ駆動型データ提示モデルの検証を進めるため、史料データの分類や可視化の手法を取り入れたシステムのプロトタイピングを進めた。\n3. 紙史資料以外の人文科学研究資源への適用可能性の分析・検証：紙史資料を主対象とした1.および2.の手法を、奈良文化財研究所が行っている出土木簡を対象とする取り組みとの比較検証を進め、プロトタイピングを進めた。また、東京国立博物館蔵ガラス原板をもとにした史料画像の利活用を前提とした適用手法についても検証を進めた。継続して、1.における史料情報統合管理システムへのフィードバックについても検証を進めた。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "20H00010"
+      ],
+      "national_grant_number": [
+        "JP20H00010"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20H00010"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961917",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "35961917",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-12-01T03:22:06Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T09:28:24Z",
+    "research_project_title": {
+      "ja": "古代エジプト神官文字写本の地域差を含めた言語記述とⅢF検索プラットフォームの構築",
+      "en": "Linguistic Description and Constructing IIIF-based Data Platform for Ancient Egyptian Hieratic Texts: Toward Clarifying Regional Differences."
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "永井 正勝"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(C)",
+      "en": "Grant-in-Aid for Scientific Research (C)"
+    },
+    "category": {
+      "ja": "基盤研究(C)"
+    },
+    "institution_name": {
+      "ja": "東京大学"
+    },
+    "from_date": "2021-04-01",
+    "to_date": "2024-03-31",
+    "overall_grant_amount": {
+      "total_cost": "4160000",
+      "direct_cost": "3200000",
+      "indirect_cost": "960000"
+    },
+    "description": {
+      "ja": "本研究の目的は、第一に、古代エジプト語の神官文字写本を対象とした言語記述の実践を行うことにある。対象資料は第19-20王朝時代の書簡とする。具体的にはエジプト北部の新都ペルラメセスで執筆された書簡９通とエジプト南部の古都テーベで執筆された書簡７通を対象とし、文字、形態素・語、構文について地域差含めた言語記述を行う。第二に、①言語記述の結果、②神官文字のIIIF画像、③開発済みの神官文字字形データベース、の３点をシームレスに統合させた検索システムを開発する。代表者は言語学の立場から言語記述を、分担者は情報学の立場からシステム構築を行い、双方の分野での研究の進展を目指す。本研究課題は、オープンデータ（原資料の画像公開）、オープンメタデータ（言語記述の成果の公開）、オープンツール（検索システムの公開）を兼ね備えた検索プラットフォームの構築を目指すものである。言語記述班は北部地方の書簡９通（ライデン国立古代博物館所蔵 Leiden I 360～368）のそれぞれについて、まずは文法記述を実施した。書簡ごとの際については、現在、検討中である。システム構築班は、本研究の課題としている「言語記述の成果（アノテーション）」と「資料のIIIF形式画像（データ）」を用いたIIIF検索プラットフォームの構築に向けて、アノテーションに対する検索を可能にするIIIF Content Search APIを用いたプロトタイプ開発を行なった。具体的には、国立国会図書館が公開するIIIF画像とOCRテキストデータを利用した、全文検索アプリケーションを開発した。今後は、言語記述の成果を原資料のIIIF画像に連携させるプラットフォームを構築させるともに、申請代表者と分担者らが開発した「『ヒエラティック古書体学』データベース」をプラットフォームにリンクさせる作業を実施する予定である。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "21K00472"
+      ],
+      "national_grant_number": [
+        "JP21K00472"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K00472"
+      }
+    ],
+    "x-en-source": {
+      "offer_organization": "https://www.jsps.go.jp/english/",
+      "research_project_title": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21K00472/",
+      "system_name": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21K00472/"
+    }
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "32708239",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-03-19 06:35:36",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-06-07T01:42:43Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T10:05:32Z",
+    "research_project_title": {
+      "ja": "持続性と利活用性を考慮したデジタルアーカイブシステム構築手法の開発",
+      "en": "Development of a Method for Constructing Digital Archive Systems Considering Sustainability and Utilization"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 若手研究",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists"
+    },
+    "category": {
+      "ja": "若手研究",
+      "en": "Grant-in-Aid for Early-Career Scientists"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2021-04-01",
+    "to_date": "2024-03-31",
+    "overall_grant_amount": {
+      "total_cost": "3380000",
+      "direct_cost": "2600000",
+      "indirect_cost": "780000"
+    },
+    "description": {
+      "ja": "今年度は静的サイトとしてデジタルアーカイブシステムを構築する手法を検討し、基盤となるシステム開発を行なった。具体的には、オープンソースWebアプリケーションフレームワークであるNuxt.jsを用いたシステム開発を行なった。CSVファイルの形式で用意した画像やメタデータに関する情報を読み込み、静的なウェブサイトを自動的に構築する。\n<BR>\nまた上記システムを用いて、以下に示すデジタルアーカイブシステムを構築した。いずれも静的サイトとして構築し、GitHubなどのホスティングサービス上で公開している。\n渋沢栄一記念財団「渋沢栄一ダイアリー」／東洋文庫「『大正新脩大蔵経』底本・校本データベース」「酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース」「東洋文庫水経注図データベース」／東京大学史料編纂所「正保琉球国絵図デジタルアーカイブ」「倭寇図巻デジタルアーカイブ」／国立歴史民俗博物館「デジタル延喜式」\n<BR>\n上記において、特に「正保琉球国絵図デジタルアーカイブ」「倭寇図巻デジタルアーカイブ」については、IIIFを用いた画像公開についても静的サイトで実現している。具体的には、IIIF Image API Level 0を採用し、事前にタイル画像を生成しておくことで、サーバレスなIIIF対応を行なっている。また、人間のためのユーザインタフェースに加えて、機械処理に適したデータセットを提供することで、計算機による二次利用も支援する。具体的な活用事例として、Google Dataset Searchとの連携を実現している。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "21K18014"
+      ],
+      "national_grant_number": [
+        "JP21K18014"
+      ],
+      "rm:presentation_id": [
+        "39996013"
+      ],
+      "rm:work_id": [
+        "36900480",
+        "36900489",
+        "36900486",
+        "36900498",
+        "36900746",
+        "36900545",
+        "36900554",
+        "36900540"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K18014"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/39996013"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900489"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900486"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900498"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900746"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900545"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900554"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900540"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961920",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "35961920",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2024-11-26 01:14:40",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-12-01T03:22:07Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T03:39:04Z",
+    "research_project_title": {
+      "ja": "木簡等の研究資源オープンデータ化を通じた参加誘発型研究スキーム確立による知の展開",
+      "en": "Development of Integrated Knowledge through Establishment of an Interactive Research Scheme based on the Open-Data of Research Resources for Wooden Tablets and Related Topics"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "馬場 基"
+        },
+        {
+          "name": "中川 正樹"
+        },
+        {
+          "name": "久留島 典子"
+        },
+        {
+          "name": "高田 智和"
+        },
+        {
+          "name": "耒代 誠仁"
+        },
+        {
+          "name": "山本 和明"
+        },
+        {
+          "name": "山田 太造"
+        },
+        {
+          "name": "笹原 宏之"
+        },
+        {
+          "name": "大山 航"
+        },
+        {
+          "name": "中村 覚"
+        },
+        {
+          "name": "渡辺 晃宏"
+        },
+        {
+          "name": "桑田 訓也"
+        },
+        {
+          "name": "山本 祥隆"
+        },
+        {
+          "name": "高田 祐一"
+        },
+        {
+          "name": "星野 安治"
+        },
+        {
+          "name": "上椙 英之"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(S)",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (S)"
+    },
+    "category": {
+      "ja": "基盤研究(S)",
+      "en": "Grant-in-Aid for Scientific Research (S)"
+    },
+    "institution_name": {
+      "ja": "独立行政法人国立文化財機構奈良文化財研究所",
+      "en": "Nara National Research Institute for Cultural Properties"
+    },
+    "from_date": "2018-06-11",
+    "to_date": "2023-03-31",
+    "overall_grant_amount": {
+      "total_cost": "124930000",
+      "direct_cost": "96100000",
+      "indirect_cost": "28830000"
+    },
+    "description": {
+      "ja": "国際的な歴史的文字の共通検索実現およびオープンデータ化を目指して、奈文研・東京大学史料編纂所・国文学研究資料館・国立国語研究所・台湾中央研究院歴史語言研究所を中心に、京都大学人文学研究所や中国社会科学院歴史研究所等の研究者の参加も得ながら、国内・国外で各1回、研究会を開催した。そして、歴史的文字画像データ共通検索の基本コンセプトを、「開かれた」「対等」「継続的」として、このコンセプト基づいた「共通検索のためのるフレームワークの構築」作業に着手し、具体的な取り決めを決定した。この内容については、朝日新聞等でも報道された。詳細は『奈良文化財研究所紀要2019』に掲載予定である。\nまた、研究の促進と参加誘発を目指して、奈良文化財研究所が公開している木簡関連の総合データベース「木簡庫」に検索した木簡情報（釈文・メタデータ等）をCSVファイルでダウンロードすることができる機能を追加し、オープンデータとした。これにより、利用者の目的に応じた木簡データのダウンロードおよびそれを活用しての研究や、さらにはそれぞれの関心に基づくデータベースの作成・公開も可能になった。この内容についても、朝日新聞・NHK等で報道された。\n文字に関する知識の集積作業として、あらたに気づきメモ約13000文字分（のべ）、観察記録シート約15000文字分（のべ）の情報を収集した。従来からの蓄積と合わせると、観察記録シートによる文字情報は木簡庫で公開している文字画像の約25％（テキストで公表している釈文文字数の約10％）に到達した。文字画像の切り出し・公開は1067字分行った。また、観察記録シートの手法を試験的に用い、中国晋代簡牘・韓国新羅木簡・日本平城宮木簡の比較を行い、それぞれの親和性を検討した研究を行い、成果を得た。\nこの他、木簡の調査者との情報共有のためのワークショップを開催した。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "18H05221"
+      ],
+      "national_grant_number": [
+        "JP18H05221"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-18H05221/18H05221_saitaku_gaiyo_ja.pdf",
+        "label": "url"
+      },
+      {
+        "@id": "https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-18H05221/18H05221_saitaku_shoken_ja.pdf",
+        "label": "url"
+      },
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18H05221"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45520762",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "45520762",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-09-26 22:52:32",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_papers",
+    "rm:creator_type": "coauthor",
+    "rm:created": "2024-02-02T09:36:49Z",
+    "rm:modifier_id": "ai:assign_based_papers",
+    "rm:modifier_type": "coauthor",
+    "rm:modified": "2024-02-02T09:36:49Z",
+    "research_project_title": {
+      "ja": "多様なデジタル文化資源の教育活用を促進するための「人」と「データ」を つなぐネットワークの構築",
+      "en": "Construction of a network connecting 'people' and 'data' to promote the educational use of diverse digital cultural resources"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "大井将生"
+        },
+        {
+          "name": "渡邉英徳"
+        },
+        {
+          "name": "大向一輝"
+        },
+        {
+          "name": "中村覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "国立情報学研究所",
+      "en": "National Institute of Informatics"
+    },
+    "system_name": {
+      "ja": "公募型共同研究（自由提案公募型）"
+    },
+    "category": {
+      "ja": "情報学, コンテンツ"
+    },
+    "institution_name": {
+      "ja": "TRC-ADEAC / 東京大学大学院情報学環・学際情報学府"
+    },
+    "from_date": "2022-04",
+    "to_date": "2023-03",
+    "overall_grant_amount": {
+      "total_cost": "784000"
+    },
+    "fund_type": "competitive_research_funding",
+    "identifiers": {
+      "grant_number": [
+        "22FC03"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://www.nii.ac.jp/research/upload/2022NIIkobogatakyodokenkyusaitakuitiran.pdf",
+        "label": "url"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/55292855",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "55292855",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2026-10-19T16:48:05Z",
+    "rm:modifier_id": "B000288639",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2026-10-19T16:48:05Z",
+    "research_project_title": {
+      "ja": "データ駆動型歴史情報研究基盤の構築",
+      "en": "Construction of Data-Driven Historical Information Research Infrastructure"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "中村 覚"
+        }
+      ],
+      "en": [
+        {
+          "name": "Satoru Nakamura"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "東京大学・Google（東大・Google連携事業）",
+      "en": "The University of Tokyo and Google (UTokyo-Google Partnership)"
+    },
+    "system_name": {
+      "ja": "Google Cloud Platform クーポン事業（GCPグラント）",
+      "en": "Google Cloud Platform Credit Grant"
+    },
+    "category": {
+      "ja": "研究助成・計算資源提供",
+      "en": "Research Grant / Cloud Computing Credits"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2021-12",
+    "to_date": "2023-01",
+    "research_project_owner_role": "principal_investigator",
+    "description": {
+      "ja": "東大・Google連携事業の一環であるGoogle Cloud Platform クーポン事業に採択。25,000米ドル相当のGCPクレジット（クーポン）の提供を受け、データ駆動型歴史情報研究基盤の構築を実施。",
+      "en": "Selected for the UTokyo-Google Partnership Google Cloud Platform Credit Grant program ($25,000 in GCP credits) to develop data-driven historical information research infrastructure."
+    },
+    "fund_type": "competitive_research_funding",
+    "is_international_collaboration": true,
+    "see_also": [
+      {
+        "@id": "https://cloud.google.com/",
+        "label": "url"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13442219",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "13442219",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2024-11-03 23:01:50",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2019-08-07T08:07:09Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T05:39:33Z",
+    "research_project_title": {
+      "ja": "近世中国の刑罰制度に関する総合的研究―軍制との関係を中心として―",
+      "en": "A Study of punishment in early modern China"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "徳永 洋介"
+        },
+        {
+          "name": "高橋 亨"
+        },
+        {
+          "name": "中村 正人"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(C)",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (C)"
+    },
+    "category": {
+      "ja": "基盤研究(C)",
+      "en": "Grant-in-Aid for Scientific Research (C)"
+    },
+    "institution_name": {
+      "ja": "富山大学",
+      "en": "University of Toyama"
+    },
+    "from_date": "2019-04",
+    "to_date": "2022-03",
+    "research_project_owner_role": "coinvestigator",
+    "overall_grant_amount": {
+      "total_cost": "4290000",
+      "direct_cost": "3300000",
+      "indirect_cost": "990000"
+    },
+    "description": {
+      "ja": "本研究の課題は、宋代以降、死刑に次ぐ重刑がつねに軍制と密接な関係を有しながら推移した事実に焦点をあわせ、近世中国の法秩序の構造と特徴を明らかにすることにある。その第一年目にあたる平成31年度（令和元年度）は、第一に、宋代の刑罰体系のなかでも特異な位置を占める配軍の構造と特徴を明らかにするための基礎作業として、『慶元条法事類』刑獄門の会読作業を定期的に行い、宋代の法と刑罰に関わる基本史料の整理と分析に着手した。この結果、全体の三分の一にあたる巻73について、訳稿の作成と関連史料との校合をあらまし終えることができた。\n第二に、明代の刑罰制度に関する基本史料の収集作業の一環として、『明実録』に収める充軍史料を重点的にあつめ、『太祖実録』から『憲宗実録』までの調査作業をおおむね終えることができた。これは該書全体のほぼ五分の二にあたるが、『明実録』には充軍とは明確に断らなくとも、この刑罰に該当する記事も少なからず含まれることから、明代の法制用語に関しては、さらなる収集作業をふまえて帰納的に分類・整理していく必要があることも改めて明らかになった。\n第三に、令和元年11月には富山大学人文学部にて本科研費メンバーはもとより、平成28年度科学研究費助成事業・基盤研究(B)「情報時代における中国学研究・教育オープンプラットフォームの構築」(研究代表者：二階堂善弘)および富山大学附属図書館との共催というかたちで、「情報化時代の東洋学―デジタルアーカイブスの現状と課題―」と題する共同シンポジウムを開催し、この科研費のもうひとつのテーマである、デジタルヒューマニティーズの手法を活かした東洋学研究の今後について活発な議論を行った。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "19K01032"
+      ],
+      "national_grant_number": [
+        "JP19K01032"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K01032"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "13226485",
+    "rm:user_id": "B000288639",
+    "identifiers_id_modified": "2026-03-19 06:35:36",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2019-04-15T03:09:33Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T06:12:32Z",
+    "research_project_title": {
+      "ja": "IIIFとTEIを用いたオンライン翻刻支援システムの開発",
+      "en": "Development of Online Transcription System with IIIF and TEI"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 若手研究",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists"
+    },
+    "category": {
+      "ja": "若手研究",
+      "en": "Grant-in-Aid for Early-Career Scientists"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2019-04",
+    "to_date": "2021-03",
+    "research_project_owner_role": "principal_investigator",
+    "overall_grant_amount": {
+      "total_cost": "2600000",
+      "direct_cost": "2000000",
+      "indirect_cost": "600000"
+    },
+    "description": {
+      "ja": "本研究の目的は、オンライン上で複数のユーザが共同で史料を翻刻可能なシステムを開発することである。特に、画像共有のための国際規格であるIIIFや人文学資料のための構造化ルールを定めるTEI等の国際標準規格に準拠することにより、汎用的・国際的に利用可能なシステムの構築を目指す点に特徴がある。\n今年度は主にオープンソースのデジタルコンテンツ管理システムである「Omeka」のプラグイン「Scripto」をベースとして、IIIF準拠の画像を入力データとして、オンライン上で複数人が翻刻作業を実施し、翻刻結果をTEI準拠の形式でエクスポートすることが可能なプロトタイプシステムを開発した。さらに、一般的なOCR結果や、くずし字に特化したOCRサービス等との連携についても検討し、プロトタイプシステムへの機能追加を行った。\n開発したシステム上で複数人が翻刻作業を行うことで、例えば『校異源氏物語』54巻のうち、45巻の翻刻作業が完了し、「校異源氏物語テキストDB」というウェブサイトで成果を公開している。また翻刻テキストデータを画像や他のDBで公開されているテキストデータと関連づけることにより、作成したテキストデータの活用方法の検討、およびそれに基づく機能要件の改良を進めている。この成果として、「デジタル源氏物語」という画像と各種テキストデータを関連づけ、『源氏物語』の本文研究を支援することを目指したウェブサイトの公開も行った。\n今後は、プロトタイプシステムの実用化に向けたシステム改修やドキュメント整備を行い、システムの汎用性の向上を目指す。また、翻刻対象する資料の種類や数を拡充することで、オンライン上での翻刻作業のためのワークフローの効率化に向けた考察を行う。さらに、学会発表等での成果発信を行う。"
+    },
+    "identifiers": {
+      "grant_number": [
+        "19K20626"
+      ],
+      "national_grant_number": [
+        "JP19K20626"
+      ],
+      "rm:award_id": [
+        "39368098",
+        "31963330"
+      ],
+      "rm:work_id": [
+        "36900480",
+        "36900489",
+        "36900748",
+        "36900545",
+        "36900554",
+        "36900540"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20626"
+      },
+      {
+        "label": "rm:awards",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/awards/39368098"
+      },
+      {
+        "label": "rm:awards",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/awards/31963330"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900489"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900748"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900545"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900554"
+      },
+      {
+        "label": "rm:works",
+        "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900540"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/12074614",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_projects",
+    "rm:id": "12074614",
+    "rm:user_id": "B000288639",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "B000288639",
+    "rm:creator_type": "myself",
+    "rm:created": "2018-08-08T09:23:47Z",
+    "rm:modifier_id": "ai:identify_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-02-01T03:45:31Z",
+    "research_project_title": {
+      "ja": "古代エジプト聖刻文字碑文の言語記述とIIIF画像を利用した情報共有システムの開発",
+      "en": "Development of information sharing system using linguistic description of ancient Egyptian hieroglyphic inscriptions and IIIF images"
+    },
+    "investigators": {
+      "en": [
+        {
+          "name": "Masakatsu Nagai"
+        }
+      ],
+      "ja": [
+        {
+          "name": "永井 正勝"
+        },
+        {
+          "name": "和氣 愛仁"
+        },
+        {
+          "name": "中村 覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会",
+      "en": "Japan Society for the Promotion of Science"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(C)",
+      "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (C)"
+    },
+    "category": {
+      "ja": "基盤研究(C)",
+      "en": "Grant-in-Aid for Scientific Research (C)"
+    },
+    "institution_name": {
+      "ja": "東京大学",
+      "en": "The University of Tokyo"
+    },
+    "from_date": "2018-04",
+    "to_date": "2021-03",
+    "research_project_owner_role": "coinvestigator",
+    "overall_grant_amount": {
+      "total_cost": "4420000",
+      "direct_cost": "3400000",
+      "indirect_cost": "1020000"
+    },
+    "description": {
+      "ja": "本研究は、古代エジプト聖刻文字碑文資料を対象として、「碑文資料のIIIF画像」、「言語情報（文字、形態素・語、構文などの記述）」、「言語情報の根拠となるエビデンス（辞書や文法書の解説など）」を統合した「WEB公開型の検索プラットフォーム」を開発し、コンテンツを英文で公開する試みである。本研究の特色は、近年急速に利用が高まっている画像共有の国際規格であるIIIFを使用することにより、「碑文画像」、「言語情報」、「根拠」の３点を切り離すことなく、統合させたまま公開・共有することを目指す点にある。2019年度、言語研究班としては、前年度から引き続き、古代エジプト語の聖刻文字碑文ならびに神官文字写本について、言語情報の作成とエビデンスの整理を机上で行なった。その結果、神官文字写本については、IIIFを使用し、Moeller (1909-36) Hieratische Palaeographieの字形データベースを作成することができた。また、聖刻文字碑文については、エジプトの遺跡で実際に碑文の残存状況を調べながら、公開対象とすべき碑文を吟味した結果、古代エジプトの遺跡に残されている地名リストを扱うのがよいと判断された。地名リスト碑文をIIIF形式の画像で公開することの最大のメリットは、碑文に記されている地名を地図上の地点や遺跡に関する考古学情報とリンクさせることが可能となる点にある。本研究の出発点は言語記述にあるが、IIIF画像を使用することにより、その画像内で碑文のテキスト情報、地理情報、考古学情報など複数の異種情報をハイパーリンクさせることができる。この試みはIIIF画像の利活用の幅を広げることにも貢献するとともに、碑文の内容を総合的に理解することにも寄与する。システム研究班は、IIIF画像と地理情報とをリンクさせる技法について調査を行い、実装の準備を行なった。",
+      "en": "In this study, first, we developed the “Hieratic Palaeography Database” that allows the user to search for the Hieratic script from elements such as Hieratic numbers, hieroglyphic numbers, and phonetic values. Second, we developed a search platform that contains the IIIF images of inscription, the linguistic data of Topographical List of Syrian and Palestinian regions, reference information, and geographical data for each city. This is an attempt to integrate open-data, open-annotations, open-evidence, and open-reference information."
+    },
+    "identifiers": {
+      "grant_number": [
+        "18K00525"
+      ],
+      "national_grant_number": [
+        "JP18K00525"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K00525"
+      }
+    ]
+  },
+  {
+    "@type": "research_projects",
+    "display": "disclosed",
+    "research_project_title": {
+      "ja": "「行為」の構造化を軸とするデジタル・ヒストリー研究データと研究プロセスの接続に関する研究"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "小川潤"
+        },
+        {
+          "name": "中村覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "国立情報学研究所"
+    },
+    "system_name": {
+      "ja": "AI等の活用を推進する研究データエコシステム構築事業"
+    },
+    "institution_name": {
+      "ja": "東京大学"
+    },
+    "from_date": "2025-04",
+    "to_date": "2027-03",
+    "see_also": [
+      {
+        "@id": "https://www.nii.ac.jp/creded/creded_result.html",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-role": "提案参加者",
+    "x-source": "https://www.nii.ac.jp/creded/creded_result.html"
+  },
+  {
+    "@type": "research_projects",
+    "display": "disclosed",
+    "research_project_title": {
+      "ja": "国書データベースとそのテキストデータを活用した教材作成とLODの構築 －学校での授業実践と国際連携を通して－"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "大井将生"
+        },
+        {
+          "name": "中村覚"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "国文学研究資料館"
+    },
+    "system_name": {
+      "ja": "国文研プロジェクト型共同研究 重点課題研究（公募型）"
+    },
+    "institution_name": {
+      "ja": "同志社大学"
+    },
+    "from_date": "2025-04",
+    "to_date": "2027-03",
+    "see_also": [
+      {
+        "@id": "https://www.nijl.ac.jp/r-activity/joint_research/ddh/",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ],
+    "x-role": "共同研究員",
+    "x-source": "https://www.nijl.ac.jp/r-activity/joint_research/ddh/"
+  }
+]

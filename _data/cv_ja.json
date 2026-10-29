@@ -413,6 +413,26 @@
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K04084"
     },
     {
+      "name": "「行為」の構造化を軸とするデジタル・ヒストリー研究データと研究プロセスの接続に関する研究",
+      "startDate": "2025-04",
+      "endDate": "2027-03",
+      "description": "AI等の活用を推進する研究データエコシステム構築事業",
+      "entity": "国立情報学研究所",
+      "nameJa": "「行為」の構造化を軸とするデジタル・ヒストリー研究データと研究プロセスの接続に関する研究",
+      "investigators": "小川潤, 中村覚",
+      "url": "https://www.nii.ac.jp/creded/creded_result.html"
+    },
+    {
+      "name": "国書データベースとそのテキストデータを活用した教材作成とLODの構築 －学校での授業実践と国際連携を通して－",
+      "startDate": "2025-04",
+      "endDate": "2027-03",
+      "description": "国文研プロジェクト型共同研究 重点課題研究（公募型）",
+      "entity": "国文学研究資料館",
+      "nameJa": "国書データベースとそのテキストデータを活用した教材作成とLODの構築 －学校での授業実践と国際連携を通して－",
+      "investigators": "大井将生, 中村覚",
+      "url": "https://www.nijl.ac.jp/r-activity/joint_research/ddh/"
+    },
+    {
       "name": "史料データセンシングに基づく日本列島記憶継承モデルの確立",
       "startDate": "2024-04-01",
       "endDate": "2029-03-31",

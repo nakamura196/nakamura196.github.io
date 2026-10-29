@@ -1,0 +1,377 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/53178099",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "53178099",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-04-02T03:10:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-02T03:10:01Z",
+  "from_date": "2026-04",
+  "to_date": "9999",
+  "rm:institution_code": "0172030000",
+  "affiliation": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "section": {
+   "ja": "史料編纂所",
+   "en": "Historiographical Institute"
+  },
+  "job": {
+   "ja": "准教授",
+   "en": "Associate Professor"
+  },
+  "address_country": "JPN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/52101921",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "52101921",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T09:45:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T09:45:01Z",
+  "from_date": "2022-09",
+  "to_date": "9999",
+  "rm:institution_code": "0172000000",
+  "affiliation": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "section": {
+   "ja": "DX本部"
+  },
+  "job": {
+   "ja": "研究DX部門員"
+  },
+  "address_country": "JPN",
+  "x-en-source": {
+   "affiliation": "https://www.u-tokyo.ac.jp/en/"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/41246215",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "41246215",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-01-26T03:33:08Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-01-26T03:33:32Z",
+  "from_date": "2022",
+  "to_date": "9999",
+  "rm:institution_code": "0172000000",
+  "affiliation": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "section": {
+   "ja": "ヒューマニティーズセンター",
+   "en": "Humanities Center"
+  },
+  "job": {
+   "ja": "フェロー",
+   "en": "Fellow"
+  },
+  "address_country": "JPN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/36178336",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "36178336",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2022-01-07T01:38:14Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-01-07T01:38:14Z",
+  "from_date": "2020-12",
+  "to_date": "9999",
+  "rm:institution_code": "9429000000",
+  "affiliation": {
+   "ja": "公益財団法人東洋文庫",
+   "en": "The Toyo Bunko"
+  },
+  "section": {
+   "ja": "総合アジア圏域研究班研究データベース 共同研究グループ"
+  },
+  "job": {
+   "ja": "研究協力者"
+  },
+  "address_country": "JPN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/35987577",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "35987577",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-12-05T00:20:26Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-12-05T00:20:26Z",
+  "from_date": "2020-11",
+  "to_date": "9999",
+  "rm:institution_code": "A155001000",
+  "affiliation": {
+   "ja": "国立歴史民俗博物館",
+   "en": "National Museum of Japanese History"
+  },
+  "job": {
+   "ja": "共同研究員"
+  },
+  "address_country": "JPN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/26366844",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "26366844",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-04-13T02:41:46Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2020-04-13T02:41:46Z",
+  "from_date": "2020-04",
+  "to_date": "9999",
+  "rm:institution_code": "0180001000",
+  "affiliation": {
+   "ja": "東京外国語大学",
+   "en": "Tokyo University of Foreign Studies"
+  },
+  "section": {
+   "ja": "アジア・アフリカ言語文化研究所",
+   "en": "Research Institute for Languages and Cultures of Asia and Africa"
+  },
+  "job": {
+   "ja": "共同研究員",
+   "en": "Joint Researcher"
+  },
+  "address_country": "JPN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/54538484",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "54538484",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-08-02T06:48:53Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T06:48:53Z",
+  "from_date": "2026-08",
+  "to_date": "2027-08",
+  "rm:institution_code": "9999999999",
+  "affiliation": {
+   "ja": "ブリティッシュコロンビア大学",
+   "en": "The University of British Columbia"
+  },
+  "section": {
+   "ja": "応用科学部 電気・コンピュータ工学科",
+   "en": "Department of Electrical and Computer Engineering, Faculty of Applied Science"
+  },
+  "job": {
+   "ja": "客員教員",
+   "en": "Visiting Faculty Member"
+  },
+  "address_country": "CAN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/53091752",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "53091752",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-27T11:17:49Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-27T11:17:49Z",
+  "from_date": "2026-04",
+  "to_date": "2026-07",
+  "rm:institution_code": "9999999999",
+  "affiliation": {
+   "ja": "らいおん建築事務所"
+  },
+  "job": {
+   "ja": "建築家デジタルアーカイブ制作アドバイザー"
+  },
+  "address_country": "JPN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/20475103",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "20475103",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-05-03T14:54:23Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-08-02T07:42:23Z",
+  "from_date": "2019-04",
+  "to_date": "2026-07",
+  "rm:institution_code": "9999999999",
+  "affiliation": {
+   "ja": "国立国会図書館",
+   "en": "National Diet Library"
+  },
+  "job": {
+   "ja": "非常勤調査員",
+   "en": "Part-time investigator"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/35987576",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "35987576",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-12-05T00:18:33Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-05-03T08:35:16Z",
+  "from_date": "2022-01",
+  "to_date": "2026-03",
+  "rm:institution_code": "9999999999",
+  "affiliation": {
+   "ja": "毎日新聞社"
+  },
+  "section": {
+   "ja": "戦中写真アーカイブ委員会"
+  },
+  "job": {
+   "ja": "特別顧問"
+  },
+  "address_country": "JPN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/18119863",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "18119863",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-30T00:22:37Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-04-02T03:10:01Z",
+  "from_date": "2020-07",
+  "to_date": "2026-03",
+  "rm:institution_code": "0172030000",
+  "affiliation": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "section": {
+   "ja": "史料編纂所",
+   "en": "Historiographical Institute"
+  },
+  "job": {
+   "ja": "助教",
+   "en": "Assistant Professor"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/48509162",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "48509162",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-21T17:21:39Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-21T17:21:39Z",
+  "from_date": "2024-12",
+  "to_date": "2025-03",
+  "rm:institution_code": "0484000000",
+  "affiliation": {
+   "ja": "総合研究大学院大学",
+   "en": "The Graduate University for Advanced Studies"
+  },
+  "job": {
+   "ja": "オープンアクセス加速化事業システム開発アドバイザー"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/29321429",
+  "@type": "research_experience",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
+  "rm:id": "29321429",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2020-08-01T04:38:28Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-08-01T04:43:44Z",
+  "from_date": "2017-04",
+  "to_date": "2020-06",
+  "rm:institution_code": "0172013000",
+  "affiliation": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "section": {
+   "ja": "情報基盤センター",
+   "en": "Information Technology Center"
+  },
+  "job": {
+   "ja": "助教",
+   "en": "Assistant Professor"
+  }
+ }
+]

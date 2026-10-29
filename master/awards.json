@@ -1,0 +1,839 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/53057039",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "53057039",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-25T07:48:49Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-25T07:48:49Z",
+  "award_name": {
+   "ja": "DAPCON産業賞2025"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "阿辺川武"
+    },
+    {
+     "name": "石山星亜良"
+    },
+    {
+     "name": "植田禎子"
+    },
+    {
+     "name": "萱島礼香"
+    },
+    {
+     "name": "神崎正英"
+    },
+    {
+     "name": "高野明彦"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "Cultural Japan"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ推進コンソーシアム"
+  },
+  "award_date": "2026-03"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/52884475",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "52884475",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-09T22:10:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-09T22:10:59Z",
+  "award_name": {
+   "ja": "Linked Open Data チャレンジ Japan 2025 IIJ賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "大井将生"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "OdGenji：源氏物語の香りDB"
+  },
+  "association": {
+   "ja": "株式会社インターネットイニシアティブ"
+  },
+  "award_date": "2026-02"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/52884474",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "52884474",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-03-09T22:10:59Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-03-09T22:10:59Z",
+  "award_name": {
+   "ja": "Linked Open Data チャレンジ Japan 2025 データ作成部門 優秀賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "大井将生"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "OdGenji：源氏物語の香りDB"
+  },
+  "association": {
+   "ja": "Linked Open Data チャレンジ 2025 実行委員会"
+  },
+  "award_date": "2026-02"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/52101558",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "52101558",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T08:25:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T08:25:17Z",
+  "award_name": {
+   "ja": "第7回デジタルアーカイブ学会賞・学術賞（著書）"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "逢坂裕紀子"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "デジタル時代のコレクション論"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "award_date": "2026-01",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/52101557",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "52101557",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-01-26T08:25:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-01-26T08:25:17Z",
+  "award_name": {
+   "ja": "第7回デジタルアーカイブ学会賞・学術賞（研究論文）最優秀賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "金甫榮"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "山田太造"
+    },
+    {
+     "name": "渡邉英徳"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "デジタル資料の長期保存のためのOAIS参照モデルによる情報パッケージの作成：東京大学史料編纂所を事例に"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "award_date": "2026-01",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/51187935",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "51187935",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-09-17T09:52:24Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-09-17T09:52:24Z",
+  "award_name": {
+   "ja": "デジタルアーカイブジャパン・アワード（DAJアワード）2025"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "裏源氏勉強会"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "デジタル源氏物語"
+  },
+  "association": {
+   "ja": "デジタルアーカイブジャパン推進委員会実務者検討委員会"
+  },
+  "award_date": "2025-08"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/49116010",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "49116010",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-02-10T12:19:30Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-02-10T12:19:30Z",
+  "award_name": {
+   "ja": "じんもんこん2024「優秀論文賞」"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "大井将生"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "大野健人"
+    },
+    {
+     "name": "髙橋傑"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用"
+  },
+  "association": {
+   "ja": "情報処理学会 (IPSJ) 人文科学とコンピュータ研究会 (SIG-CH)"
+  },
+  "description": {
+   "ja": "論文の概要：\n本研究の目的は, 荘園関係データの活用を促進する情報／学習モデルを開発することである. そのために, １）国立歴史民俗博物館のDB「日本荘園」と「荘園関係文献目録」を活用した「nihuBridge LOD」を開発する. また, ２）開発したLODを用いた高等学校での学習モデルを開発する. 本稿では, 開発したLODと学習モデルの概要を述べると共に, これらを用いて行なった高等学校での授業実践の結果について考察する."
+  },
+  "award_date": "2025-02",
+  "award_type": "japan_society",
+  "address_country": "JPN",
+  "see_also": [
+   {
+    "@id": "https://jinmoncom.jp/sympo2024/",
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/48943687",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "48943687",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2025-01-16T08:33:45Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2025-01-16T08:33:45Z",
+  "award_name": {
+   "ja": "ベストポスター賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "小風綾乃"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "山田太造"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "TEIによる編纂史料の構造化ー『大日本史料』を例に"
+  },
+  "association": {
+   "ja": "人文科学とコンピュータシンポジウム「じんもんこん2024」"
+  },
+  "award_date": "2024-12"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/48555061",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "48555061",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-28T00:28:01Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-28T00:28:01Z",
+  "award_name": {
+   "ja": "Linked Open Data Challenge 2024 学術LOD賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "大井将生"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "nihuBridge LOD; 荘園関係DB LOD"
+  },
+  "award_date": "2024-11"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/48381298",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "48381298",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-11-06T03:57:00Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-11-06T03:57:00Z",
+  "award_name": {
+   "ja": "第6回デジタルアーカイブ学会賞・実践賞"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "award_date": "2024-11",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/47576710",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "47576710",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-08-30T06:55:58Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-08-30T06:55:58Z",
+  "award_name": {
+   "ja": "デジタルアーカイブジャパン・アワード（DAJアワード）2024"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "東京大学デジタルアーカイブズ構築事業"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "東京大学デジタルアーカイブポータル"
+  },
+  "association": {
+   "ja": "デジタルアーカイブジャパン推進委員会実務者検討委員会"
+  },
+  "award_date": "2024-08"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/47576680",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "47576680",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2024-08-30T06:53:14Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2024-08-30T06:53:14Z",
+  "award_name": {
+   "ja": "第59回国立大学図書館協会賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "東京大学附属図書館デジタルアーカイブ活用に関する勉強会(通称:裏源氏勉強会)"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "デジタル源氏物語：研究者との連携による「源氏物語」研究プラットフォームの構築"
+  },
+  "association": {
+   "ja": "国立大学図書館協会",
+   "en": "Japan Association of National University Libraries"
+  },
+  "award_date": "2024-06",
+  "x-en-source": {
+   "association": "https://www.janul.jp/en"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/44216303",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "44216303",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-12-09T05:51:38Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-12-09T05:51:38Z",
+  "award_name": {
+   "ja": "Linked Open Data Challenge 2023 優秀賞（データ作成部門）"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "大井将生"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "S×UKILAM（スキラム）教育メタデータLOD"
+  },
+  "association": {
+   "ja": "Linked Open Data チャレンジ 2023 実行委員会"
+  },
+  "description": {
+   "ja": "受賞作品：S×UKILAM（スキラム）教育メタデータLOD（https://idea.linkdata.org/idea/idea1s3662i）\n\n審査講評：本作品は、デジタルアーカイブ資料を用いた教材と多様な教育情報を、LODの特徴を活かし、さまざまなメタデータや外部コンテンツとの接続しやすい形で構造化したデータセットとなっています。 オントロジーによるスキーマ定義やSPARQLエンドポイントの提供など、データ公開の技術面も優れていることに加え、それらを利用し、豊富なデータを直感的なインタフェースで可視化するアプリケーションも開発されており、優秀賞に値すると評価いたしました。"
+  },
+  "award_date": "2023-11",
+  "award_type": "japan_society",
+  "address_country": "JPN",
+  "see_also": [
+   {
+    "@id": "https://2023.lodc.jp/awardPressRelease2023.html",
+    "label": "url"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/41656217",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "41656217",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2023-03-07T22:17:07Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2023-03-07T22:17:20Z",
+  "award_name": {
+   "ja": "学術賞（著書)"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "井上透"
+    },
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "自然史・理工系研究データの活用（デジタルアーカイブ・ベーシックス3）."
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "award_date": "2022-11",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/39368098",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "39368098",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2022-08-01T04:37:02Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2022-08-01T04:37:02Z",
+  "award_name": {
+   "ja": "2022年度（令和4年度）山下記念研究賞",
+   "en": "IPSJ Yamashita SIG Research Award"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "デジタル源氏物語（AI画像検索版）：くずし字OCRと編集距離を用いた写本・版本の比較支援システムの開発"
+  },
+  "association": {
+   "ja": "情報処理学会",
+   "en": "Information Processing Society of Japan"
+  },
+  "award_date": "2022-07",
+  "identifiers": {
+   "rm:research_project_id": [
+    "13226485"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+    "label": "rm:research_project_id"
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/31963513",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "31963513",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-03-23T04:01:24Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-03-23T04:01:24Z",
+  "award_name": {
+   "ja": "第3回学会賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "チーム カルチュラル・ジャパン"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "実践賞"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "award_date": "2021-04",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/31963511",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "31963511",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-03-23T04:00:56Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-03-23T04:00:56Z",
+  "award_name": {
+   "ja": "第3回学会賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "東京大学学術資産アーカイブ化推進室"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "実践賞"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "award_date": "2021-04",
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/31963330",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "31963330",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2021-03-23T04:00:32Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2021-03-23T04:01:41Z",
+  "award_name": {
+   "ja": "第3回学会賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "中村覚"
+    }
+   ]
+  },
+  "award_title": {
+   "ja": "実践賞"
+  },
+  "association": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "award_date": "2021-04",
+  "identifiers": {
+   "rm:research_project_id": [
+    "13226485"
+   ]
+  },
+  "see_also": [
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+    "label": "rm:research_project_id"
+   }
+  ],
+  "x-en-source": {
+   "association": "https://digitalarchivejapan.org/english"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/4074707",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "4074707",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2019-12-25T13:33:52Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-25T13:35:03Z",
+  "award_name": {
+   "ja": "学生奨励賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "小風尚樹"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "永崎研宣"
+    }
+   ]
+  },
+  "winners_text": {
+   "ja": "小風尚樹・中村覚・永崎研宣"
+  },
+  "award_title": {
+   "ja": "構造化記述された財務記録史料データの分析手法の開発：イギリスの船舶解体業を事例に"
+  },
+  "association": {
+   "ja": "情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2019」"
+  },
+  "award_date": "2019-12"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/2505713",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "2505713",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-07-22T01:05:35Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2019-12-25T13:34:25Z",
+  "award_name": {
+   "ja": "学生奨励賞"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "小風尚樹"
+    },
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "清原和之"
+    },
+    {
+     "name": "山王綾乃"
+    },
+    {
+     "name": "纓田宗紀"
+    },
+    {
+     "name": "小林拓実"
+    }
+   ]
+  },
+  "winners_text": {
+   "ja": "小風尚樹・中村覚・清原和之・山王綾乃・纓田宗紀・小林拓実"
+  },
+  "award_title": {
+   "ja": "歴史研究者・アーキビスト・エンジニアの学際的協働に基づくコミュニティ構築：Tokyo Digital Historyを事例に"
+  },
+  "association": {
+   "ja": "情報処理学会 人文科学とコンピュータ研究会"
+  },
+  "award_date": "2018-05"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/awards/2373794",
+  "@type": "awards",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/awards",
+  "rm:id": "2373794",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:45:55Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:22:52Z",
+  "award_name": {
+   "ja": "日本船舶海洋工学会奨学褒賞",
+   "en": "The Scholarship award of Japan Society of Naval Architects and Ocean Engineers"
+  },
+  "winners": {
+   "ja": [
+    {
+     "name": "中村 覚"
+    }
+   ],
+   "en": [
+    {
+     "name": "Nakamura Satoru"
+    }
+   ]
+  },
+  "winners_text": {
+   "ja": "中村 覚",
+   "en": "Nakamura Satoru"
+  },
+  "association": {
+   "ja": "社団法人日本船舶海洋工学会",
+   "en": "Japan Society of Naval Architects and Ocean Engineers"
+  },
+  "award_date": "2014-03"
+ }
+]

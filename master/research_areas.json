@@ -1,0 +1,27 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/research_areas/6998209",
+  "@type": "research_areas",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_areas",
+  "rm:id": "6998209",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T05:54:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T05:54:17Z",
+  "discipline_number": "A900",
+  "item_number": "A90020",
+  "discipline": {
+   "ja": "人文・社会",
+   "en": "Humanities & social sciences"
+  },
+  "research_field": {
+   "ja": "図書館情報学、人文社会情報学",
+   "en": "Library/information science, humanistic/social informatics"
+  }
+ }
+]

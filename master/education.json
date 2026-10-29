@@ -1,0 +1,163 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/education/14928263",
+  "@type": "education",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/education",
+  "rm:id": "14928263",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:47:53Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:08:21Z",
+  "from_date": "2014-04",
+  "to_date": "2017-03",
+  "rm:institution_code": "0172000000",
+  "affiliation": {
+   "ja": "東京大学大学院",
+   "en": "The University of Tokyo"
+  },
+  "department": {
+   "ja": "新領域創成科学研究科",
+   "en": "Graduate School of Frontier Sciences"
+  },
+  "course": {
+   "ja": "人間環境学専攻 博士課程",
+   "en": "Department of Human and Engineered Environment Studies"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/education/14928264",
+  "@type": "education",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/education",
+  "rm:id": "14928264",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:48:45Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:08:30Z",
+  "from_date": "2012-04",
+  "to_date": "2014-03",
+  "rm:institution_code": "0172000000",
+  "affiliation": {
+   "ja": "東京大学大学院",
+   "en": "The University of Tokyo"
+  },
+  "department": {
+   "ja": "新領域創成科学研究科",
+   "en": "Graduate School of Frontier Sciences"
+  },
+  "course": {
+   "ja": "人間環境学専攻 修士課程",
+   "en": "Department of Human and Engineered Environment Studies"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/education/14928265",
+  "@type": "education",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/education",
+  "rm:id": "14928265",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T04:50:37Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:13:05Z",
+  "from_date": "2009-04",
+  "to_date": "2012-03",
+  "rm:institution_code": "0172504524",
+  "affiliation": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "department": {
+   "ja": "工学部",
+   "en": "Faculty of Engineering"
+  },
+  "course": {
+   "ja": "システム創成学科 知能社会システムコース",
+   "en": "Department of Systems innovation"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/education/14928270",
+  "@type": "education",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/education",
+  "rm:id": "14928270",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T11:14:08Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:14:08Z",
+  "from_date": "2009-09",
+  "to_date": "2010-08",
+  "rm:institution_code": "9999999999",
+  "affiliation": {
+   "ja": "Pacific Gateway International College",
+   "en": "Pacific Gateway International College"
+  },
+  "address_country": "CAN"
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/education/14928269",
+  "@type": "education",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/education",
+  "rm:id": "14928269",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T11:12:42Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:12:42Z",
+  "from_date": "2007-04",
+  "to_date": "2009-03",
+  "rm:institution_code": "0172000000",
+  "affiliation": {
+   "ja": "東京大学",
+   "en": "The University of Tokyo"
+  },
+  "department": {
+   "ja": "理科I類",
+   "en": "College of Arts and Sciences"
+  }
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/education/14928268",
+  "@type": "education",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/education",
+  "rm:id": "14928268",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-02-18T11:11:16Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-02-18T11:11:16Z",
+  "from_date": "2004-04",
+  "to_date": "2007-03",
+  "rm:institution_code": "9999999999",
+  "affiliation": {
+   "ja": "東京都立立川高等学校",
+   "en": "Tokyo Metropolitan Tachikawa High School"
+  }
+ }
+]

@@ -1,0 +1,36 @@
+[
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/social_contribution/1374316",
+  "@type": "social_contribution",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/social_contribution",
+  "rm:id": "1374316",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2018-08-09T23:42:49Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2018-08-09T23:42:49Z",
+  "social_contribution_title": {
+   "ja": "Tokyo Digital History",
+   "en": "Tokyo Digital History"
+  },
+  "social_contribution_roles": [
+   "organizing_member"
+  ],
+  "promoter": {
+   "ja": "小風尚樹, 清原和之, 田中聡, 中村覚",
+   "en": "Naoki Kokaze, Kazuyuki Kiyohara, Satoshi Tanaka, Satoru Nakamura"
+  },
+  "from_event_date": "2017-10-29",
+  "social_contribution_type": "seminar",
+  "see_also": [
+   {
+    "label": "url",
+    "@id": "https://historiansworkshop.org/about/about-tokyo-digital-history/"
+   }
+  ]
+ }
+]
