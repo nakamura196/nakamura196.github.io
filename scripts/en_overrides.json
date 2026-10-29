@@ -1,0 +1,366 @@
+{
+ "association_memberships/8952754": {
+  "academic_society_name": {
+   "en": "Japanese Association for Digital Humanities",
+   "source": "https://www.jadh.org/"
+  }
+ },
+ "awards/31963330": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "awards/31963511": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "awards/31963513": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "awards/41656217": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "awards/47576680": {
+  "association": {
+   "en": "Japan Association of National University Libraries",
+   "source": "https://www.janul.jp/en"
+  }
+ },
+ "awards/48381298": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "awards/52101557": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "awards/52101558": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "committee_memberships/32461537": {
+  "association": {
+   "en": "Information Processing Society of Japan, Special Interest Group on Computer and Humanities (SIG-CH)",
+   "source": "https://www.ipsj.or.jp/english/sigs/index2025.html"
+  }
+ },
+ "committee_memberships/32461541": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "committee_memberships/51187921": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "committee_memberships/51187975": {
+  "association": {
+   "en": "Information Processing Society of Japan, Special Interest Group on Computer and Humanities (SIG-CH)",
+   "source": "https://www.ipsj.or.jp/english/sigs/index2025.html"
+  }
+ },
+ "committee_memberships/52101894": {
+  "association": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  }
+ },
+ "committee_memberships/52101895": {
+  "association": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  }
+ },
+ "committee_memberships/53091775": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "committee_memberships/54538665": {
+  "association": {
+   "en": "The University of Tokyo",
+   "source": "https://www.u-tokyo.ac.jp/en/"
+  }
+ },
+ "committee_memberships/54538667": {
+  "association": {
+   "en": "Information Technology Center, The University of Tokyo",
+   "source": "https://www.itc.u-tokyo.ac.jp/en/"
+  }
+ },
+ "committee_memberships/6658044": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "committee_memberships/6658045": {
+  "association": {
+   "en": "Japan Society for Digital Archive",
+   "source": "https://digitalarchivejapan.org/english"
+  }
+ },
+ "misc/12881664": {
+  "publication_name": {
+   "en": "Bulletin of the Japan Special Libraries Association",
+   "source": "https://cir.nii.ac.jp/crid/1522543655886257408"
+  }
+ },
+ "misc/23968610": {
+  "publication_name": {
+   "en": "Journal of historical studies",
+   "source": "https://ci.nii.ac.jp/ncid/AN00299161"
+  }
+ },
+ "misc/46364843": {
+  "publication_name": {
+   "en": "The studies in Western history",
+   "source": "https://cir.nii.ac.jp/crid/1520580859423736576"
+  }
+ },
+ "presentations/34057135": {
+  "presentation_title": {
+   "en": "Lecture 5-1: Getting people to use Cultural Japan",
+   "source": "https://cir.nii.ac.jp/crid/1390010292705794560"
+  }
+ },
+ "presentations/34057145": {
+  "presentation_title": {
+   "en": "Lecture 3-3: Consideration of cross-disciplinary integrated portal",
+   "source": "https://cir.nii.ac.jp/crid/1390854717648641792"
+  }
+ },
+ "presentations/45667900": {
+  "presentation_title": {
+   "en": "Proposal to develop Digital Archive System considering Sustainability and Reusability",
+   "source": "https://cir.nii.ac.jp/crid/1390850092194337152"
+  }
+ },
+ "published_papers/15856137": {
+  "publication_name": {
+   "en": "Journal of Japan Association for East Asian Text Processing",
+   "source": "https://cir.nii.ac.jp/crid/1522825131095485568"
+  }
+ },
+ "published_papers/23509569": {
+  "publication_name": {
+   "en": "Conference proceedings, the Japan Society of Naval Architects and Ocean Engineers",
+   "source": "https://cir.nii.ac.jp/crid/1520009407041548160"
+  }
+ },
+ "published_papers/23509582": {
+  "publication_name": {
+   "en": "Conference proceedings, the Japan Society of Naval Architects and Ocean Engineers",
+   "source": "https://cir.nii.ac.jp/crid/1520009407041548160"
+  }
+ },
+ "published_papers/23509587": {
+  "publication_name": {
+   "en": "Conference proceedings, the Japan Society of Naval Architects and Ocean Engineers",
+   "source": "https://cir.nii.ac.jp/crid/1520009407041548160"
+  }
+ },
+ "published_papers/23517692": {
+  "paper_title": {
+   "en": "Seeking a Low-hurdles, High-aggregation Model for Digital Archive: A Report on a Talk Event by the U-PARL of the University of Tokyo Library System, \"Classical Books on flickr!: Publication of Digital Images of Rare Chinese Books and Calligraphic Models on a Photo-sharing Platform\"",
+   "source": "https://cir.nii.ac.jp/crid/1390001204233486464"
+  },
+  "publication_name": {
+   "en": "The Journal of Information Science and Technology Association",
+   "source": "https://cir.nii.ac.jp/crid/1390001204233486464"
+  }
+ },
+ "published_papers/31633608": {
+  "publication_name": {
+   "en": "Clio : a journal of European studies",
+   "source": "https://cir.nii.ac.jp/crid/1390009224603743616"
+  }
+ },
+ "published_papers/36178414": {
+  "paper_title": {
+   "en": "Challenges in Developing a Research Data Infrastructure for Japanese Historical Documents",
+   "source": "https://cir.nii.ac.jp/crid/1050855522081210240"
+  }
+ },
+ "published_papers/36178421": {
+  "paper_title": {
+   "en": "Building a Knowledge Base for Data-Driven Historical Information Research Infrastructure and Its Application: Focusing on Historical Painting Materials",
+   "source": "https://cir.nii.ac.jp/crid/1050011097133848960"
+  }
+ },
+ "published_papers/36178622": {
+  "paper_title": {
+   "en": "Implementation of Japanese Historical Data with Enhanced Interoperability: Case Study of the TEI and IIIF of the Engi-Shiki",
+   "source": "https://cir.nii.ac.jp/crid/1050011097116137344"
+  }
+ },
+ "published_papers/41656247": {
+  "paper_title": {
+   "en": "[B2] Long-term Preservation and Publication of Authentic Digitized Archive Materials: A Case Study Using Archivematica and Omeka S",
+   "source": "https://cir.nii.ac.jp/crid/1390856904109788928"
+  },
+  "publication_name": {
+   "en": "Journal of the Japan Society for Digital Archive",
+   "source": "https://cir.nii.ac.jp/crid/1390585095042641408"
+  }
+ },
+ "published_papers/44533506": {
+  "publication_name": {
+   "en": "The study of Occidental history",
+   "source": "https://cir.nii.ac.jp/crid/1520580561493587968"
+  }
+ },
+ "published_papers/49788493": {
+  "paper_title": {
+   "en": "Management and Publication of Japanese Historical Materials: Initiatives to Strengthen the Research Data Infrastructure for the Humanities and Social Sciences",
+   "source": "https://cir.nii.ac.jp/crid/1390585095042641408"
+  },
+  "publication_name": {
+   "en": "Journal of the Japan Society for Digital Archive",
+   "source": "https://cir.nii.ac.jp/crid/1390585095042641408"
+  }
+ },
+ "published_papers/50528894": {
+  "paper_title": {
+   "en": "Creation of an Information Package Based on the OAIS Reference Model for the Long-term Preservation of Digital Materials: A Case Study at the Historiographical Institute of the University of Tokyo",
+   "source": "https://cir.nii.ac.jp/crid/1390867654669019520"
+  },
+  "publication_name": {
+   "en": "Journal of the Japan Society for Digital Archive",
+   "source": "https://cir.nii.ac.jp/crid/1390585095042641408"
+  }
+ },
+ "published_papers/52101818": {
+  "paper_title": {
+   "en": "Examination of Digital Compilation Workflow Using TEI: A Case Study of Medieval Zen Buddhist Historical Materials",
+   "source": "https://cir.nii.ac.jp/crid/1050306495453308800"
+  }
+ },
+ "published_papers/52101819": {
+  "paper_title": {
+   "en": "Exploring Manuscript Provenance from Diverse Historical Materials:  Modeling the Structuring and Linking of Provenance Information Using RDF",
+   "source": "https://cir.nii.ac.jp/crid/1050587970429952896"
+  }
+ },
+ "published_papers/52101820": {
+  "paper_title": {
+   "en": "Batch-Oriented Named-Entity Linking — A TEI Case Study of Tokitsugukyoki",
+   "source": "https://cir.nii.ac.jp/crid/1050306495453245440"
+  }
+ },
+ "published_papers/52101821": {
+  "paper_title": {
+   "en": "A Multisensory Information Flow Model Approaching Genji Karuta Through Smell： Focus on TEI and Genji Kōzu",
+   "source": "https://cir.nii.ac.jp/crid/1050587970429956096"
+  }
+ },
+ "published_papers/52101822": {
+  "paper_title": {
+   "en": "Development of a Drupal Module for Building a Multilingual Image-Text Linked Database Platform",
+   "source": "https://cir.nii.ac.jp/crid/1050025020476533376"
+  }
+ },
+ "research_experience/52101921": {
+  "affiliation": {
+   "en": "The University of Tokyo",
+   "source": "https://www.u-tokyo.ac.jp/en/"
+  }
+ },
+ "research_projects/35961917": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  },
+  "research_project_title": {
+   "en": "Linguistic Description and Constructing IIIF-based Data Platform for Ancient Egyptian Hieratic Texts: Toward Clarifying Regional Differences.",
+   "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21K00472/"
+  },
+  "system_name": {
+   "en": "Grant-in-Aid for Scientific Research (C)",
+   "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21K00472/"
+  }
+ },
+ "research_projects/35961918": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  },
+  "research_project_title": {
+   "en": "Constructing a new historical materials study by accumulating fragmentary historical material information and cross-referencing historical knowledge information",
+   "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04356/"
+  },
+  "system_name": {
+   "en": "Grant-in-Aid for Scientific Research (A)",
+   "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04356/"
+  }
+ },
+ "research_projects/39508593": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  },
+  "research_project_title": {
+   "en": "Design of a storytelling digital archive using prewar and wartime news photographs",
+   "source": "https://kaken.nii.ac.jp/en/search/?kw=22H03885"
+  }
+ },
+ "research_projects/44559197": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  }
+ },
+ "research_projects/48001914": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  }
+ },
+ "research_projects/50040755": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  }
+ },
+ "research_projects/50257651": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  }
+ },
+ "research_projects/50553053": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  },
+  "research_project_title": {
+   "en": "A Multidisciplinary Historical Analysis of Personal Appearance Impressions--With a Focus on Japan",
+   "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K21831/"
+  }
+ },
+ "research_projects/53678648": {
+  "offer_organization": {
+   "en": "Japan Society for the Promotion of Science",
+   "source": "https://www.jsps.go.jp/english/"
+  }
+ }
+}

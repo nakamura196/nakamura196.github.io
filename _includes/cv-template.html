@@ -1,4 +1,7 @@
-{% assign cv = site.data.cv %}
+{% assign lang = include.lang | default: "en" %}
+{% if lang == "ja" %}{% assign cv = site.data.cv_ja %}{% else %}{% assign cv = site.data.cv %}{% endif %}
+{% assign L = site.data.labels[lang] %}
+{% assign rm = site.data.researchmap %}
 
 <style>
   .archive {
@@ -63,7 +66,7 @@
   {% if cv.basics.summary %}
   <!-- Summary -->
   <div class="cv-section">
-    <h2>Summary</h2>
+    <h2>{{ L.summary }}</h2>
     <p>{{ cv.basics.summary }}</p>
   </div>
   {% endif %}
@@ -71,12 +74,12 @@
   {% if cv.education.size > 0 %}
   <!-- Education -->
   <div class="cv-section">
-    <h2>Education</h2>
+    <h2>{{ L.education }}</h2>
     <ul class="cv-list">
       {% for education in cv.education %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ education.area }}</div>
+          <div class="cv-item-title">{{ education.area | default: education.institution }}</div>
           <div class="cv-item-date">{{ education.endDate }}</div>
         </div>
         <div class="cv-item-content">
@@ -96,10 +99,28 @@
   </div>
   {% endif %}
   
+  {% if lang == "ja" %}{% assign degs = rm.degreesJa %}{% else %}{% assign degs = rm.degrees %}{% endif %}
+  {% if degs.size > 0 %}
+  <div class="cv-section">
+    <h2>{{ L.degrees }}</h2>
+    <ul class="cv-list">
+      {% for d in degs %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ d.degree }}</div>
+          <div class="cv-item-date">{{ d.date | slice: 0, 4 }}</div>
+        </div>
+        <div class="cv-item-content"><div class="cv-item-subtitle">{{ d.institution }}</div></div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if cv.work.size > 0 %}
   <!-- Work Experience -->
   <div class="cv-section">
-    <h2>Work Experience</h2>
+    <h2>{{ L.work }}</h2>
     <ul class="cv-list">
       {% for work in cv.work %}
       <li class="cv-item">
@@ -129,7 +150,7 @@
   {% if cv.awards.size > 0 %}
   <!-- Awards -->
   <div class="cv-section">
-    <h2>Awards &amp; Honors</h2>
+    <h2>{{ L.awards }}</h2>
     <ul class="cv-list">
       {% for award in cv.awards %}
       <li class="cv-item">
@@ -150,12 +171,12 @@
   {% if cv.projects.size > 0 %}
   <!-- Research Grants -->
   <div class="cv-section">
-    <h2>Research Grants &amp; Projects</h2>
+    <h2>{{ L.projects }}</h2>
     <ul class="cv-list">
       {% for project in cv.projects %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ project.name }}</div>
+          <div class="cv-item-title">{% if project.url %}<a href="{{ project.url }}">{{ project.name }}</a>{% else %}{{ project.name }}{% endif %}</div>
           <div class="cv-item-date">{{ project.startDate | slice: 0, 4 }}{% if project.endDate %} - {{ project.endDate | slice: 0, 4 }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
@@ -171,7 +192,7 @@
   {% if cv.volunteer.size > 0 %}
   <!-- Professional Service -->
   <div class="cv-section">
-    <h2>Professional Service</h2>
+    <h2>{{ L.service }}</h2>
     <ul class="cv-list">
       {% for v in cv.volunteer %}
       <li class="cv-item">
@@ -181,6 +202,41 @@
         </div>
         <div class="cv-item-content">
           {% if v.organization %}<div class="cv-item-subtitle">{{ v.organization }}</div>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if rm.memberships.size > 0 %}
+  <div class="cv-section">
+    <h2>{{ L.memberships }}</h2>
+    <ul class="cv-list">
+      {% for m in rm.memberships %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{% if lang == "ja" %}{{ m.nameJa }}{% else %}{{ m.name }}{% endif %}</div>
+          <div class="cv-item-date">{{ m.startDate | slice: 0, 4 }}{% if m.endDate %} - {{ m.endDate | slice: 0, 4 }}{% endif %}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if rm.outreach.size > 0 %}
+  <div class="cv-section">
+    <h2>{{ L.outreach }}</h2>
+    <ul class="cv-list">
+      {% for o in rm.outreach %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{% if lang == "ja" %}{% assign ot = o.titleJa %}{% else %}{% assign ot = o.title %}{% endif %}{% if o.url %}<a href="{{ o.url }}">{{ ot }}</a>{% else %}{{ ot }}{% endif %}</div>
+          <div class="cv-item-date">{{ o.date | slice: 0, 4 }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{% if lang == "ja" %}{{ o.promoterJa }}{% else %}{{ o.promoter }}{% endif %}</div>
         </div>
       </li>
       {% endfor %}
@@ -335,7 +391,7 @@
   {% if cv.interests.size > 0 %}
   <!-- Interests -->
   <div class="cv-section">
-    <h2>Interests</h2>
+    <h2>{{ L.interests }}</h2>
     <ul class="cv-list">
       {% for interest in cv.interests %}
       <li class="cv-item">

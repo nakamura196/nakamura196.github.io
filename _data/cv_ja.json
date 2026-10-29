@@ -1,0 +1,812 @@
+{
+  "basics": {
+    "name": "中村 覚",
+    "website": "https://nakamura196.github.io",
+    "summary": "東京大学 准教授",
+    "location": {
+      "city": "Tokyo",
+      "countryCode": "JP"
+    },
+    "profiles": [
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0000-0001-8245-7925"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=gbuswBEAAAAJ"
+      },
+      {
+        "network": "Semantic Scholar",
+        "username": "",
+        "url": "https://www.semanticscholar.org/author/2111225943"
+      },
+      {
+        "network": "DBLP",
+        "username": "",
+        "url": "https://dblp.org/pid/51/6055.html"
+      },
+      {
+        "network": "GitHub",
+        "username": "nakamura196",
+        "url": "https://github.com/nakamura196"
+      },
+      {
+        "network": "researchmap",
+        "username": "nakamura.satoru",
+        "url": "https://researchmap.jp/nakamura.satoru"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ブリティッシュコロンビア大学",
+      "company": "ブリティッシュコロンビア大学",
+      "position": "客員教員, 応用科学部 電気・コンピュータ工学科",
+      "startDate": "2026-08",
+      "endDate": "2027-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "准教授, 史料編纂所",
+      "startDate": "2026-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "らいおん建築事務所",
+      "company": "らいおん建築事務所",
+      "position": "建築家デジタルアーカイブ制作アドバイザー",
+      "startDate": "2026-04",
+      "endDate": "2026-07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "総合研究大学院大学",
+      "company": "総合研究大学院大学",
+      "position": "オープンアクセス加速化事業システム開発アドバイザー",
+      "startDate": "2024-12",
+      "endDate": "2025-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "研究DX部門員, DX本部",
+      "startDate": "2022-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "毎日新聞社",
+      "company": "毎日新聞社",
+      "position": "特別顧問, 戦中写真アーカイブ委員会",
+      "startDate": "2022-01",
+      "endDate": "2026-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "フェロー, ヒューマニティーズセンター",
+      "startDate": "2022",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "公益財団法人東洋文庫",
+      "company": "公益財団法人東洋文庫",
+      "position": "研究協力者, 総合アジア圏域研究班研究データベース 共同研究グループ",
+      "startDate": "2020-12",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "国立歴史民俗博物館",
+      "company": "国立歴史民俗博物館",
+      "position": "共同研究員",
+      "startDate": "2020-11",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "助教, 史料編纂所",
+      "startDate": "2020-07",
+      "endDate": "2026-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京外国語大学",
+      "company": "東京外国語大学",
+      "position": "共同研究員, アジア・アフリカ言語文化研究所",
+      "startDate": "2020-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "国立国会図書館",
+      "company": "国立国会図書館",
+      "position": "非常勤調査員",
+      "startDate": "2019-04",
+      "endDate": "2026-07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "東京大学",
+      "company": "東京大学",
+      "position": "助教, 情報基盤センター",
+      "startDate": "2017-04",
+      "endDate": "2020-06",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "東京大学大学院, 新領域創成科学研究科",
+      "area": "人間環境学専攻 博士課程",
+      "studyType": "",
+      "startDate": "2014-04",
+      "endDate": "2017-03"
+    },
+    {
+      "institution": "東京大学大学院, 新領域創成科学研究科",
+      "area": "人間環境学専攻 修士課程",
+      "studyType": "",
+      "startDate": "2012-04",
+      "endDate": "2014-03"
+    },
+    {
+      "institution": "東京大学, 工学部",
+      "area": "システム創成学科 知能社会システムコース",
+      "studyType": "",
+      "startDate": "2009-04",
+      "endDate": "2012-03"
+    },
+    {
+      "institution": "Pacific Gateway International College",
+      "area": "",
+      "studyType": "",
+      "startDate": "2009-09",
+      "endDate": "2010-08"
+    },
+    {
+      "institution": "東京大学, 理科I類",
+      "area": "",
+      "studyType": "",
+      "startDate": "2007-04",
+      "endDate": "2009-03"
+    },
+    {
+      "institution": "東京都立立川高等学校",
+      "area": "",
+      "studyType": "",
+      "startDate": "2004-04",
+      "endDate": "2007-03"
+    }
+  ],
+  "awards": [
+    {
+      "title": "DAPCON産業賞2025",
+      "date": "2026-03",
+      "awarder": "デジタルアーカイブ推進コンソーシアム",
+      "summary": "Cultural Japan"
+    },
+    {
+      "title": "Linked Open Data チャレンジ Japan 2025 IIJ賞",
+      "date": "2026-02",
+      "awarder": "株式会社インターネットイニシアティブ",
+      "summary": "OdGenji：源氏物語の香りDB"
+    },
+    {
+      "title": "Linked Open Data チャレンジ Japan 2025 データ作成部門 優秀賞",
+      "date": "2026-02",
+      "awarder": "Linked Open Data チャレンジ 2025 実行委員会",
+      "summary": "OdGenji：源氏物語の香りDB"
+    },
+    {
+      "title": "第7回デジタルアーカイブ学会賞・学術賞（著書）",
+      "date": "2026-01",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "デジタル時代のコレクション論"
+    },
+    {
+      "title": "第7回デジタルアーカイブ学会賞・学術賞（研究論文）最優秀賞",
+      "date": "2026-01",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "デジタル資料の長期保存のためのOAIS参照モデルによる情報パッケージの作成：東京大学史料編纂所を事例に"
+    },
+    {
+      "title": "デジタルアーカイブジャパン・アワード（DAJアワード）2025",
+      "date": "2025-08",
+      "awarder": "デジタルアーカイブジャパン推進委員会実務者検討委員会",
+      "summary": "デジタル源氏物語"
+    },
+    {
+      "title": "じんもんこん2024「優秀論文賞」",
+      "date": "2025-02",
+      "awarder": "情報処理学会 (IPSJ) 人文科学とコンピュータ研究会 (SIG-CH)",
+      "summary": "荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用"
+    },
+    {
+      "title": "ベストポスター賞",
+      "date": "2024-12",
+      "awarder": "人文科学とコンピュータシンポジウム「じんもんこん2024」",
+      "summary": "TEIによる編纂史料の構造化ー『大日本史料』を例に"
+    },
+    {
+      "title": "Linked Open Data Challenge 2024 学術LOD賞",
+      "date": "2024-11",
+      "awarder": "",
+      "summary": "nihuBridge LOD; 荘園関係DB LOD"
+    },
+    {
+      "title": "第6回デジタルアーカイブ学会賞・実践賞",
+      "date": "2024-11",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": ""
+    },
+    {
+      "title": "デジタルアーカイブジャパン・アワード（DAJアワード）2024",
+      "date": "2024-08",
+      "awarder": "デジタルアーカイブジャパン推進委員会実務者検討委員会",
+      "summary": "東京大学デジタルアーカイブポータル"
+    },
+    {
+      "title": "第59回国立大学図書館協会賞",
+      "date": "2024-06",
+      "awarder": "国立大学図書館協会",
+      "summary": "デジタル源氏物語：研究者との連携による「源氏物語」研究プラットフォームの構築"
+    },
+    {
+      "title": "Linked Open Data Challenge 2023 優秀賞（データ作成部門）",
+      "date": "2023-11",
+      "awarder": "Linked Open Data チャレンジ 2023 実行委員会",
+      "summary": "S×UKILAM（スキラム）教育メタデータLOD"
+    },
+    {
+      "title": "学術賞（著書)",
+      "date": "2022-11",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "自然史・理工系研究データの活用（デジタルアーカイブ・ベーシックス3）."
+    },
+    {
+      "title": "2022年度（令和4年度）山下記念研究賞",
+      "date": "2022-07",
+      "awarder": "情報処理学会",
+      "summary": "デジタル源氏物語（AI画像検索版）：くずし字OCRと編集距離を用いた写本・版本の比較支援システムの開発"
+    },
+    {
+      "title": "第3回学会賞",
+      "date": "2021-04",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "実践賞"
+    },
+    {
+      "title": "第3回学会賞",
+      "date": "2021-04",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "実践賞"
+    },
+    {
+      "title": "第3回学会賞",
+      "date": "2021-04",
+      "awarder": "デジタルアーカイブ学会",
+      "summary": "実践賞"
+    },
+    {
+      "title": "学生奨励賞",
+      "date": "2019-12",
+      "awarder": "情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2019」",
+      "summary": "構造化記述された財務記録史料データの分析手法の開発：イギリスの船舶解体業を事例に"
+    },
+    {
+      "title": "学生奨励賞",
+      "date": "2018-05",
+      "awarder": "情報処理学会 人文科学とコンピュータ研究会",
+      "summary": "歴史研究者・アーキビスト・エンジニアの学際的協働に基づくコミュニティ構築：Tokyo Digital Historyを事例に"
+    },
+    {
+      "title": "日本船舶海洋工学会奨学褒賞",
+      "date": "2014-03",
+      "awarder": "社団法人日本船舶海洋工学会",
+      "summary": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Google Antigravity 科学研究支援プログラム（最高利用枠）",
+      "startDate": "2026-10",
+      "endDate": "2027-03",
+      "description": "Google Antigravity Scientific Research Program",
+      "entity": "Google",
+      "nameJa": "Google Antigravity 科学研究支援プログラム（最高利用枠）",
+      "investigators": "中村 覚",
+      "url": "https://antigravity.google/"
+    },
+    {
+      "name": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築",
+      "startDate": "2026-04",
+      "endDate": "2029-03",
+      "description": "共同利用・共同研究課題",
+      "entity": "東京外国語大学アジア・アフリカ言語文化研究所",
+      "nameJa": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築",
+      "investigators": "熊倉 和歌子, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-jrp000319/"
+    },
+    {
+      "name": "外見描写と内面評価の相関性史―創発的・学際的協働研究",
+      "startDate": "2025-06",
+      "endDate": "2028-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "外見描写と内面評価の相関性史―創発的・学際的協働研究",
+      "investigators": "永井久美子, 髙岸輝, 上田竜平, 鈴木 敦命, 鈴木 親彦, 出口 智之, 梶谷 真司, 中村 覚, 石井 悠加",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K21831/"
+    },
+    {
+      "name": "AIを活用した中国木簡の筆跡分析の方途創出",
+      "startDate": "2025-04-01",
+      "endDate": "2029-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "AIを活用した中国木簡の筆跡分析の方途創出",
+      "investigators": "藤田 高夫, 畑野 吉則, 吉田 壮, 宮崎 肇, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00510/"
+    },
+    {
+      "name": "書誌学とデジタルアーカイブの融合による仏典デジタルライブラリの拠点形成",
+      "startDate": "2025-04",
+      "endDate": "2030-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "書誌学とデジタルアーカイブの融合による仏典デジタルライブラリの拠点形成",
+      "investigators": "會谷 佳光, 相原 佳之, 中村 覚, 宮崎 展昌, 清水 信子",
+      "url": "https://app.toyobunko-lab.jp/s/main/collection/25H00464"
+    },
+    {
+      "name": "中世⽇本禅宗史料の学術資源化とその応⽤研究",
+      "startDate": "2025-04",
+      "endDate": "2030-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "中世⽇本禅宗史料の学術資源化とその応⽤研究",
+      "investigators": "岡本真, 岩永紘和, 榎本渉, 川本慎自, 小瀬玄士, 須田牧子, 中村覚, 芳澤元",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00493/"
+    },
+    {
+      "name": "TEIを中心とした高度な歴史テキスト構築",
+      "startDate": "2025-04",
+      "endDate": "2030-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "TEIを中心とした高度な歴史テキスト構築",
+      "investigators": "小風 尚樹, 中村覚, 王 雯璐",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25H01244/"
+    },
+    {
+      "name": "言語データ連結システムの開発と古代エジプトの文学語を対象とした言語記述の実践",
+      "startDate": "2025-04",
+      "endDate": "2028-03",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "言語データ連結システムの開発と古代エジプトの文学語を対象とした言語記述の実践",
+      "investigators": "永井 正勝, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K04084"
+    },
+    {
+      "name": "史料データセンシングに基づく日本列島記憶継承モデルの確立",
+      "startDate": "2024-04-01",
+      "endDate": "2029-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "史料データセンシングに基づく日本列島記憶継承モデルの確立",
+      "investigators": "山田 太造, 井上 聡, 本郷 恵子, 末柄 豊, 箱石 大, 杉森 玲子, 林 晃弘, 新井 重行, 中村 覚, 関野 樹, 木村 直樹, 馬場 基, 原 正一郎, 後藤 真, 大向 一輝, 永井 信",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24H00011/"
+    },
+    {
+      "name": "『エミール』関連手稿群の分析にもとづくルソーの道徳思想形成に関する文献学的研究",
+      "startDate": "2024-04-01",
+      "endDate": "2028-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "『エミール』関連手稿群の分析にもとづくルソーの道徳思想形成に関する文献学的研究",
+      "investigators": "飯田 賢穂, 淵田 仁, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K03416/"
+    },
+    {
+      "name": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み",
+      "startDate": "2023-09",
+      "endDate": "2025-03",
+      "description": "AI等の活用を推進する研究データエコシステム構築事業",
+      "entity": "国立情報学研究所",
+      "nameJa": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み",
+      "investigators": "中村覚, 金甫榮, 南山泰之, 山田太造",
+      "url": ""
+    },
+    {
+      "name": "大型絵図類のデータ構造化と関連史料の連携による南西諸島「海上の道」の復元的研究",
+      "startDate": "2023-04-01",
+      "endDate": "2027-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "大型絵図類のデータ構造化と関連史料の連携による南西諸島「海上の道」の復元的研究",
+      "investigators": "黒嶋 敏, 山田 浩世, 杉本 史子, 木土 博成, 畑山 周平, 松尾 晋一, 屋良 健一郎, 岡本 真, 須田 牧子, 渡辺 美季, 上杉 和央, 片桐 千亜紀, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H00012/"
+    },
+    {
+      "name": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "startDate": "2023-04-01",
+      "endDate": "2026-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "investigators": "永崎 研宣, 間淵 洋子, 岡田 一祐, 中村 覚, 後藤 真, 王 一凡",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/"
+    },
+    {
+      "name": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "startDate": "2023-04-01",
+      "endDate": "2026-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "investigators": "永崎 研宣, 間淵 洋子, 岡田 一祐, 中村 覚, 後藤 真",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H03696/"
+    },
+    {
+      "name": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践",
+      "startDate": "2023-04",
+      "endDate": "2026-03",
+      "description": "共同利用・共同研究課題",
+      "entity": "東京外国語大学アジア・アフリカ言語文化研究所",
+      "nameJa": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践",
+      "investigators": "熊倉 和歌子, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-jrp000290/"
+    },
+    {
+      "name": "荘園絵図調査・解析方法に関する総括的研究と汎用的な歴史地理情報への応用研究",
+      "startDate": "2022-04-01",
+      "endDate": "2027-03-31",
+      "description": "科学研究費助成事業 基盤研究(A)",
+      "entity": "日本学術振興会",
+      "nameJa": "荘園絵図調査・解析方法に関する総括的研究と汎用的な歴史地理情報への応用研究",
+      "investigators": "井上 聡, 榎原 雅治, 藤原 重雄, 岡本 真, 山田 太造, 菊地 大樹, 中村 覚, 守田 逸人, 渡辺 晃宏, 高田 祐一, 関野 樹",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00016/"
+    },
+    {
+      "name": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "investigators": "渡邉 英徳, 貴志 俊彦, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139/"
+    },
+    {
+      "name": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "investigators": "杉本 史子, 菊地 智博, 林 晃弘, 立石 了, 稲葉 継陽, 箱石 大, 母利 美和, 中村 覚, 鶴田 啓",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/"
+    },
+    {
+      "name": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "科学研究費助成事業 基盤研究(B)",
+      "entity": "日本学術振興会",
+      "nameJa": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "investigators": "杉本 史子, 鶴田 啓, 林 晃弘, 立石 了, 稲葉 継陽, 箱石 大, 母利 美和, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00692/"
+    },
+    {
+      "name": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "startDate": "2022-04-01",
+      "endDate": "2025-03-31",
+      "description": "科学研究費助成事業 基盤研究(B)",
+      "entity": "日本学術振興会",
+      "nameJa": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "investigators": "渡邉 英徳, 貴志 俊彦, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H03885/"
+    },
+    {
+      "name": "多様なデジタル文化資源の教育活用を促進するための「人」と「データ」を つなぐネットワークの構築",
+      "startDate": "2022-04",
+      "endDate": "2023-03",
+      "description": "公募型共同研究（自由提案公募型）",
+      "entity": "国立情報学研究所",
+      "nameJa": "多様なデジタル文化資源の教育活用を促進するための「人」と「データ」を つなぐネットワークの構築",
+      "investigators": "大井将生, 渡邉英徳, 大向一輝, 中村覚",
+      "url": "https://www.nii.ac.jp/research/upload/2022NIIkobogatakyodokenkyusaitakuitiran.pdf"
+    },
+    {
+      "name": "データ駆動型歴史情報研究基盤の構築",
+      "startDate": "2021-12",
+      "endDate": "2023-01",
+      "description": "Google Cloud Platform クーポン事業（GCPグラント）",
+      "entity": "東京大学・Google（東大・Google連携事業）",
+      "nameJa": "データ駆動型歴史情報研究基盤の構築",
+      "investigators": "中村 覚",
+      "url": "https://cloud.google.com/"
+    },
+    {
+      "name": "漢文大蔵経の文献学的研究基盤の構築：『大正新脩大蔵経』底本・校本DBの活用と拡充",
+      "startDate": "2021-04-05",
+      "endDate": "2026-03-31",
+      "description": "科学研究費助成事業 基盤研究(A)",
+      "entity": "日本学術振興会",
+      "nameJa": "漢文大蔵経の文献学的研究基盤の構築：『大正新脩大蔵経』底本・校本DBの活用と拡充",
+      "investigators": "會谷 佳光, 相原 佳之, 中村 覚, 宮崎 展昌, 清水 信子",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04345/"
+    },
+    {
+      "name": "断片的史料情報の集積と歴史知識情報の相互参照体制の確立による新たな史料学構築研究",
+      "startDate": "2021-04-05",
+      "endDate": "2026-03-31",
+      "description": "科学研究費助成事業 基盤研究(A)",
+      "entity": "日本学術振興会",
+      "nameJa": "断片的史料情報の集積と歴史知識情報の相互参照体制の確立による新たな史料学構築研究",
+      "investigators": "西田 友広, 佐藤 雄基, 守田 逸人, 深川 大路, 井上 聡, 三輪 眞嗣, 高橋 悠介, 貫井 裕恵, 山田 太造, 堀川 康史, 中村 覚, 高田 智和",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04356/"
+    },
+    {
+      "name": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "startDate": "2021-04-01",
+      "endDate": "2026-03-31",
+      "description": "科学研究費助成事業",
+      "entity": "日本学術振興会",
+      "nameJa": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "investigators": "飯倉 洋一, 中尾 薫, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445/"
+    },
+    {
+      "name": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "startDate": "2021-04-01",
+      "endDate": "2026-03-31",
+      "description": "科学研究費助成事業 基盤研究(B)",
+      "entity": "日本学術振興会",
+      "nameJa": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "investigators": "飯倉 洋一, 中尾 薫, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H00506/"
+    },
+    {
+      "name": "古代エジプト神官文字写本の地域差を含めた言語記述とⅢF検索プラットフォームの構築",
+      "startDate": "2021-04-01",
+      "endDate": "2024-03-31",
+      "description": "科学研究費助成事業 基盤研究(C)",
+      "entity": "日本学術振興会",
+      "nameJa": "古代エジプト神官文字写本の地域差を含めた言語記述とⅢF検索プラットフォームの構築",
+      "investigators": "永井 正勝, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K00472/"
+    },
+    {
+      "name": "持続性と利活用性を考慮したデジタルアーカイブシステム構築手法の開発",
+      "startDate": "2021-04-01",
+      "endDate": "2024-03-31",
+      "description": "科学研究費助成事業 若手研究",
+      "entity": "日本学術振興会",
+      "nameJa": "持続性と利活用性を考慮したデジタルアーカイブシステム構築手法の開発",
+      "investigators": "中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K18014/"
+    },
+    {
+      "name": "コンテキストに応じた人文科学データパッケージ化に関する研究",
+      "startDate": "2020-04",
+      "endDate": "2025-03",
+      "description": "科学研究費助成事業 基盤研究(A)",
+      "entity": "日本学術振興会",
+      "nameJa": "コンテキストに応じた人文科学データパッケージ化に関する研究",
+      "investigators": "山家 浩樹, 本郷 恵子, 尾上 陽介, 阿児 雄之, 林 晃弘, 井上 聡, 小瀬 玄士, 馬場 基, 山田 太造, 渋谷 綾子, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20H00010/"
+    },
+    {
+      "name": "近世中国の刑罰制度に関する総合的研究―軍制との関係を中心として―",
+      "startDate": "2019-04",
+      "endDate": "2022-03",
+      "description": "科学研究費助成事業 基盤研究(C)",
+      "entity": "日本学術振興会",
+      "nameJa": "近世中国の刑罰制度に関する総合的研究―軍制との関係を中心として―",
+      "investigators": "徳永 洋介, 高橋 亨, 中村 正人, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K01032/"
+    },
+    {
+      "name": "IIIFとTEIを用いたオンライン翻刻支援システムの開発",
+      "startDate": "2019-04",
+      "endDate": "2021-03",
+      "description": "科学研究費助成事業 若手研究",
+      "entity": "日本学術振興会",
+      "nameJa": "IIIFとTEIを用いたオンライン翻刻支援システムの開発",
+      "investigators": "中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20626/"
+    },
+    {
+      "name": "木簡等の研究資源オープンデータ化を通じた参加誘発型研究スキーム確立による知の展開",
+      "startDate": "2018-06-11",
+      "endDate": "2023-03-31",
+      "description": "科学研究費助成事業 基盤研究(S)",
+      "entity": "日本学術振興会",
+      "nameJa": "木簡等の研究資源オープンデータ化を通じた参加誘発型研究スキーム確立による知の展開",
+      "investigators": "馬場 基, 中川 正樹, 久留島 典子, 高田 智和, 耒代 誠仁, 山本 和明, 山田 太造, 笹原 宏之, 大山 航, 中村 覚, 渡辺 晃宏, 桑田 訓也, 山本 祥隆, 高田 祐一, 星野 安治, 上椙 英之",
+      "url": "https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-18H05221/18H05221_saitaku_gaiyo_ja.pdf"
+    },
+    {
+      "name": "古代エジプト聖刻文字碑文の言語記述とIIIF画像を利用した情報共有システムの開発",
+      "startDate": "2018-04",
+      "endDate": "2021-03",
+      "description": "科学研究費助成事業 基盤研究(C)",
+      "entity": "日本学術振興会",
+      "nameJa": "古代エジプト聖刻文字碑文の言語記述とIIIF画像を利用した情報共有システムの開発",
+      "investigators": "永井 正勝, 和氣 愛仁, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K00525/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "評議員",
+      "startDate": "2026-04",
+      "endDate": "2029-03"
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "第10回研究大会実行委員",
+      "startDate": "2025-04",
+      "endDate": "2026-03"
+    },
+    {
+      "organization": "第14回日本デジタル・ヒューマニティーズ学会年次大会（JADH）",
+      "position": "プログラム委員長",
+      "startDate": "2024-10",
+      "endDate": "2025-09"
+    },
+    {
+      "organization": "日本学術振興会",
+      "position": "人文学・社会科学データインフラストラクチャー強化事業 人文学部門担当責任者",
+      "startDate": "2023-10",
+      "endDate": ""
+    },
+    {
+      "organization": "第13回日本デジタル・ヒューマニティーズ学会年次大会（JADH）",
+      "position": "プログラム委員長",
+      "startDate": "2023-10",
+      "endDate": "2024-09"
+    },
+    {
+      "organization": "株式会社毎日新聞社",
+      "position": "戦中写真アーカイブ委員会 特別顧問",
+      "startDate": "2022-01",
+      "endDate": ""
+    },
+    {
+      "organization": "東京大学文書館",
+      "position": "デジタル・アーカイブ更新事業協力者",
+      "startDate": "2021-04",
+      "endDate": ""
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "人材養成・活用検討委員会",
+      "startDate": "2021-04",
+      "endDate": ""
+    },
+    {
+      "organization": "情報処理学会 人文科学とコンピュータ研究会",
+      "position": "運営委員",
+      "startDate": "2021-04",
+      "endDate": ""
+    },
+    {
+      "organization": "情報処理学会 人文科学とコンピュータ研究会",
+      "position": "幹事",
+      "startDate": "2021-04",
+      "endDate": "2023-03"
+    },
+    {
+      "organization": "情報処理学会 人文科学とコンピュータ研究会 シンポジウム 2021",
+      "position": "実行委員",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "organization": "第11回日本デジタル・ヒューマニティーズ学会年次大会（JADH）",
+      "position": "実行委員",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "organization": "日本学術振興会",
+      "position": "人文学・社会科学データインフラストラクチャー構築推進事業 実務者",
+      "startDate": "2020-07",
+      "endDate": "2023-03"
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "第4回研究大会実行委員",
+      "startDate": "2019-04",
+      "endDate": "2020"
+    },
+    {
+      "organization": "Conference of Japanese Association for Digital Humanities",
+      "position": "プログラム委員",
+      "startDate": "2018-10",
+      "endDate": ""
+    },
+    {
+      "organization": "26th ISTE International Conference on Transdisciplinary Engineering",
+      "position": "Conference Co-Chair",
+      "startDate": "2018-09",
+      "endDate": "2019-08"
+    },
+    {
+      "organization": "Text Encoding Initiative",
+      "position": "東アジア/日本語分科会 運営委員",
+      "startDate": "2018-06",
+      "endDate": ""
+    },
+    {
+      "organization": "デジタルアーカイブ学会",
+      "position": "学会誌編集委員",
+      "startDate": "2018-04",
+      "endDate": ""
+    },
+    {
+      "organization": "Code4Lib JAPAN",
+      "position": "カンファレンス実行委員",
+      "startDate": "2018-04",
+      "endDate": "2021-09"
+    },
+    {
+      "organization": "東京大学情報基盤センター",
+      "position": "データ科学専門委員会 委員",
+      "startDate": "2017-04",
+      "endDate": ""
+    },
+    {
+      "organization": "東京大学",
+      "position": "学術資産等アーカイブズ委員会 学術資産アーカイブ化推進室員",
+      "startDate": "2017-04",
+      "endDate": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "図書館情報学、人文社会情報学",
+      "keywords": []
+    },
+    {
+      "name": "キーワード",
+      "keywords": [
+        "Linked Data",
+        "オントロジー",
+        "人文情報学",
+        "メタデータ",
+        "デジタルアーカイブ"
+      ]
+    }
+  ],
+  "publications": [],
+  "skills": []
+}

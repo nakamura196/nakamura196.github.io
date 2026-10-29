@@ -1,13 +1,11 @@
 {
   "basics": {
     "name": "Satoru Nakamura",
-    "email": "",
     "website": "https://nakamura196.github.io",
-    "summary": "Associate Professor at The University of British Columbia.",
+    "summary": "Associate Professor, The University of Tokyo",
     "location": {
       "city": "Tokyo",
-      "countryCode": "JP",
-      "region": ""
+      "countryCode": "JP"
     },
     "profiles": [
       {
@@ -80,8 +78,8 @@
       "highlights": []
     },
     {
-      "name": "東京大学",
-      "company": "東京大学",
+      "name": "The University of Tokyo",
+      "company": "The University of Tokyo",
       "position": "研究DX部門員, DX本部",
       "startDate": "2022-09",
       "endDate": "",
@@ -177,18 +175,18 @@
       "endDate": "2014-03"
     },
     {
-      "institution": "Pacific Gateway International College",
-      "area": "",
-      "studyType": "",
-      "startDate": "2009-09",
-      "endDate": "2010-08"
-    },
-    {
       "institution": "The University of Tokyo, Faculty of Engineering",
       "area": "Department of Systems innovation",
       "studyType": "",
       "startDate": "2009-04",
       "endDate": "2012-03"
+    },
+    {
+      "institution": "Pacific Gateway International College",
+      "area": "",
+      "studyType": "",
+      "startDate": "2009-09",
+      "endDate": "2010-08"
     },
     {
       "institution": "The University of Tokyo, College of Arts and Sciences",
@@ -227,13 +225,13 @@
     {
       "title": "第7回デジタルアーカイブ学会賞・学術賞（著書）",
       "date": "2026-01",
-      "awarder": "デジタルアーカイブ学会",
+      "awarder": "Japan Society for Digital Archive",
       "summary": "デジタル時代のコレクション論"
     },
     {
       "title": "第7回デジタルアーカイブ学会賞・学術賞（研究論文）最優秀賞",
       "date": "2026-01",
-      "awarder": "デジタルアーカイブ学会",
+      "awarder": "Japan Society for Digital Archive",
       "summary": "デジタル資料の長期保存のためのOAIS参照モデルによる情報パッケージの作成：東京大学史料編纂所を事例に"
     },
     {
@@ -263,7 +261,7 @@
     {
       "title": "第6回デジタルアーカイブ学会賞・実践賞",
       "date": "2024-11",
-      "awarder": "デジタルアーカイブ学会",
+      "awarder": "Japan Society for Digital Archive",
       "summary": ""
     },
     {
@@ -275,7 +273,7 @@
     {
       "title": "第59回国立大学図書館協会賞",
       "date": "2024-06",
-      "awarder": "国立大学図書館協会",
+      "awarder": "Japan Association of National University Libraries",
       "summary": "デジタル源氏物語：研究者との連携による「源氏物語」研究プラットフォームの構築"
     },
     {
@@ -287,7 +285,7 @@
     {
       "title": "学術賞（著書)",
       "date": "2022-11",
-      "awarder": "デジタルアーカイブ学会",
+      "awarder": "Japan Society for Digital Archive",
       "summary": "自然史・理工系研究データの活用（デジタルアーカイブ・ベーシックス3）."
     },
     {
@@ -299,19 +297,19 @@
     {
       "title": "第3回学会賞",
       "date": "2021-04",
-      "awarder": "デジタルアーカイブ学会",
+      "awarder": "Japan Society for Digital Archive",
       "summary": "実践賞"
     },
     {
       "title": "第3回学会賞",
       "date": "2021-04",
-      "awarder": "デジタルアーカイブ学会",
+      "awarder": "Japan Society for Digital Archive",
       "summary": "実践賞"
     },
     {
       "title": "第3回学会賞",
       "date": "2021-04",
-      "awarder": "デジタルアーカイブ学会",
+      "awarder": "Japan Society for Digital Archive",
       "summary": "実践賞"
     },
     {
@@ -339,242 +337,341 @@
       "startDate": "2026-10",
       "endDate": "2027-03",
       "description": "Google Antigravity Scientific Research Program",
-      "entity": "Google"
+      "entity": "Google",
+      "nameJa": "Google Antigravity 科学研究支援プログラム（最高利用枠）",
+      "investigators": "Satoru Nakamura",
+      "url": "https://antigravity.google/"
     },
     {
       "name": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築",
       "startDate": "2026-04",
       "endDate": "2029-03",
       "description": "共同利用・共同研究課題",
-      "entity": "東京外国語大学アジア・アフリカ言語文化研究所"
+      "entity": "東京外国語大学アジア・アフリカ言語文化研究所",
+      "nameJa": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築",
+      "investigators": "熊倉 和歌子, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-jrp000319/"
     },
     {
-      "name": "外見描写と内面評価の相関性史―創発的・学際的協働研究",
+      "name": "A Multidisciplinary Historical Analysis of Personal Appearance Impressions--With a Focus on Japan",
       "startDate": "2025-06",
       "endDate": "2028-03",
       "description": "科学研究費助成事業",
-      "entity": "日本学術振興会"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "外見描写と内面評価の相関性史―創発的・学際的協働研究",
+      "investigators": "永井久美子, 髙岸輝, 上田竜平, 鈴木 敦命, 鈴木 親彦, 出口 智之, 梶谷 真司, 中村 覚, 石井 悠加",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K21831/"
     },
     {
       "name": "Creating AI-based methods for handwriting analysis of Chinese woodslips",
       "startDate": "2025-04-01",
       "endDate": "2029-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "AIを活用した中国木簡の筆跡分析の方途創出",
+      "investigators": "藤田 高夫, 畑野 吉則, 吉田 壮, 宮崎 肇, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00510/"
     },
     {
       "name": "Establishment of a Buddhist Texts Digital Library Hub by Integrating Bibliography and Digital Archiving",
       "startDate": "2025-04",
       "endDate": "2030-03",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "書誌学とデジタルアーカイブの融合による仏典デジタルライブラリの拠点形成",
+      "investigators": "Aitani Yoshimitsu, Aihara Yoshiyuki, Nakamura Satoru, Miyazaki Tensho, Shimizu Nobuko",
+      "url": "https://app.toyobunko-lab.jp/s/main/collection/25H00464"
     },
     {
       "name": "中世⽇本禅宗史料の学術資源化とその応⽤研究",
       "startDate": "2025-04",
       "endDate": "2030-03",
       "description": "科学研究費助成事業",
-      "entity": "日本学術振興会"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "中世⽇本禅宗史料の学術資源化とその応⽤研究",
+      "investigators": "岡本真, 岩永紘和, 榎本渉, 川本慎自, 小瀬玄士, 須田牧子, 中村覚, 芳澤元",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00493/"
     },
     {
       "name": "TEIを中心とした高度な歴史テキスト構築",
       "startDate": "2025-04",
       "endDate": "2030-03",
       "description": "科学研究費助成事業",
-      "entity": "日本学術振興会"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "TEIを中心とした高度な歴史テキスト構築",
+      "investigators": "小風 尚樹, 中村覚, 王 雯璐",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25H01244/"
     },
     {
       "name": "言語データ連結システムの開発と古代エジプトの文学語を対象とした言語記述の実践",
       "startDate": "2025-04",
       "endDate": "2028-03",
       "description": "科学研究費助成事業",
-      "entity": "日本学術振興会"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "言語データ連結システムの開発と古代エジプトの文学語を対象とした言語記述の実践",
+      "investigators": "永井 正勝, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K04084"
     },
     {
       "name": "Establishment of the Japan Islands Memory Inheritance Model based on Historical Data Sensing",
       "startDate": "2024-04-01",
       "endDate": "2029-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "史料データセンシングに基づく日本列島記憶継承モデルの確立",
+      "investigators": "山田 太造, 井上 聡, 本郷 恵子, 末柄 豊, 箱石 大, 杉森 玲子, 林 晃弘, 新井 重行, 中村 覚, 関野 樹, 木村 直樹, 馬場 基, 原 正一郎, 後藤 真, 大向 一輝, 永井 信",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24H00011/"
     },
     {
       "name": "『エミール』関連手稿群の分析にもとづくルソーの道徳思想形成に関する文献学的研究",
       "startDate": "2024-04-01",
       "endDate": "2028-03-31",
       "description": "科学研究費助成事業",
-      "entity": "日本学術振興会"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "『エミール』関連手稿群の分析にもとづくルソーの道徳思想形成に関する文献学的研究",
+      "investigators": "飯田 賢穂, 淵田 仁, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K03416/"
     },
     {
       "name": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み",
       "startDate": "2023-09",
       "endDate": "2025-03",
       "description": "AI等の活用を推進する研究データエコシステム構築事業",
-      "entity": "国立情報学研究所"
+      "entity": "国立情報学研究所",
+      "nameJa": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み",
+      "investigators": "Satoru Nakamura, Kim Boyoung, Yasuyuki Minamiyama, Taizo Yamada",
+      "url": ""
     },
     {
       "name": "大型絵図類のデータ構造化と関連史料の連携による南西諸島「海上の道」の復元的研究",
       "startDate": "2023-04-01",
       "endDate": "2027-03-31",
       "description": "科学研究費助成事業",
-      "entity": "日本学術振興会"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "大型絵図類のデータ構造化と関連史料の連携による南西諸島「海上の道」の復元的研究",
+      "investigators": "黒嶋 敏, 山田 浩世, 杉本 史子, 木土 博成, 畑山 周平, 松尾 晋一, 屋良 健一郎, 岡本 真, 須田 牧子, 渡辺 美季, 上杉 和央, 片桐 千亜紀, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H00012/"
     },
     {
       "name": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons",
       "startDate": "2023-04-01",
       "endDate": "2026-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "investigators": "永崎 研宣, 間淵 洋子, 岡田 一祐, 中村 覚, 後藤 真, 王 一凡",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/"
     },
     {
       "name": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons",
       "startDate": "2023-04-01",
       "endDate": "2026-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+      "investigators": "永崎 研宣, 間淵 洋子, 岡田 一祐, 中村 覚, 後藤 真",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H03696/"
     },
     {
       "name": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践",
       "startDate": "2023-04",
       "endDate": "2026-03",
       "description": "共同利用・共同研究課題",
-      "entity": "東京外国語大学アジア・アフリカ言語文化研究所"
+      "entity": "東京外国語大学アジア・アフリカ言語文化研究所",
+      "nameJa": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践",
+      "investigators": "熊倉 和歌子, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-jrp000290/"
     },
     {
       "name": "Comprehensive research on \"Shoen-ezu\" survey and analysis methods and applied research on general-purpose historical geographic information",
       "startDate": "2022-04-01",
       "endDate": "2027-03-31",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "荘園絵図調査・解析方法に関する総括的研究と汎用的な歴史地理情報への応用研究",
+      "investigators": "井上 聡, 榎原 雅治, 藤原 重雄, 岡本 真, 山田 太造, 菊地 大樹, 中村 覚, 守田 逸人, 渡辺 晃宏, 高田 祐一, 関野 樹",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00016/"
     },
     {
       "name": "Design of a storytelling digital archive using prewar and wartime news photographs",
       "startDate": "2022-04-01",
       "endDate": "2025-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "investigators": "渡邉 英徳, 貴志 俊彦, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139/"
     },
     {
       "name": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration",
       "startDate": "2022-04-01",
       "endDate": "2025-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "investigators": "杉本 史子, 菊地 智博, 林 晃弘, 立石 了, 稲葉 継陽, 箱石 大, 母利 美和, 中村 覚, 鶴田 啓",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/"
     },
     {
       "name": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration",
       "startDate": "2022-04-01",
       "endDate": "2025-03-31",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+      "investigators": "杉本 史子, 鶴田 啓, 林 晃弘, 立石 了, 稲葉 継陽, 箱石 大, 母利 美和, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00692/"
     },
     {
-      "name": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "name": "Design of a storytelling digital archive using prewar and wartime news photographs",
       "startDate": "2022-04-01",
       "endDate": "2025-03-31",
       "description": "科学研究費助成事業 基盤研究(B)",
-      "entity": "日本学術振興会"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+      "investigators": "渡邉 英徳, 貴志 俊彦, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H03885/"
     },
     {
       "name": "Construction of a network connecting 'people' and 'data' to promote the educational use of diverse digital cultural resources",
       "startDate": "2022-04",
       "endDate": "2023-03",
       "description": "公募型共同研究（自由提案公募型）",
-      "entity": "National Institute of Informatics"
+      "entity": "National Institute of Informatics",
+      "nameJa": "多様なデジタル文化資源の教育活用を促進するための「人」と「データ」を つなぐネットワークの構築",
+      "investigators": "大井将生, 渡邉英徳, 大向一輝, 中村覚",
+      "url": "https://www.nii.ac.jp/research/upload/2022NIIkobogatakyodokenkyusaitakuitiran.pdf"
     },
     {
       "name": "Construction of Data-Driven Historical Information Research Infrastructure",
       "startDate": "2021-12",
       "endDate": "2023-01",
       "description": "Google Cloud Platform Credit Grant",
-      "entity": "The University of Tokyo and Google (UTokyo-Google Partnership)"
+      "entity": "The University of Tokyo and Google (UTokyo-Google Partnership)",
+      "nameJa": "データ駆動型歴史情報研究基盤の構築",
+      "investigators": "Satoru Nakamura",
+      "url": "https://cloud.google.com/"
     },
     {
       "name": "Establishment of a philological research platform for Chinese Buddhist Canons: Utilization and expansion of the Original and Collated Texts Database of the Taisho Shinshu Daizokyo",
       "startDate": "2021-04-05",
       "endDate": "2026-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "漢文大蔵経の文献学的研究基盤の構築：『大正新脩大蔵経』底本・校本DBの活用と拡充",
+      "investigators": "會谷 佳光, 相原 佳之, 中村 覚, 宮崎 展昌, 清水 信子",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04345/"
     },
     {
-      "name": "断片的史料情報の集積と歴史知識情報の相互参照体制の確立による新たな史料学構築研究",
+      "name": "Constructing a new historical materials study by accumulating fragmentary historical material information and cross-referencing historical knowledge information",
       "startDate": "2021-04-05",
       "endDate": "2026-03-31",
-      "description": "科学研究費助成事業 基盤研究(A)",
-      "entity": "日本学術振興会"
+      "description": "Grant-in-Aid for Scientific Research (A)",
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "断片的史料情報の集積と歴史知識情報の相互参照体制の確立による新たな史料学構築研究",
+      "investigators": "西田 友広, 佐藤 雄基, 守田 逸人, 深川 大路, 井上 聡, 三輪 眞嗣, 高橋 悠介, 貫井 裕恵, 山田 太造, 堀川 康史, 中村 覚, 高田 智和",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04356/"
     },
     {
       "name": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature.",
       "startDate": "2021-04-01",
       "endDate": "2026-03-31",
       "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "investigators": "飯倉 洋一, 中尾 薫, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445/"
     },
     {
       "name": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature.",
       "startDate": "2021-04-01",
       "endDate": "2026-03-31",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+      "investigators": "飯倉 洋一, 中尾 薫, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H00506/"
     },
     {
-      "name": "古代エジプト神官文字写本の地域差を含めた言語記述とⅢF検索プラットフォームの構築",
+      "name": "Linguistic Description and Constructing IIIF-based Data Platform for Ancient Egyptian Hieratic Texts: Toward Clarifying Regional Differences.",
       "startDate": "2021-04-01",
       "endDate": "2024-03-31",
-      "description": "科学研究費助成事業 基盤研究(C)",
-      "entity": "日本学術振興会"
+      "description": "Grant-in-Aid for Scientific Research (C)",
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "古代エジプト神官文字写本の地域差を含めた言語記述とⅢF検索プラットフォームの構築",
+      "investigators": "永井 正勝, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K00472/"
     },
     {
       "name": "Development of a Method for Constructing Digital Archive Systems Considering Sustainability and Utilization",
       "startDate": "2021-04-01",
       "endDate": "2024-03-31",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "持続性と利活用性を考慮したデジタルアーカイブシステム構築手法の開発",
+      "investigators": "中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K18014/"
     },
     {
       "name": "A Study of Contextual Data Packaging for Humanities",
       "startDate": "2020-04",
       "endDate": "2025-03",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "コンテキストに応じた人文科学データパッケージ化に関する研究",
+      "investigators": "山家 浩樹, 本郷 恵子, 尾上 陽介, 阿児 雄之, 林 晃弘, 井上 聡, 小瀬 玄士, 馬場 基, 山田 太造, 渋谷 綾子, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20H00010/"
     },
     {
       "name": "A Study of punishment in early modern China",
       "startDate": "2019-04",
       "endDate": "2022-03",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (C)",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "近世中国の刑罰制度に関する総合的研究―軍制との関係を中心として―",
+      "investigators": "徳永 洋介, 高橋 亨, 中村 正人, 中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K01032/"
     },
     {
       "name": "Development of Online Transcription System with IIIF and TEI",
       "startDate": "2019-04",
       "endDate": "2021-03",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "IIIFとTEIを用いたオンライン翻刻支援システムの開発",
+      "investigators": "中村 覚",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20626/"
     },
     {
       "name": "Development of Integrated Knowledge through Establishment of an Interactive Research Scheme based on the Open-Data of Research Resources for Wooden Tablets and Related Topics",
       "startDate": "2018-06-11",
       "endDate": "2023-03-31",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (S)",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "木簡等の研究資源オープンデータ化を通じた参加誘発型研究スキーム確立による知の展開",
+      "investigators": "馬場 基, 中川 正樹, 久留島 典子, 高田 智和, 耒代 誠仁, 山本 和明, 山田 太造, 笹原 宏之, 大山 航, 中村 覚, 渡辺 晃宏, 桑田 訓也, 山本 祥隆, 高田 祐一, 星野 安治, 上椙 英之",
+      "url": "https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-18H05221/18H05221_saitaku_gaiyo_ja.pdf"
     },
     {
       "name": "Development of information sharing system using linguistic description of ancient Egyptian hieroglyphic inscriptions and IIIF images",
       "startDate": "2018-04",
       "endDate": "2021-03",
       "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (C)",
-      "entity": "Japan Society for the Promotion of Science"
+      "entity": "Japan Society for the Promotion of Science",
+      "nameJa": "古代エジプト聖刻文字碑文の言語記述とIIIF画像を利用した情報共有システムの開発",
+      "investigators": "Masakatsu Nagai",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K00525/"
     }
   ],
   "volunteer": [
     {
-      "organization": "デジタルアーカイブ学会",
+      "organization": "Japan Society for Digital Archive",
       "position": "評議員",
       "startDate": "2026-04",
       "endDate": "2029-03"
     },
     {
-      "organization": "デジタルアーカイブ学会",
+      "organization": "Japan Society for Digital Archive",
       "position": "第10回研究大会実行委員",
       "startDate": "2025-04",
       "endDate": "2026-03"
@@ -586,7 +683,7 @@
       "endDate": "2025-09"
     },
     {
-      "organization": "日本学術振興会",
+      "organization": "Japan Society for the Promotion of Science",
       "position": "人文学・社会科学データインフラストラクチャー強化事業 人文学部門担当責任者",
       "startDate": "2023-10",
       "endDate": ""
@@ -610,19 +707,19 @@
       "endDate": ""
     },
     {
-      "organization": "デジタルアーカイブ学会",
+      "organization": "Japan Society for Digital Archive",
       "position": "人材養成・活用検討委員会",
       "startDate": "2021-04",
       "endDate": ""
     },
     {
-      "organization": "情報処理学会 人文科学とコンピュータ研究会",
+      "organization": "Information Processing Society of Japan, Special Interest Group on Computer and Humanities (SIG-CH)",
       "position": "運営委員",
       "startDate": "2021-04",
       "endDate": ""
     },
     {
-      "organization": "情報処理学会 人文科学とコンピュータ研究会",
+      "organization": "Information Processing Society of Japan, Special Interest Group on Computer and Humanities (SIG-CH)",
       "position": "幹事",
       "startDate": "2021-04",
       "endDate": "2023-03"
@@ -640,13 +737,13 @@
       "endDate": "2021"
     },
     {
-      "organization": "日本学術振興会",
+      "organization": "Japan Society for the Promotion of Science",
       "position": "人文学・社会科学データインフラストラクチャー構築推進事業 実務者",
       "startDate": "2020-07",
       "endDate": "2023-03"
     },
     {
-      "organization": "デジタルアーカイブ学会",
+      "organization": "Japan Society for Digital Archive",
       "position": "第4回研究大会実行委員",
       "startDate": "2019-04",
       "endDate": "2020"
@@ -670,7 +767,7 @@
       "endDate": ""
     },
     {
-      "organization": "デジタルアーカイブ学会",
+      "organization": "Japan Society for Digital Archive",
       "position": "学会誌編集委員",
       "startDate": "2018-04",
       "endDate": ""
@@ -682,16 +779,32 @@
       "endDate": "2021-09"
     },
     {
-      "organization": "東京大学情報基盤センター",
+      "organization": "Information Technology Center, The University of Tokyo",
       "position": "データ科学専門委員会 委員",
       "startDate": "2017-04",
       "endDate": ""
     },
     {
-      "organization": "東京大学",
+      "organization": "The University of Tokyo",
       "position": "学術資産等アーカイブズ委員会 学術資産アーカイブ化推進室員",
       "startDate": "2017-04",
       "endDate": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Library/information science, humanistic/social informatics",
+      "keywords": []
+    },
+    {
+      "name": "Keywords",
+      "keywords": [
+        "Linked Data",
+        "Ontology",
+        "Digital Humanities",
+        "Metadata",
+        "Digital Archive"
+      ]
     }
   ],
   "publications": [],

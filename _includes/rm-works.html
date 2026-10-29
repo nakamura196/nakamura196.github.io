@@ -1,0 +1,12 @@
+{% assign lang = include.lang | default: "en" %}
+{% assign L = site.data.labels[lang] %}
+<ol class="rm-list">
+{% for w in site.data.researchmap.works %}
+  <li class="rm-item">
+    {% if lang == "ja" %}{% assign title = w.titleJa %}{% assign who = w.creatorsJa %}{% else %}{% assign title = w.title %}{% assign who = w.creators %}{% endif %}
+    <span class="rm-title">{% if w.url %}<a href="{{ w.url }}">{{ title }}</a>{% else %}{{ title }}{% endif %}</span><br>
+    <span class="rm-meta">{{ who }} · {{ w.startDate | slice: 0, 4 }}{% if w.endDate %}–{{ w.endDate | slice: 0, 4 }}{% else %}–{{ L.present }}{% endif %}</span>
+  </li>
+{% endfor %}
+</ol>
+{% include rm-source.html lang=lang %}

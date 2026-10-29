@@ -1,0 +1,11 @@
+{% assign lang = include.lang | default: "en" %}
+{% assign c = site.data.researchmap.counts %}
+{% if lang == "ja" %}{% assign p = "/ja" %}{% else %}{% assign p = "" %}{% endif %}
+<ul class="rm-glance">
+  <li><a href="{{ p }}/publications/#papers"><strong>{{ c.papers }}</strong>{% if lang == "ja" %}論文（査読有り {{ c.refereed }}）{% else %}papers ({{ c.refereed }} refereed){% endif %}</a></li>
+  <li><a href="{{ p }}/publications/#books"><strong>{{ c.books }}</strong>{% if lang == "ja" %}書籍等出版物{% else %}books{% endif %}</a></li>
+  <li><a href="{{ p }}/talks/"><strong>{{ c.talks }}</strong>{% if lang == "ja" %}講演・口頭発表（招待 {{ c.invited }}）{% else %}talks ({{ c.invited }} invited){% endif %}</a></li>
+  <li><a href="{{ p }}/works/"><strong>{{ c.works }}</strong>{% if lang == "ja" %}作品等{% else %}works{% endif %}</a></li>
+  <li><a href="{{ p }}/grants/"><strong>{{ c.grants }}</strong>{% if lang == "ja" %}研究課題{% else %}research grants{% endif %}</a></li>
+  <li><a href="{{ p }}/cv/"><strong>{{ c.awards }}</strong>{% if lang == "ja" %}受賞{% else %}awards{% endif %}</a></li>
+</ul>

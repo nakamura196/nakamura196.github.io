@@ -1,0 +1,29 @@
+{% comment %} Publications list. include.lang = "en" | "ja" {% endcomment %}
+{% assign lang = include.lang | default: "en" %}
+{% assign L = site.data.labels[lang] %}
+{% assign c = site.data.researchmap.counts %}
+<nav class="rm-toc">
+  <a href="#books">{{ L.books }} <span>{{ c.books }}</span></a>
+  <a href="#papers">{{ L.papers }} <span>{{ c.papers }}</span></a>
+  <a href="#misc">{{ L.misc }} <span>{{ c.misc }}</span></a>
+</nav>
+{% assign cats = "books:books,manuscripts:papers,misc:misc" | split: "," %}
+{% for pair in cats %}
+  {% assign cat = pair | split: ":" | first %}
+  {% assign key = pair | split: ":" | last %}
+  {% assign items = site.publications | where: "category", cat | sort: "date" | reverse %}
+  <h2 id="{{ key }}" class="rm-h2">{{ L[key] }}</h2>
+  {% assign by_year = items | group_by_exp: "p", "p.date | date: '%Y'" %}
+  {% for g in by_year %}
+    <h3 class="rm-year">{{ g.name }}</h3>
+    <ol class="rm-list">
+    {% for p in g.items %}
+      <li class="rm-item">
+        {% if lang == "ja" %}{{ p.citation_ja | default: p.citation }}{% else %}{{ p.citation }}{% endif %}
+        {% if p.paperurl %}<a class="rm-link" href="{{ p.paperurl }}">DOI</a>{% endif %}
+      </li>
+    {% endfor %}
+    </ol>
+  {% endfor %}
+{% endfor %}
+{% include rm-source.html lang=lang %}

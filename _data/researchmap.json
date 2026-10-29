@@ -1,0 +1,427 @@
+{
+  "permalink": "nakamura.satoru",
+  "url": "https://researchmap.jp/nakamura.satoru",
+  "name": "Satoru Nakamura",
+  "nameJa": "中村 覚",
+  "profileJa": "<p>1988年8月8日生まれ．2017年東京大学大学院新領域創成科学研究科博士後期課程修了．博士（環境学）．同年東京大学情報基盤センター助教．2020年7月東京大学史料編纂所助教．2026年4月同准教授．現在に至る．デジタルアーカイブの構築・公開・活用に関する研究を行い，IIIFやTEIなどの国際標準を活用した文化資源の横断的利用基盤の開発に取り組んでいる．情報処理学会, 人工知能学会, Alliance of Digital Humanities, 日本船舶海洋工学会などの会員．</p>\n<p><strong>主要業績</strong></p>\n<ul>\n<li>中村覚, 高嶋朋子. 持続性と利活用性を考慮したデジタルアーカイブ構築手法の提案, デジタルアーカイブ学会誌, Vol.5, No.1, pp.56-60, 2021</li>\n<li>中村覚, 大和裕幸, 稗方和夫, 満行泰河. Linked Data とデジタルアーカイブを用いた史料分析支援システムの開発, デジタル・ヒューマニティーズ, Vol.1, pp.29-43, 2019</li>\n<li>中村覚, 大和裕幸, 稗方和夫, 満行泰河, 鈴木淳, 吉田ますみ. Linked Dataを用いた歴史研究者の史料管理と活用を支援するシステムの開発, 情報処理学会論文誌, Vol.59, No.2, pp.267-277, 2018</li>\n</ul>",
+  "profileEn": "<p>Satoru Nakamura, Ph.D., is an associate professor at the Historiographical Institute of the University of Tokyo. His main research interest is advancing Digital Humanities by leveraging digital archives and international standards such as IIIF, TEI, and LOD.</p>\n<hr />\n<p>Satoru Nakamura, Ph.D, is an associate professor at the Historiographical Institute of the University of Tokyo. His main research interest is development and utilization of digital archives.<br />He is promoting the development of digital archives of academic research resources. Especially, he played a central role in the digitization and disclosure of the technical documents left by Yuzuru Hiraga who was the president of Tokyo Imperial University and the vice-admiral in the shipbuilding division of the Imperial Japanese Navy. In addition, he is currently engaged in developing digital archives of various materials of the University of Tokyo Library.<br />He also aims to contribute to the research development in Digital Humanities by utilizing digital archives and international standards such as IIIF, TEI and LOD.</p>",
+  "affiliations": [
+    {
+      "institution": "The University of Tokyo",
+      "institutionJa": "東京大学",
+      "section": "Historiographical Institute",
+      "sectionJa": "史料編纂所",
+      "job": "Associate Professor",
+      "jobJa": "准教授"
+    }
+  ],
+  "degrees": [
+    {
+      "degree": "Doctor of Environmental Studies",
+      "institution": "The University of Tokyo",
+      "date": "2017-03"
+    }
+  ],
+  "degreesJa": [
+    {
+      "degree": "環境学博士",
+      "institution": "東京大学",
+      "date": "2017-03"
+    }
+  ],
+  "researchAreas": [
+    {
+      "discipline": "Humanities & social sciences",
+      "field": "Library/information science, humanistic/social informatics",
+      "fieldJa": "図書館情報学、人文社会情報学"
+    }
+  ],
+  "keywords": [
+    "Linked Data",
+    "Ontology",
+    "Digital Humanities",
+    "Metadata",
+    "Digital Archive"
+  ],
+  "keywordsJa": [
+    "Linked Data",
+    "オントロジー",
+    "人文情報学",
+    "メタデータ",
+    "デジタルアーカイブ"
+  ],
+  "works": [
+    {
+      "title": "TEI Tools (DOCX to TEI/XML Converter and TEI/XML Viewer)",
+      "titleJa": "TEI Tools（DOCX→TEI/XML変換・TEI/XMLビューワ）",
+      "creators": "Satoru Nakamura",
+      "creatorsJa": "中村覚",
+      "startDate": "2026-04",
+      "endDate": "",
+      "url": "https://toyo-bunko.github.io/tei-tools/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "Digital Suikoden",
+      "titleJa": "デジタル水滸伝",
+      "creators": "Satoru Nakamura",
+      "creatorsJa": "中村覚",
+      "startDate": "2026-03",
+      "endDate": "",
+      "url": "https://uparl-suikoden.vercel.app/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "TEI/XML 3D Model (IIIF) Viewer",
+      "titleJa": "TEI/XML 3Dモデル（IIIF）ビューア",
+      "creators": "Satoru Nakamura",
+      "creatorsJa": "中村覚",
+      "startDate": "2026-03",
+      "endDate": "",
+      "url": "https://25-h01244.vercel.app/tei-3d-viewer",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "KAKENHI \"Advanced Historical Text Construction Centered on TEI\" Tools Website",
+      "titleJa": "科研費「TEIを中心とした高度な歴史テキスト構築」成果ツール公開サイト",
+      "creators": "Satoru Nakamura",
+      "creatorsJa": "中村覚",
+      "startDate": "2026-03",
+      "endDate": "",
+      "url": "https://25-h01244.vercel.app/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "Digital Cultural Heritage",
+      "titleJa": "Digital Cultural Heritage",
+      "creators": "東京大学大学院情報学環附属社会情報研究資料センター",
+      "creatorsJa": "東京大学大学院情報学環附属社会情報研究資料センター",
+      "startDate": "2024-03-19",
+      "endDate": "",
+      "url": "https://dch.iii.u-tokyo.ac.jp/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "TEI Genetic Editions Viewer",
+      "titleJa": "TEI Genetic Editions Viewer",
+      "creators": "飯田賢穂, 中村覚, 淵田仁",
+      "creatorsJa": "飯田賢穂, 中村覚, 淵田仁",
+      "startDate": "2023-12-03",
+      "endDate": "",
+      "url": "https://timeline-ashen.vercel.app/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "S×UKILAM LOD Easy アプリ",
+      "titleJa": "S×UKILAM LOD Easy アプリ",
+      "creators": "大井将生, 中村覚",
+      "creatorsJa": "大井将生, 中村覚",
+      "startDate": "2023-10-11",
+      "endDate": "",
+      "url": "https://sukilam-educational-metadata.vercel.app/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "都城島津邸所蔵「琉球并諸島図」デジタルアーカイブ",
+      "titleJa": "都城島津邸所蔵「琉球并諸島図」デジタルアーカイブ",
+      "creators": "東京大学史料編纂所",
+      "creatorsJa": "東京大学史料編纂所",
+      "startDate": "2023-09-20",
+      "endDate": "",
+      "url": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/ryukyu_miyakonojo/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "日本史用語翻訳グロッサリー・データベース",
+      "titleJa": "日本史用語翻訳グロッサリー・データベース",
+      "creators": "東京大学史料編纂所",
+      "creatorsJa": "東京大学史料編纂所",
+      "startDate": "2023-08-21",
+      "endDate": "",
+      "url": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/glossary/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "策彦周良文集",
+      "titleJa": "策彦周良文集",
+      "creators": "東京大学史料編纂所",
+      "creatorsJa": "東京大学史料編纂所",
+      "startDate": "2023-03-31",
+      "endDate": "",
+      "url": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/sakugenbunshu/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "ゲーテ自署付書簡テキストデータ（TEI準拠）",
+      "titleJa": "ゲーテ自署付書簡テキストデータ（TEI準拠）",
+      "creators": "東京大学総合図書館",
+      "creatorsJa": "東京大学総合図書館",
+      "startDate": "2023-03-14",
+      "endDate": "",
+      "url": "https://utda.github.io/goethe/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "浄土真宗聖典オンライン検索システム",
+      "titleJa": "浄土真宗聖典オンライン検索システム",
+      "creators": "浄土真宗本願寺派総合研究所",
+      "creatorsJa": "浄土真宗本願寺派総合研究所",
+      "startDate": "2022-12-16",
+      "endDate": "",
+      "url": "https://j-soken.net/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "電子展示『捃拾帖』（拡張版）",
+      "titleJa": "電子展示『捃拾帖』（拡張版）",
+      "creators": "東京大学総合図書館",
+      "creatorsJa": "東京大学総合図書館",
+      "startDate": "2022-08-31",
+      "endDate": "",
+      "url": "https://kunshujo-i.dl.itc.u-tokyo.ac.jp/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "デジタル延喜式",
+      "titleJa": "デジタル延喜式",
+      "creators": "国立歴史民俗博物館",
+      "creatorsJa": "国立歴史民俗博物館",
+      "startDate": "2022-04-20",
+      "endDate": "",
+      "url": "https://khirin-t.rekihaku.ac.jp/engishiki/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "倭寇図巻デジタルアーカイブ",
+      "titleJa": "倭寇図巻デジタルアーカイブ",
+      "creators": "東京大学史料編纂所",
+      "creatorsJa": "東京大学史料編纂所",
+      "startDate": "2021-12-03",
+      "endDate": "",
+      "url": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "正保琉球国絵図デジタルアーカイブ",
+      "titleJa": "正保琉球国絵図デジタルアーカイブ",
+      "creators": "東京大学史料編纂所",
+      "creatorsJa": "東京大学史料編纂所",
+      "startDate": "2021-12-03",
+      "endDate": "",
+      "url": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "東洋文庫水経注図データベース",
+      "titleJa": "東洋文庫水経注図データベース",
+      "creators": "東洋文庫",
+      "creatorsJa": "東洋文庫",
+      "startDate": "2021-11-10",
+      "endDate": "",
+      "url": "https://static.toyobunko-lab.jp/suikeichuzu/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース",
+      "titleJa": "酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース",
+      "creators": "東洋文庫",
+      "creatorsJa": "東洋文庫",
+      "startDate": "2021-07-06",
+      "endDate": "",
+      "url": "https://static.toyobunko-lab.jp/u-renja/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "『大正新脩大蔵経』底本・校本データベース",
+      "titleJa": "『大正新脩大蔵経』底本・校本データベース",
+      "creators": "東洋文庫",
+      "creatorsJa": "東洋文庫",
+      "startDate": "2021-07-06",
+      "endDate": "",
+      "url": "https://static.toyobunko-lab.jp/taishozo/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "デジタル源氏物語（AI画像検索版）",
+      "titleJa": "デジタル源氏物語（AI画像検索版）",
+      "creators": "",
+      "creatorsJa": "",
+      "startDate": "2021-04-27",
+      "endDate": "",
+      "url": "https://genji-ai.web.app/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "渋沢栄一ダイアリー",
+      "titleJa": "渋沢栄一ダイアリー",
+      "creators": "渋沢栄一記念財団",
+      "creatorsJa": "渋沢栄一記念財団",
+      "startDate": "2021-04-23",
+      "endDate": "",
+      "url": "https://shibusawa-dlab.github.io/app1/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "デジタル源氏物語",
+      "titleJa": "デジタル源氏物語",
+      "creators": "",
+      "creatorsJa": "",
+      "startDate": "2019-11-29",
+      "endDate": "",
+      "url": "https://genji.dl.itc.u-tokyo.ac.jp/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "電子展示『捃拾帖』",
+      "titleJa": "電子展示『捃拾帖』",
+      "creators": "東京大学学術資産アーカイブ化推進室",
+      "creatorsJa": "東京大学学術資産アーカイブ化推進室",
+      "startDate": "2019-01-16",
+      "endDate": "",
+      "url": "https://kunshujo.dl.itc.u-tokyo.ac.jp",
+      "description": "明治時代の博物学者である田中芳男が収集した、幕末から大正時代にかけてのパンフレットや商品ラベルなどを貼り込んだ膨大なスクラップブックである『捃拾帖』の内容検索を可能としたシステム。東京大学史料編纂所で作成された書誌データと、東京大学デジタルアーカイブズ構築事業でデジタル化した画像データをIIIF Curation Platformを用いて統合させることにより、『捃拾帖』(第1帖から第18帖)に貼り込まれた資料（以下、貼り込み資料）1点ごとの年代や内容に基づく資料検索を可能とした。その他、「歴史地名データ」を用いた地図へのマッピングや、深層学習を用いた貼り込み資料の自動抽出などにも取り組んでいる。本システムは静的サイトとして構築し、GitHub Pagesを用いて公開している。これにより、サーバ管理などの運用コストを下げ、長期的に運用可能なシステムを目指している。",
+      "descriptionJa": "明治時代の博物学者である田中芳男が収集した、幕末から大正時代にかけてのパンフレットや商品ラベルなどを貼り込んだ膨大なスクラップブックである『捃拾帖』の内容検索を可能としたシステム。東京大学史料編纂所で作成された書誌データと、東京大学デジタルアーカイブズ構築事業でデジタル化した画像データをIIIF Curation Platformを用いて統合させることにより、『捃拾帖』(第1帖から第18帖)に貼り込まれた資料（以下、貼り込み資料）1点ごとの年代や内容に基づく資料検索を可能とした。その他、「歴史地名データ」を用いた地図へのマッピングや、深層学習を用いた貼り込み資料の自動抽出などにも取り組んでいる。本システムは静的サイトとして構築し、GitHub Pagesを用いて公開している。これにより、サーバ管理などの運用コストを下げ、長期的に運用可能なシステムを目指している。"
+    },
+    {
+      "title": "UTokyo Academic Archives Platform",
+      "titleJa": "東京大学学術資産等アーカイブズプラットフォーム",
+      "creators": "東京大学学術資産アーカイブ化推進室",
+      "creatorsJa": "東京大学学術資産アーカイブ化推進室",
+      "startDate": "2017-12",
+      "endDate": "",
+      "url": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/overview",
+      "description": "「東京大学が保持する学術資産のアーカイブを構築し、その公開と活用を促進することで、学術の多様性を支える基盤を強化する」ことを目的とした東京大学デジタルアーカイブズ構築事業において、画像等の公開と学術資産の発見可能性の向上、データの利活用促進を支援するシステム群の総称。学内の学術資産デジタル化に関連するウェブサイトをまとめた「リンク集」、東京大学内の各部局等でデジタル公開されている資料のメタデータを集積し資料単位での横断検索を可能とする「ポータル」、デジタルアーカイブシステムの構築・運用が困難な部局等に対する公開支援を行う「共用サーバ」、の3つのシステムから構成され、これらのシステムの設計、開発、運用に関わっている。\n特に「ポータル」については、システムの設計、プロトタイプの開発、仕様書の作成、業者との開発を担当した。また「共用サーバ」については、システムの設計、開発、導入、運用を担当し、IIIFやTEI、LODなどのデータの利活用を支援するための国際標準規格、OmekaをはじめとするDH関連のオープンソースソフトウェアを積極的に採用している。",
+      "descriptionJa": "「東京大学が保持する学術資産のアーカイブを構築し、その公開と活用を促進することで、学術の多様性を支える基盤を強化する」ことを目的とした東京大学デジタルアーカイブズ構築事業において、画像等の公開と学術資産の発見可能性の向上、データの利活用促進を支援するシステム群の総称。学内の学術資産デジタル化に関連するウェブサイトをまとめた「リンク集」、東京大学内の各部局等でデジタル公開されている資料のメタデータを集積し資料単位での横断検索を可能とする「ポータル」、デジタルアーカイブシステムの構築・運用が困難な部局等に対する公開支援を行う「共用サーバ」、の3つのシステムから構成され、これらのシステムの設計、開発、運用に関わっている。\n特に「ポータル」については、システムの設計、プロトタイプの開発、仕様書の作成、業者との開発を担当した。また「共用サーバ」については、システムの設計、開発、導入、運用を担当し、IIIFやTEI、LODなどのデータの利活用を支援するための国際標準規格、OmekaをはじめとするDH関連のオープンソースソフトウェアを積極的に採用している。"
+    },
+    {
+      "title": "東京大学柏図書館「第11回」企画展示 ふね遺産『平賀譲文書』",
+      "titleJa": "東京大学柏図書館「第11回」企画展示 ふね遺産『平賀譲文書』",
+      "creators": "中村覚",
+      "creatorsJa": "中村覚",
+      "startDate": "2017-12",
+      "endDate": "2018-12",
+      "url": "https://www.lib.u-tokyo.ac.jp/ja/library/kashiwa/news/20171218",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "明るい低炭素社会の実現に向けた都市変革プログラム 社会実験事例データベース",
+      "titleJa": "明るい低炭素社会の実現に向けた都市変革プログラム 社会実験事例データベース",
+      "creators": "中村 覚",
+      "creatorsJa": "中村 覚",
+      "startDate": "2015-03",
+      "endDate": "",
+      "url": "https://low-carbon-k.github.io/sedb/",
+      "description": "",
+      "descriptionJa": ""
+    },
+    {
+      "title": "Yuzuru Hiraga Digital Archive",
+      "titleJa": "平賀譲デジタルアーカイブ",
+      "creators": "Nakamura Satoru",
+      "creatorsJa": "中村 覚",
+      "startDate": "2014-10-10",
+      "endDate": "2019-06-14",
+      "url": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/",
+      "description": "海軍造船官であった故平賀譲（ひらが・ゆずる：海軍造船中将・第13代東京帝国大学総長）の遺した艦艇計画・建造関係の技術資料を中心とする資料を公開するデジタルアーカイブ。2014年5月にセキュリティ上の問題のため一旦閉鎖したが、ソフトウェアを全面的に改定することでセキュリティ問題を解決し、2014年10月10日に再公開した。この時のシステム構築、およびその後の運用とシステムリプレイス（Omeka Classicの利用）を担当した。2019年6月14日からは「東京大学学術資産等アーカイブズ共用サーバ」上での公開に移行した。",
+      "descriptionJa": "海軍造船官であった故平賀譲（ひらが・ゆずる：海軍造船中将・第13代東京帝国大学総長）の遺した艦艇計画・建造関係の技術資料を中心とする資料を公開するデジタルアーカイブ。2014年5月にセキュリティ上の問題のため一旦閉鎖したが、ソフトウェアを全面的に改定することでセキュリティ問題を解決し、2014年10月10日に再公開した。この時のシステム構築、およびその後の運用とシステムリプレイス（Omeka Classicの利用）を担当した。2019年6月14日からは「東京大学学術資産等アーカイブズ共用サーバ」上での公開に移行した。"
+    }
+  ],
+  "memberships": [
+    {
+      "name": "Japan Society of Information and Knowledge",
+      "nameJa": "情報知識学会",
+      "startDate": "2017-04",
+      "endDate": "2020-03"
+    },
+    {
+      "name": "Text Encoding Initiative",
+      "nameJa": "Text Encoding Initiative",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "The Alliance of Digital Humanities Organizations",
+      "nameJa": "The Alliance of Digital Humanities Organizations",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "Japan Society for Digital Archive",
+      "nameJa": "デジタルアーカイブ学会",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "Japanese Association for Digital Humanities",
+      "nameJa": "日本デジタル・ヒューマニティーズ学会",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "INFORMATION PROCESSING SOCIETY OF JAPAN",
+      "nameJa": "情報処理学会",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "THE JAPANESE SOCIETY FOR ARTIFICIAL INTELLIGENCE",
+      "nameJa": "人工知能学会",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "THE JAPAN SOCIETY OF NAVAL ARCHITECTS AND OCEAN ENGINEERS",
+      "nameJa": "日本船舶海洋工学会",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "outreach": [
+    {
+      "title": "Tokyo Digital History",
+      "titleJa": "Tokyo Digital History",
+      "promoterJa": "小風尚樹, 清原和之, 田中聡, 中村覚",
+      "promoter": "Naoki Kokaze, Kazuyuki Kiyohara, Satoshi Tanaka, Satoru Nakamura",
+      "event": "",
+      "date": "2017-10-29",
+      "endDate": "",
+      "type": "seminar",
+      "url": "https://historiansworkshop.org/about/about-tokyo-digital-history/"
+    }
+  ],
+  "counts": {
+    "papers": 130,
+    "refereed": 73,
+    "books": 15,
+    "misc": 16,
+    "talks": 129,
+    "invited": 87,
+    "works": 27,
+    "awards": 21,
+    "grants": 33,
+    "committees": 21
+  }
+}

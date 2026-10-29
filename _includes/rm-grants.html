@@ -1,0 +1,13 @@
+{% assign lang = include.lang | default: "en" %}
+{% assign L = site.data.labels[lang] %}
+{% if lang == "ja" %}{% assign cv = site.data.cv_ja %}{% else %}{% assign cv = site.data.cv %}{% endif %}
+<ol class="rm-list">
+{% for p in cv.projects %}
+  <li class="rm-item">
+    <span class="rm-title">{% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</span><br>
+    <span class="rm-meta">{{ p.entity }}{% if p.description %} · {{ p.description }}{% endif %} · {{ p.startDate | slice: 0, 4 }}{% if p.endDate %}–{{ p.endDate | slice: 0, 4 }}{% endif %}</span>
+    {% if p.investigators %}<br><span class="rm-meta">{{ L.investigators }}: {{ p.investigators }}</span>{% endif %}
+  </li>
+{% endfor %}
+</ol>
+{% include rm-source.html lang=lang %}

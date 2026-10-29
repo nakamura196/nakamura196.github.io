@@ -1,14 +1,31 @@
 {% include base_path %}
+{% if page.lang == "ja" %}
+  {% assign nav = site.data.navigation.ja %}
+  {% assign home = "/ja/" %}
+  {% assign other_url = page.url | remove_first: "/ja" %}
+  {% assign other_label = "English" %}
+{% else %}
+  {% assign nav = site.data.navigation.main %}
+  {% assign home = "/" %}
+  {% assign other_url = page.url | prepend: "/ja" %}
+  {% assign other_label = "日本語" %}
+{% endif %}
+{% assign bilingual = "/,/publications/,/talks/,/works/,/grants/,/cv/" | split: "," %}
+{% assign base_url = page.url | remove_first: "/ja" %}
+{% if base_url == "" %}{% assign base_url = "/" %}{% endif %}
+{% unless bilingual contains base_url %}
+  {% if page.lang == "ja" %}{% assign other_url = "/" %}{% else %}{% assign other_url = "/ja/" %}{% endif %}
+{% endunless %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
+          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == home or page.url == '/index.html' %}selected{% endif %}">
+            <a href="{{ base_path }}{{ home }}">{{ site.title }}</a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% for link in nav %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
@@ -18,6 +35,9 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+          <li class="masthead__menu-item persist tail lang-switch">
+            <a href="{{ base_path }}{{ other_url }}" hreflang="{% if page.lang == 'ja' %}en{% else %}ja{% endif %}">{{ other_label }}</a>
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

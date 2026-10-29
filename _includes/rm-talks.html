@@ -1,0 +1,27 @@
+{% comment %} Talks list. include.lang = "en" | "ja" {% endcomment %}
+{% assign lang = include.lang | default: "en" %}
+{% assign L = site.data.labels[lang] %}
+{% assign items = site.talks | sort: "date" | reverse %}
+{% assign by_year = items | group_by_exp: "t", "t.date | date: '%Y'" %}
+<nav class="rm-toc">
+{% for g in by_year %}<a href="#y{{ g.name }}">{{ g.name }} <span>{{ g.size }}</span></a>{% endfor %}
+</nav>
+{% for g in by_year %}
+  <h2 id="y{{ g.name }}" class="rm-year">{{ g.name }}</h2>
+  <ol class="rm-list">
+  {% for t in g.items %}
+    <li class="rm-item">
+      {% if lang == "ja" %}
+        <span class="rm-title">{{ t.title_ja | default: t.title }}</span><br>
+        <span class="rm-meta">{{ t.authors_ja }}{% if t.venue_ja %} — {{ t.venue_ja }}{% endif %}, {{ t.date | date: "%Y年%-m月%-d日" }}</span>
+        <span class="rm-badge">{{ t.type_ja }}</span>
+      {% else %}
+        <span class="rm-title">{{ t.title }}</span><br>
+        <span class="rm-meta">{{ t.authors }}{% if t.venue %} — {{ t.venue }}{% endif %}, {{ t.date | date: "%b %-d, %Y" }}</span>
+        <span class="rm-badge">{{ t.type }}</span>
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+{% endfor %}
+{% include rm-source.html lang=lang %}
