@@ -50,6 +50,9 @@
   "identifiers": {
    "isbn": [
     "9784838608287"
+   ],
+   "rm:research_project_id": [
+    "50040755"
    ]
   },
   "see_also": [
@@ -57,6 +60,10 @@
     "@id": "https://www.musashinoshoin.co.jp/shoseki/view/3146/",
     "label": "url",
     "is_downloadable": false
+   },
+   {
+    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+    "label": "rm:research_project_id"
    }
   ]
  },
