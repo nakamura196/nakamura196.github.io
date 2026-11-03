@@ -343,6 +343,16 @@
       "url": "https://antigravity.google/"
     },
     {
+      "name": "cjk_index — pure-Ruby full-text search for Chinese, Japanese and Korean",
+      "startDate": "2026-10",
+      "endDate": "2027-03",
+      "description": "2026 Ruby Association Grant",
+      "entity": "Ruby Association",
+      "nameJa": "cjk_index — pure-Ruby full-text search for Chinese, Japanese and Korean",
+      "investigators": "Satoru Nakamura",
+      "url": "https://www.ruby.or.jp/ja/news/20261102"
+    },
+    {
       "name": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築",
       "startDate": "2026-04",
       "endDate": "2029-03",
