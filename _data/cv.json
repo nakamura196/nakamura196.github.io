@@ -493,16 +493,6 @@
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385"
     },
     {
-      "name": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons",
-      "startDate": "2023-04-01",
-      "endDate": "2026-03-31",
-      "description": "Grants-in-Aid for Scientific Research",
-      "entity": "Japan Society for the Promotion of Science",
-      "nameJa": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
-      "investigators": "永崎 研宣, 間淵 洋子, 岡田 一祐, 中村 覚, 後藤 真, 王 一凡",
-      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/"
-    },
-    {
       "name": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践",
       "startDate": "2023-04",
       "endDate": "2026-03",
@@ -541,26 +531,6 @@
       "nameJa": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
       "investigators": "杉本 史子, 菊地 智博, 林 晃弘, 立石 了, 稲葉 継陽, 箱石 大, 母利 美和, 中村 覚, 鶴田 啓",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964"
-    },
-    {
-      "name": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration",
-      "startDate": "2022-04-01",
-      "endDate": "2025-03-31",
-      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)",
-      "entity": "Japan Society for the Promotion of Science",
-      "nameJa": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
-      "investigators": "杉本 史子, 菊地 智博, 林 晃弘, 立石 了, 稲葉 継陽, 箱石 大, 母利 美和, 中村 覚, 鶴田 啓",
-      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/"
-    },
-    {
-      "name": "Design of a storytelling digital archive using prewar and wartime news photographs",
-      "startDate": "2022-04-01",
-      "endDate": "2025-03-31",
-      "description": "科学研究費助成事業 基盤研究(B)",
-      "entity": "Japan Society for the Promotion of Science",
-      "nameJa": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
-      "investigators": "渡邉 英徳, 貴志 俊彦, 中村 覚",
-      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139/"
     },
     {
       "name": "Construction of a network connecting 'people' and 'data' to promote the educational use of diverse digital cultural resources",
@@ -611,16 +581,6 @@
       "nameJa": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
       "investigators": "飯倉 洋一, 中尾 薫, 中村 覚",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445"
-    },
-    {
-      "name": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature.",
-      "startDate": "2021-04-01",
-      "endDate": "2026-03-31",
-      "description": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (B)",
-      "entity": "Japan Society for the Promotion of Science",
-      "nameJa": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
-      "investigators": "飯倉 洋一, 中尾 薫, 中村 覚",
-      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445/"
     },
     {
       "name": "Linguistic Description and Constructing IIIF-based Data Platform for Ancient Egyptian Hieratic Texts: Toward Clarifying Regional Differences.",

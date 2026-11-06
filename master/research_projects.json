@@ -1374,7 +1374,12 @@
       }
     ],
     "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/",
-    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/"
+    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/",
+    "x-superseded-by": {
+      "rm:id": "49806428",
+      "grant_number": "23K28385",
+      "note": "科研費の基金化（2023 年度、基盤研究(B)）で新しい課題番号に移った。サイトでは新番号の項目だけを出す。researchmap には両方が残る"
+    }
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961919",
@@ -1731,7 +1736,12 @@
         "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45661788"
       }
     ],
-    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445/"
+    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445/",
+    "x-superseded-by": {
+      "rm:id": "50851868",
+      "grant_number": "23K20445",
+      "note": "科研費の基金化（2023 年度、基盤研究(B)）で新しい課題番号に移った。サイトでは新番号の項目だけを出す。researchmap には両方が残る"
+    }
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53627734",
@@ -2047,7 +2057,12 @@
       }
     ],
     "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/",
-    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/"
+    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/",
+    "x-superseded-by": {
+      "rm:id": "51320494",
+      "grant_number": "23K21964",
+      "note": "科研費の基金化（2023 年度、基盤研究(B)）で新しい課題番号に移った。サイトでは新番号の項目だけを出す。researchmap には両方が残る"
+    }
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
@@ -2180,7 +2195,12 @@
       "offer_organization": "https://www.jsps.go.jp/english/",
       "research_project_title": "https://kaken.nii.ac.jp/en/search/?kw=22H03885"
     },
-    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139/"
+    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139/",
+    "x-superseded-by": {
+      "rm:id": "51327482",
+      "grant_number": "23K25139",
+      "note": "科研費の基金化（2023 年度、基盤研究(B)）で新しい課題番号に移った。サイトでは新番号の項目だけを出す。researchmap には両方が残る"
+    }
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45661896",

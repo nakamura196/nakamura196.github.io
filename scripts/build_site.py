@@ -65,6 +65,18 @@ def fetch(kind: str) -> list[dict]:
     return items
 
 
+def shown_projects() -> list[dict]:
+    """Research projects to show on the site.
+
+    When a KAKEN grant moved from 補助金 to 基金, it got a new number and
+    researchmap now holds both. The old one is kept in master (researchmap
+    still has it, and papers are linked to it) but marked `x-superseded-by`,
+    so the site lists and counts the new number only.
+    """
+    return [it for it in fetch("research_projects")
+            if not it.get("x-superseded-by")]
+
+
 _root: dict = {}
 
 
@@ -408,7 +420,7 @@ def gen_cv(prefer: str = "en", filename: str = "cv.json"):
         })
 
     projects = []
-    for it in sorted(fetch("research_projects"),
+    for it in sorted(shown_projects(),
                      key=lambda x: x.get("from_date", ""), reverse=True):
         projects.append({
             "name": lang(it.get("research_project_title"), prefer),
@@ -563,7 +575,7 @@ def gen_profile_data():
         "invited": sum(1 for it in talks if it.get("invited")),
         "works": len(works),
         "awards": len(fetch("awards")),
-        "grants": len(fetch("research_projects")),
+        "grants": len(shown_projects()),
         "committees": len(fetch("committee_memberships")),
     }
 
