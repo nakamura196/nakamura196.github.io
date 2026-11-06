@@ -232,6 +232,12 @@
         },
         {
           "name": "王 雯璐"
+        },
+        {
+          "name": "松下 正和"
+        },
+        {
+          "name": "小風 綾乃"
         }
       ]
     },
@@ -353,7 +359,8 @@
     ],
     "x-en-source": {
       "offer_organization": "https://www.jsps.go.jp/english/"
-    }
+    },
+    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PLANNED-25H01244/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51008201",
@@ -475,49 +482,52 @@
           "name": "山田 太造"
         },
         {
+          "name": "林 晃弘"
+        },
+        {
           "name": "井上 聡"
-        },
-        {
-          "name": "本郷 恵子"
-        },
-        {
-          "name": "末柄 豊"
-        },
-        {
-          "name": "箱石 大"
         },
         {
           "name": "杉森 玲子"
         },
         {
-          "name": "林 晃弘"
-        },
-        {
-          "name": "新井 重行"
-        },
-        {
-          "name": "中村 覚"
-        },
-        {
-          "name": "関野 樹"
+          "name": "大向 一輝"
         },
         {
           "name": "木村 直樹"
         },
         {
+          "name": "原 正一郎"
+        },
+        {
+          "name": "箱石 大"
+        },
+        {
+          "name": "新井 重行"
+        },
+        {
+          "name": "末柄 豊"
+        },
+        {
           "name": "馬場 基"
         },
         {
-          "name": "原 正一郎"
+          "name": "関野 樹"
+        },
+        {
+          "name": "永井 信"
+        },
+        {
+          "name": "中村 覚"
         },
         {
           "name": "後藤 真"
         },
         {
-          "name": "大向 一輝"
+          "name": "水野 嶺"
         },
         {
-          "name": "永井 信"
+          "name": "本郷 恵子"
         }
       ]
     },
@@ -606,7 +616,9 @@
         "label": "rm:presentations",
         "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52891762"
       }
-    ]
+    ],
+    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K24614/",
+    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K24614/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53627737",
@@ -631,7 +643,31 @@
           "name": "熊倉 和歌子"
         },
         {
+          "name": "後藤 絵美"
+        },
+        {
+          "name": "深見 奈緒子"
+        },
+        {
+          "name": "岩田 和馬"
+        },
+        {
+          "name": "亀谷 学"
+        },
+        {
+          "name": "川本 智史"
+        },
+        {
+          "name": "佐藤 将"
+        },
+        {
           "name": "中村 覚"
+        },
+        {
+          "name": "吉村 武典"
+        },
+        {
+          "name": "ELSHAYEB Yasser"
         }
       ]
     },
@@ -654,7 +690,9 @@
       "grant_number": [
         "jrp000319"
       ]
-    }
+    },
+    "x-url": "https://www.aa.tufs.ac.jp/projects/detail/jrp000319/",
+    "x-investigators-source": "https://www.aa.tufs.ac.jp/projects/detail/jrp000319/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/48001914",
@@ -1292,6 +1330,9 @@
         },
         {
           "name": "後藤 真"
+        },
+        {
+          "name": "王 一凡"
         }
       ]
     },
@@ -1331,7 +1372,9 @@
         "label": "kaken",
         "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H03696"
       }
-    ]
+    ],
+    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/",
+    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961919",
@@ -1687,7 +1730,8 @@
         "label": "rm:presentations",
         "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45661788"
       }
-    ]
+    ],
+    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53627734",
@@ -1712,7 +1756,25 @@
           "name": "熊倉 和歌子"
         },
         {
+          "name": "後藤 絵美"
+        },
+        {
+          "name": "亀谷 学"
+        },
+        {
+          "name": "川本 智史"
+        },
+        {
+          "name": "佐藤 将"
+        },
+        {
           "name": "中村 覚"
+        },
+        {
+          "name": "深見 奈緒子"
+        },
+        {
+          "name": "吉村 武典"
         }
       ]
     },
@@ -1735,7 +1797,9 @@
       "grant_number": [
         "jrp000290"
       ]
-    }
+    },
+    "x-url": "https://www.aa.tufs.ac.jp/projects/detail/jrp000290/",
+    "x-investigators-source": "https://www.aa.tufs.ac.jp/projects/detail/jrp000290/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51327482",
@@ -1920,7 +1984,7 @@
           "name": "杉本 史子"
         },
         {
-          "name": "鶴田 啓"
+          "name": "菊地 智博"
         },
         {
           "name": "林 晃弘"
@@ -1939,6 +2003,9 @@
         },
         {
           "name": "中村 覚"
+        },
+        {
+          "name": "鶴田 啓"
         }
       ]
     },
@@ -1978,7 +2045,9 @@
         "label": "kaken",
         "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00692"
       }
-    ]
+    ],
+    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/",
+    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
@@ -2110,7 +2179,8 @@
     "x-en-source": {
       "offer_organization": "https://www.jsps.go.jp/english/",
       "research_project_title": "https://kaken.nii.ac.jp/en/search/?kw=22H03885"
-    }
+    },
+    "x-url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45661896",
@@ -2182,7 +2252,8 @@
         "label": "rm:presentations",
         "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46855268"
       }
-    ]
+    ],
+    "x-url": "https://www.nii.ac.jp/creded/creded_result.html"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/30022275",
@@ -2538,6 +2609,9 @@
         },
         {
           "name": "上椙 英之"
+        },
+        {
+          "name": "畑野 吉則"
         }
       ]
     },
@@ -2588,7 +2662,8 @@
         "label": "kaken",
         "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18H05221"
       }
-    ]
+    ],
+    "x-investigators-source": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18H05221/"
   },
   {
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45520762",

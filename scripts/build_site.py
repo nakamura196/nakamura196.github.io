@@ -109,6 +109,17 @@ def lang(field, prefer="en"):
     return ""
 
 
+def full_names(field, prefer="en"):
+    """Like names(), but for grant members: researchmap often romanises only
+    some of them, so use whichever language has the complete list."""
+    if not isinstance(field, dict):
+        return ""
+    other = "ja" if prefer == "en" else "en"
+    if len(field.get(other) or []) > len(field.get(prefer) or []):
+        prefer = other
+    return names(field, prefer)
+
+
 def names(field, prefer="en"):
     """Join an author/presenter list (prefer en list) into 'A, B, C'."""
     if not isinstance(field, dict):
@@ -150,10 +161,25 @@ def doi_url(identifiers: dict) -> str:
 
 
 def kaken_url(it: dict) -> str:
+    """KAKEN page for a grant: an explicit see_also 'kaken' link first (it may be
+    KAKENHI-PLANNED-...), else built from the grant number -- but only for
+    KAKENHI grants, so other funders' numbers (e.g. AA研 jrp000290) don't turn
+    into dead KAKEN links."""
+    for s in it.get("see_also") or []:
+        if s.get("label") == "kaken" and s.get("@id"):
+            return s["@id"]
     grant = (it.get("identifiers") or {}).get("grant_number")
+    if "科学研究費" not in lang(it.get("system_name"), "ja"):
+        return ""
     if isinstance(grant, list) and grant:
         return f"https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-{grant[0]}/"
     return ""
+
+
+def project_url(it: dict) -> str:
+    """Local override (x-url: e.g. a KAKEN page that moved to a new number when
+    the grant became a fund) > KAKEN page > first plain URL."""
+    return it.get("x-url") or kaken_url(it) or link(it)
 
 
 def yaml_str(s: str) -> str:
@@ -391,8 +417,8 @@ def gen_cv(prefer: str = "en", filename: str = "cv.json"):
             "description": lang(it.get("system_name"), prefer) or lang(it.get("category"), prefer),
             "entity": lang(it.get("offer_organization"), prefer),
             "nameJa": lang(it.get("research_project_title"), "ja"),
-            "investigators": names(it.get("investigators"), prefer),
-            "url": link(it) or kaken_url(it),
+            "investigators": full_names(it.get("investigators"), prefer),
+            "url": project_url(it),
         })
 
     volunteer = []
