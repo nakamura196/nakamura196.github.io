@@ -1,5 +1,122 @@
 [
  {
+  "@context": "https://api.researchmap.jp/researcher.jsonld",
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/55432618?format=json",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "55432618",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-11-07T04:09:17Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-11-07T04:09:17Z",
+  "presentation_title": {
+   "ja": "映像記述の半自動化とローカル知の共有に向けて：地域映像アーカイブのための協働目録システムの設計と試作"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "松山 ひとみ"
+    },
+    {
+     "name": "中村 覚"
+    },
+    {
+     "name": "中西 智範"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会 第11回研究大会"
+  },
+  "publication_date": "2026-11-08",
+  "from_event_date": "2026-11-07",
+  "to_event_date": "2026-11-08",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "promoter": {
+   "ja": "デジタルアーカイブ学会"
+  },
+  "location": {
+   "ja": "近畿大学東大阪キャンパス"
+  },
+  "address_country": "JPN",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "@id": "https://doi.org/10.24506/jsda.10.s2_s178",
+    "label": "url",
+    "is_downloadable": false
+   }
+  ],
+  "x-source": "DA11 予稿集（J-STAGE）・大会プログラム https://taikai.digitalarchivejapan.org/11th/program/"
+ },
+ {
+  "@context": "https://api.researchmap.jp/researcher.jsonld",
+  "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/55432606?format=json",
+  "@type": "presentations",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
+  "rm:id": "55432606",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-11-07T04:07:40Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-11-07T04:07:40Z",
+  "presentation_title": {
+   "ja": "小規模組織におけるデジタル資料の保存ワークフローの構築と支援アプリケーションの試作"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "金 甫榮"
+    },
+    {
+     "name": "中村 覚"
+    }
+   ]
+  },
+  "event": {
+   "ja": "デジタルアーカイブ学会 第11回研究大会"
+  },
+  "publication_date": "2026-11-07",
+  "from_event_date": "2026-11-07",
+  "to_event_date": "2026-11-08",
+  "invited": false,
+  "languages": [
+   "jpn"
+  ],
+  "presentation_type": "oral_presentation",
+  "promoter": {
+   "ja": "デジタルアーカイブ学会"
+  },
+  "location": {
+   "ja": "近畿大学東大阪キャンパス"
+  },
+  "address_country": "JPN",
+  "is_international_presentation": false,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "@id": "https://doi.org/10.24506/jsda.10.s2_s99",
+    "label": "url",
+    "is_downloadable": false
+   }
+  ],
+  "x-source": "DA11 予稿集（J-STAGE）・大会プログラム https://taikai.digitalarchivejapan.org/11th/program/"
+ },
+ {
   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/55372827",
   "@type": "presentations",
   "@reverse": "https://api.researchmap.jp/nakamura.satoru/presentations",
