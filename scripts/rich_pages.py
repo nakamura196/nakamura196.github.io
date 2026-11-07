@@ -153,7 +153,27 @@ def plist(field, prefer="en"):
             name = name.replace(", ", " ").replace(",", " ")
         if name:
             out.append(name)
+    if prefer == "en" and ROMAN_READY:
+        out = [en_name(n) for n in out]
     return out
+
+
+ROMAN_READY = False
+OWNER_EN = "Satoru Nakamura"
+
+
+def en_name(name):
+    """A Japanese-only name, shown on an English page with the spelling that
+    person already has elsewhere in the data (never a made-up romanisation)."""
+    if not B._JA.search(name):
+        return name
+    kind_, k = resolve(name)
+    if kind_ == "owner":
+        return OWNER_EN
+    ent = ENT.get(k) if kind_ == "person" else None
+    if ent and ent.get("en") and not B._JA.search(ent["en"]):
+        return ent["en"]
+    return term(name, "en")
 
 
 def fdate(d, lg) -> str:
@@ -190,8 +210,31 @@ def money(v, lg) -> str:
     return f"{n}円" if lg == "ja" else f"JPY {n}"
 
 
+TERM_KEYS = {"offer_organization", "system_name", "category", "institution_name",
+             "publisher", "promoter", "association"}
+_TERMS = None
+
+
+def term(s, lg):
+    """Official English name of a funding scheme, category, institution or
+    publisher (scripts/term_en.json: each entry checked against the body's
+    own English page). Anything not in the table stays as written."""
+    global _TERMS
+    if lg != "en" or not s or not B._JA.search(s):
+        return s
+    if _TERMS is None:
+        f = Path(__file__).with_name("term_en.json")
+        _TERMS = {}
+        if f.exists():
+            for x in json.loads(f.read_text(encoding="utf-8")):
+                if x.get("en"):
+                    _TERMS[x["ja"]] = x["en"]
+    return _TERMS.get(s.strip(), s)
+
+
 def pick(it, key, lg):
-    return B.lang(it.get(key), lg)
+    v = B.lang(it.get(key), lg)
+    return term(v, lg) if key in TERM_KEYS else v
 
 
 def link_a(url, text=None, cls=""):
@@ -225,6 +268,8 @@ def _sortdate(kind, it):
 def init(Bmod):
     global B
     B = Bmod
+    global ROMAN_READY
+    ROMAN_READY = False
     E.clear(); BYID.clear(); SUP.clear(); ENT.clear()
     for old in B.fetch("research_projects"):
         s = old.get("x-superseded-by")
@@ -373,6 +418,8 @@ def _coauthors():
         ent["ja"] = lab.get("ja") or ent["ja"]
         ent["en"] = lab.get("en") or ent["en"]
         ent["ja"] = ent["ja"] or ent["en"]; ent["en"] = ent["en"] or ent["ja"]
+    global ROMAN_READY
+    ROMAN_READY = True
 
 
 def people_html(names_, lg):
@@ -500,7 +547,7 @@ def rows(e, lg):
         add("category", pick(it, "category", lg)); add("inst", pick(it, "institution_name", lg))
         add("fund", val(it["fund_type"], lg) if it.get("fund_type") else "")
         add("period", period(it.get("from_date"), it.get("to_date"), lg), True)
-        add("role", it.get("x-role") or (val(it["research_project_owner_role"], lg) if it.get("research_project_owner_role") else ""))
+        add("role", term(it.get("x-role"), lg) or (val(it["research_project_owner_role"], lg) if it.get("research_project_owner_role") else ""))
         a = it.get("overall_grant_amount") or {}
         if a.get("total_cost"):
             parts = [f'{money(a["total_cost"], lg)}']

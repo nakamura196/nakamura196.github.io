@@ -1,0 +1,212 @@
+[
+ {
+  "ja": "基盤研究(A)",
+  "en": "Grant-in-Aid for Scientific Research (A)",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "基盤研究(B)",
+  "en": "Grant-in-Aid for Scientific Research (B)",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "基盤研究(C)",
+  "en": "Grant-in-Aid for Scientific Research (C)",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "基盤研究(S)",
+  "en": "Grant-in-Aid for Scientific Research (S)",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "若手研究",
+  "en": "Grant-in-Aid for Early-Career Scientists",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "情報処理学会",
+  "en": "Information Processing Society of Japan",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "情報処理学会 人文科学とコンピュータ研究会",
+  "en": "Information Processing Society of Japan, Special Interest Group on Computer and Humanities (SIG-CH)",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "公益財団法人東洋文庫",
+  "en": "The Toyo Bunko",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "一般財団法人人文情報学研究所",
+  "en": "International Institute for Digital Humanities",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "国立大学図書館協会",
+  "en": "Japan Association of National University Libraries",
+  "source": "researchmap の英語欄（このサイトの master 内の別の業績）",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "挑戦的研究(萌芽)",
+  "en": "Grant-in-Aid for Challenging Research (Exploratory)",
+  "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K21831/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "学術変革領域研究(A)",
+  "en": "Grant-in-Aid for Transformative Research Areas (A)",
+  "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PLANNED-25H01244/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "学術変革領域研究(A)「歴史情報学の創成」",
+  "en": "Grant-in-Aid for Transformative Research Areas (A) \"Establishing the Digital History\"",
+  "source": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PLANNED-25H01244/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学",
+  "en": "The University of Tokyo",
+  "source": "https://www.u-tokyo.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "筑波大学",
+  "en": "University of Tsukuba",
+  "source": "https://www.tsukuba.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "千葉大学",
+  "en": "Chiba University",
+  "source": "https://www.chiba-u.ac.jp/e/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "同志社大学",
+  "en": "Doshisha University",
+  "source": "https://www.doshisha.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学史料編纂所",
+  "en": "Historiographical Institute, The University of Tokyo",
+  "source": "https://www.hi.u-tokyo.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京外国語大学アジア・アフリカ言語文化研究所",
+  "en": "Research Institute for Languages and Cultures of Asia and Africa, Tokyo University of Foreign Studies",
+  "source": "https://www.aa.tufs.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "国立情報学研究所",
+  "en": "National Institute of Informatics",
+  "source": "https://www.nii.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "国文学研究資料館",
+  "en": "National Institute of Japanese Literature",
+  "source": "https://www.nijl.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東洋文庫",
+  "en": "The Toyo Bunko",
+  "source": "https://toyo-bunko.or.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "国立歴史民俗博物館",
+  "en": "National Museum of Japanese History",
+  "source": "https://www.rekihaku.ac.jp/english/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学柏図書館",
+  "en": "Kashiwa Library",
+  "source": "https://www.lib.u-tokyo.ac.jp/en/library/kashiwa",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学附属図書館",
+  "en": "University of Tokyo Library System",
+  "source": "https://www.lib.u-tokyo.ac.jp/en",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学附属図書館アジア研究図書館上廣倫理財団寄付研究部門",
+  "en": "Uehiro Project for the Asian Research Library",
+  "source": "https://u-parl.lib.u-tokyo.ac.jp/en",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学大学院情報学環・学際情報学府",
+  "en": "Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies, The University of Tokyo",
+  "source": "https://www.iii.u-tokyo.ac.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学文書館",
+  "en": "The University of Tokyo Archives",
+  "source": "https://www.u-tokyo.ac.jp/adm/history/index.html",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive",
+  "source": "https://digitalarchivejapan.org/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "株式会社インターネットイニシアティブ",
+  "en": "Internet Initiative Japan Inc.",
+  "source": "https://www.iij.ad.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "人工知能学会",
+  "en": "The Japanese Society for Artificial Intelligence",
+  "source": "https://www.ai-gakkai.or.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "日本船舶海洋工学会",
+  "en": "The Japan Society of Naval Architects and Ocean Engineers",
+  "source": "https://www.jasnaoe.or.jp/en/",
+  "checked": "2026-11-06"
+ },
+ {
+  "ja": "東京大学出版会",
+  "en": "University of Tokyo Press",
+  "source": "https://www.utp.or.jp/holdings/gaiyou.html",
+  "checked": "2026-11-06"
+ }
+]
