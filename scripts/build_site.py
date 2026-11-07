@@ -64,6 +64,8 @@ def fetch(kind: str) -> list[dict]:
         raise FetchError(f"{kind}: unreadable ({e})") from e
     if not isinstance(items, list):
         raise FetchError(f"{kind}: expected a list")
+    # `x-hidden` (with a reason) keeps an item in master but off the site.
+    items = [it for it in items if not it.get("x-hidden")]
     _fetched[kind] = items
     return items
 

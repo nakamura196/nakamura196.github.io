@@ -52,18 +52,6 @@
   ],
   "works": [
     {
-      "title": "Vancouver Playgrounds",
-      "titleJa": "バンクーバーの遊び場",
-      "creators": "Satoru Nakamura",
-      "creatorsJa": "中村覚",
-      "startDate": "2026-10",
-      "endDate": "",
-      "url": "https://play.ldas.jp/",
-      "description": "A record of playgrounds in Vancouver's parks, made searchable by type of play equipment. Parks from the City's open data are shown on a map and in a list; photos taken on site are kept on Wikimedia Commons and shown through IIIF. The equipment vocabulary is published in SKOS.",
-      "descriptionJa": "バンクーバー市の公園にある遊び場を、遊具の種類から探せるようにする記録。市のオープンデータにある公園を地図と一覧で示し、現地で撮った遊具の写真を Wikimedia Commons に置いて IIIF で見せる。遊具の語彙を SKOS で公開している。",
-      "thumbnail": "/images/works/ldas-playgrounds.jpg"
-    },
-    {
       "title": "Morrison Pamphlets Integrated Database",
       "titleJa": "モリソンパンフレット統合データベース",
       "creators": "Satoru Nakamura",
@@ -1067,7 +1055,7 @@
     "misc": 16,
     "talks": 133,
     "invited": 88,
-    "works": 79,
+    "works": 78,
     "awards": 21,
     "grants": 32,
     "committees": 21

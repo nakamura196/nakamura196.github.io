@@ -12,6 +12,9 @@ main:
   - title: "Grants"
     url: /grants/
 
+  - title: "Co-researchers"
+    url: /coauthors/
+
   - title: "CV"
     url: /cv/
 
@@ -27,6 +30,9 @@ ja:
 
   - title: "研究課題"
     url: /ja/grants/
+
+  - title: "共同研究者"
+    url: /ja/coauthors/
 
   - title: "経歴"
     url: /ja/cv/

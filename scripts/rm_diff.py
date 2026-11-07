@@ -45,7 +45,8 @@ def strip(item: dict) -> dict:
 
 
 def master_items(kind: str) -> list[dict]:
-    return json.loads((MASTER / f"{kind}.json").read_text(encoding="utf-8"))
+    items = json.loads((MASTER / f"{kind}.json").read_text(encoding="utf-8"))
+    return [it for it in items if not it.get("x-hidden")]  # kept in master, not shown
 
 
 def label(item: dict) -> str:

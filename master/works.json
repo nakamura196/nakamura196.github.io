@@ -1212,6 +1212,7 @@
         "is_downloadable": false
       }
     ],
+    "x-hidden": "本人の指示で研究業績から除外（2026-11-07、私的な記録のため）",
     "x-local-id": "ldas-playgrounds",
     "x-source": "https://ldas.jp/ja/projects/ (works.ts id: playgrounds)",
     "x-thumbnail": "/images/works/ldas-playgrounds.jpg",

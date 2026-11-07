@@ -1,5 +1,4 @@
 ﻿type,date,title_en,title_ja,people_en,people_ja,from,to,url,page_url
-work,2026-10-01,Vancouver Playgrounds,バンクーバーの遊び場,Satoru Nakamura,中村覚,2026-10,,https://play.ldas.jp/,https://nakamura196.github.io/works/ldas-playgrounds
 work,2026-10-01,Morrison Pamphlets Integrated Database,モリソンパンフレット統合データベース,Satoru Nakamura,中村覚,2026-10,,https://morrison.toyobunko-lab.jp/,https://nakamura196.github.io/works/ldas-morrison
 work,2026-10-01,LD Browser — Linked Data in the Browser,LD Browser,Satoru Nakamura,中村覚,2026-10,,https://browser.ldas.jp/,https://nakamura196.github.io/works/ldas-ldBrowser
 work,2026-10-01,Toyo Bunko Chinese Classics Database,東洋文庫 漢籍データベース,Satoru Nakamura,中村覚,2026-10,,https://kanseki.toyobunko-lab.jp/,https://nakamura196.github.io/works/ldas-kanseki
