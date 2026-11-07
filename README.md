@@ -27,7 +27,14 @@ local setup required. You can also run it on demand from the Actions tab
 ```sh
 python3 scripts/build_site.py                 # publications / talks / CV from master/
 GH_TOKEN=$(gh auth token) python3 scripts/build_github_portfolio.py  # software
+python3 scripts/fetch_rm_coauthors.py         # researchmap links on /coauthors/ (manual; needs a Japanese IP / VPN)
 ```
+
+`/coauthors/` links each person to researchmap using `scripts/coauthor_researchmap.json`
+(names and permalinks only; photos are not stored). researchmap only serves this list to
+Japanese IPs, so it is not part of the daily Actions run — re-run the script by hand now
+and then. New co-authors just appear without a link until then; `build_site.py` prints
+researchmap entries it could not match (add them to `scripts/coauthor_aliases.json`).
 
 ### Preview locally (Docker)
 

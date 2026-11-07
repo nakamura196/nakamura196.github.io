@@ -1,0 +1,182 @@
+{
+ "_note": "researchmap の共著者（名前と個人ページの ID のみ。写真は保存しない）。scripts/fetch_rm_coauthors.py で取り直す。VPN が要る。",
+ "fetched": "2026-11-07",
+ "people": [
+  {
+   "name": "大和 裕幸",
+   "permalink": "hrykymt"
+  },
+  {
+   "name": "山田 太造",
+   "permalink": "j618"
+  },
+  {
+   "name": "永崎 研宣",
+   "permalink": "knagasaki"
+  },
+  {
+   "name": "満行 泰河",
+   "permalink": "mitsuyuki"
+  },
+  {
+   "name": "小風 尚樹",
+   "permalink": "naoki_kokaze"
+  },
+  {
+   "name": "稗方 和夫",
+   "permalink": "read0132227"
+  },
+  {
+   "name": "劉 冠偉",
+   "permalink": "liuguanwei"
+  },
+  {
+   "name": "宮本 隆史",
+   "permalink": "miyamototakashi"
+  },
+  {
+   "name": "金 甫榮",
+   "permalink": "by-kim"
+  },
+  {
+   "name": "永井 正勝",
+   "permalink": "Masakatsu-Nagai"
+  },
+  {
+   "name": "成田 健太郎",
+   "permalink": "read0133168"
+  },
+  {
+   "name": "渡邉 英徳",
+   "permalink": "hwtnv"
+  },
+  {
+   "name": "大向 一輝",
+   "permalink": "i2k"
+  },
+  {
+   "name": "南山 泰之",
+   "permalink": "minamiyama_yasuyuki"
+  },
+  {
+   "name": "冨澤 かな",
+   "permalink": "tomizawakana"
+  },
+  {
+   "name": "井上 聡",
+   "permalink": "akcrchykchkksk"
+  },
+  {
+   "name": "小風 綾乃",
+   "permalink": "ayano_sanno"
+  },
+  {
+   "name": "福島 幸宏",
+   "permalink": "fukusima-y"
+  },
+  {
+   "name": "加藤 諭",
+   "permalink": "7000022397"
+  },
+  {
+   "name": "岡田 一祐",
+   "permalink": "kzhr"
+  },
+  {
+   "name": "清原 和之",
+   "permalink": "kazu5947"
+  },
+  {
+   "name": "片桐 由希子",
+   "permalink": "yukiko-ktgr"
+  },
+  {
+   "name": "大井 将生",
+   "permalink": "m-oi"
+  },
+  {
+   "name": "橋本 雄太",
+   "permalink": "yhashimoto"
+  },
+  {
+   "name": "藤川 隆男",
+   "permalink": "fujikawa3988"
+  },
+  {
+   "name": "北本 朝展",
+   "permalink": "kitamoto"
+  },
+  {
+   "name": "岡崎 敦",
+   "permalink": "read0060302"
+  },
+  {
+   "name": "平澤 加奈子",
+   "permalink": "read0094022"
+  },
+  {
+   "name": "逸見 龍生",
+   "permalink": "tatsuohemmi"
+  },
+  {
+   "name": "渋谷 綾子",
+   "permalink": "read0155584"
+  },
+  {
+   "name": "高槻 泰郎",
+   "permalink": "7000003953"
+  },
+  {
+   "name": "山﨑 潤一",
+   "permalink": "junichiyamasaki"
+  },
+  {
+   "name": "天野 絵里子",
+   "permalink": "amanoeriko"
+  },
+  {
+   "name": "吉田 ますみ",
+   "permalink": "masumiyoshida"
+  },
+  {
+   "name": "小川 潤",
+   "permalink": "jo-fil-ho"
+  },
+  {
+   "name": "数藤 雅彦",
+   "permalink": "msudo"
+  },
+  {
+   "name": "青池 亨",
+   "permalink": "blue0620"
+  },
+  {
+   "name": "阿達 藍留",
+   "permalink": "a_adachi"
+  },
+  {
+   "name": "荒木 達雄",
+   "permalink": "tahsiung"
+  },
+  {
+   "name": "纓田 宗紀",
+   "permalink": "ODA_SOKI"
+  },
+  {
+   "name": "柴山 明寛",
+   "permalink": "read0143918"
+  },
+  {
+   "name": "大邑 潤三",
+   "permalink": "ohmura-junzo"
+  },
+  {
+   "name": "後藤 真",
+   "permalink": "mak_goto"
+  },
+  {
+   "name": "菊池 信彦",
+   "permalink": "nobuhikokikuchi"
+  }
+ ]
+}

@@ -35,7 +35,10 @@
   {"ja": "山田 俊幸", "en": "Toshiyuki Yamada", "also": ["山田俊幸"]},
   {"ja": "逸見 龍生", "en": "Tatsuo Hemmi", "also": ["逸見龍生"]},
   {"ja": "王 一凡", "also": ["王一凡監訳"]},
-  {"ja": "ユディット・アロカイ", "also": ["アロカイ", "ユディット", "アロカイユディット"]}
+  {"ja": "ユディット・アロカイ", "also": ["アロカイ", "ユディット", "アロカイユディット"]},
+  {"ja": "高槻 泰郎", "en": "Yasuo Takatsuki", "_src": "researchmap 7000003953"},
+  {"ja": "山﨑 潤一", "en": "Junichi Yamasaki", "_src": "researchmap junichiyamasaki"},
+  {"ja": "阿達 藍留", "en": "Airu Adachi", "_src": "researchmap a_adachi"}
  ],
  "owner": ["中村覚訳", "中村觉", "Satoru MAKAMURA", "S. Nakamura", "Satoru"],
  "exclude": [

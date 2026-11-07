@@ -418,8 +418,27 @@ def _coauthors():
         ent["ja"] = lab.get("ja") or ent["ja"]
         ent["en"] = lab.get("en") or ent["en"]
         ent["ja"] = ent["ja"] or ent["en"]; ent["en"] = ent["en"] or ent["ja"]
+    _rm_links()
     global ROMAN_READY
     ROMAN_READY = True
+
+
+RM_UNMATCHED = []    # researchmap co-authors with no entity on the site (reported at build)
+
+
+def _rm_links():
+    """Attach researchmap permalinks (scripts/coauthor_researchmap.json, fetched by hand
+    with fetch_rm_coauthors.py) to co-researcher entities, matching by name."""
+    RM_UNMATCHED.clear()
+    f = Path(__file__).with_name("coauthor_researchmap.json")
+    if not f.exists():
+        return
+    for p in json.loads(f.read_text(encoding="utf-8")).get("people", []):
+        kind_, k = resolve(p["name"])
+        if kind_ == "person" and k in ENT:
+            ENT[k]["rm"] = p["permalink"]
+        else:
+            RM_UNMATCHED.append(p["name"])
 
 
 def people_html(names_, lg):
@@ -875,7 +894,9 @@ def coauthors_pages():
             kinds = " · ".join(f'{T["back"][k][1 if lg == "ja" else 0]} {n}' for k, n in sorted(kc.items()))
             items = sorted(v["items"], key=lambda o: (o["date"], o["id"]), reverse=True)
             inner = (f'<details id="{anchor_for(v["key"])}"><summary><span class="rm-title">{esc(v[lg])}</span> '
-                     f'<span class="rm-badge">{len(items)}</span> <span class="rm-meta">{esc(kinds)}</span></summary>'
+                     f'<span class="rm-badge">{len(items)}</span> <span class="rm-meta">{esc(kinds)}</span>'
+                     + (f' <a class="rm-meta" href="https://researchmap.jp/{esc(v["rm"])}" target="_blank" rel="noopener">researchmap</a>' if v.get("rm") else "")
+                     + '</summary>'
                      + _list_of(items, lg) + "</details>")
             lis.append(f'<li class="rm-item" data-text="{esc(_text(v["ja"] + " " + v["en"]))}">{inner}</li>')
         F = FILTER_L[lg]
@@ -889,7 +910,8 @@ def coauthors_pages():
         front = {"layout": "archive", "title": "共同研究者" if lg == "ja" else "Co-researchers",
                  "permalink": f"{pre}/coauthors/", "author_profile": True, "lang": lg}
         B.write_md(B.ROOT / "_pages" / ("ja/coauthors.html" if lg == "ja" else "coauthors.html"), front, body)
-    print(f"  coauthors: {len(ents)} people")
+    print(f"  coauthors: {len(ents)} people, researchmap links {sum(1 for v in ents if v.get('rm'))}"
+          + (f", unmatched: {', '.join(RM_UNMATCHED)}" if RM_UNMATCHED else ""))
 
 
 # ----------------------------------------------------------------- exports
