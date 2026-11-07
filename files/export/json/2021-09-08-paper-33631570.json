@@ -1,0 +1,89 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/33631570",
+ "@type": "published_papers",
+ "rm:id": "33631570",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-09-10T06:31:21Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-01-07T02:17:12Z",
+ "paper_title": {
+  "ja": "Reconstruction and Utilization of Text Data Using TEI: Case study of the Shibusawa Eiichi Denki Shiryo",
+  "en": "Reconstruction and Utilization of Text Data Using TEI: Case study of the Shibusawa Eiichi Denki Shiryo"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yuta Hashimoto"
+   },
+   {
+    "name": "Naoki Kokaze"
+   },
+   {
+    "name": "Sayaka Inoue"
+   },
+   {
+    "name": "Toru Shigehara"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ],
+  "en": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yuta Hashimoto"
+   },
+   {
+    "name": "Naoki Kokaze"
+   },
+   {
+    "name": "Sayaka Inoue"
+   },
+   {
+    "name": "Toru Shigehara"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ]
+ },
+ "publication_date": "2021-09-08",
+ "publication_name": {
+  "ja": "The 11th International Conference of Japanese Association for Digital Humanities",
+  "en": "The 11th International Conference of Japanese Association for Digital Humanities"
+ },
+ "volume": "11",
+ "starting_page": "126",
+ "ending_page": "129",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "see_also": [
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/JADH/2021/Proceedings_JADH2021.pdf#page=126",
+   "label": "url",
+   "is_downloadable": true
+  }
+ ]
+}

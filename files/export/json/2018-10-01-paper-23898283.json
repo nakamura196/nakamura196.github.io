@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23898283",
+ "@type": "published_papers",
+ "rm:id": "23898283",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-27T08:40:03Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-03-08T01:00:04Z",
+ "paper_title": {
+  "ja": "情報技術の活用と研究基盤の拡充による新たな日本経済史研究の可能性"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "茂原暢"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "福田真人"
+   },
+   {
+    "name": "山崎翔平"
+   }
+  ]
+ },
+ "publication_date": "2018-10",
+ "publication_name": {
+  "ja": "政治経済学・経済史学会2018秋季学術大会"
+ },
+ "starting_page": "78",
+ "ending_page": "81",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://seikeisi.ssoj.info/program_2018.pdf",
+   "is_downloadable": false
+  }
+ ]
+}

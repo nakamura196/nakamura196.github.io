@@ -1,0 +1,160 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+ "@type": "research_projects",
+ "rm:id": "47578926",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-09-29 05:45:21",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "ai",
+ "rm:created": "2024-08-30T09:04:28Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-08-30T09:04:28Z",
+ "research_project_title": {
+  "ja": "史料データセンシングに基づく日本列島記憶継承モデルの確立",
+  "en": "Establishment of the Japan Islands Memory Inheritance Model based on Historical Data Sensing"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "山田 太造"
+   },
+   {
+    "name": "林 晃弘"
+   },
+   {
+    "name": "井上 聡"
+   },
+   {
+    "name": "杉森 玲子"
+   },
+   {
+    "name": "大向 一輝"
+   },
+   {
+    "name": "木村 直樹"
+   },
+   {
+    "name": "原 正一郎"
+   },
+   {
+    "name": "箱石 大"
+   },
+   {
+    "name": "新井 重行"
+   },
+   {
+    "name": "末柄 豊"
+   },
+   {
+    "name": "馬場 基"
+   },
+   {
+    "name": "関野 樹"
+   },
+   {
+    "name": "永井 信"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "後藤 真"
+   },
+   {
+    "name": "水野 嶺"
+   },
+   {
+    "name": "本郷 恵子"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(S)",
+  "en": "Grant-in-Aid for Scientific Research (S)"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2024-04-01",
+ "to_date": "2029-03-31",
+ "overall_grant_amount": {
+  "total_cost": "202150000",
+  "direct_cost": "155500000",
+  "indirect_cost": "46650000"
+ },
+ "identifiers": {
+  "grant_number": [
+   "24H00011"
+  ],
+  "national_grant_number": [
+   "JP24H00011"
+  ],
+  "rm:published_paper_id": [
+   "52101817",
+   "52107631",
+   "52101820",
+   "52101819",
+   "52101818",
+   "51774561"
+  ],
+  "rm:presentation_id": [
+   "52101540",
+   "52101759",
+   "52891762"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24H00011"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101817"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101819"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101540"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101759"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52891762"
+  }
+ ]
+}

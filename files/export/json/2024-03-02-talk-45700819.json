@@ -1,0 +1,62 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45700819",
+ "@type": "presentations",
+ "rm:id": "45700819",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-03-02T03:44:05Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-13T02:09:58Z",
+ "presentation_title": {
+  "ja": "Cataloging images of historical materials taken by individual researchers: A case study of Ottoman documents of Bosnia",
+  "en": "Cataloging images of historical materials taken by individual researchers: A case study of Ottoman documents of Bosnia"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Natsuko Saji"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Natsuko Saji"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "The 3rd Islamic Trust Studies International Conference “Exploring the Tacit Knowledge of Trust Building and Connectivity amidst Predicaments”",
+  "en": "The 3rd Islamic Trust Studies International Conference “Exploring the Tacit Knowledge of Trust Building and Connectivity amidst Predicaments”"
+ },
+ "publication_date": "2024-03-02",
+ "from_event_date": "2024-03-01",
+ "to_event_date": "2024-03-03",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "poster_presentation",
+ "is_international_presentation": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "39508593"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

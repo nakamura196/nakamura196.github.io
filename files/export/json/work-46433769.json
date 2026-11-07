@@ -1,0 +1,33 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433769",
+ "@type": "works",
+ "rm:id": "46433769",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-09T10:36:30Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-05-09T10:36:59Z",
+ "work_title": {
+  "ja": "浄土真宗聖典オンライン検索システム"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "浄土真宗本願寺派総合研究所"
+   }
+  ]
+ },
+ "from_date": "2022-12-16",
+ "to_date": "9999",
+ "see_also": [
+  {
+   "@id": "https://j-soken.net/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

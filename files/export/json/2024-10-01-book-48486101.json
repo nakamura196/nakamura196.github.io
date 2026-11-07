@@ -1,0 +1,50 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/48486101",
+ "@type": "books_etc",
+ "rm:id": "48486101",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T06:10:21Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T06:10:21Z",
+ "book_title": {
+  "ja": "デジタル時代のコレクション論"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "逢坂, 裕紀子"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "勉誠社"
+ },
+ "publication_date": "2024-10",
+ "total_page": "8, 289p",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "cinii_nc_id": [
+   "BD09097608"
+  ],
+  "isbn": [
+   "9784585303046"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BD09097608",
+   "is_downloadable": false
+  }
+ ]
+}

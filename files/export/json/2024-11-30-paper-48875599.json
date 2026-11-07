@@ -1,0 +1,72 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48875599",
+ "@type": "published_papers",
+ "rm:id": "48875599",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-01-07T07:47:21Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-09-17T02:41:52Z",
+ "paper_title": {
+  "ja": "TEIによる編纂史料の構造化ー『大日本史料』を例に",
+  "en": "Structuring Curated Historical Materials with the TEI: A Case Study of Dai Nihon Shiryo"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "小風, 綾乃"
+   },
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "山田, 太造"
+   },
+   {
+    "name": "Ayano, Kokaze"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "description": {
+  "ja": "『大日本史料』は日本史のインデックス的な史料集として，125年にわたり紙媒体で印刷・刊行されてきた．これらを国際標準であるTEI P5ガイドラインに準拠したデータへ変換するにあたり，本稿では第六編南北朝期をサンプルとして，既刊分の基本的な構造を定めた現状と，その際に出てきた課題をまとめる．具体的には，綱文とさまざまな史料からの借用と注釈を構造化した上で，ふたつの暦，難読・欠損文字，傍注と割注の処理それぞれについて，マークアップの実例を検討する．\nDai Nihon Shiryo, a comprehensive index of Japanese historical materials, has been printed in paper format for 125 years. This paper outlines the process and challenges involved in converting these materials to comply with the TEI P5 Guidelines, focusing on the Sixth Series (Nanboku-cho period) as a sample for defining the basic structure of previously published content. It specifically examines the structuring of Koubun (event data), text reuse from diverse materials, and annotations. Examples include markup solutions for handling dual calendar systems, rare or missing characters, and both Bouchū (marginal notes) and Warichū (split annotations)."
+ },
+ "publication_date": "2024-11-30",
+ "publication_name": {
+  "ja": "じんもんこん2024論文集"
+ },
+ "volume": "2024",
+ "starting_page": "275",
+ "ending_page": "282",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_cr_id": [
+   "1050021083347543680"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1050021083347543680?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://id.nii.ac.jp/1001/00241418/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

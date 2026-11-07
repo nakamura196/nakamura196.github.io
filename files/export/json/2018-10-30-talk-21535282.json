@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/21535282",
+ "@type": "presentations",
+ "rm:id": "21535282",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-10-31T01:50:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-10-31T01:50:16Z",
+ "presentation_title": {
+  "ja": "デジタルアーカイブの技術（IIIFとOmeka体験）"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "第20回図書館総合展メーカーズ・ラボ：図書館・博物館（美術館）・文書館を拓く技術とは"
+ },
+ "publication_date": "2018-10-30",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "https://www.slideshare.net/satorunakamura7/iiifomeka/"
+  }
+ ]
+}

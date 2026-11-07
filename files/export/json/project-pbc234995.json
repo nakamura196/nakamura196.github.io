@@ -1,0 +1,35 @@
+{
+ "@type": "research_projects",
+ "display": "disclosed",
+ "research_project_title": {
+  "ja": "「行為」の構造化を軸とするデジタル・ヒストリー研究データと研究プロセスの接続に関する研究"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "小川潤"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "国立情報学研究所"
+ },
+ "system_name": {
+  "ja": "AI等の活用を推進する研究データエコシステム構築事業"
+ },
+ "institution_name": {
+  "ja": "東京大学"
+ },
+ "from_date": "2025-04",
+ "to_date": "2027-03",
+ "see_also": [
+  {
+   "@id": "https://www.nii.ac.jp/creded/creded_result.html",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

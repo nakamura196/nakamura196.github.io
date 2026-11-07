@@ -16,4 +16,6 @@ redirect_from:
   <a href="https://researchmap.jp/nakamura.satoru" class="btn btn--primary" target="_blank">Full record on researchmap</a>
 </div>
 
+<p><a href="/coauthors/">Co-researchers</a></p>
+
 {% include rm-source.html lang="en" %}

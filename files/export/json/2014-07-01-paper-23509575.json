@@ -1,0 +1,48 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509575",
+ "@type": "published_papers",
+ "rm:id": "23509575",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T10:07:03Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T10:07:04Z",
+ "paper_title": {
+  "ja": "予習復習環境の改善による疑問解消型授業支援システムの開発",
+  "en": "Development of lecture support system for improving the learning cycle of preparation, class and review"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "満行泰河"
+   },
+   {
+    "name": "安藤早紀"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "廣井貴彬"
+   }
+  ]
+ },
+ "publication_date": "2014-07",
+ "publication_name": {
+  "ja": "人工知能学会第2種研究会(SIG-KST)"
+ },
+ "number": "SIG-KST-2014-01-01",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}

@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "『ヒエラティック古書体学』データベース",
+  "en": "Hieratische Paläographie DB"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2019-12",
+ "to_date": "9999",
+ "description": {
+  "ja": "ゲオルク・メラー『ヒエラティック古書体学』(1909–36)のヒエラティック(古代エジプト神官文字)字形を検索できるデータベース。東京大学アジア研究図書館所蔵のIIIF画像を使用し、RDF/SPARQLにも対応。",
+  "en": "Searchable database of hieratic (ancient Egyptian) script forms from Georg Möller's Hieratische Paläographie (1909–36). Uses IIIF images held by the Asian Research Library of the University of Tokyo, with RDF/SPARQL support."
+ },
+ "see_also": [
+  {
+   "@id": "https://moeller.jinsha.tsukuba.ac.jp/ja/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://moeller.jinsha.tsukuba.ac.jp/en/",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

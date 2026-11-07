@@ -208,127 +208,148 @@
       "title": "DAPCON産業賞2025",
       "date": "2026-03",
       "awarder": "デジタルアーカイブ推進コンソーシアム",
-      "summary": "Cultural Japan"
+      "summary": "Cultural Japan",
+      "url": "/ja/awards/53057039"
     },
     {
       "title": "Linked Open Data チャレンジ Japan 2025 IIJ賞",
       "date": "2026-02",
       "awarder": "株式会社インターネットイニシアティブ",
-      "summary": "OdGenji：源氏物語の香りDB"
+      "summary": "OdGenji：源氏物語の香りDB",
+      "url": "/ja/awards/52884475"
     },
     {
       "title": "Linked Open Data チャレンジ Japan 2025 データ作成部門 優秀賞",
       "date": "2026-02",
       "awarder": "Linked Open Data チャレンジ 2025 実行委員会",
-      "summary": "OdGenji：源氏物語の香りDB"
+      "summary": "OdGenji：源氏物語の香りDB",
+      "url": "/ja/awards/52884474"
     },
     {
       "title": "第7回デジタルアーカイブ学会賞・学術賞（著書）",
       "date": "2026-01",
       "awarder": "デジタルアーカイブ学会",
-      "summary": "デジタル時代のコレクション論"
+      "summary": "デジタル時代のコレクション論",
+      "url": "/ja/awards/52101558"
     },
     {
       "title": "第7回デジタルアーカイブ学会賞・学術賞（研究論文）最優秀賞",
       "date": "2026-01",
       "awarder": "デジタルアーカイブ学会",
-      "summary": "デジタル資料の長期保存のためのOAIS参照モデルによる情報パッケージの作成：東京大学史料編纂所を事例に"
+      "summary": "デジタル資料の長期保存のためのOAIS参照モデルによる情報パッケージの作成：東京大学史料編纂所を事例に",
+      "url": "/ja/awards/52101557"
     },
     {
       "title": "デジタルアーカイブジャパン・アワード（DAJアワード）2025",
       "date": "2025-08",
       "awarder": "デジタルアーカイブジャパン推進委員会実務者検討委員会",
-      "summary": "デジタル源氏物語"
+      "summary": "デジタル源氏物語",
+      "url": "/ja/awards/51187935"
     },
     {
       "title": "じんもんこん2024「優秀論文賞」",
       "date": "2025-02",
       "awarder": "情報処理学会 (IPSJ) 人文科学とコンピュータ研究会 (SIG-CH)",
-      "summary": "荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用"
+      "summary": "荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用",
+      "url": "/ja/awards/49116010"
     },
     {
       "title": "ベストポスター賞",
       "date": "2024-12",
       "awarder": "人文科学とコンピュータシンポジウム「じんもんこん2024」",
-      "summary": "TEIによる編纂史料の構造化ー『大日本史料』を例に"
+      "summary": "TEIによる編纂史料の構造化ー『大日本史料』を例に",
+      "url": "/ja/awards/48943687"
     },
     {
       "title": "Linked Open Data Challenge 2024 学術LOD賞",
       "date": "2024-11",
       "awarder": "",
-      "summary": "nihuBridge LOD; 荘園関係DB LOD"
+      "summary": "nihuBridge LOD; 荘園関係DB LOD",
+      "url": "/ja/awards/48555061"
     },
     {
       "title": "第6回デジタルアーカイブ学会賞・実践賞",
       "date": "2024-11",
       "awarder": "デジタルアーカイブ学会",
-      "summary": ""
+      "summary": "",
+      "url": "/ja/awards/48381298"
     },
     {
       "title": "デジタルアーカイブジャパン・アワード（DAJアワード）2024",
       "date": "2024-08",
       "awarder": "デジタルアーカイブジャパン推進委員会実務者検討委員会",
-      "summary": "東京大学デジタルアーカイブポータル"
+      "summary": "東京大学デジタルアーカイブポータル",
+      "url": "/ja/awards/47576710"
     },
     {
       "title": "第59回国立大学図書館協会賞",
       "date": "2024-06",
       "awarder": "国立大学図書館協会",
-      "summary": "デジタル源氏物語：研究者との連携による「源氏物語」研究プラットフォームの構築"
+      "summary": "デジタル源氏物語：研究者との連携による「源氏物語」研究プラットフォームの構築",
+      "url": "/ja/awards/47576680"
     },
     {
       "title": "Linked Open Data Challenge 2023 優秀賞（データ作成部門）",
       "date": "2023-11",
       "awarder": "Linked Open Data チャレンジ 2023 実行委員会",
-      "summary": "S×UKILAM（スキラム）教育メタデータLOD"
+      "summary": "S×UKILAM（スキラム）教育メタデータLOD",
+      "url": "/ja/awards/44216303"
     },
     {
       "title": "学術賞（著書)",
       "date": "2022-11",
       "awarder": "デジタルアーカイブ学会",
-      "summary": "自然史・理工系研究データの活用（デジタルアーカイブ・ベーシックス3）."
+      "summary": "自然史・理工系研究データの活用（デジタルアーカイブ・ベーシックス3）.",
+      "url": "/ja/awards/41656217"
     },
     {
       "title": "2022年度（令和4年度）山下記念研究賞",
       "date": "2022-07",
       "awarder": "情報処理学会",
-      "summary": "デジタル源氏物語（AI画像検索版）：くずし字OCRと編集距離を用いた写本・版本の比較支援システムの開発"
+      "summary": "デジタル源氏物語（AI画像検索版）：くずし字OCRと編集距離を用いた写本・版本の比較支援システムの開発",
+      "url": "/ja/awards/39368098"
     },
     {
       "title": "第3回学会賞",
       "date": "2021-04",
       "awarder": "デジタルアーカイブ学会",
-      "summary": "実践賞"
+      "summary": "実践賞",
+      "url": "/ja/awards/31963513"
     },
     {
       "title": "第3回学会賞",
       "date": "2021-04",
       "awarder": "デジタルアーカイブ学会",
-      "summary": "実践賞"
+      "summary": "実践賞",
+      "url": "/ja/awards/31963511"
     },
     {
       "title": "第3回学会賞",
       "date": "2021-04",
       "awarder": "デジタルアーカイブ学会",
-      "summary": "実践賞"
+      "summary": "実践賞",
+      "url": "/ja/awards/31963330"
     },
     {
       "title": "学生奨励賞",
       "date": "2019-12",
       "awarder": "情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2019」",
-      "summary": "構造化記述された財務記録史料データの分析手法の開発：イギリスの船舶解体業を事例に"
+      "summary": "構造化記述された財務記録史料データの分析手法の開発：イギリスの船舶解体業を事例に",
+      "url": "/ja/awards/4074707"
     },
     {
       "title": "学生奨励賞",
       "date": "2018-05",
       "awarder": "情報処理学会 人文科学とコンピュータ研究会",
-      "summary": "歴史研究者・アーキビスト・エンジニアの学際的協働に基づくコミュニティ構築：Tokyo Digital Historyを事例に"
+      "summary": "歴史研究者・アーキビスト・エンジニアの学際的協働に基づくコミュニティ構築：Tokyo Digital Historyを事例に",
+      "url": "/ja/awards/2505713"
     },
     {
       "title": "日本船舶海洋工学会奨学褒賞",
       "date": "2014-03",
       "awarder": "社団法人日本船舶海洋工学会",
-      "summary": ""
+      "summary": "",
+      "url": "/ja/awards/2373794"
     }
   ],
   "projects": [

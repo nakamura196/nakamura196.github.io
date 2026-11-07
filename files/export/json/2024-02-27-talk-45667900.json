@@ -1,0 +1,54 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45667900",
+ "@type": "presentations",
+ "rm:id": "45667900",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-02-27T08:04:53Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-13T02:09:36Z",
+ "presentation_title": {
+  "ja": "持続性と利活用性を考慮したデジタルアーカイブ構築手法の提案",
+  "en": "Proposal to develop Digital Archive System considering Sustainability and Reusability"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "令和５年度第２回自然科学系アーカイブズ研究会",
+  "en": "令和５年度第２回自然科学系アーカイブズ研究会"
+ },
+ "publication_date": "2024-02-27",
+ "from_event_date": "2024-02-27",
+ "to_event_date": "2024-02-28",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "39508593"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900489",
+ "@type": "works",
+ "rm:id": "36900489",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-05-06T02:46:21Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-05-06T03:04:05Z",
+ "work_title": {
+  "ja": "倭寇図巻デジタルアーカイブ"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東京大学史料編纂所"
+   }
+  ]
+ },
+ "from_date": "2021-12-03",
+ "to_date": "9999",
+ "identifiers": {
+  "rm:research_project_id": [
+   "32708239",
+   "13226485"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

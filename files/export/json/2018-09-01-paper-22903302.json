@@ -1,0 +1,74 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/22903302",
+ "@type": "published_papers",
+ "rm:id": "22903302",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-29T12:49:26Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-09-17T11:23:07Z",
+ "paper_title": {
+  "ja": "Broadening Perspectives of Historical Researchers: From a Case of Interdisciplinary Workshop organized by Graduate Students in Japan",
+  "en": "Broadening Perspectives of Historical Researchers: From a Case of Interdisciplinary Workshop organized by Graduate Students in Japan"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Masato Fukuda"
+   },
+   {
+    "name": "Jun Ogawa"
+   },
+   {
+    "name": "Sho Makino"
+   },
+   {
+    "name": "Ayano Sanno"
+   },
+   {
+    "name": "Shohei Yamasaki"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Masato Fukuda"
+   },
+   {
+    "name": "Jun Ogawa"
+   },
+   {
+    "name": "Sho Makino"
+   },
+   {
+    "name": "Ayano Sanno"
+   },
+   {
+    "name": "Shohei Yamasaki"
+   }
+  ]
+ },
+ "publication_date": "2018-09",
+ "publication_name": {
+  "ja": "The 8th International Conference of Japanese Association for Digital Humanities",
+  "en": "The 8th International Conference of Japanese Association for Digital Humanities"
+ },
+ "starting_page": "86",
+ "ending_page": "87",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false
+}

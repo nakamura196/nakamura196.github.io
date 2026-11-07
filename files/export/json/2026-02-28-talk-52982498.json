@@ -1,0 +1,60 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52982498",
+ "@type": "presentations",
+ "rm:id": "52982498",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-03-19T04:29:42Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-19T09:44:42Z",
+ "presentation_title": {
+  "ja": "デジタル人文学の全体像",
+  "en": "Overview of Digital Humanities"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "2025年度 東洋文庫データベース会議",
+  "en": "Toyo Bunko Database Conference 2025"
+ },
+ "publication_date": "2026-02-28",
+ "from_event_date": "2026-02-28",
+ "to_event_date": "2026-02-28",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "invited_oral_presentation",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755",
+   "51361068"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

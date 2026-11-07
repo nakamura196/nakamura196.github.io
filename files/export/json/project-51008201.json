@@ -1,0 +1,94 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51008201",
+ "@type": "research_projects",
+ "rm:id": "51008201",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-05-12 00:54:52",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-08-31T06:03:06Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-08-31T06:03:06Z",
+ "research_project_title": {
+  "ja": "AIを活用した中国木簡の筆跡分析の方途創出",
+  "en": "Creating AI-based methods for handwriting analysis of Chinese woodslips"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "藤田 高夫"
+   },
+   {
+    "name": "畑野 吉則"
+   },
+   {
+    "name": "吉田 壮"
+   },
+   {
+    "name": "宮崎 肇"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(B)",
+  "en": "Grant-in-Aid for Scientific Research (B)"
+ },
+ "institution_name": {
+  "ja": "関西大学",
+  "en": "Kansai University"
+ },
+ "from_date": "2025-04-01",
+ "to_date": "2029-03-31",
+ "overall_grant_amount": {
+  "total_cost": "14040000",
+  "direct_cost": "10800000",
+  "indirect_cost": "3240000"
+ },
+ "identifiers": {
+  "grant_number": [
+   "25K00510"
+  ],
+  "national_grant_number": [
+   "JP25K00510"
+  ],
+  "rm:published_paper_id": [
+   "52101818",
+   "51774561"
+  ],
+  "rm:presentation_id": [
+   "52101540"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K00510"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101540"
+  }
+ ]
+}

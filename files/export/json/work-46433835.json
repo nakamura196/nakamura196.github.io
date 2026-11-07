@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433835",
+ "@type": "works",
+ "rm:id": "46433835",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-09T10:43:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-05-09T10:43:35Z",
+ "work_title": {
+  "ja": "S×UKILAM LOD Easy アプリ"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "大井将生"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "from_date": "2023-10-11",
+ "to_date": "9999",
+ "see_also": [
+  {
+   "@id": "https://sukilam-educational-metadata.vercel.app/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/15864841",
+ "@type": "published_papers",
+ "rm:id": "15864841",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-04-09T11:30:39Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-07-02T03:28:37Z",
+ "paper_title": {
+  "ja": "IIIFとオープンデータを用いた『捃拾帖』内容検索システムの開発",
+  "en": "Development of Content Search System of \"Kunshujo\" with IIIF and Open Data"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "NAKAMURA Satoru"
+   }
+  ]
+ },
+ "publication_date": "2019-03",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Journal of the Japan Society for Digital Archive"
+ },
+ "volume": "3",
+ "number": "2",
+ "starting_page": "155",
+ "ending_page": "158",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.3.2_155"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.3.2_155",
+   "is_downloadable": false
+  }
+ ]
+}

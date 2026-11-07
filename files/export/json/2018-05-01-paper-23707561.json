@@ -1,0 +1,60 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23707561",
+ "@type": "published_papers",
+ "rm:id": "23707561",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-05-11T00:35:51Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-05-11T00:35:51Z",
+ "paper_title": {
+  "ja": "歴史研究者・アーキビスト・エンジニアの学際的協働に基づくコミュニティ構築Tokyo Digital Historyを事例に"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "小風尚樹"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "清原和之"
+   },
+   {
+    "name": "山王綾乃"
+   },
+   {
+    "name": "纓田宗紀"
+   },
+   {
+    "name": "小林拓実"
+   }
+  ]
+ },
+ "publication_date": "2018-05",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2018-CH-117",
+ "number": "10",
+ "starting_page": "1",
+ "ending_page": "6",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00187426/",
+   "is_downloadable": false
+  }
+ ]
+}

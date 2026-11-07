@@ -1,0 +1,89 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/31503264",
+ "@type": "books_etc",
+ "rm:id": "31503264",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-01-21T14:25:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-01-21T14:25:16Z",
+ "book_title": {
+  "ja": "東大という思想 : 群像としての近代知"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "吉見, 俊哉"
+   },
+   {
+    "name": "森本, 祥子"
+   },
+   {
+    "name": "岡本, 拓司"
+   },
+   {
+    "name": "加藤, 詔士"
+   },
+   {
+    "name": "苅部, 直"
+   },
+   {
+    "name": "佐藤, 健二"
+   },
+   {
+    "name": "武田, 晴人"
+   },
+   {
+    "name": "永井, 良三"
+   },
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "橋本, 毅彦"
+   },
+   {
+    "name": "藤森, 照信"
+   },
+   {
+    "name": "藤原, 毅夫"
+   },
+   {
+    "name": "大和, 裕幸"
+   },
+   {
+    "name": "吉沢, 誠一郎"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "第７章 平賀譲における造船学と粛学のあいだ(大和裕幸・中村覚)"
+ },
+ "publisher": {
+  "ja": "東京大学出版会"
+ },
+ "publication_date": "2020-08",
+ "total_page": "v, 332p",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "cinii_nc_id": [
+   "BC01981335"
+  ],
+  "isbn": [
+   "9784130201599"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BC01981335",
+   "is_downloadable": false
+  }
+ ]
+}

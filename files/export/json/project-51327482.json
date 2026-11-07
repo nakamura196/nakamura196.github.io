@@ -1,0 +1,71 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51327482",
+ "@type": "research_projects",
+ "rm:id": "51327482",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-09-29T11:02:56Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-09-29T11:02:56Z",
+ "research_project_title": {
+  "ja": "戦前・戦中の報道写真を用いたストーリーテリング・デジタルアーカイブのデザイン",
+  "en": "Design of a storytelling digital archive using prewar and wartime news photographs"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "渡邉 英徳"
+   },
+   {
+    "name": "貴志 俊彦"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(B)",
+  "en": "Grant-in-Aid for Scientific Research (B)"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2022-04-01",
+ "to_date": "2025-03-31",
+ "overall_grant_amount": {
+  "total_cost": "12220000",
+  "direct_cost": "9400000",
+  "indirect_cost": "2820000"
+ },
+ "description": {
+  "ja": "社会に“ストック”されていた,戦前・戦中の特派員写真の希少資料を“フロー”化する情報デザイン手法を探求し，ストーリーテリング型のコンテンツを制作した。また，資料のデジタル化と分析を行ない，メタデータを付与してデジタルアーカイブ構築を継続した。加えて，紙面連動や大型端末によるワークショップの実践を通して，多面的な“フロー”の生成を試みた。\n当初の計画に沿って，戦中写真を用いた可視化コンテンツのアップデート・新規開発を，ユーザのフィードバックを反映しつつ実施した。また，戦中写真のデジタルアーカイブ構築・API生成，デジタルデータの作成とDB登録，報道写真の場所・時代の特定と内容分析，関係者へのインタビュー調査を行なった。研究成果の社会実装の取り組みとして，展覧会とワークショップを開催し，マスメディアと連携して研究成果を発信した。さらに当初の計画よりも前倒しで，編著書籍・雑誌論文を発表，口頭発表を実施するとともに，フィールド調査も実施した。\n具体的には，①可視化コンテンツとしてデジタルマップ×2，アバターによる古写真空間の体験システム×1， 写真を活用した紙ベースの平和学習教材，を公開・展示した。②デジタルアーカイブ構築とデータの格納を予定通りに実施し，現時点で18,912件のデータが格納された。加えて③関係者へのインタビュー10件を実施した。さらに，④広島テレビ本社や東京大学における展覧会×3，⑤グッドデザイン・ニューホープ賞を含む受賞×2，⑥NHK，毎日新聞などのマスメディア報道×5の業績を挙げた。これまでの成果を⑦編著書籍・雑誌論文 × 9，口頭発表 ×8，において発表した。加えて，⑧シンガポール・マレーシア・韓国・新潟・群馬・神奈川におけるフィールド調査を実施した。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "23K25139"
+  ],
+  "national_grant_number": [
+   "JP23K25139"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K25139"
+  }
+ ]
+}

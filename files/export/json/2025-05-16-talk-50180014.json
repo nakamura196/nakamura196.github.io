@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/50180014",
+ "@type": "presentations",
+ "rm:id": "50180014",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-05-17T00:54:53Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-13T02:10:22Z",
+ "presentation_title": {
+  "ja": "デジタル・ヒューマニティーズ （DH）の概要と事例紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "KNS 関西ネットワークシステム【関東支部】ミニ井戸端会議Vol.52｢デジタル・ヒューマニティーズを学ぶ会｣（No.1,177）"
+ },
+ "publication_date": "2025-05-16",
+ "from_event_date": "2025-05-16",
+ "to_event_date": "2025-05-16",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "39508593"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

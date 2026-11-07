@@ -1,0 +1,49 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48588819",
+ "@type": "presentations",
+ "rm:id": "48588819",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-12-02T12:05:44Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-12-02T12:05:52Z",
+ "presentation_title": {
+  "ja": "前近代日本史史料を対象とした研究データ管理基盤の整備",
+  "en": "前近代日本史史料を対象とした研究データ管理基盤の整備"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」",
+  "en": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」"
+ },
+ "publication_date": "2024-12-01",
+ "from_event_date": "2024-12-01",
+ "to_event_date": "2024-12-01",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

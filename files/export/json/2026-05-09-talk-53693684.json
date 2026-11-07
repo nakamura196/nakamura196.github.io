@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53693684",
+ "@type": "presentations",
+ "rm:id": "53693684",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-05-19T03:15:07Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-19T03:19:25Z",
+ "presentation_title": {
+  "ja": "TEIデータ構築の実践：入門ワークショップ",
+  "en": "Practice of TEI Data Construction: Introductory Workshop"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタル人文学セミナー第2回（東洋文庫研究データベース会議）",
+  "en": "Digital Humanities Seminar No. 2 (Toyo Bunko Research Database Conference)"
+ },
+ "publication_date": "2026-05-09",
+ "from_event_date": "2026-05-09",
+ "to_event_date": "2026-05-09",
+ "invited": true,
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

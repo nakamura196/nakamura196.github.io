@@ -1,0 +1,50 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/30519871",
+ "@type": "presentations",
+ "rm:id": "30519871",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-10-19T22:14:25Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-10-19T22:14:46Z",
+ "presentation_title": {
+  "ja": "Omeka Sを用いたIIIF対応デジタルアーカイブ構築の実際",
+  "en": "Omeka Sを用いたIIIF対応デジタルアーカイブ構築の実際"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "CMSを利用したデジタルアーカイブの構築",
+  "en": "CMSを利用したデジタルアーカイブの構築"
+ },
+ "publication_date": "2020-09-11",
+ "from_event_date": "2020-09-11",
+ "to_event_date": "2020-09-11",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "@id": "http://www.tulips.tsukuba.ac.jp/lib/ja/information/20200806",
+   "label": "url"
+  }
+ ]
+}

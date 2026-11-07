@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/52101866",
+ "@type": "books_etc",
+ "rm:id": "52101866",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:29:03Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-01-26T09:34:59Z",
+ "book_title": {
+  "ja": "古文書の科学 料紙を複眼的に分析する",
+  "en": "古文書の科学 料紙を複眼的に分析する"
+ },
+ "book_owner_role": "contributor",
+ "authors": {
+  "ja": [
+   {
+    "name": "渋谷綾子"
+   },
+   {
+    "name": "天野真志"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "第4部"
+ },
+ "publisher": {
+  "ja": "文学通信"
+ },
+ "publication_date": "2023-03",
+ "total_page": "240",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "isbn": [
+   "9784867660041"
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323336",
+ "@type": "published_papers",
+ "rm:id": "21323336",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:23:51Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T09:23:51Z",
+ "paper_title": {
+  "ja": "Historical Design Review based on the Digital Archive with the Semantic Web Approach",
+  "en": "Historical Design Review based on the Digital Archive with the Semantic Web Approach"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Hiroyuki Yamato"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Taiga Mitsuyuki"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Hiroyuki Yamato"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Taiga Mitsuyuki"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "publication_date": "2012-06",
+ "publication_name": {
+  "ja": "Proc. of the 11th International Marine Design Conference",
+  "en": "Proc. of the 11th International Marine Design Conference"
+ },
+ "volume": "1",
+ "starting_page": "457",
+ "ending_page": "464",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false
+}

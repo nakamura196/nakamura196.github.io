@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Omeka S Themes",
+  "en": "Omeka S Themes Browser"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2024-01",
+ "to_date": "9999",
+ "description": {
+  "ja": "GitHubで公開されているOmeka SのThemesについて、スター数やサムネイルを一覧表示するツール。",
+  "en": "Tool displaying star counts and thumbnails for Omeka S themes published on GitHub."
+ },
+ "see_also": [
+  {
+   "@id": "https://omeka.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/OmekaS",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

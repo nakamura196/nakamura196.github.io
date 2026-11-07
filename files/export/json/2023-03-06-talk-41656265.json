@@ -1,0 +1,40 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656265",
+ "@type": "presentations",
+ "rm:id": "41656265",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:37:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:37:06Z",
+ "presentation_title": {
+  "ja": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望（ディスカッサント）",
+  "en": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望（ディスカッサント）"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望",
+  "en": "HMCオープンセミナー 「顔」は何を語るのか：顔貌コレクションの活用と展望"
+ },
+ "publication_date": "2023-03-06",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "rm:is_open_access": false
+}

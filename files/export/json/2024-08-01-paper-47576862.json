@@ -1,0 +1,62 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/47576862",
+ "@type": "published_papers",
+ "rm:id": "47576862",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-08-30T07:05:12Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-08-30T07:05:12Z",
+ "paper_title": {
+  "ja": "Connects and structures co-created learning materials and various information with diverse digital cultural heritage for children’s learning",
+  "en": "Connects and structures co-created learning materials and various information with diverse digital cultural heritage for children’s learning"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Masao Oi"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Ikki Ohmukai"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ],
+  "en": [
+   {
+    "name": "Masao Oi"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Ikki Ohmukai"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ]
+ },
+ "publication_date": "2024-08",
+ "publication_name": {
+  "ja": "Digital Humanities 2024",
+  "en": "Digital Humanities 2024"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false
+}

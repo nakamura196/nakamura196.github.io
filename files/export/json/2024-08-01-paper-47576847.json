@@ -1,0 +1,53 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/47576847",
+ "@type": "published_papers",
+ "rm:id": "47576847",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-08-30T07:03:57Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-08-30T07:03:57Z",
+ "paper_title": {
+  "ja": "Development of comparison support tools for historical maps using IIIF",
+  "en": "Development of comparison support tools for historical maps using IIIF"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2024-08",
+ "publication_name": {
+  "ja": "Digital Humanities 2024",
+  "en": "Digital Humanities 2024"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false
+}

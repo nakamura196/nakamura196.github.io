@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486107",
+ "@type": "presentations",
+ "rm:id": "48486107",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T06:12:20Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T06:12:20Z",
+ "presentation_title": {
+  "ja": "デジタルアーカイブ・人文情報学に関する技術紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "第34回書学書道史学会大会"
+ },
+ "publication_date": "2024-10-26",
+ "from_event_date": "2024-10-26",
+ "to_event_date": "2024-10-27",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "invited_oral_presentation",
+ "rm:is_open_access": false
+}

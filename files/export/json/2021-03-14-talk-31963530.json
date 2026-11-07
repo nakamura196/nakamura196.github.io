@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31963530",
+ "@type": "presentations",
+ "rm:id": "31963530",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-03-23T04:04:52Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-03-23T04:04:52Z",
+ "presentation_title": {
+  "ja": "機械は紙を見分けられるのか―紙質観察画像データベースの構築と画像分類における機械学習技術応用の試み―"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "徐小潔"
+   },
+   {
+    "name": "段宇"
+   },
+   {
+    "name": "多々良圭介"
+   }
+  ]
+ },
+ "event": {
+  "ja": "紙のレンズから見た古典籍 -- 高精細デジタルマイクロスコープの世界"
+ },
+ "publication_date": "2021-03-14",
+ "from_event_date": "2021-03-13",
+ "to_event_date": "2021-03-14",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

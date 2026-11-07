@@ -1,0 +1,54 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139245",
+ "@type": "presentations",
+ "rm:id": "18139245",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T06:03:51Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T10:17:09Z",
+ "presentation_title": {
+  "ja": "平賀譲文書 ― デジタルアーカイブを利用した歴史学の研究手法とそれを支える情報技術"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "大和裕幸, 中村覚"
+ },
+ "event": {
+  "ja": "東京大学柏図書館第16回サイエンスカフェ"
+ },
+ "publication_date": "2018-01-19",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "promoter": {
+  "ja": "東京大学柏図書館"
+ },
+ "location": {
+  "ja": "東京大学柏図書館"
+ },
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/kashiwa/news/20180105"
+  }
+ ]
+}

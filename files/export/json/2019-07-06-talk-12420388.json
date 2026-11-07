@@ -1,0 +1,48 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420388",
+ "@type": "presentations",
+ "rm:id": "12420388",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-07T07:56:19Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-07T07:56:19Z",
+ "presentation_title": {
+  "ja": "DH支援システムを用いたボスニアのカトリック修道院所蔵のオスマン・ トルコ語文書群のデータ整理"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "佐治奈通子"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "佐治奈通子, 中村覚"
+ },
+ "event": {
+  "ja": "2019年度 海外学術調査フェスタ"
+ },
+ "publication_date": "2019-07-06",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_symposium",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://www.aa.tufs.ac.jp/~gisr/forum/2019/festa.html"
+  }
+ ]
+}

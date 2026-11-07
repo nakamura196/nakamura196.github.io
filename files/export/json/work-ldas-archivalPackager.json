@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Archival Packager",
+  "en": "Archival Packager — Desktop App"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-09",
+ "to_date": "9999",
+ "description": {
+  "ja": "デジタル資料から、OAIS の情報パッケージ（SIP / AIP）を作るアプリ。ファイル形式の識別、ウイルス検査、チェックサム、METS/PREMIS、BagIt までをコマンドなしで行う。macOS・Windows 対応。",
+  "en": "Create OAIS information packages (SIP / AIP) from digital materials without the command line: file format identification, virus scan, checksums, METS/PREMIS and BagIt. For macOS and Windows."
+ },
+ "see_also": [
+  {
+   "@id": "https://ap.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/archival-packager",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

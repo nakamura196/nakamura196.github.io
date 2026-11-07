@@ -1,0 +1,78 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46118830",
+ "@type": "published_papers",
+ "rm:id": "46118830",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2024-04-11T04:03:56Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-23T21:17:20Z",
+ "paper_title": {
+  "ja": "Unicode翻字テキストデータにおける安定な字形データ交換の試み",
+  "en": "An Attempt at Stable Character Shape Data Exchange in Unicode Transcribed Text Data"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "LIU Guanwei"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "山田太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "LIU Guanwei"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "山田太造"
+   }
+  ]
+ },
+ "publication_date": "2024",
+ "publication_name": {
+  "ja": "情報処理学会論文誌ジャーナル(Web)",
+  "en": "情報処理学会論文誌ジャーナル(Web)"
+ },
+ "volume": "65",
+ "number": "2",
+ "starting_page": "331",
+ "ending_page": "339",
+ "referee": true,
+ "is_international_journal": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.20729/00232297"
+  ],
+  "issn": [
+   "1882-7764"
+  ],
+  "j_global_id": [
+   "202402249346917710"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.20729/00232297",
+   "is_downloadable": false
+  },
+  {
+   "label": "j_global",
+   "@id": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402249346917710",
+   "is_downloadable": false
+  }
+ ]
+}

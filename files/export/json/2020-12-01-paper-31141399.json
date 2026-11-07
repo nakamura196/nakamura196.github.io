@@ -1,0 +1,97 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31141399",
+ "@type": "published_papers",
+ "rm:id": "31141399",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-12-08T06:19:29Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2021-10-26T07:09:29Z",
+ "paper_title": {
+  "ja": "TEIを用いた『渋沢栄一伝記資料』テキストデータの再構築",
+  "en": "Reconstructing Text Data of the Shibusawa Eiichi Denki Shiryo Using TEI"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Naoki Kokaze"
+   },
+   {
+    "name": "Yuta Hashimoto"
+   },
+   {
+    "name": "Sayaka Inoue"
+   },
+   {
+    "name": "Toru Shigehara"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ],
+  "ja": [
+   {
+    "name": "金 甫榮"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "小風 尚樹"
+   },
+   {
+    "name": "橋本 雄太"
+   },
+   {
+    "name": "井上 さやか"
+   },
+   {
+    "name": "茂原 暢"
+   },
+   {
+    "name": "永崎 研宣"
+   }
+  ]
+ },
+ "publication_date": "2020-12",
+ "publication_name": {
+  "ja": "じんもんこん2020論文集"
+ },
+ "volume": "2020",
+ "number": "2020",
+ "starting_page": "47",
+ "ending_page": "52",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_na_id": [
+   "170000183911"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/170000183911",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://id.nii.ac.jp/1001/00208574/",
+   "is_downloadable": false,
+   "label": "url"
+  }
+ ]
+}

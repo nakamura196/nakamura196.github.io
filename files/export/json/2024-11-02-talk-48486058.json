@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486058",
+ "@type": "presentations",
+ "rm:id": "48486058",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T06:05:03Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T06:05:03Z",
+ "presentation_title": {
+  "ja": "DAテック話題提供"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタルアーカイブ学会 第9回研究大会"
+ },
+ "publication_date": "2024-11-02",
+ "from_event_date": "2024-11-01",
+ "to_event_date": "2024-11-02",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "invited_oral_presentation",
+ "rm:is_open_access": false
+}

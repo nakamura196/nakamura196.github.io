@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "IIIF Annotator",
+  "en": "IIIF Annotator"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-04",
+ "to_date": "9999",
+ "description": {
+  "ja": "Annotorious v3を用いてIIIF画像にアノテーションを付与するツール。Firebase連携でデータを永続化。",
+  "en": "Tool for annotating IIIF images using Annotorious v3. Data persisted via Firebase."
+ },
+ "see_also": [
+  {
+   "@id": "https://anno.ldas.jp",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/iiif-annotator",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "IIIF Georeference Viewer",
+  "en": "IIIF Georeference Viewer"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-08",
+ "to_date": "9999",
+ "description": {
+  "ja": "IIIF Georeference Extensionに対応したビューア。IIIFマニフェストに記述されたジオリファレンス情報を地図上に可視化。",
+  "en": "Viewer supporting the IIIF Georeference Extension. Visualizes georeferencing data from IIIF manifests on a map."
+ },
+ "see_also": [
+  {
+   "@id": "https://geo.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/iiif_geo",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

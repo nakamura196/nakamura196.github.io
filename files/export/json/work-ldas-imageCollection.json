@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "画像コレクション管理ツール",
+  "en": "Image Collection Manager"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-08",
+ "to_date": "9999",
+ "description": {
+  "ja": "画像をまとめて整理・公開・共有できるサービス。国際規格IIIF対応で、AWS上でスケーラブルに運用。",
+  "en": "Service for organizing, publishing, and sharing image collections. IIIF-compliant, scalably operated on AWS."
+ },
+ "see_also": [
+  {
+   "@id": "https://pocket.webcatplus.jp",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

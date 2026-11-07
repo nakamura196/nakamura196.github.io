@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139259",
+ "@type": "presentations",
+ "rm:id": "18139259",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T06:29:29Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T10:16:33Z",
+ "presentation_title": {
+  "ja": "flickrにもう一工夫でできること"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "アジアンライブラリーカフェno.002 古典籍 on flickr!～漢籍･法帖を写真サイトでオープンしてみると～"
+ },
+ "publication_date": "2017-10-20",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "promoter": {
+  "ja": "東京大学附属図書館アジア研究図書館上廣倫理財団寄付研究部門"
+ },
+ "location": {
+  "ja": "東京大学伊藤国際学術研究センター"
+ },
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://u-parl.lib.u-tokyo.ac.jp/archives/japanese/asianlibrarycafe2"
+  }
+ ]
+}

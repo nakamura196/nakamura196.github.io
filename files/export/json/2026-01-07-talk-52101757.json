@@ -1,0 +1,46 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101757",
+ "@type": "presentations",
+ "rm:id": "52101757",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:07:09Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-19T09:50:07Z",
+ "presentation_title": {
+  "ja": "デジタルキュレーションの実践と展開",
+  "en": "デジタルキュレーションの実践と展開"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "人文情報学の諸相（東京大学大学院横断型教育プログラム）"
+ },
+ "publication_date": "2026-01-07",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "invited_oral_presentation",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "51361068"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

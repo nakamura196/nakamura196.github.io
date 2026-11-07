@@ -1,0 +1,37 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/48943687",
+ "@type": "awards",
+ "rm:id": "48943687",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-01-16T08:33:45Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-01-16T08:33:45Z",
+ "award_name": {
+  "ja": "ベストポスター賞"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "小風綾乃"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "山田太造"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "TEIによる編纂史料の構造化ー『大日本史料』を例に"
+ },
+ "association": {
+  "ja": "人文科学とコンピュータシンポジウム「じんもんこん2024」"
+ },
+ "award_date": "2024-12"
+}

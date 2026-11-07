@@ -1,0 +1,88 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323313",
+ "@type": "published_papers",
+ "rm:id": "21323313",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T04:57:05Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T09:15:23Z",
+ "paper_title": {
+  "ja": "Linked Dataを用いた歴史研究者の史料管理と活用を支援するシステムの開発",
+  "en": "Development of System to support Management and Utilization of Research Data for Historical Researchers with Linked Data"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "満行泰河"
+   },
+   {
+    "name": "鈴木淳"
+   },
+   {
+    "name": "吉田ますみ"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Hiroyuki Yamato"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Taiga Mitsuyuki"
+   },
+   {
+    "name": "Jun Suzuki"
+   },
+   {
+    "name": "Masumi Yoshida"
+   }
+  ]
+ },
+ "publication_date": "2018-02",
+ "publication_name": {
+  "ja": "情報処理学会論文誌",
+  "en": "IPSJ Journal"
+ },
+ "volume": "59",
+ "number": "2",
+ "starting_page": "267",
+ "ending_page": "277",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "1882-7764"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00185736/",
+   "is_downloadable": false
+  }
+ ]
+}

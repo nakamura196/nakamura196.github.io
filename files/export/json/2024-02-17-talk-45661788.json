@@ -1,0 +1,50 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45661788",
+ "@type": "presentations",
+ "rm:id": "45661788",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-02-26T09:13:12Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-02-26T09:13:12Z",
+ "presentation_title": {
+  "ja": "「日本のデジタル文学地図」の概要"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "黄夢鴿"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "教育ツールとしての日本デジタル文学地図"
+ },
+ "publication_date": "2024-02-17",
+ "from_event_date": "2024-02-17",
+ "to_event_date": "2024-02-17",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "39508596"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508596",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

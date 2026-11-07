@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509565",
+ "@type": "published_papers",
+ "rm:id": "23509565",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:40:00Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T11:17:34Z",
+ "paper_title": {
+  "ja": "ソフトウェア要求仕様書分析と対応する既存仕様回答パラグラフ自動抽出システムの開発"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "岡田伊策"
+   },
+   {
+    "name": "齋藤稔"
+   },
+   {
+    "name": "笈田佳彰"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "publication_date": "2015-11",
+ "number": "SIG-KST-026-01",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://hdl.handle.net/2261/59073",
+   "is_downloadable": false
+  }
+ ]
+}

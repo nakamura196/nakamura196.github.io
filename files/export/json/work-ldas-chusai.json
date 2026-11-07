@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "抽斎年譜 TEI ビジュアライザ",
+  "en": "Chūsai Nenpu TEI Visualizer"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-06",
+ "to_date": "9999",
+ "description": {
+  "ja": "森鷗外『渋江抽斎』の素材となった『抽斎年譜』の TEI/XML（若手図書館員DH勉強会・CC BY 4.0）を二次利用し、人物ネットワーク・登場タイムライン・年譜と『渋江抽斎』の対照を可視化。",
+  "en": "A reuse of the Chūsai Nenpu TEI/XML (CC BY 4.0) behind Mori Ōgai's \"Shibue Chūsai\": a person co-occurrence network, an appearance timeline, and a parallel reading of the chronology against the novel."
+ },
+ "see_also": [
+  {
+   "@id": "https://chusai.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

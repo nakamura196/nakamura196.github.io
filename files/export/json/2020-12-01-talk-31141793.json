@@ -1,0 +1,30 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31141793",
+ "@type": "presentations",
+ "rm:id": "31141793",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-12-08T07:03:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-12-08T07:03:16Z",
+ "presentation_title": {
+  "ja": "源氏物語本文研究支援システム「デジタル源氏物語」の開発におけるIIIFとTEIの活用"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "U-PARL [協働型アジア研究オンラインセミナー]IIIFに準拠した画像公開の方法とTEIとの連携"
+ },
+ "publication_date": "2020-12-01",
+ "invited": true,
+ "rm:is_open_access": false
+}

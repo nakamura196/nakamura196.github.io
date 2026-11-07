@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/39756308",
+ "@type": "presentations",
+ "rm:id": "39756308",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-08-27T07:24:07Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-08-27T07:24:07Z",
+ "presentation_title": {
+  "ja": "源氏物语文本研究支援系统 《数字版源氏物语》的开发",
+  "en": "源氏物语文本研究支援系统 《数字版源氏物语》的开发"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "第21回中国古典小説・戯曲文献及びそのデジタル化国際学会",
+  "en": "第21届中国古典小说戏曲文献暨数字化国际研讨会"
+ },
+ "publication_date": "2022-08-29",
+ "from_event_date": "2022-08-29",
+ "to_event_date": "2022-08-29",
+ "invited": true,
+ "languages": [
+  "zho"
+ ],
+ "presentation_type": "keynote_oral_presentation",
+ "rm:is_open_access": false
+}

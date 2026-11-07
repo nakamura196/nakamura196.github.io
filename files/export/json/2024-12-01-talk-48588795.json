@@ -1,0 +1,76 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48588795",
+ "@type": "presentations",
+ "rm:id": "48588795",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-12-02T12:02:39Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-12-02T12:02:39Z",
+ "presentation_title": {
+  "ja": "研究・教育ツールとしての日本デジタル文学地図",
+  "en": "研究・教育ツールとしての日本デジタル文学地図"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "飯倉 洋一"
+   },
+   {
+    "name": "アロカイ"
+   },
+   {
+    "name": "ユディット"
+   },
+   {
+    "name": "中尾 薫"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "黄 夢鴿"
+   },
+   {
+    "name": "樋口 純子"
+   }
+  ],
+  "en": [
+   {
+    "name": "飯倉 洋一"
+   },
+   {
+    "name": "アロカイユディット"
+   },
+   {
+    "name": "中尾 薫"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "黄 夢鴿"
+   },
+   {
+    "name": "樋口 純子"
+   }
+  ]
+ },
+ "event": {
+  "ja": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」",
+  "en": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」"
+ },
+ "publication_date": "2024-12-01",
+ "from_event_date": "2024-12-01",
+ "to_event_date": "2024-12-01",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

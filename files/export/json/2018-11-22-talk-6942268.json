@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/6942268",
+ "@type": "presentations",
+ "rm:id": "6942268",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-01-25T01:29:28Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-01-25T01:29:28Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業の進捗状況"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "第2回東京大学学術資産アーカイブ化推進室主催セミナー"
+ },
+ "publication_date": "2018-11-22",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://hdl.handle.net/2261/00076473"
+  }
+ ]
+}

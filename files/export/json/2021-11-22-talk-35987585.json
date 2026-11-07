@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/35987585",
+ "@type": "presentations",
+ "rm:id": "35987585",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-12-05T00:31:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-12-05T00:31:16Z",
+ "presentation_title": {
+  "ja": "ジャパンサーチのAPIを用いたオープンデータの活用事例の紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "研究データ利活用協議会（RDUF）公開シンポジウム"
+ },
+ "publication_date": "2021-11-22",
+ "from_event_date": "2021-11-22",
+ "to_event_date": "2021-11-22",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_symposium",
+ "rm:is_open_access": false
+}

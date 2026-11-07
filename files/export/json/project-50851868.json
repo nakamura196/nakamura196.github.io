@@ -1,0 +1,84 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50851868",
+ "@type": "research_projects",
+ "rm:id": "50851868",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-08-18 08:16:44",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-08-14T06:10:57Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-08-14T06:10:57Z",
+ "research_project_title": {
+  "ja": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開",
+  "en": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature."
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "飯倉 洋一"
+   },
+   {
+    "name": "中尾 薫"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(B)",
+  "en": "Grant-in-Aid for Scientific Research (B)"
+ },
+ "institution_name": {
+  "ja": "大阪大学",
+  "en": "Osaka University"
+ },
+ "from_date": "2021-04-01",
+ "to_date": "2026-03-31",
+ "overall_grant_amount": {
+  "total_cost": "12870000",
+  "direct_cost": "9900000",
+  "indirect_cost": "2970000"
+ },
+ "description": {
+  "ja": "〇デジタル文学地図のウェブサイト（https://literarymaps.nijl.ac.jp/）について、新規データの入力、入力内容のチェックをした。新規データは主として謡曲の用例である。今年度増加した名所の項目の地理的・歴史的概要を記した。英訳は、名所の地理歴史の概要およびテキストの英訳を進めている。またシステムについても改善を進めている。\n〇代表者・研究分担者・海外共同研究者・ＲＡが、デジタル文学地図開発過程での学際的議論をベースとし2023年８月ペルギーのゲントで行われたＥＡＪＳで「前近代日本文学における〈名所〉の喚起力」と題したパネル発表を行うなど、積極的に研究成果の発信を行った。\n〇定例の打ち合わせを年10回開催し、作業状況をその都度確認し、システムの改善に関する議論とデータ入力方針の策定を行った。\n〇2024年2月17日（土）、大阪大学において、国際研究集会「教育ツールとしての日本デジタル文学地図」を開催した。ユディット・アロカイ（海外共同研究員）が「デジタル文学地図プロジェクトの沿革」を、黄 夢鴿（ＲＡ）・中村覚（研究分担者）が「「日本のデジタル文学地図」の概要」を、中尾薫（研究分担者）が「日本のデジタル文学地図の活用 ―ハイデルベルク大学・大阪大学の合同授業報告― 」を発表した。ゲストに招いた加藤直志が「デジタル文学地図を高２「文学国語」で使ってみた」を、岡部誠が「デジタル文学地図の教育への利活用―歌枕〈白山〉を例に―」を、加藤十握 は「デジタル文学地図活用の可能性について考える」を、横山恵理が「デジタル文学地図を活用した情報科学部生むけ授業実践報告」を発表した。\n〇昨年度に引き続き、デジタル文学地図を活用した国際的日本古典文学教育の実践として、大阪大学とハイデルベルク大学の間でオンラインによる共同授業を行った（１セメスター15回）。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "23K20445"
+  ],
+  "national_grant_number": [
+   "JP23K20445"
+  ],
+  "rm:published_paper_id": [
+   "52107631",
+   "52101821"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K20445"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821"
+  }
+ ]
+}

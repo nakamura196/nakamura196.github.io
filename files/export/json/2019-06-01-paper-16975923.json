@@ -1,0 +1,48 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/16975923",
+ "@type": "published_papers",
+ "rm:id": "16975923",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-07-02T03:32:14Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-07-02T03:32:14Z",
+ "paper_title": {
+  "ja": "Development of Content Retrieval System of Scrapbook “Kunshujo” using IIIF and Deep Learning",
+  "en": "Development of Content Retrieval System of Scrapbook “Kunshujo” using IIIF and Deep Learning"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "NAKAMURA Satoru"
+   }
+  ],
+  "en": [
+   {
+    "name": "NAKAMURA Satoru"
+   }
+  ]
+ },
+ "publication_date": "2019-06",
+ "publication_name": {
+  "ja": "2019 IIIF Conference",
+  "en": "2019 IIIF Conference"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "https://iiif.io/event/2019/goettingen/program/38/",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46018550",
+ "@type": "presentations",
+ "rm:id": "46018550",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-04-03T08:26:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-13T02:09:03Z",
+ "presentation_title": {
+  "ja": "戦中写真とデジタルヒューマニティーズ"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "ミライ世代と読む戦中写真～データを紡いで平和につなぐ～"
+ },
+ "publication_date": "2024-03-31",
+ "from_event_date": "2024-03-31",
+ "to_event_date": "2024-03-31",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "39508593"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

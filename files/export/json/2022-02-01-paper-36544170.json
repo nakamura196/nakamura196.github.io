@@ -1,0 +1,78 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36544170",
+ "@type": "published_papers",
+ "rm:id": "36544170",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-03-22T01:09:06Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2023-06-30T03:55:56Z",
+ "paper_title": {
+  "ja": "デジタル源氏物語（AI画像検索版）：くずし字OCRと編集距離を用いた写本・版本の比較支援システムの開発",
+  "en": "Digital Tale of Genji（Finding Digital Facsimiles Including Parallel Texts with AI）: Development of a Comparison Support System for Manuscripts and Printed Books Using Kuzushiji OCR and Editing Distance"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Takashi Tamura"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ],
+  "ja": [
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "田村 隆"
+   },
+   {
+    "name": "永崎 研宣"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2022-02",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2022-CH-128",
+ "number": "13",
+ "starting_page": "1",
+ "ending_page": "8",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_cr_id": [
+   "1010294643574439688"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1010294643574439688?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20KK0006/",
+   "is_downloadable": false
+  }
+ ]
+}

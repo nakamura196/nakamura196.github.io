@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "KotenOCR",
+  "en": "Classical Japanese OCR — iOS App"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "国立国会図書館のAIモデルを活用した、完全オフラインの古典籍・近代活字OCRアプリ。くずし字や活字をスマホで読む。",
+  "en": "Fully offline OCR app for classical and modern Japanese texts, powered by NDL AI models. Read kuzushiji and printed text on your smartphone."
+ },
+ "see_also": [
+  {
+   "@id": "https://kotenocr.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/koten-ocr-ios",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

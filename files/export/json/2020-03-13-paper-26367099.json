@@ -1,0 +1,72 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/26367099",
+ "@type": "published_papers",
+ "rm:id": "26367099",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-04-13T03:02:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-07-13T04:41:52Z",
+ "paper_title": {
+  "ja": "デジタル文化資料活用システムの設計手法 ―法帖研究支援の事例―",
+  "en": "Design Method for Digitalized Cultural Material Utilization System"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "水野遊大"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "成田健太郎"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yuta Mizuno"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Kentaro Narita"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2020-03-13",
+ "publication_name": {
+  "ja": "人工知能学会研究会資料"
+ },
+ "volume": "SIG-KST-039-02",
+ "starting_page": "1",
+ "ending_page": "6",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": true,
+ "see_also": [
+  {
+   "@id": "https://www.sigkst.org/data/default/C2E83339B2F3B8A6B5E6B2F1/SIG-KST-039-02.pdf",
+   "label": "url",
+   "is_downloadable": true
+  }
+ ]
+}

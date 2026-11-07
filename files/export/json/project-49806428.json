@@ -1,0 +1,81 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/49806428",
+ "@type": "research_projects",
+ "rm:id": "49806428",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-10-20 10:48:14",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-04-11T09:00:59Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-04-11T09:00:59Z",
+ "research_project_title": {
+  "ja": "人文学の研究方法論に基づく日本の歴史的テキストのためのデータ構造化手法の開発",
+  "en": "Develpment of a Method of Text Encoding for Japanese Historical Texts Accoding to Methdological Commons"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "永崎 研宣"
+   },
+   {
+    "name": "間淵 洋子"
+   },
+   {
+    "name": "岡田 一祐"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "後藤 真"
+   },
+   {
+    "name": "王 一凡"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(B)",
+  "en": "Grant-in-Aid for Scientific Research (B)"
+ },
+ "institution_name": {
+  "ja": "一般財団法人人文情報学研究所",
+  "en": "International Institute for Digital Humanities"
+ },
+ "from_date": "2023-04-01",
+ "to_date": "2026-03-31",
+ "overall_grant_amount": {
+  "total_cost": "18720000",
+  "direct_cost": "14400000",
+  "indirect_cost": "4320000"
+ },
+ "description": {
+  "ja": "2023年度の本研究の実績としては、TEI協会東アジア／日本分科会の定例研究会をオンラインで共催し、ほぼ毎週、49回にわたり、東アジア／日本に関するテキスト構造化に関する議論と実践を行った。\n定例研究会においては、TEI (Text Encoding Initiative)ガイドライン及びODDの日本語訳、方言談話資料の協働マークアップが主なテーマとなるとともに、オンライン開催のため国内外各地でテキスト構造化に取り組む研究者・実践者が集い、テキスト構造化に関する活発な議論が展開された。\nこの活動をベースとしつつ、日本の歴史的テキストの構造化に関する取り組みが進められた。以下に、テキストのタイプ毎にみてみよう。 和歌に関しては、近代短歌、歌合及び虫歌合に関する取り組みに協力する形でテキスト構造化のルールが検討され、それを踏まえた統合ビューワ及び個別対応のビューワの双方の開発が進められた。この成果はTEI国際会議、じんもんこんシンポジウム等で発表された。 近代文学の草稿に関しては、テキスト構造化に関する議論と個別対応の専用ビューワの開発が行われ、これもドイツ・パーダーボルンで開催されたTEI国際会議で発表された。 古辞書に関しては、歴史的辞書の構造化ガイドラインであるTEI-lex0のプロジェクトを率いるToma Tasovacを招聘してワークショップを開催し、議論を深めた。 また、歴史史料全般に関して、RDFとテキスト構造化との関係について検討するとともにこれもTEI国際会議で発表した。 仏典に関するテキスト構造化も議論し、情報処理学会人文科学とコンピュータ研究会や日本印度学仏教学会で共同発表を行った。\n以上の構造化実践を踏まえ、本年1月に汎用のTEI古典籍ビューワをWeb公開し、誰もが気軽にテキスト構造化に取り組める環境を提供した。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "23K28385"
+  ],
+  "national_grant_number": [
+   "JP23K28385"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K28385"
+  }
+ ]
+}

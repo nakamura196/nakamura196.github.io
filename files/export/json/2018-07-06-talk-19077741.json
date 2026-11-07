@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19077741",
+ "@type": "presentations",
+ "rm:id": "19077741",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-09T13:34:01Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-07-09T13:34:01Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業について"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "国際シンポジウム：デジタル時代における人文学の学術基盤をめぐって"
+ },
+ "publication_date": "2018-07-06",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

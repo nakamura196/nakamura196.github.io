@@ -1,0 +1,70 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46364342",
+ "@type": "published_papers",
+ "rm:id": "46364342",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-02T06:32:53Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-13T02:09:47Z",
+ "paper_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業における学術資産の公開と活用",
+  "en": "Publication and Utilization of Academic Assets in the UTokyo Digital Archives Project"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2024-05",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Dejitaru Akaibu Gakkaishi"
+ },
+ "volume": "8",
+ "number": "2",
+ "starting_page": "80",
+ "ending_page": "83",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "published_paper_type": "scientific_journal",
+ "is_international_journal": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.8.2_80"
+  ],
+  "rm:research_project_id": [
+   "39508593"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.8.2_80",
+   "is_downloadable": true
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "疫病年表データベース",
+  "en": "Epidemic Chronology Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-02",
+ "to_date": "9999",
+ "description": {
+  "ja": "19世紀末〜20世紀初の中国の感染症流行に関するデータベース。Medical Reports（海関医報）の疫病年表データを地図上で閲覧できる。",
+  "en": "Infectious disease outbreaks in late 19th- and early 20th-century China, from the epidemic chronology in the Medical Reports of the Chinese Maritime Customs, viewable on a map."
+ },
+ "see_also": [
+  {
+   "@id": "https://toyobunko-lab.jp/app/epidemic/ja/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://toyobunko-lab.jp/app/epidemic/en/",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

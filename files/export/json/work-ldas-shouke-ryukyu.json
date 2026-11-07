@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "沖縄美ら島財団所蔵「琉球国之図」デジタルアーカイブ",
+  "en": "Shouke Ryukyu Map Digital Archive"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "沖縄美ら島財団所蔵「琉球国之図」の画像をWeb上で公開し、絵図に描き込まれた情報を分析するためのデジタルアーカイブ。",
+  "en": "Digital archive of the Ryukyu Map held by the Okinawa Churashima Foundation. Web publication and analysis of inscribed information."
+ },
+ "see_also": [
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/shouke/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

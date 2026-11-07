@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480",
+ "@type": "works",
+ "rm:id": "36900480",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-05-06T02:44:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-19T06:35:36Z",
+ "work_title": {
+  "ja": "デジタル延喜式"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "国立歴史民俗博物館"
+   }
+  ]
+ },
+ "from_date": "2022-04-20",
+ "to_date": "9999",
+ "identifiers": {
+  "rm:research_project_id": [
+   "32708239",
+   "13226485",
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://khirin-t.rekihaku.ac.jp/engishiki/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

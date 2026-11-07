@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/22918851",
+ "@type": "published_papers",
+ "rm:id": "22918851",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-31T01:22:05Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-31T01:24:04Z",
+ "paper_title": {
+  "ja": "Approach to develop Digital Collection for Small Organization considering Sustainability and Reusability with IIIF and Static File",
+  "en": "Approach to develop Digital Collection for Small Organization considering Sustainability and Reusability with IIIF and Static File"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "publication_date": "2019-08",
+ "publication_name": {
+  "ja": "The 9th International Conference of Japanese Association for Digital Humanities",
+  "en": "The 9th International Conference of Japanese Association for Digital Humanities"
+ },
+ "starting_page": "76",
+ "ending_page": "78",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false
+}

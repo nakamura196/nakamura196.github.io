@@ -1,0 +1,85 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23968610",
+ "@type": "misc",
+ "rm:id": "23968610",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-08-23T07:45:00Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2020-08-25T00:10:24Z",
+ "paper_title": {
+  "ja": "対話の場としてのデジタルアーカイブ : 歴史研究者のためのデータ・リテラシーとウェブデザイン (歴史家とアーキビストの対話(第4回))",
+  "en": "Digital Archives as a Locus of Dialogue : Data Literacy and Web Design for Historians"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "小風 尚樹"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "金 甫榮"
+   },
+   {
+    "name": "清原 和之"
+   },
+   {
+    "name": "福田 真人"
+   },
+   {
+    "name": "田中 聡"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "績文堂出版"
+ },
+ "publication_date": "2018-09",
+ "publication_name": {
+  "ja": "歴史学研究 = Journal of historical studies",
+  "en": "Journal of historical studies"
+ },
+ "number": "974",
+ "starting_page": "31",
+ "ending_page": "38",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "0386-9237"
+  ],
+  "cinii_na_id": [
+   "40021636756"
+  ],
+  "cinii_nc_id": [
+   "AN00299161"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/40021636756",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/AN00299161",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.ndl.go.jp/bib/029167484",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/45711827",
+ "@type": "published_papers",
+ "rm:id": "45711827",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-03-03T20:56:08Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-14T23:53:14Z",
+ "paper_title": {
+  "ja": "Implementation of data-driven historical informatics research on Kao (Stylized Signature).",
+  "en": "Implementation of data-driven historical informatics research on Kao (Stylized Signature)."
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Hajime Miyazaki"
+   },
+   {
+    "name": "Satoshi Inoue"
+   },
+   {
+    "name": "Wataru Ohyama"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Hajime Miyazaki"
+   },
+   {
+    "name": "Satoshi Inoue"
+   },
+   {
+    "name": "Wataru Ohyama"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2023-07",
+ "publication_name": {
+  "ja": "Digital Humanities 2023",
+  "en": "Digital Humanities 2023"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.5281/zenodo.8107647"
+  ],
+  "dblp_id": [
+   "conf/dihu/NakamuraLMIOY23"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.5281/zenodo.8107647",
+   "is_downloadable": true
+  },
+  {
+   "label": "DBLP",
+   "@id": "https://dblp.org/rec/conf/dihu/NakamuraLMIOY23",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://dblp.uni-trier.de/rec/conf/dihu/2023",
+   "label": "url",
+   "is_downloadable": true
+  },
+  {
+   "@id": "https://dblp.uni-trier.de/db/conf/dihu/dh2023.html#NakamuraLMIOY23",
+   "label": "url",
+   "is_downloadable": true
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/46773493",
+ "@type": "books_etc",
+ "rm:id": "46773493",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-06-13T02:06:43Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-06-13T02:06:43Z",
+ "book_title": {
+  "ja": "デジタルアーカイブの理論と実践 : デジタルアーキビスト入門"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "日本デジタルアーキビスト資格認定機構"
+   },
+   {
+    "name": "井上, 透"
+   },
+   {
+    "name": "大井, 将生"
+   },
+   {
+    "name": "細川, 季穂"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "樹村房"
+ },
+ "publication_date": "2023-04",
+ "total_page": "108p",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "cinii_nc_id": [
+   "BD0179071X"
+  ],
+  "isbn": [
+   "9784883673797"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BD0179071X",
+   "is_downloadable": false
+  }
+ ]
+}

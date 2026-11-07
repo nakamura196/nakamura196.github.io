@@ -1,0 +1,115 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+ "@type": "research_projects",
+ "rm:id": "32708239",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-03-19 06:35:36",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-06-07T01:42:43Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T10:05:32Z",
+ "research_project_title": {
+  "ja": "持続性と利活用性を考慮したデジタルアーカイブシステム構築手法の開発",
+  "en": "Development of a Method for Constructing Digital Archive Systems Considering Sustainability and Utilization"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 若手研究",
+  "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists"
+ },
+ "category": {
+  "ja": "若手研究",
+  "en": "Grant-in-Aid for Early-Career Scientists"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2021-04-01",
+ "to_date": "2024-03-31",
+ "overall_grant_amount": {
+  "total_cost": "3380000",
+  "direct_cost": "2600000",
+  "indirect_cost": "780000"
+ },
+ "description": {
+  "ja": "今年度は静的サイトとしてデジタルアーカイブシステムを構築する手法を検討し、基盤となるシステム開発を行なった。具体的には、オープンソースWebアプリケーションフレームワークであるNuxt.jsを用いたシステム開発を行なった。CSVファイルの形式で用意した画像やメタデータに関する情報を読み込み、静的なウェブサイトを自動的に構築する。\n<BR>\nまた上記システムを用いて、以下に示すデジタルアーカイブシステムを構築した。いずれも静的サイトとして構築し、GitHubなどのホスティングサービス上で公開している。\n渋沢栄一記念財団「渋沢栄一ダイアリー」／東洋文庫「『大正新脩大蔵経』底本・校本データベース」「酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース」「東洋文庫水経注図データベース」／東京大学史料編纂所「正保琉球国絵図デジタルアーカイブ」「倭寇図巻デジタルアーカイブ」／国立歴史民俗博物館「デジタル延喜式」\n<BR>\n上記において、特に「正保琉球国絵図デジタルアーカイブ」「倭寇図巻デジタルアーカイブ」については、IIIFを用いた画像公開についても静的サイトで実現している。具体的には、IIIF Image API Level 0を採用し、事前にタイル画像を生成しておくことで、サーバレスなIIIF対応を行なっている。また、人間のためのユーザインタフェースに加えて、機械処理に適したデータセットを提供することで、計算機による二次利用も支援する。具体的な活用事例として、Google Dataset Searchとの連携を実現している。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "21K18014"
+  ],
+  "national_grant_number": [
+   "JP21K18014"
+  ],
+  "rm:presentation_id": [
+   "39996013"
+  ],
+  "rm:work_id": [
+   "36900480",
+   "36900489",
+   "36900486",
+   "36900498",
+   "36900746",
+   "36900545",
+   "36900554",
+   "36900540"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K18014"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/39996013"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900489"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900486"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900498"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900746"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900545"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900554"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900540"
+  }
+ ]
+}

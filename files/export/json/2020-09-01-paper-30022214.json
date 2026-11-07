@@ -1,0 +1,55 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/30022214",
+ "@type": "published_papers",
+ "rm:id": "30022214",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-09-10T02:35:30Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-07-13T04:40:25Z",
+ "paper_title": {
+  "ja": "源氏物語本文研究支援システム「デジタル源氏物語」の開発におけるIIIF・TEIの活用"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "田村隆"
+   },
+   {
+    "name": "永崎研宣"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2020-09",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2020-CH-124",
+ "number": "2",
+ "starting_page": "1",
+ "ending_page": "7",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "http://id.nii.ac.jp/1001/00206588/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

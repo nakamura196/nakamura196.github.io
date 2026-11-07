@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "東京大学学術資産等アーカイブズポータル・ポスター検索",
+  "en": "UTokyo Digital Archive Portal: Poster Search"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2019-08",
+ "to_date": "9999",
+ "description": {
+  "ja": "東京大学デジタルアーカイブポータルで公開されているポスターを、画像の一覧で眺めて探せるようにしたサイト。",
+  "en": "A gallery for browsing the posters published in the UTokyo Digital Archive Portal by their images."
+ },
+ "see_also": [
+  {
+   "@id": "https://portal-pro.dl.itc.u-tokyo.ac.jp/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

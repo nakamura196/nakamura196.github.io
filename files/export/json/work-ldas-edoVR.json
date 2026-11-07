@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "IIIF VR ビューア",
+  "en": "IIIF VR Viewer — WebXR"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "IIIF対応画像を原寸大で体験できるWebXRビューア。和室空間に画像を実寸配置し、VRヘッドセットやブラウザ上で閲覧できる。",
+  "en": "WebXR viewer displaying IIIF-compatible images at full scale. Experience cultural resources in a virtual Japanese room via VR headset or browser."
+ },
+ "see_also": [
+  {
+   "@id": "https://iiif-vr-next.vercel.app/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/iiif-vr-next",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

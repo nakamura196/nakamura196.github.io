@@ -1,0 +1,87 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23536936",
+ "@type": "published_papers",
+ "rm:id": "23536936",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-03-10T05:06:47Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2020-06-09T14:50:32Z",
+ "paper_title": {
+  "en": "[A22] Towards an Approach to Local Communities Digital Cultural Resources Archive : A Case Study of <i>Yanaka Nezu Sendagi</i> Digital Archive",
+  "ja": "[A22] 地域文化資源デジタルアーカイブの方法論：地域雑誌『谷中・根津・千駄木』のデジタルアーカイブ化を事例として"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "宮本 隆史"
+   },
+   {
+    "name": "片桐 由希子"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "MIYAMOTO Takashi"
+   },
+   {
+    "name": "KATAGIRI Yukiko"
+   },
+   {
+    "name": "NAKAMURA Satoru"
+   }
+  ]
+ },
+ "description": {
+  "ja": "<p>本発表の目的は、東京文化資源会議の地域文化資源デジタルアーカイブ・プロジェクトの活動を事例として紹介し、地域に根づいた学術的・文化的活動の基盤となるウェブ上のシステムを構築・活用する方法を整理し課題と可能性を考察することにある。このプロジェクトでは、地域雑誌『谷中・根津・千駄木』を対象としたデジタルアーカイブの構築を実験的に行なっている [1]。</p>"
+ },
+ "publisher": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "publication_date": "2018",
+ "publication_name": {
+  "en": "Dejitaru Akaibu Gakkaishi",
+  "ja": "デジタルアーカイブ学会誌"
+ },
+ "volume": "2",
+ "number": "2",
+ "starting_page": "28",
+ "ending_page": "31",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.2.2_28"
+  ],
+  "issn": [
+   "2432-9762"
+  ],
+  "cinii_na_id": [
+   "130006742690"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.2.2_28",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/130006742690",
+   "is_downloadable": false
+  }
+ ]
+}

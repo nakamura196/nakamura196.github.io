@@ -1,0 +1,43 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45720828",
+ "@type": "presentations",
+ "rm:id": "45720828",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-03-04T13:00:37Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-03-04T13:00:37Z",
+ "presentation_title": {
+  "ja": "Introduction to Practice Examples of Digital Curation and Digital History with a Focus on Japanese Materials",
+  "en": "Introduction to Practice Examples of Digital Curation and Digital History with a Focus on Japanese Materials"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "21th CODH Seminar Digital History: Concepts and Practices",
+  "en": "21th CODH Seminar Digital History: Concepts and Practices"
+ },
+ "publication_date": "2024-03-04",
+ "from_event_date": "2024-03-04",
+ "to_event_date": "2024-03",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

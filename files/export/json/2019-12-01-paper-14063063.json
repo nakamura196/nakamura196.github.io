@@ -1,0 +1,63 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/14063063",
+ "@type": "published_papers",
+ "rm:id": "14063063",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-12-11T10:31:57Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-12-23T06:55:04Z",
+ "paper_title": {
+  "ja": "構造化記述された財務記録史料データの分析手法の開発：イギリスの船舶解体業を事例に",
+  "en": "Developing a Method for Analysing Structured Data of Historical Financial Records: With the Focus on the British Shipbreaking Industry"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "小風尚樹"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "永崎研宣"
+   }
+  ],
+  "en": [
+   {
+    "name": "Naoki Kokaze"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ]
+ },
+ "publication_date": "2019-12",
+ "publication_name": {
+  "ja": "じんもんこん2019論文集"
+ },
+ "volume": "2019",
+ "starting_page": "183",
+ "ending_page": "190",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00200999/",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/30519867",
+ "@type": "published_papers",
+ "rm:id": "30519867",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-10-19T22:12:30Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-07T23:11:01Z",
+ "paper_title": {
+  "ja": "Cultural Japanの構築におけるジャパンサーチ利活用スキーマの活用",
+  "en": "Usage of Japan Search RDF Model in the Development of Cultural Japan"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2020-10",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Journal of the Japan Society for Digital Archive"
+ },
+ "volume": "4",
+ "number": "4",
+ "starting_page": "348",
+ "ending_page": "351",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.4.4_348"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.4.4_348",
+   "is_downloadable": true
+  }
+ ]
+}

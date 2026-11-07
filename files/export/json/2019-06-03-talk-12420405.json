@@ -1,0 +1,83 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420405",
+ "@type": "presentations",
+ "rm:id": "12420405",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-07T08:15:14Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-07T08:15:43Z",
+ "presentation_title": {
+  "ja": "Digital Humanities for Japanese Culture: Resources and Methods",
+  "en": "Digital Humanities for Japanese Culture: Resources and Methods"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Kiyonori Nagasaki"
+   },
+   {
+    "name": "Asanobu Kitamoto"
+   },
+   {
+    "name": "Yuta Hashimoto"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Tatsuki Sekino"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Kiyonori Nagasaki"
+   },
+   {
+    "name": "Asanobu Kitamoto"
+   },
+   {
+    "name": "Yuta Hashimoto"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Tatsuki Sekino"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "Kiyonori Nagasaki, Asanobu Kitamoto, Yuta Hashimoto, Satoru Nakamura, Tatsuki Sekino, and Taizo Yamada",
+  "en": "Kiyonori Nagasaki, Asanobu Kitamoto, Yuta Hashimoto, Satoru Nakamura, Tatsuki Sekino, and Taizo Yamada"
+ },
+ "event": {
+  "ja": "Digital Humanities Summer Institute",
+  "en": "Digital Humanities Summer Institute"
+ },
+ "publication_date": "2019-06-03",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://www.dhsi.org/courses.php#JapanDH"
+  }
+ ]
+}

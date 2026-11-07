@@ -1,0 +1,53 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36178414",
+ "@type": "published_papers",
+ "rm:id": "36178414",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-01-07T01:53:48Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-01-07T02:36:58Z",
+ "paper_title": {
+  "ja": "日本史史料を対象とした研究データ基盤整備における課題",
+  "en": "Challenges in Developing a Research Data Infrastructure for Japanese Historical Documents"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "渋谷綾子"
+   },
+   {
+    "name": "大向一輝"
+   },
+   {
+    "name": "井上聡"
+   }
+  ]
+ },
+ "publication_date": "2021-12",
+ "publication_name": {
+  "ja": "じんもんこん2021論文集"
+ },
+ "volume": "2021",
+ "starting_page": "80",
+ "ending_page": "87",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "is_international_journal": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false
+}

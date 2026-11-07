@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "東洋文庫「大明地理之図」データベース",
+  "en": "Toyo Bunko Daimin Chiri no Zu Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2023-05",
+ "to_date": "9999",
+ "description": {
+  "ja": "東洋文庫が所蔵する江戸時代の写本「大明地理之図」（明代中国の地理を4巻の絵図に描いたもの）の画像を公開し、絵図に書き込まれた地名など3,897件を注釈として付けたデジタルアーカイブ。注釈の検索・詳細検索、現在の地図上での位置の確認、データセットの提供に対応。",
+  "en": "A digital archive of the Daimin Chiri no Zu, an Edo-period manuscript in the Toyo Bunko that maps Ming China in four scrolls. The images carry 3,897 annotations of place names and other writing, which can be searched in detail, located on a present-day map and downloaded as a dataset."
+ },
+ "see_also": [
+  {
+   "@id": "https://toyobunko-lab.jp/app/daiminchiri/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

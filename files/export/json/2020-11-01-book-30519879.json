@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/30519879",
+ "@type": "books_etc",
+ "rm:id": "30519879",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-10-19T22:21:20Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-04T07:03:50Z",
+ "book_title": {
+  "ja": "デジタルアーカイブ・ベーシックス 4：アートシーンを支える"
+ },
+ "book_owner_role": "joint_editor",
+ "authors": {
+  "ja": [
+   {
+    "name": "嘉村, 哲郎"
+   },
+   {
+    "name": "高野, 明彦"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "勉誠出版"
+ },
+ "publication_date": "2020-11",
+ "total_page": "7, 295p",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "cinii_nc_id": [
+   "BC04508887"
+  ],
+  "isbn": [
+   "9784585202844"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BC04508887",
+   "is_downloadable": false
+  }
+ ]
+}

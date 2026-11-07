@@ -1,0 +1,72 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41656222",
+ "@type": "published_papers",
+ "rm:id": "41656222",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:20:50Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:20:50Z",
+ "paper_title": {
+  "ja": "TEIデータに対する可視化・分析ツールの開発",
+  "en": "Development of visualization and analysis tools for TEI data"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru NAKAMURA"
+   }
+  ]
+ },
+ "publisher": {
+  "en": "Japan Society of Information and Knowledge"
+ },
+ "publication_date": "2022-12-18",
+ "publication_name": {
+  "ja": "情報知識学会誌",
+  "en": "Joho Chishiki Gakkaishi"
+ },
+ "volume": "32",
+ "number": "4",
+ "starting_page": "389",
+ "ending_page": "392",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.2964/jsik_2022_033"
+  ],
+  "issn": [
+   "0917-1436"
+  ],
+  "e_issn": [
+   "1881-7661"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.2964/jsik_2022_033",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://www.jstage.jst.go.jp/article/jsik/32/4/32_2022_033/_pdf",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

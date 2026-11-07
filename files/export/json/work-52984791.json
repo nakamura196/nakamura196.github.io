@@ -1,0 +1,39 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/52984791",
+ "@type": "works",
+ "rm:id": "52984791",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-03-19T07:19:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-19T07:19:35Z",
+ "work_title": {
+  "ja": "デジタル水滸伝",
+  "en": "Digital Suikoden"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "see_also": [
+  {
+   "@id": "https://uparl-suikoden.vercel.app/",
+   "is_downloadable": false,
+   "label": "url"
+  }
+ ]
+}

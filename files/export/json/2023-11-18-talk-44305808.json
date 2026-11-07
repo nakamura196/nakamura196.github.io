@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/44305808",
+ "@type": "presentations",
+ "rm:id": "44305808",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-12-21T01:52:01Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-12-21T01:52:01Z",
+ "presentation_title": {
+  "ja": "日本史史料データワークフローの自動化に向けた取組"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "劉冠偉"
+   }
+  ]
+ },
+ "event": {
+  "ja": "DHSympo2023：国際シンポジウム「 デジタル・ヒューマニティーズと研究基盤 欧州と日本の最新トレンド」"
+ },
+ "publication_date": "2023-11-18",
+ "invited": true,
+ "rm:is_open_access": false
+}

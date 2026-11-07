@@ -1,0 +1,75 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451891",
+ "@type": "presentations",
+ "rm:id": "20451891",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-12-11T10:28:27Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-12-11T10:29:19Z",
+ "presentation_title": {
+  "ja": "Update: Hieratic Database Project (with IIIF system)",
+  "en": "Update: Hieratic Database Project (with IIIF system)"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Masakatsu Nagai"
+   },
+   {
+    "name": "Toshihito Waki"
+   },
+   {
+    "name": "Yona Takahashi"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Masakatsu Nagai"
+   },
+   {
+    "name": "Toshihito Waki"
+   },
+   {
+    "name": "Yona Takahashi"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "Masakatsu Nagai, Toshihito Waki, Yona Takahashi, Satoru Nakamura",
+  "en": "Masakatsu Nagai, Toshihito Waki, Yona Takahashi, Satoru Nakamura"
+ },
+ "event": {
+  "ja": "Ägyptologische „Binsen“-Weisheiten IV",
+  "en": "Ägyptologische „Binsen“-Weisheiten IV"
+ },
+ "publication_date": "2019-12-11",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "location": {
+  "ja": "Mainz",
+  "en": "Mainz"
+ },
+ "is_international_presentation": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "https://aku.uni-mainz.de/aegyptologische-binsen-weisheiten-iv/"
+  }
+ ]
+}

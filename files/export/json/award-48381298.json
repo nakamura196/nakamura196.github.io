@@ -1,0 +1,22 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/48381298",
+ "@type": "awards",
+ "rm:id": "48381298",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-06T03:57:00Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-06T03:57:00Z",
+ "award_name": {
+  "ja": "第6回デジタルアーカイブ学会賞・実践賞"
+ },
+ "association": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "award_date": "2024-11"
+}

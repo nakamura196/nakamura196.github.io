@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330237",
+ "@type": "works",
+ "rm:id": "6330237",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T05:58:13Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-02-25T00:16:20Z",
+ "work_title": {
+  "ja": "平賀譲デジタルアーカイブ",
+  "en": "Yuzuru Hiraga Digital Archive"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Nakamura Satoru"
+   }
+  ]
+ },
+ "creators_text": {
+  "ja": "中村 覚",
+  "en": "Nakamura Satoru"
+ },
+ "work_type": "database",
+ "from_date": "2014-10-10",
+ "to_date": "2019-06-14",
+ "description": {
+  "ja": "海軍造船官であった故平賀譲（ひらが・ゆずる：海軍造船中将・第13代東京帝国大学総長）の遺した艦艇計画・建造関係の技術資料を中心とする資料を公開するデジタルアーカイブ。2014年5月にセキュリティ上の問題のため一旦閉鎖したが、ソフトウェアを全面的に改定することでセキュリティ問題を解決し、2014年10月10日に再公開した。この時のシステム構築、およびその後の運用とシステムリプレイス（Omeka Classicの利用）を担当した。2019年6月14日からは「東京大学学術資産等アーカイブズ共用サーバ」上での公開に移行した。"
+ },
+ "see_also": [
+  {
+   "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

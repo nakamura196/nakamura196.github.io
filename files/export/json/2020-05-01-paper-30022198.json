@@ -1,0 +1,49 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/30022198",
+ "@type": "published_papers",
+ "rm:id": "30022198",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-09-10T02:32:55Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-07-13T04:41:03Z",
+ "paper_title": {
+  "ja": "貼り込み形式の資料に対するフォント画像を用いたテキスト検索手法の検討 - 東京大学総合図書館所蔵『捃拾帖』を対象として"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "高橋大成"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "publication_date": "2020-05",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2020-CH-123",
+ "number": "1",
+ "starting_page": "1",
+ "ending_page": "6",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "http://id.nii.ac.jp/1001/00204771/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

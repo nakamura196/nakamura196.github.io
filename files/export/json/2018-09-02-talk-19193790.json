@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19193790",
+ "@type": "presentations",
+ "rm:id": "19193790",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-29T12:48:49Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-02-10T01:28:25Z",
+ "presentation_title": {
+  "ja": "Omekaを用いたデジタルコレクションの公開と活用：東京大学デジタルアーカイブズ構築事業における構築事例"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "Code4Lib JAPANカンファレンス2018"
+ },
+ "publication_date": "2018-09-02",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "https://www.slideshare.net/satorunakamura7/omeka-112638897"
+  }
+ ]
+}

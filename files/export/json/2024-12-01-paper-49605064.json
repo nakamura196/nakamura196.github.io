@@ -1,0 +1,72 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/49605064",
+ "@type": "published_papers",
+ "rm:id": "49605064",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-03-30T23:11:48Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-04-10T06:38:36Z",
+ "paper_title": {
+  "ja": "Analysis of Issues When Creating OAIS-based Archival Information Packages: Through an Exploratory Survey Using an Online Questionnaire",
+  "en": "Analysis of Issues When Creating OAIS-based Archival Information Packages: Through an Exploratory Survey Using an Online Questionnaire"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yasuyuki Minamiyama"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ],
+  "en": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yasuyuki Minamiyama"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ]
+ },
+ "publication_date": "2024-12",
+ "publication_name": {
+  "ja": "International Conference on Dublin Core and Metadata Applications",
+  "en": "International Conference on Dublin Core and Metadata Applications"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.23106/dcmi.952467360"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.23106/dcmi.952467360",
+   "is_downloadable": true
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19178669",
+ "@type": "presentations",
+ "rm:id": "19178669",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-25T23:50:59Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-07-25T23:50:59Z",
+ "presentation_title": {
+  "ja": "『百科全書』項目間ネットワークの可視化モデルの実装"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "山王綾乃"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "小風尚樹"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "山王綾乃, 中村覚, 小風尚樹"
+ },
+ "event": {
+  "ja": "『百科全書』・啓蒙研究会"
+ },
+ "publication_date": "2018-07-21",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

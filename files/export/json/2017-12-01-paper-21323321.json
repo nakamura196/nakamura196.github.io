@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323321",
+ "@type": "published_papers",
+ "rm:id": "21323321",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T05:30:47Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-04-28T07:13:08Z",
+ "paper_title": {
+  "ja": "Linked Dataを用いた軍艦オントロジーの構築と平賀譲デジタルアーカイブへの活用",
+  "en": "Development of Warship Ontology and Application to Yuzuru Hiraga Digital Archive with Linked Data"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "publication_date": "2017-12",
+ "publication_name": {
+  "ja": "人文科学とコンピュータシンポジウム2017",
+  "en": "IPSJ SIG Computers and the Humanities Symposium 2017"
+ },
+ "volume": "2017",
+ "starting_page": "133",
+ "ending_page": "138",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00184647/",
+   "is_downloadable": false
+  }
+ ]
+}

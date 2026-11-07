@@ -1,0 +1,67 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53678648",
+ "@type": "research_projects",
+ "rm:id": "53678648",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-05-17T09:16:22Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-17T09:16:22Z",
+ "research_project_title": {
+  "ja": "言語データ連結システムの開発と古代エジプトの文学語を対象とした言語記述の実践"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "永井 正勝"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業"
+ },
+ "category": {
+  "ja": "基盤研究(C)"
+ },
+ "institution_name": {
+  "ja": "筑波大学"
+ },
+ "from_date": "2025-04",
+ "to_date": "2028-03",
+ "research_project_owner_role": "coinvestigator",
+ "overall_grant_amount": {
+  "total_cost": "6370000",
+  "direct_cost": "4900000",
+  "indirect_cost": "1470000"
+ },
+ "fund_type": "competitive_research_funding",
+ "identifiers": {
+  "grant_number": [
+   "25K04084"
+  ],
+  "rm:published_paper_id": [
+   "52101822"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K04084",
+   "label": "url"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101822"
+  }
+ ]
+}

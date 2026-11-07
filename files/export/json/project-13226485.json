@@ -1,0 +1,111 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+ "@type": "research_projects",
+ "rm:id": "13226485",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-03-19 06:35:36",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-04-15T03:09:33Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T06:12:32Z",
+ "research_project_title": {
+  "ja": "IIIFとTEIを用いたオンライン翻刻支援システムの開発",
+  "en": "Development of Online Transcription System with IIIF and TEI"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 若手研究",
+  "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Early-Career Scientists"
+ },
+ "category": {
+  "ja": "若手研究",
+  "en": "Grant-in-Aid for Early-Career Scientists"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2019-04",
+ "to_date": "2021-03",
+ "research_project_owner_role": "principal_investigator",
+ "overall_grant_amount": {
+  "total_cost": "2600000",
+  "direct_cost": "2000000",
+  "indirect_cost": "600000"
+ },
+ "description": {
+  "ja": "本研究の目的は、オンライン上で複数のユーザが共同で史料を翻刻可能なシステムを開発することである。特に、画像共有のための国際規格であるIIIFや人文学資料のための構造化ルールを定めるTEI等の国際標準規格に準拠することにより、汎用的・国際的に利用可能なシステムの構築を目指す点に特徴がある。\n今年度は主にオープンソースのデジタルコンテンツ管理システムである「Omeka」のプラグイン「Scripto」をベースとして、IIIF準拠の画像を入力データとして、オンライン上で複数人が翻刻作業を実施し、翻刻結果をTEI準拠の形式でエクスポートすることが可能なプロトタイプシステムを開発した。さらに、一般的なOCR結果や、くずし字に特化したOCRサービス等との連携についても検討し、プロトタイプシステムへの機能追加を行った。\n開発したシステム上で複数人が翻刻作業を行うことで、例えば『校異源氏物語』54巻のうち、45巻の翻刻作業が完了し、「校異源氏物語テキストDB」というウェブサイトで成果を公開している。また翻刻テキストデータを画像や他のDBで公開されているテキストデータと関連づけることにより、作成したテキストデータの活用方法の検討、およびそれに基づく機能要件の改良を進めている。この成果として、「デジタル源氏物語」という画像と各種テキストデータを関連づけ、『源氏物語』の本文研究を支援することを目指したウェブサイトの公開も行った。\n今後は、プロトタイプシステムの実用化に向けたシステム改修やドキュメント整備を行い、システムの汎用性の向上を目指す。また、翻刻対象する資料の種類や数を拡充することで、オンライン上での翻刻作業のためのワークフローの効率化に向けた考察を行う。さらに、学会発表等での成果発信を行う。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "19K20626"
+  ],
+  "national_grant_number": [
+   "JP19K20626"
+  ],
+  "rm:award_id": [
+   "39368098",
+   "31963330"
+  ],
+  "rm:work_id": [
+   "36900480",
+   "36900489",
+   "36900748",
+   "36900545",
+   "36900554",
+   "36900540"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20626"
+  },
+  {
+   "label": "rm:awards",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/awards/39368098"
+  },
+  {
+   "label": "rm:awards",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/awards/31963330"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900489"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900748"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900545"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900554"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900540"
+  }
+ ]
+}

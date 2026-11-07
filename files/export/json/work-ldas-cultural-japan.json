@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Cultural Japan",
+  "en": "Cultural Japan"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2020-08",
+ "to_date": "9999",
+ "description": {
+  "ja": "日本の文化財デジタルアーカイブを横断的に検索・閲覧できるプラットフォーム。IIIF準拠のマルチコレクション統合基盤。",
+  "en": "Platform for cross-searching Japanese cultural heritage digital archives. Multi-collection integration infrastructure compliant with IIIF."
+ },
+ "see_also": [
+  {
+   "@id": "https://cultural.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://cultural.jp/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

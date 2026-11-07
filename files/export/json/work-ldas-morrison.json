@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "モリソンパンフレット統合データベース",
+  "en": "Morrison Pamphlets Integrated Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-10",
+ "to_date": "9999",
+ "description": {
+  "ja": "G.E.モリソンが蒐集した「モリソンパンフレット」の画像データベース。書誌での検索とファセット、本文 OCR の全文検索、IIIF 画像と Mirador での閲覧、TEI/XML・IIIF マニフェスト・DTS による提供に対応。",
+  "en": "Image database of the Morrison Pamphlets collected by G. E. Morrison. Bibliographic search with facets, full-text search over OCR, IIIF images viewable in Mirador, and data delivered as TEI/XML, IIIF manifests and DTS."
+ },
+ "see_also": [
+  {
+   "@id": "https://morrison.toyobunko-lab.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://morrison.toyobunko-lab.jp/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

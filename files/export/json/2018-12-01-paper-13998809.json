@@ -1,0 +1,64 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/13998809",
+ "@type": "published_papers",
+ "rm:id": "13998809",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-18T07:23:40Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-02-05T17:14:59Z",
+ "paper_title": {
+  "ja": "Linked Data化した典拠データとIIIFを用いた法帖の異版比較支援システムの開発",
+  "en": "Development of System to Support Comparison of Different Editions of Calligraphic Models with Linked Data of Authorities and IIIF"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "成田健太郎"
+   },
+   {
+    "name": "永井正勝"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kentaro Narita"
+   },
+   {
+    "name": "Masakatsu Nagai"
+   }
+  ]
+ },
+ "publication_date": "2018-12",
+ "publication_name": {
+  "ja": "じんもんこん2018論文集",
+  "en": "IPSJ SIG Computers and the Humanities Symposium 2018"
+ },
+ "volume": "2018",
+ "starting_page": "297",
+ "ending_page": "302",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00192390/",
+   "is_downloadable": false
+  }
+ ]
+}

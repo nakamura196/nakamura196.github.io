@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "ヴェラム文書総合データベース（VCDD）",
+  "en": "Vellum Contract Document Database (VCDD)"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-02",
+ "to_date": "9999",
+ "description": {
+  "ja": "モロッコ・フェズで作成された16〜19世紀の羊皮紙契約文書15点について、アラビア語校訂テキスト・英文解題・紫外線撮影の写真を関連づけて公開。文書からも、個々の証書の検索からも、テキストと写真を突き合わせて読める。TEI/XML・DTS・IIIF 対応。",
+  "en": "Fifteen vellum contract documents written in Fes, Morocco, between the 16th and 19th centuries, with edited Arabic texts, English descriptions and ultraviolet photographs linked together. Browse by document or search individual deeds, and read the text against the image. TEI/XML, DTS and IIIF."
+ },
+ "see_also": [
+  {
+   "@id": "https://toyobunko-lab.jp/app/vellum/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://toyobunko-lab.jp/app/vellum/en/",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

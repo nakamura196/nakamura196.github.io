@@ -23,6 +23,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import rich_pages as RP  # detail pages, lists, exports (reads helpers from this module)
+
 PERMALINK = os.environ.get("PERMALINK", "nakamura.satoru")
 API = "https://api.researchmap.jp"
 ROOT = Path(__file__).resolve().parent.parent
@@ -238,7 +241,9 @@ def gen_publications():
         title_ja = lang(it.get("book_title"), "ja") or title
         venue_ja = lang(it.get("publisher"), "ja")
         cite_ja = f'{names(it.get("authors"), "ja")}『{title_ja}』{venue_ja}, {y(date)}.'
-        write_md(out / f"{date}-book-{rid}.md", {
+        e = RP.BYID[str(rid)]; e["cite"], e["cite_ja"] = cite, cite_ja
+        fr, bd = RP.render(e, "en", md=True)
+        write_md(out / f"{date}-book-{rid}.md", {**fr,
             "title": title,
             "title_ja": title_ja,
             "venue_ja": venue_ja,
@@ -250,7 +255,7 @@ def gen_publications():
             "venue": venue,
             "paperurl": doi_url(it.get("identifiers", {})),
             "citation": cite,
-        })
+        }, bd)
         n += 1
 
     for it in fetch("published_papers"):
@@ -281,7 +286,9 @@ def gen_publications():
         if it.get("referee"):
             bits += " [refereed]"
             cite_ja += "［査読有り］"
-        write_md(out / f"{date}-paper-{rid}.md", {
+        e = RP.BYID[str(rid)]; e["cite"], e["cite_ja"] = bits, cite_ja
+        fr, bd = RP.render(e, "en", md=True)
+        write_md(out / f"{date}-paper-{rid}.md", {**fr,
             "title": title,
             "title_ja": title_ja,
             "venue_ja": venue_ja,
@@ -294,7 +301,7 @@ def gen_publications():
             "venue": venue,
             "paperurl": doi_url(it.get("identifiers", {})),
             "citation": bits,
-        })
+        }, bd)
         n += 1
 
     for it in fetch("misc"):
@@ -306,7 +313,9 @@ def gen_publications():
         title_ja = lang(it.get("paper_title"), "ja") or title
         venue_ja = lang(it.get("publication_name"), "ja")
         cite_ja = f'{names(it.get("authors"), "ja")}「{title_ja}」『{venue_ja}』, {y(date)}.'
-        write_md(out / f"{date}-misc-{rid}.md", {
+        e = RP.BYID[str(rid)]; e["cite"], e["cite_ja"] = cite, cite_ja
+        fr, bd = RP.render(e, "en", md=True)
+        write_md(out / f"{date}-misc-{rid}.md", {**fr,
             "title": title,
             "title_ja": title_ja,
             "venue_ja": venue_ja,
@@ -318,7 +327,7 @@ def gen_publications():
             "date": date,
             "venue": venue,
             "citation": cite,
-        })
+        }, bd)
         n += 1
     print(f"  _publications: {n} files")
 
@@ -355,7 +364,8 @@ def gen_talks():
             "Keynote": "基調講演",
             "Invited talk": "招待講演",
         }.get(ptype, "招待講演" if ptype.startswith("Invited") else ptype)
-        write_md(out / f"{date}-talk-{rid}.md", {
+        fr, bd = RP.render(RP.BYID[str(rid)], "en", md=True)
+        write_md(out / f"{date}-talk-{rid}.md", {**fr,
             "title": title,
             "title_ja": lang(it.get("presentation_title"), "ja") or title,
             "venue_ja": lang(it.get("event"), "ja"),
@@ -369,7 +379,7 @@ def gen_talks():
             "venue": venue,
             "date": date,
             "location": loc,
-        })
+        }, bd)
         n += 1
     print(f"  _talks: {n} files")
 
@@ -417,6 +427,7 @@ def gen_cv(prefer: str = "en", filename: str = "cv.json"):
             "date": it.get("award_date", ""),
             "awarder": lang(it.get("association"), prefer),
             "summary": lang(it.get("award_title"), prefer),
+            "url": RP.url(RP.BYID[RP.aid(it)], prefer),
         })
 
     projects = []
@@ -629,11 +640,13 @@ def main():
         print("Aborted, nothing changed: master has no papers/talks",
               file=sys.stderr)
         return 1
+    RP.init(sys.modules[__name__])
     gen_publications()
     gen_talks()
     gen_cv()
     gen_cv("ja", "cv_ja.json")
     gen_profile_data()
+    RP.finish()
     print("Done.")
     return 0
 

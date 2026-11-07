@@ -1,0 +1,55 @@
+{
+ "@context": "https://api.researchmap.jp/researcher.jsonld",
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/55432606?format=json",
+ "@type": "presentations",
+ "rm:id": "55432606",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-11-07T04:07:40Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-11-07T04:07:40Z",
+ "presentation_title": {
+  "ja": "小規模組織におけるデジタル資料の保存ワークフローの構築と支援アプリケーションの試作"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "金 甫榮"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタルアーカイブ学会 第11回研究大会"
+ },
+ "publication_date": "2026-11-07",
+ "from_event_date": "2026-11-07",
+ "to_event_date": "2026-11-08",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "promoter": {
+  "ja": "デジタルアーカイブ学会"
+ },
+ "location": {
+  "ja": "近畿大学東大阪キャンパス"
+ },
+ "address_country": "JPN",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "https://doi.org/10.24506/jsda.10.s2_s99",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

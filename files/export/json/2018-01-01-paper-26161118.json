@@ -1,0 +1,119 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/26161118",
+ "@type": "published_papers",
+ "rm:id": "26161118",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "coauthor",
+ "rm:created": "2020-04-10T01:15:07Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "coauthor",
+ "rm:modified": "2020-04-10T01:15:07Z",
+ "paper_title": {
+  "ja": "デジタルアーカイブの「裾野のモデル」を求めて －東京大学附属図書館U-PARL「古典籍on flickr！～漢籍・法帖を写真サイトでオープンしてみると～」報告",
+  "en": "Seeking a Low-hurdles, High-aggregation Model for Digital Archive: A Report on a Talk Event by the U-PARL of the University of Tokyo Library System, \"Classical Books on flickr!: Publication of Digital Images of Rare Chinese Books and Calligraphic Models on a Photo-sharing Platform\""
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "冨澤 かな"
+   },
+   {
+    "name": "木村 拓"
+   },
+   {
+    "name": "成田 健太郎"
+   },
+   {
+    "name": "永井 正勝"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "福島 幸宏"
+   }
+  ],
+  "en": [
+   {
+    "name": "TOMIZAWA Kana"
+   },
+   {
+    "name": "KIMURA Taku"
+   },
+   {
+    "name": "NARITA Kentaro"
+   },
+   {
+    "name": "NAGAI Masakatsu"
+   },
+   {
+    "name": "NAKAMURA Satoru"
+   },
+   {
+    "name": "FUKUSIMA Yukihiro"
+   }
+  ]
+ },
+ "description": {
+  "ja": "<p>東京大学附属図書館U-PARL（アジア研究図書館上廣倫理財団寄付研究部門）は，本学所蔵資料から選定した漢籍・碑帖拓本の資料画像をFlickr上で公開している。資料のデジタル化とアーカイブ構築のあり方を模索した結果，限られたリソースでも実現と持続が可能な，小さい構成でありながら，広域的な学術基盤整備と断絶せず，高度な研究利用にも展開しうる，デジタルアーカイブの「裾野のモデル」を実現しうる方策として選択したものである。その経緯と現状及び今後の展望について，特に漢籍・碑帖拓本資料の統合メタデータ策定，CCライセンス表示，OmekaとIIIFを利用した研究環境構築の試みに焦点をあてて論ずる。</p>",
+  "en": "<p>U-PARL (Uehiro Project for the Asian Research Library) at the University of Tokyo Library System has opened on Flickr a collection of digital images of rare Chinese books and calligraphic models selected from the library holdings. U-PARL chose Flickr with the aim of constructing a digital archive that was not only compact and inexpensive, but that also held the potential for aggregation by much larger database networks as well as usage by a wide-ranging audience. This paper explains how U-PARL made this choice, and shows the current status and agenda facing the archive. The focus of the paper is placed on newly designed metadata categories and cataloging conventions, the use of Creative Commons licenses and the construction of a research environment using Omeka.</p>"
+ },
+ "publisher": {
+  "ja": "一般社団法人 情報科学技術協会",
+  "en": "Information Science and Technology Association, Japan"
+ },
+ "publication_date": "2018",
+ "publication_name": {
+  "ja": "情報の科学と技術",
+  "en": "The Journal of Information Science and Technology Association"
+ },
+ "volume": "68",
+ "number": "3",
+ "starting_page": "129",
+ "ending_page": "134",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.18919/jkg.68.3_129"
+  ],
+  "issn": [
+   "0913-3801"
+  ],
+  "cinii_na_id": [
+   "130006407004"
+  ],
+  "cinii_nc_id": [
+   "AN10005857"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.18919/jkg.68.3_129",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/130006407004",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/AN10005857",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.ndl.go.jp/bib/028844099",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538492",
+ "@type": "presentations",
+ "rm:id": "54538492",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-08-02T06:52:36Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-08-02T06:52:36Z",
+ "presentation_title": {
+  "ja": "An IIIF- and Linked Data-Based Framework for Semantic 3D Annotation of Cultural Heritage Objects",
+  "en": "An IIIF- and Linked Data-Based Framework for Semantic 3D Annotation of Cultural Heritage Objects"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "小川潤"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "大向一輝"
+   }
+  ],
+  "en": [
+   {
+    "name": "Jun Ogawa"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Ikki Ohmukai"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Digital Humanities 2026 (DH2026)",
+  "en": "Digital Humanities 2026 (DH2026)"
+ },
+ "publication_date": "2026-07-31",
+ "from_event_date": "2026-07-27",
+ "to_event_date": "2026-07-31",
+ "invited": false,
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": true,
+ "rm:is_open_access": false
+}

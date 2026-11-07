@@ -1,0 +1,66 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50257651",
+ "@type": "research_projects",
+ "rm:id": "50257651",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-06-08 06:14:57",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-05-27T09:03:51Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-05-27T09:03:51Z",
+ "research_project_title": {
+  "ja": "中世⽇本禅宗史料の学術資源化とその応⽤研究"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "岡本真"
+   },
+   {
+    "name": "岩永紘和"
+   },
+   {
+    "name": "榎本渉"
+   },
+   {
+    "name": "川本慎自"
+   },
+   {
+    "name": "小瀬玄士"
+   },
+   {
+    "name": "須田牧子"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "芳澤元"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業"
+ },
+ "category": {
+  "ja": "基盤研究(B)"
+ },
+ "institution_name": {
+  "ja": "東京大学史料編纂所"
+ },
+ "from_date": "2025-04",
+ "to_date": "2030-03",
+ "identifiers": {
+  "grant_number": [
+   "25K00493"
+  ]
+ }
+}

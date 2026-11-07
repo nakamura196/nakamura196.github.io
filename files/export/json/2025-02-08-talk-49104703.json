@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49104703",
+ "@type": "presentations",
+ "rm:id": "49104703",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-02-09T02:41:26Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-02-09T02:41:26Z",
+ "presentation_title": {
+  "ja": "デジタル・ヒューマニティーズ （DH）の概要と事例紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "文化資源学のこれまでとこれから"
+ },
+ "publication_date": "2025-02-08",
+ "from_event_date": "2025-02-08",
+ "to_event_date": "2025-02-08",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

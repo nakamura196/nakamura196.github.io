@@ -1,0 +1,87 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36178581",
+ "@type": "published_papers",
+ "rm:id": "36178581",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-01-07T01:56:35Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-10-01T12:24:14Z",
+ "paper_title": {
+  "ja": "『百科全書』典拠研究アプリのクラウドソーシング化に向けた取り組み",
+  "en": "Towards the Crowdsourcing of the Authority Research Application of the Encyclopedie"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "小風綾乃"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "飯田賢穂"
+   },
+   {
+    "name": "小風尚樹"
+   },
+   {
+    "name": "逸見龍生"
+   }
+  ],
+  "ja": [
+   {
+    "name": "小風綾乃"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "飯田賢穂"
+   },
+   {
+    "name": "小風尚樹"
+   },
+   {
+    "name": "逸見龍生"
+   }
+  ]
+ },
+ "publication_date": "2021-12",
+ "publication_name": {
+  "ja": "じんもんこん2021論文集",
+  "en": "情報処理学会シンポジウム論文集"
+ },
+ "volume": "2021",
+ "number": "1",
+ "starting_page": "124",
+ "ending_page": "131",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "is_international_journal": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "1344-0640"
+  ],
+  "j_global_id": [
+   "202202266210178948"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "j_global",
+   "@id": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202266210178948",
+   "is_downloadable": false
+  }
+ ]
+}

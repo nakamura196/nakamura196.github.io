@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "ピラネージ版画データベース",
+  "en": "Opere di Giovanni Battista Piranesi Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2020-05",
+ "to_date": "9999",
+ "description": {
+  "ja": "総合図書館の亀井文庫『ピラネージ版画集』（1835〜39年、パリ刊）全29巻のオリジナル版画1,440点のデータベース。科研費 COE で作られた旧データベースを作り直したもの。巻・頁、キーワード、主題、描かれたローマの場所（地図）から探せる。",
+  "en": "A database of the 1,440 original etchings in the 29 volumes of the Opere di Giovanni Battista Piranesi (Paris, 1835–39) in the General Library's Kamei Collection, rebuilt from a database made under a COE research grant. Browse by volume and page, or search by keyword, subject or the place in Rome on a map."
+ },
+ "see_also": [
+  {
+   "@id": "https://piranesi.dl.itc.u-tokyo.ac.jp/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

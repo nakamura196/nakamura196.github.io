@@ -1,0 +1,66 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31573764",
+ "@type": "published_papers",
+ "rm:id": "31573764",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-02-03T06:17:33Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-09-18T02:14:41Z",
+ "paper_title": {
+  "ja": "持続性と利活用性を考慮したデジタルアーカイブ構築手法の提案",
+  "en": "Proposal to develop Digital Archive System considering Sustainability and Reusability"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "高嶋朋子"
+   }
+  ],
+  "en": [
+   {
+    "name": "NAKAMURA Satoru"
+   },
+   {
+    "name": "TAKASHIMA Tomoko"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2021-01",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Dejitaru Akaibu Gakkaishi"
+ },
+ "volume": "5",
+ "number": "1",
+ "starting_page": "56",
+ "ending_page": "60",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.5.1_56"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.5.1_56",
+   "is_downloadable": false
+  }
+ ]
+}

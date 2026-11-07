@@ -1,0 +1,43 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48693526",
+ "@type": "presentations",
+ "rm:id": "48693526",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-12-12T04:20:09Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-12-12T04:20:09Z",
+ "presentation_title": {
+  "ja": "暦日リソースの活用",
+  "en": "Applications of the calendar date resource"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1",
+  "en": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1"
+ },
+ "publication_date": "2024-12-09",
+ "from_event_date": "2024-12-09",
+ "to_event_date": "2024-12-12",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

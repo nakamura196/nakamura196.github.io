@@ -1,0 +1,49 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/30519876",
+ "@type": "books_etc",
+ "rm:id": "30519876",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-10-19T22:18:07Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-04T07:03:30Z",
+ "book_title": {
+  "ja": "デジタルアーカイブ・ベーシックス 2：災害記録を未来に活かす",
+  "en": "災害記録を未来に活かす"
+ },
+ "book_owner_role": "joint_editor",
+ "authors": {
+  "en": [
+   {
+    "name": "鈴木, 親彦"
+   },
+   {
+    "name": "今村, 文彦"
+   }
+  ]
+ },
+ "publisher": {
+  "en": "勉誠出版"
+ },
+ "publication_date": "2019-08",
+ "total_page": "274p, 図版6p",
+ "identifiers": {
+  "cinii_nc_id": [
+   "BB28833692"
+  ],
+  "isbn": [
+   "9784585202820"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BB28833692",
+   "is_downloadable": false
+  }
+ ]
+}

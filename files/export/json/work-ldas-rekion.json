@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "れきおん文字起こし検索",
+  "en": "Historical Audio — Whisper + IIIF Search"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2024-07",
+ "to_date": "9999",
+ "description": {
+  "ja": "国立国会図書館の歴史的音源をWhisperで自動文字起こしし、IIIFアノテーションとして構造化。音声の横断検索と、時刻を指定した参照ができる。",
+  "en": "Historical audio recordings from the National Diet Library, transcribed with Whisper and structured as IIIF annotations, for cross-searching the audio and citing it by timestamp."
+ },
+ "see_also": [
+  {
+   "@id": "https://ab.ldas.jp/na-kamura-1263/rekion",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://ab.ldas.jp/en/na-kamura-1263/rekion",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

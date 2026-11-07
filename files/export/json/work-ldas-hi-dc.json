@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "東京大学史料編纂所デジタルコレクション",
+  "en": "Historiographical Institute Digital Collection"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-07",
+ "to_date": "9999",
+ "description": {
+  "ja": "史料編纂所が所蔵する資料をコレクションごとに公開するサイト。荘園絵図摸本コレクション（絵図名称・模写時所蔵・原本製作年代での検索、地図、アノテーション）と錦絵ギャラリーを収める。",
+  "en": "Collections of materials held by the Historiographical Institute, published one by one: the copies of shōen (estate) maps, searchable by title, holder and date with a map and annotations, and a gallery of nishiki-e prints."
+ },
+ "see_also": [
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/dc/ja/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/dc/en/",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

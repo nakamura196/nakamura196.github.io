@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Local OCR",
+  "en": "Local OCR — Desktop App"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-09",
+ "to_date": "9999",
+ "description": {
+  "ja": "画像に写っている文字を、手元のパソコンの中だけで読み取るアプリ。複数の OCR エンジンを切り替えて使え、くずし字・漢籍・チベット語にも対応。IIIF の画像を読み込み、TEI/XML で書き出せる。macOS・Windows 対応。",
+  "en": "Read text out of images entirely on your own computer. Switch between several OCR engines, including ones for kuzushiji, classical Chinese and Tibetan. Takes IIIF images in and writes TEI/XML out. For macOS and Windows."
+ },
+ "see_also": [
+  {
+   "@id": "https://lo.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/local-ocr",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

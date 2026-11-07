@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900554",
+ "@type": "works",
+ "rm:id": "36900554",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-05-06T02:53:58Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-05-06T02:54:53Z",
+ "work_title": {
+  "ja": "渋沢栄一ダイアリー"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "渋沢栄一記念財団"
+   }
+  ]
+ },
+ "from_date": "2021-04-23",
+ "to_date": "9999",
+ "identifiers": {
+  "rm:research_project_id": [
+   "32708239",
+   "13226485"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://shibusawa-dlab.github.io/app1/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

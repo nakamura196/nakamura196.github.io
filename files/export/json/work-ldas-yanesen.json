@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "地域文化資源デジタルアーカイブ",
+  "en": "Yanaka–Nezu–Sendagi Magazine Archive"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2016-10",
+ "to_date": "9999",
+ "description": {
+  "ja": "1984年に谷根千工房が創刊した地域雑誌『谷中・根津・千駄木』1〜10号と関連資料のデジタルアーカイブ。IIIF で公開し、既存の IIIF ビューアから直接閲覧できる。",
+  "en": "Digital archive of issues 1–10 of the local magazine \"Yanaka, Nezu, Sendagi\" (1984–) and related materials, published through IIIF and viewable in any IIIF viewer."
+ },
+ "see_also": [
+  {
+   "@id": "https://nakamura196.github.io/lda/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

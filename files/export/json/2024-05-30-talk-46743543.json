@@ -1,0 +1,72 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46743543",
+ "@type": "presentations",
+ "rm:id": "46743543",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-06-09T23:57:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-06-09T23:58:23Z",
+ "presentation_title": {
+  "ja": "Cross-Institutional collaboration to create learning materials and metadata as LOD for promoting the use of digital cultural heritage in schools",
+  "en": "Cross-Institutional collaboration to create learning materials and metadata as LOD for promoting the use of digital cultural heritage in schools"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Masao OI"
+   },
+   {
+    "name": "Satoru MAKAMURA"
+   }
+  ],
+  "en": [
+   {
+    "name": "Masao OI"
+   },
+   {
+    "name": "Satoru MAKAMURA"
+   }
+  ]
+ },
+ "event": {
+  "ja": "DHNB 2024 (Digital Humanities in the Nordic and Baltic countries 8th Conference) from experimentation to experience: lessons learned from the intersections between digital humanities and cultural heritage, session #10:collaborations [Peer-reviewed]",
+  "en": "DHNB 2024 (Digital Humanities in the Nordic and Baltic countries 8th Conference) from experimentation to experience: lessons learned from the intersections between digital humanities and cultural heritage, session #10:collaborations [Peer-reviewed]"
+ },
+ "publication_date": "2024-05-30",
+ "from_event_date": "2024-05-27",
+ "to_event_date": "2024-05-31",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "promoter": {
+  "ja": "DHNB",
+  "en": "DHNB"
+ },
+ "location": {
+  "ja": "the University of Iceland School of Education, Reykjavík (Iceland)",
+  "en": "the University of Iceland School of Education, Reykjavík (Iceland)"
+ },
+ "address_country": "ISL",
+ "is_international_presentation": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "@id": "https://dhnb.eu/conferences/dhnb2024/",
+   "label": "url"
+  },
+  {
+   "is_downloadable": false,
+   "@id": "https://www.conftool.org/dhnb2024/index.php?page=browseSessions&form_date=2024-05-30&presentations=show",
+   "label": "url"
+  }
+ ]
+}

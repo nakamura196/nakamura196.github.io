@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "15世紀の日本図・琉球図デジタルアーカイブ",
+  "en": "15th Century Japan/Ryukyu Maps Archive"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "15世紀の日本図・琉球図のデジタルアーカイブ。IIIF準拠の画像公開と地図情報の構造化に取り組む。",
+  "en": "Digital archive of 15th-century maps of Japan and Ryukyu. IIIF-compliant image publication and structured map data."
+ },
+ "see_also": [
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/nihonzu/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

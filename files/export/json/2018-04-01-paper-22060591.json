@@ -1,0 +1,94 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/22060591",
+ "@type": "published_papers",
+ "rm:id": "22060591",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-04-16T00:29:50Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-04-16T00:30:18Z",
+ "paper_title": {
+  "ja": "システムの仕様変更調査における設計情報と作業プロセス間の依存関係を用いた影響分析システムの開発",
+  "en": "Development of Impact Analysis System for Specification Change of System with Design Information and Process Dependency"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "福田貴三郎"
+   },
+   {
+    "name": "村瀬健太郎"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "笈田佳彰"
+   },
+   {
+    "name": "松本滋"
+   },
+   {
+    "name": "岡田伊策"
+   }
+  ],
+  "en": [
+   {
+    "name": "Takasaburo Fukuda"
+   },
+   {
+    "name": "Kentaro Murase"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Yoshiaki Oida"
+   },
+   {
+    "name": "Shigeru Matsumoto"
+   },
+   {
+    "name": "Isaac Okada"
+   }
+  ]
+ },
+ "publication_date": "2018-04",
+ "publication_name": {
+  "ja": "情報処理学会論文誌",
+  "en": "IPSJ Journal"
+ },
+ "volume": "59",
+ "number": "4",
+ "starting_page": "1240",
+ "ending_page": "1249",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "1882-7764"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00187319/",
+   "is_downloadable": false
+  }
+ ]
+}

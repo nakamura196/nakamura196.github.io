@@ -1,0 +1,116 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/43585729",
+ "@type": "published_papers",
+ "rm:id": "43585729",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "coauthor",
+ "rm:created": "2023-09-26T15:10:46Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-14T23:52:31Z",
+ "paper_title": {
+  "ja": "Developing a New Research Data Infrastructure for Japanese Historical Materials.",
+  "en": "Developing a New Research Data Infrastructure for Japanese Historical Materials."
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Ayako Shibutani"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kanako Hirasawa"
+   },
+   {
+    "name": "Honami Inukai"
+   },
+   {
+    "name": "Toshiyuki Yamada"
+   },
+   {
+    "name": "Airu Adachi"
+   },
+   {
+    "name": "Ikki Ohmukai"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Ayako Shibutani"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kanako Hirasawa"
+   },
+   {
+    "name": "Honami Inukai"
+   },
+   {
+    "name": "Toshiyuki Yamada"
+   },
+   {
+    "name": "Airu Adachi"
+   },
+   {
+    "name": "Ikki Ohmukai"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "publication_date": "2023-07",
+ "publication_name": {
+  "ja": "Digital Humanities 2023",
+  "en": "DH"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.5281/zenodo.8108054"
+  ],
+  "dblp_id": [
+   "conf/dihu/ShibutaniNHIYAOY23"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.5281/zenodo.8108054",
+   "is_downloadable": false
+  },
+  {
+   "label": "DBLP",
+   "@id": "https://dblp.org/rec/conf/dihu/ShibutaniNHIYAOY23",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://dblp.uni-trier.de/rec/conf/dihu/2023",
+   "label": "url",
+   "is_downloadable": true
+  },
+  {
+   "@id": "https://dblp.uni-trier.de/db/conf/dihu/dh2023.html#ShibutaniNHIYAOY23",
+   "label": "url",
+   "is_downloadable": true
+  }
+ ]
+}

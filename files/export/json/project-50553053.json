@@ -1,0 +1,97 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50553053",
+ "@type": "research_projects",
+ "rm:id": "50553053",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-05-08 02:01:18",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-07-05T09:03:10Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-07-05T09:03:10Z",
+ "research_project_title": {
+  "ja": "外見描写と内面評価の相関性史―創発的・学際的協働研究",
+  "en": "A Multidisciplinary Historical Analysis of Personal Appearance Impressions--With a Focus on Japan"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "永井久美子"
+   },
+   {
+    "name": "髙岸輝"
+   },
+   {
+    "name": "上田竜平"
+   },
+   {
+    "name": "鈴木 敦命"
+   },
+   {
+    "name": "鈴木 親彦"
+   },
+   {
+    "name": "出口 智之"
+   },
+   {
+    "name": "梶谷 真司"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "石井 悠加"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業"
+ },
+ "category": {
+  "ja": "挑戦的研究(萌芽)"
+ },
+ "institution_name": {
+  "ja": "東京大学"
+ },
+ "from_date": "2025-06",
+ "to_date": "2028-03",
+ "overall_grant_amount": {
+  "total_cost": "6500000",
+  "direct_cost": "5000000",
+  "indirect_cost": "1500000"
+ },
+ "fund_type": "competitive_research_funding",
+ "identifiers": {
+  "grant_number": [
+   "25K21831"
+  ],
+  "national_grant_number": [
+   "JP25K21831"
+  ],
+  "rm:published_paper_id": [
+   "52107631",
+   "52101821"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25K21831",
+   "label": "kaken"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821"
+  }
+ ]
+}

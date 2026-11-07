@@ -1,0 +1,55 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46157933",
+ "@type": "presentations",
+ "rm:id": "46157933",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-04-15T00:57:13Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-15T00:57:13Z",
+ "presentation_title": {
+  "ja": "通过WEB API实现史料古籍字形的交叉检索：以史料古籍字形探索的构建开发为例",
+  "en": "通过WEB API实现史料古籍字形的交叉检索：以史料古籍字形探索的构建开发为例"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "刘冠伟"
+   },
+   {
+    "name": "中村觉"
+   },
+   {
+    "name": "山田太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "刘冠伟"
+   },
+   {
+    "name": "中村觉"
+   },
+   {
+    "name": "山田太造"
+   }
+  ]
+ },
+ "event": {
+  "ja": "第十三屆漢字與漢字教育國際研討會",
+  "en": "第十三屆漢字與漢字教育國際研討會"
+ },
+ "publication_date": "2024-02-17",
+ "invited": false,
+ "languages": [
+  "zho"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false
+}

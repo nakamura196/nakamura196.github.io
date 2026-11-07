@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41108148",
+ "@type": "presentations",
+ "rm:id": "41108148",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-01-12T01:08:44Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-01-12T01:08:44Z",
+ "presentation_title": {
+  "ja": "TEIおよびTEIデータの活用について"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "前近代日本史情報国際センター研究会"
+ },
+ "publication_date": "2023-01-12",
+ "from_event_date": "2023-01-12",
+ "to_event_date": "2023-01-12",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

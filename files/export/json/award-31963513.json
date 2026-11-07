@@ -1,0 +1,32 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/31963513",
+ "@type": "awards",
+ "rm:id": "31963513",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-03-23T04:01:24Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-03-23T04:01:24Z",
+ "award_name": {
+  "ja": "第3回学会賞"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "チーム カルチュラル・ジャパン"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "実践賞"
+ },
+ "association": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "award_date": "2021-04"
+}

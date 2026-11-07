@@ -1,0 +1,122 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961920",
+ "@type": "research_projects",
+ "rm:id": "35961920",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2024-11-26 01:14:40",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-12-01T03:22:07Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T03:39:04Z",
+ "research_project_title": {
+  "ja": "木簡等の研究資源オープンデータ化を通じた参加誘発型研究スキーム確立による知の展開",
+  "en": "Development of Integrated Knowledge through Establishment of an Interactive Research Scheme based on the Open-Data of Research Resources for Wooden Tablets and Related Topics"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "馬場 基"
+   },
+   {
+    "name": "中川 正樹"
+   },
+   {
+    "name": "久留島 典子"
+   },
+   {
+    "name": "高田 智和"
+   },
+   {
+    "name": "耒代 誠仁"
+   },
+   {
+    "name": "山本 和明"
+   },
+   {
+    "name": "山田 太造"
+   },
+   {
+    "name": "笹原 宏之"
+   },
+   {
+    "name": "大山 航"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "渡辺 晃宏"
+   },
+   {
+    "name": "桑田 訓也"
+   },
+   {
+    "name": "山本 祥隆"
+   },
+   {
+    "name": "高田 祐一"
+   },
+   {
+    "name": "星野 安治"
+   },
+   {
+    "name": "上椙 英之"
+   },
+   {
+    "name": "畑野 吉則"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 基盤研究(S)",
+  "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (S)"
+ },
+ "category": {
+  "ja": "基盤研究(S)",
+  "en": "Grant-in-Aid for Scientific Research (S)"
+ },
+ "institution_name": {
+  "ja": "独立行政法人国立文化財機構奈良文化財研究所",
+  "en": "Nara National Research Institute for Cultural Properties"
+ },
+ "from_date": "2018-06-11",
+ "to_date": "2023-03-31",
+ "overall_grant_amount": {
+  "total_cost": "124930000",
+  "direct_cost": "96100000",
+  "indirect_cost": "28830000"
+ },
+ "description": {
+  "ja": "国際的な歴史的文字の共通検索実現およびオープンデータ化を目指して、奈文研・東京大学史料編纂所・国文学研究資料館・国立国語研究所・台湾中央研究院歴史語言研究所を中心に、京都大学人文学研究所や中国社会科学院歴史研究所等の研究者の参加も得ながら、国内・国外で各1回、研究会を開催した。そして、歴史的文字画像データ共通検索の基本コンセプトを、「開かれた」「対等」「継続的」として、このコンセプト基づいた「共通検索のためのるフレームワークの構築」作業に着手し、具体的な取り決めを決定した。この内容については、朝日新聞等でも報道された。詳細は『奈良文化財研究所紀要2019』に掲載予定である。\nまた、研究の促進と参加誘発を目指して、奈良文化財研究所が公開している木簡関連の総合データベース「木簡庫」に検索した木簡情報（釈文・メタデータ等）をCSVファイルでダウンロードすることができる機能を追加し、オープンデータとした。これにより、利用者の目的に応じた木簡データのダウンロードおよびそれを活用しての研究や、さらにはそれぞれの関心に基づくデータベースの作成・公開も可能になった。この内容についても、朝日新聞・NHK等で報道された。\n文字に関する知識の集積作業として、あらたに気づきメモ約13000文字分（のべ）、観察記録シート約15000文字分（のべ）の情報を収集した。従来からの蓄積と合わせると、観察記録シートによる文字情報は木簡庫で公開している文字画像の約25％（テキストで公表している釈文文字数の約10％）に到達した。文字画像の切り出し・公開は1067字分行った。また、観察記録シートの手法を試験的に用い、中国晋代簡牘・韓国新羅木簡・日本平城宮木簡の比較を行い、それぞれの親和性を検討した研究を行い、成果を得た。\nこの他、木簡の調査者との情報共有のためのワークショップを開催した。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "18H05221"
+  ],
+  "national_grant_number": [
+   "JP18H05221"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-18H05221/18H05221_saitaku_gaiyo_ja.pdf",
+   "label": "url"
+  },
+  {
+   "@id": "https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-18H05221/18H05221_saitaku_shoken_ja.pdf",
+   "label": "url"
+  },
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18H05221"
+  }
+ ]
+}

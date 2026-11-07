@@ -1,0 +1,115 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508595",
+ "@type": "research_projects",
+ "rm:id": "39508595",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-09-01 06:07:11",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-08-05T02:18:11Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T11:15:08Z",
+ "research_project_title": {
+  "ja": "荘園絵図調査・解析方法に関する総括的研究と汎用的な歴史地理情報への応用研究",
+  "en": "Comprehensive research on \"Shoen-ezu\" survey and analysis methods and applied research on general-purpose historical geographic information"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "井上 聡"
+   },
+   {
+    "name": "榎原 雅治"
+   },
+   {
+    "name": "藤原 重雄"
+   },
+   {
+    "name": "岡本 真"
+   },
+   {
+    "name": "山田 太造"
+   },
+   {
+    "name": "菊地 大樹"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "守田 逸人"
+   },
+   {
+    "name": "渡辺 晃宏"
+   },
+   {
+    "name": "高田 祐一"
+   },
+   {
+    "name": "関野 樹"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 基盤研究(A)",
+  "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)"
+ },
+ "category": {
+  "ja": "基盤研究(A)",
+  "en": "Grant-in-Aid for Scientific Research (A)"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2022-04-01",
+ "to_date": "2027-03-31",
+ "overall_grant_amount": {
+  "total_cost": "39910000",
+  "direct_cost": "30700000",
+  "indirect_cost": "9210000"
+ },
+ "identifiers": {
+  "grant_number": [
+   "22H00016"
+  ],
+  "national_grant_number": [
+   "JP22H00016"
+  ],
+  "rm:published_paper_id": [
+   "52101817",
+   "52101820",
+   "52101819",
+   "52101818"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22H00016"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101817"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101819"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+  }
+ ]
+}

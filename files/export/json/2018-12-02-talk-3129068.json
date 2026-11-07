@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/3129068",
+ "@type": "presentations",
+ "rm:id": "3129068",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-30T09:13:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-11-30T09:13:22Z",
+ "presentation_title": {
+  "ja": "大学が公開するIIIFデータ"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "じんもんこん・総合資料学共催セッション「歴史研究と人文研究のためのデータを学ぶ」"
+ },
+ "publication_date": "2018-12-02",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "https://www.metaresource.jp/2018jmc/"
+  }
+ ]
+}

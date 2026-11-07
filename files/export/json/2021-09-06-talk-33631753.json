@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/33631753",
+ "@type": "presentations",
+ "rm:id": "33631753",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-09-10T06:34:59Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-09-10T06:34:59Z",
+ "presentation_title": {
+  "ja": "東京大学における日本史史料の長期利用とデータ共有・連結化"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "渋谷綾子"
+   },
+   {
+    "name": "大向一輝"
+   },
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "渡邉要一郎"
+   },
+   {
+    "name": "平澤加奈子"
+   },
+   {
+    "name": "山田俊幸"
+   }
+  ]
+ },
+ "event": {
+  "ja": "日本デジタル・ヒューマニティーズ学会第11回年次シンポジウム（JADH2021）"
+ },
+ "publication_date": "2021-09-06",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

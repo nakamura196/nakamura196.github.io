@@ -1,0 +1,85 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509583",
+ "@type": "published_papers",
+ "rm:id": "23509583",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T10:31:44Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-08-29T21:37:09Z",
+ "paper_title": {
+  "ja": "インシデントレポートの自動分類とその分析環境の構築と評価",
+  "en": "Labeling of Incident Reports and Development and Evaluation of Analysis Environments"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "岡田伊策"
+   },
+   {
+    "name": "齋藤稔"
+   },
+   {
+    "name": "安藤峻"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "人工知能学会"
+ },
+ "publication_date": "2013",
+ "publication_name": {
+  "ja": "2013年度人工知能学会全国大会"
+ },
+ "volume": "27",
+ "number": "1E3-3",
+ "starting_page": "1",
+ "ending_page": "4",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "1347-9881"
+  ],
+  "cinii_na_id": [
+   "40020288866"
+  ],
+  "cinii_nc_id": [
+   "AA11578981"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/40020288866",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/AA11578981",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://hdl.handle.net/2261/55518",
+   "is_downloadable": false,
+   "label": "url"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101853",
+ "@type": "presentations",
+ "rm:id": "52101853",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:24:17Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-13T02:10:45Z",
+ "presentation_title": {
+  "ja": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み（パネルディスカッション）",
+  "en": "Archivematica を用いた人文学データのキュレーションプロセスの自動化に関する試み（パネルディスカッション）"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "研究データエコシステム構築事業シンポジウム 2025"
+ },
+ "publication_date": "2025-10-09",
+ "from_event_date": "2025-10-09",
+ "to_event_date": "2025-10-10",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "39508593"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

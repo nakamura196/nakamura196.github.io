@@ -1,0 +1,61 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/55292855",
+ "@type": "research_projects",
+ "rm:id": "55292855",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-10-19T16:48:05Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-10-19T16:48:05Z",
+ "research_project_title": {
+  "ja": "データ駆動型歴史情報研究基盤の構築",
+  "en": "Construction of Data-Driven Historical Information Research Infrastructure"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "東京大学・Google（東大・Google連携事業）",
+  "en": "The University of Tokyo and Google (UTokyo-Google Partnership)"
+ },
+ "system_name": {
+  "ja": "Google Cloud Platform クーポン事業（GCPグラント）",
+  "en": "Google Cloud Platform Credit Grant"
+ },
+ "category": {
+  "ja": "研究助成・計算資源提供",
+  "en": "Research Grant / Cloud Computing Credits"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2021-12",
+ "to_date": "2023-01",
+ "research_project_owner_role": "principal_investigator",
+ "description": {
+  "ja": "東大・Google連携事業の一環であるGoogle Cloud Platform クーポン事業に採択。25,000米ドル相当のGCPクレジット（クーポン）の提供を受け、データ駆動型歴史情報研究基盤の構築を実施。",
+  "en": "Selected for the UTokyo-Google Partnership Google Cloud Platform Credit Grant program ($25,000 in GCP credits) to develop data-driven historical information research infrastructure."
+ },
+ "fund_type": "competitive_research_funding",
+ "is_international_collaboration": true,
+ "see_also": [
+  {
+   "@id": "https://cloud.google.com/",
+   "label": "url"
+  }
+ ]
+}

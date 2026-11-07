@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "シェリー書簡 透過光画像を使った IIIF アプリケーション",
+  "en": "Shelley Letter: IIIF Application with Transmitted-Light Images"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2020-08",
+ "to_date": "9999",
+ "description": {
+  "ja": "総合図書館が所蔵するシェリーの書簡を、通常の画像と透過光で撮った画像で見比べられるようにしたもの。IIIF Image API level 0 を使い、画像も含めて静的なファイルだけで作っている。",
+  "en": "A letter by Shelley held by the General Library, shown so that the ordinary image can be compared with one taken in transmitted light. Built from static files only, images included, using IIIF Image API level 0."
+ },
+ "see_also": [
+  {
+   "@id": "https://utda.github.io/shelley/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

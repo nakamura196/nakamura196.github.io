@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "東洋文庫 漢籍データベース",
+  "en": "Toyo Bunko Chinese Classics Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-10",
+ "to_date": "9999",
+ "description": {
+  "ja": "東洋文庫が所蔵する漢籍（中国古典籍）約10万件の書誌を検索できるデータベース。旧字体・簡体字・拼音での検索、7つのファセット、叢書と収録書目のたどり、一部貴重書の IIIF 画像閲覧に対応。",
+  "en": "Searchable bibliographic records of about 100,000 classical Chinese books held by the Toyo Bunko. Search in traditional or simplified characters and pinyin, seven facets, collectanea and their contents, and IIIF images for some rare books."
+ },
+ "see_also": [
+  {
+   "@id": "https://kanseki.toyobunko-lab.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://kanseki.toyobunko-lab.jp/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

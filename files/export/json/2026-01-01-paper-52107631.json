@@ -1,0 +1,85 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631",
+ "@type": "published_papers",
+ "rm:id": "52107631",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-27T08:02:42Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-08T02:01:18Z",
+ "paper_title": {
+  "ja": "テキストが拓くデジタルアーカイブの可能性 ―生成・構造化・活用の実践―",
+  "en": "テキストが拓くデジタルアーカイブの可能性 ―生成・構造化・活用の実践―"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "publication_date": "2026-01",
+ "publication_name": {
+  "ja": "専門図書館",
+  "en": "Senmon Toshokan"
+ },
+ "volume": "324",
+ "starting_page": "2",
+ "ending_page": "8",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "51361068",
+   "50040755",
+   "47578926",
+   "35961918",
+   "50851868",
+   "39508593",
+   "50553053"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961918",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50851868",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50553053",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

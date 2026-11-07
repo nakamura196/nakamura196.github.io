@@ -1,0 +1,153 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+ "@type": "research_projects",
+ "rm:id": "50040755",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-10-15 03:55:02",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "coauthor",
+ "rm:created": "2025-05-01T09:02:56Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "coauthor",
+ "rm:modified": "2025-05-01T09:02:56Z",
+ "research_project_title": {
+  "ja": "TEIを中心とした高度な歴史テキスト構築"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "小風 尚樹"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "王 雯璐"
+   },
+   {
+    "name": "松下 正和"
+   },
+   {
+    "name": "小風 綾乃"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業"
+ },
+ "category": {
+  "ja": "学術変革領域研究(A)「歴史情報学の創成」"
+ },
+ "institution_name": {
+  "ja": "千葉大学"
+ },
+ "from_date": "2025-04",
+ "to_date": "2030-03",
+ "overall_grant_amount": {
+  "total_cost": "106600000",
+  "direct_cost": "82000000",
+  "indirect_cost": "24600000"
+ },
+ "fund_type": "competitive_research_funding",
+ "identifiers": {
+  "grant_number": [
+   "25H01244"
+  ],
+  "national_grant_number": [
+   "JP25H01244"
+  ],
+  "rm:published_paper_id": [
+   "52107631",
+   "52101821",
+   "52101820",
+   "52101818",
+   "51774561",
+   "51796110",
+   "50180021"
+  ],
+  "rm:presentation_id": [
+   "53693684",
+   "52982498",
+   "52101759",
+   "51796134"
+  ],
+  "rm:work_id": [
+   "53693694",
+   "52982867",
+   "52982866",
+   "36900480"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PLANNED-25H01244",
+   "label": "kaken"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51796110"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/50180021"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53693684"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52982498"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101759"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796134"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/53693694"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/52982867"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/52982866"
+  },
+  {
+   "label": "rm:works",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900480"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/49873463",
+ "@type": "published_papers",
+ "rm:id": "49873463",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-04-17T02:04:53Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-04-17T02:04:53Z",
+ "paper_title": {
+  "ja": "S×UKILAM教材アーカイブのLOD化とその応用：デジタルアーカイブを活用した教材と関連情報の接続・構造化",
+  "en": "Converting the S×UKILAM learning materials archive to LOD and further application"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "大井 将生"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "大向 一輝"
+   },
+   {
+    "name": "渡邉 英徳"
+   }
+  ],
+  "en": [
+   {
+    "name": "Masao OI"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Ikki Ohmukai"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ]
+ },
+ "publication_date": "2025-03",
+ "publication_name": {
+  "ja": "デジタル・ヒューマニティーズ",
+  "en": "Japanese Journal of Digital Humanities"
+ },
+ "volume": "4",
+ "number": "1",
+ "starting_page": "13",
+ "ending_page": "24",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24576/jadh.4.1_13"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24576/jadh.4.1_13",
+   "is_downloadable": false
+  }
+ ]
+}

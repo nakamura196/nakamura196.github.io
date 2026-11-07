@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "LD Browser",
+  "en": "LD Browser — Linked Data in the Browser"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-10",
+ "to_date": "9999",
+ "description": {
+  "ja": "URI を入れると、その Linked Data をブラウザだけで取りに行き、表とグラフにしてたどれる。Turtle・N-Triples・TriG・JSON-LD・RDF/XML のほか、HTML に埋め込まれた JSON-LD・microdata・RDFa も読む。神崎正英氏の LD Browser に着想を得て、サーバを使わない形で作り直した。",
+  "en": "Enter a URI and the browser itself fetches the Linked Data and shows it as tables and graphs you can follow link by link. Reads Turtle, N-Triples, TriG, JSON-LD and RDF/XML, plus JSON-LD, microdata and RDFa embedded in HTML. Inspired by Masahide Kanzaki's LD Browser, rebuilt to run without a server."
+ },
+ "see_also": [
+  {
+   "@id": "https://browser.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/ld-browser",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

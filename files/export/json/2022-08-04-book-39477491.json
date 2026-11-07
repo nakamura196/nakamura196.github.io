@@ -1,0 +1,77 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/39477491",
+ "@type": "books_etc",
+ "rm:id": "39477491",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-08-03T05:49:27Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-08-03T05:49:27Z",
+ "book_title": {
+  "ja": "人文学のためのテキストデータ構築入門: TEIガイドラインに準拠した取り組みにむけて"
+ },
+ "book_owner_role": "contributor",
+ "authors": {
+  "ja": [
+   {
+    "name": "石田 友梨"
+   },
+   {
+    "name": "大向 一輝"
+   },
+   {
+    "name": "小風 綾乃"
+   },
+   {
+    "name": "永崎 研宣"
+   },
+   {
+    "name": "宮川 創"
+   },
+   {
+    "name": "渡邉 要一郎"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "第3部 事例編：テキストデータ構築の最新事情①・第4章 TEIデータの可視化方法と事例紹介"
+ },
+ "publisher": {
+  "ja": "文学通信"
+ },
+ "publication_date": "2022-08-04",
+ "total_page": "424",
+ "identifiers": {
+  "ean": [
+   "9784909658845"
+  ],
+  "isbn": [
+   "490965884X"
+  ],
+  "asin": [
+   "490965884X"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://www.amazon.co.jp/dp/490965884X?linkCode=osi&th=1&psc=1",
+   "label": "amazon"
+  },
+  {
+   "@id": "https://m.media-amazon.com/images/I/51DzQzM7x3L._SL75_.jpg",
+   "label": "amazon_small_image"
+  },
+  {
+   "@id": "https://m.media-amazon.com/images/I/51DzQzM7x3L._SL160_.jpg",
+   "label": "amazon_medium_image"
+  },
+  {
+   "@id": "https://m.media-amazon.com/images/I/51DzQzM7x3L._SL500_.jpg",
+   "label": "amazon_large_image"
+  }
+ ]
+}

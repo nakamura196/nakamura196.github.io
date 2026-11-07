@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Von West nach Ost（鷗外「演劇問題に就いて」TEI）",
+  "en": "Von West nach Ost (Ōgai, Über die Theaterfrage, TEI)"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2023-11",
+ "to_date": "9999",
+ "description": {
+  "ja": "第一高等学校旧蔵資料のうち、森鷗外のドイツ語の文章『Über die Theaterfrage』（演劇問題に就いて）を TEI/XML で翻刻し、原本の画像と並べて読めるようにした特設サイト。",
+  "en": "A site for Mori Ōgai's German essay Über die Theaterfrage, from the First Higher School collection, transcribed in TEI/XML and shown beside images of the original."
+ },
+ "see_also": [
+  {
+   "@id": "https://utda.github.io/ogai/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

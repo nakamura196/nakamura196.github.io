@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509570",
+ "@type": "published_papers",
+ "rm:id": "23509570",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:50:00Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T09:50:00Z",
+ "paper_title": {
+  "ja": "社会実験事例データベース構築による知識蓄積",
+  "en": "Knowledge Accumulation with the Da tabase of Social Experiments"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "満行泰河"
+   },
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "岡本孝司"
+   },
+   {
+    "name": "橋本康弘"
+   }
+  ]
+ },
+ "publication_date": "2014-03",
+ "publication_name": {
+  "ja": "人工知能学会第2種研究会(SIG-KST)",
+  "en": "人工知能学会第2種研究会(SIG-KST)"
+ },
+ "number": "SIG-KST-2014-03-01",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}

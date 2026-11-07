@@ -1,0 +1,34 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31584982",
+ "@type": "presentations",
+ "rm:id": "31584982",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-02-04T06:46:45Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-04T06:46:45Z",
+ "presentation_title": {
+  "ja": "IIIF Curation Platformを用いたデジタルアーカイブの活用"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "第14回CODHセミナー：IIIF Curation Platform利活用レシピ100連発"
+ },
+ "publication_date": "2021-02-18",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

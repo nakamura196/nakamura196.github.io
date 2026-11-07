@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/39478840",
+ "@type": "published_papers",
+ "rm:id": "39478840",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-08-03T05:55:45Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-08-03T05:55:45Z",
+ "paper_title": {
+  "ja": "Building a Knowledge Base for Data-Driven Historical Information Research Infrastructure and Its Application with Historical Painting Materials"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Nakamura, Satoru"
+   },
+   {
+    "name": "Suda, Makiko"
+   },
+   {
+    "name": "Kuroshima, Satoru"
+   },
+   {
+    "name": "Inoue, Satoshi"
+   },
+   {
+    "name": "Yamada, Taizo"
+   }
+  ]
+ },
+ "publication_date": "2022-07",
+ "publication_name": {
+  "ja": "Digital Humanities 2022"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false
+}

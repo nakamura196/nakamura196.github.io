@@ -1,0 +1,69 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/15864842",
+ "@type": "published_papers",
+ "rm:id": "15864842",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-04-09T11:39:49Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-07-02T03:29:01Z",
+ "paper_title": {
+  "ja": "個人アーカイブから想起のコミュニティへ",
+  "en": "Personal Archive and Emergence of Commemorative Community"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "宮本隆史"
+   },
+   {
+    "name": "前川俊行"
+   },
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Takashi Miyamoto"
+   },
+   {
+    "name": "Toshiyuki Maekawa"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "publication_date": "2019-03",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Journal of the Japan Society for Digital Archive"
+ },
+ "volume": "3",
+ "number": "2",
+ "starting_page": "207",
+ "ending_page": "210",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.3.2_207"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.3.2_207",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509556",
+ "@type": "published_papers",
+ "rm:id": "23509556",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T05:54:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T09:14:54Z",
+ "paper_title": {
+  "ja": "U-PARLにおける漢籍・碑帖拓本デジタルアーカイブの試作と研究利用",
+  "en": "Prototyping of Digital Library and Application to Philological Studies of Rare Chinese Books and Calligraphic Models in U-PARL"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "成田健太郎"
+   },
+   {
+    "name": "永井正勝"
+   },
+   {
+    "name": "冨澤かな"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kentaro Narita"
+   },
+   {
+    "name": "Masakatsu Nagai"
+   },
+   {
+    "name": "Kana Tomizawa"
+   }
+  ]
+ },
+ "publication_date": "2018-01",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2018-CH-116",
+ "number": "5",
+ "starting_page": "1",
+ "ending_page": "8",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "2188-8957"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00185462/",
+   "is_downloadable": false
+  }
+ ]
+}

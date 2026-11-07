@@ -1,0 +1,33 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433775",
+ "@type": "works",
+ "rm:id": "46433775",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-09T10:38:22Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-05-09T10:38:22Z",
+ "work_title": {
+  "ja": "ゲーテ自署付書簡テキストデータ（TEI準拠）"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東京大学総合図書館"
+   }
+  ]
+ },
+ "from_date": "2023-03-14",
+ "to_date": "9999",
+ "see_also": [
+  {
+   "@id": "https://utda.github.io/goethe/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

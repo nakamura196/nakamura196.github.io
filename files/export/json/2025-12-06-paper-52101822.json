@@ -1,0 +1,84 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101822",
+ "@type": "published_papers",
+ "rm:id": "52101822",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:16:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-17T09:17:36Z",
+ "paper_title": {
+  "ja": "多言語資料を対象とした画像＝テキスト連携データベースプラットフォーム構築のためのDrupalモジュール開発",
+  "en": "Development of a Drupal Module for Building a Multilingual Image-Text Linked Database Platform"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "和氣愛仁"
+   },
+   {
+    "name": "永井正勝"
+   },
+   {
+    "name": "髙橋洋成"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "菅野倫匡"
+   },
+   {
+    "name": "菊池そのみ"
+   }
+  ],
+  "en": [
+   {
+    "name": "Toshihito Waki"
+   },
+   {
+    "name": "Masakatsu Nagai"
+   },
+   {
+    "name": "Yona Takahashi"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Michimasa Kanno"
+   },
+   {
+    "name": "Sonomi Kikuchi"
+   }
+  ]
+ },
+ "publication_date": "2025-12-06",
+ "publication_name": {
+  "ja": "じんもんこん2025論文集"
+ },
+ "volume": "2025",
+ "starting_page": "323",
+ "ending_page": "328",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "53678648"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53678648",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

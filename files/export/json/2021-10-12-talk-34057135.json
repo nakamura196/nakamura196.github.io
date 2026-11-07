@@ -1,0 +1,35 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/34057135",
+ "@type": "presentations",
+ "rm:id": "34057135",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-10-17T15:31:36Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-10-17T15:31:36Z",
+ "presentation_title": {
+  "ja": "カルチュラル・ジャパンを使ってもらう",
+  "en": "Lecture 5-1: Getting people to use Cultural Japan"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタルアーカイブ学会, 第 6 回研究大会第 2 部サテライト・セッション, 技術部会・ジャパンサーチ研究会共催「ジャパンサーチの活用例としてのカルチュラル・ジャパン」"
+ },
+ "publication_date": "2021-10-12",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

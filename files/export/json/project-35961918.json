@@ -1,0 +1,106 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961918",
+ "@type": "research_projects",
+ "rm:id": "35961918",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-05-08 02:01:18",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-12-01T03:22:06Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T09:20:40Z",
+ "research_project_title": {
+  "ja": "断片的史料情報の集積と歴史知識情報の相互参照体制の確立による新たな史料学構築研究",
+  "en": "Constructing a new historical materials study by accumulating fragmentary historical material information and cross-referencing historical knowledge information"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "西田 友広"
+   },
+   {
+    "name": "佐藤 雄基"
+   },
+   {
+    "name": "守田 逸人"
+   },
+   {
+    "name": "深川 大路"
+   },
+   {
+    "name": "井上 聡"
+   },
+   {
+    "name": "三輪 眞嗣"
+   },
+   {
+    "name": "高橋 悠介"
+   },
+   {
+    "name": "貫井 裕恵"
+   },
+   {
+    "name": "山田 太造"
+   },
+   {
+    "name": "堀川 康史"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "高田 智和"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 基盤研究(A)",
+  "en": "Grant-in-Aid for Scientific Research (A)"
+ },
+ "category": {
+  "ja": "基盤研究(A)"
+ },
+ "institution_name": {
+  "ja": "東京大学"
+ },
+ "from_date": "2021-04-05",
+ "to_date": "2026-03-31",
+ "overall_grant_amount": {
+  "total_cost": "40690000",
+  "direct_cost": "31300000",
+  "indirect_cost": "9390000"
+ },
+ "identifiers": {
+  "grant_number": [
+   "21H04356"
+  ],
+  "national_grant_number": [
+   "JP21H04356"
+  ],
+  "rm:published_paper_id": [
+   "52107631",
+   "52101818"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04356"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818"
+  }
+ ]
+}

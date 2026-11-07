@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48486589",
+ "@type": "published_papers",
+ "rm:id": "48486589",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T07:05:49Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T07:05:49Z",
+ "paper_title": {
+  "ja": "Toward the Structuring of Japanese Historical Materials Using TEI: A Case Study of 'Shoshushibun' and 'Sakugenshuryobunshu'",
+  "en": "Toward the Structuring of Japanese Historical Materials Using TEI: A Case Study of 'Shoshushibun' and 'Sakugenshuryobunshu'"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "publication_date": "2024-09",
+ "publication_name": {
+  "ja": "The 13th International Conference of Japanese Association for Digital Humanities",
+  "en": "The 13th International Conference of Japanese Association for Digital Humanities"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false
+}

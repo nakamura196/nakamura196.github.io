@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31573792",
+ "@type": "published_papers",
+ "rm:id": "31573792",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-02-03T06:19:37Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-07-13T04:37:41Z",
+ "paper_title": {
+  "ja": "ヒエラティックとヒエログリフの対応関係の再検討に基づくHieratische Paläographie DBの更新"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "永井正勝"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "和氣愛仁"
+   },
+   {
+    "name": "高橋洋成"
+   }
+  ]
+ },
+ "publication_date": "2021-02",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2020-CH-125",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "http://id.nii.ac.jp/1001/00209266/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961917",
+ "@type": "research_projects",
+ "rm:id": "35961917",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-12-01T03:22:06Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T09:28:24Z",
+ "research_project_title": {
+  "ja": "古代エジプト神官文字写本の地域差を含めた言語記述とⅢF検索プラットフォームの構築",
+  "en": "Linguistic Description and Constructing IIIF-based Data Platform for Ancient Egyptian Hieratic Texts: Toward Clarifying Regional Differences."
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "永井 正勝"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 基盤研究(C)",
+  "en": "Grant-in-Aid for Scientific Research (C)"
+ },
+ "category": {
+  "ja": "基盤研究(C)"
+ },
+ "institution_name": {
+  "ja": "東京大学"
+ },
+ "from_date": "2021-04-01",
+ "to_date": "2024-03-31",
+ "overall_grant_amount": {
+  "total_cost": "4160000",
+  "direct_cost": "3200000",
+  "indirect_cost": "960000"
+ },
+ "description": {
+  "ja": "本研究の目的は、第一に、古代エジプト語の神官文字写本を対象とした言語記述の実践を行うことにある。対象資料は第19-20王朝時代の書簡とする。具体的にはエジプト北部の新都ペルラメセスで執筆された書簡９通とエジプト南部の古都テーベで執筆された書簡７通を対象とし、文字、形態素・語、構文について地域差含めた言語記述を行う。第二に、①言語記述の結果、②神官文字のIIIF画像、③開発済みの神官文字字形データベース、の３点をシームレスに統合させた検索システムを開発する。代表者は言語学の立場から言語記述を、分担者は情報学の立場からシステム構築を行い、双方の分野での研究の進展を目指す。本研究課題は、オープンデータ（原資料の画像公開）、オープンメタデータ（言語記述の成果の公開）、オープンツール（検索システムの公開）を兼ね備えた検索プラットフォームの構築を目指すものである。言語記述班は北部地方の書簡９通（ライデン国立古代博物館所蔵 Leiden I 360～368）のそれぞれについて、まずは文法記述を実施した。書簡ごとの際については、現在、検討中である。システム構築班は、本研究の課題としている「言語記述の成果（アノテーション）」と「資料のIIIF形式画像（データ）」を用いたIIIF検索プラットフォームの構築に向けて、アノテーションに対する検索を可能にするIIIF Content Search APIを用いたプロトタイプ開発を行なった。具体的には、国立国会図書館が公開するIIIF画像とOCRテキストデータを利用した、全文検索アプリケーションを開発した。今後は、言語記述の成果を原資料のIIIF画像に連携させるプラットフォームを構築させるともに、申請代表者と分担者らが開発した「『ヒエラティック古書体学』データベース」をプラットフォームにリンクさせる作業を実施する予定である。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "21K00472"
+  ],
+  "national_grant_number": [
+   "JP21K00472"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K00472"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/26367125",
+ "@type": "published_papers",
+ "rm:id": "26367125",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-04-13T03:07:17Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2021-10-25T12:41:03Z",
+ "paper_title": {
+  "ja": "コミュニティ・アーカイブの方法論の構築に向けて: 千代田区におけるデジタルアーカイブ・ワークショップの事例より",
+  "en": "Towards a Methodology for Community Archiving."
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Takashi Miyamoto"
+   },
+   {
+    "name": "Yukiko Katagiri"
+   }
+  ],
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "宮本隆史"
+   },
+   {
+    "name": "片桐由希子"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "description": {
+  "ja": "<p>東京文化資源会議の地域文化資源デジタルアーカイブ・プロジェクトは、さまざまな主体が地域の文化資源をデジタルアーカイブ化し、それを住民が活用することによって、地域コミュニティの活性化につなげる仕組みの構築を狙いとして活動している。本報告では、その活動の一環として、千代田区の後援を受けて実施した「デジタルアーカイブ・ワークショップ」の内容と結果について紹介する。ワークショップでは、「小中学校のおもいで」というテーマを設定し、参加者が持ち寄る資料をデジタル化するとともにインタビューを行い、資料に関する周辺情報も記録する。参加者には、資料の収集、デジタル化、公開、活用までの一連の作業を体験してもらい、コミュニティの中で主体的に文化資源を発掘・活用する方法に触れる機会とする。本プロジェクトでは、このワークショップによる経験を通じて、地域コミュニティがアーカイブを生成する方法を模索する。</p>"
+ },
+ "publisher": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "publication_date": "2020-04",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Journal of the Japan Society for Digital Archive"
+ },
+ "volume": "4",
+ "number": "2",
+ "starting_page": "109",
+ "ending_page": "112",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.4.2_109"
+  ],
+  "issn": [
+   "2432-9762"
+  ],
+  "cinii_na_id": [
+   "130007836481"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.4.2_109",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/130007836481",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "CSV Viewer",
+  "en": "CSV Viewer — URL-based CSV Browser"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2024-12",
+ "to_date": "9999",
+ "description": {
+  "ja": "CSVファイルのURLを指定するだけで、ページング・検索・ソートに対応したインタラクティブなテーブルとして表示できるWebビューア。Omeka S BulkImport の Dublin Core サンプルなどクイックロード用CSVも同梱。Tailwind CSS・PapaParse・DataTables 構成。",
+  "en": "Web-based CSV viewer that loads CSV files via URL or query parameter and displays them as an interactive table with paging, search, and sorting. Ships with quick-load samples including the Omeka S BulkImport Dublin Core layout. Built with Tailwind CSS, PapaParse, and DataTables."
+ },
+ "see_also": [
+  {
+   "@id": "https://csv.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/csv_viewer",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

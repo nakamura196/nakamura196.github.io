@@ -1,0 +1,73 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/34057128",
+ "@type": "books_etc",
+ "rm:id": "34057128",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-10-17T15:28:57Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-10-17T15:28:57Z",
+ "book_title": {
+  "ja": "新しい産業創造へ (デジタルアーカイブ・ベーシックス 5)"
+ },
+ "book_owner_role": "joint_editor",
+ "authors": {
+  "ja": [
+   {
+    "name": "久永, 一郎"
+   },
+   {
+    "name": "時実, 象一"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "勉誠出版"
+ },
+ "publication_date": "2021-05-31",
+ "total_page": "238",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "ean": [
+   "9784585202851"
+  ],
+  "cinii_nc_id": [
+   "BC07624013"
+  ],
+  "isbn": [
+   "4585202854"
+  ],
+  "asin": [
+   "4585202854"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BC07624013",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://www.amazon.co.jp/dp/4585202854?linkCode=osi&th=1&psc=1",
+   "label": "amazon"
+  },
+  {
+   "@id": "https://m.media-amazon.com/images/I/41bap+TluXS._SL75_.jpg",
+   "label": "amazon_small_image"
+  },
+  {
+   "@id": "https://m.media-amazon.com/images/I/41bap+TluXS._SL160_.jpg",
+   "label": "amazon_medium_image"
+  },
+  {
+   "@id": "https://m.media-amazon.com/images/I/41bap+TluXS._SL500_.jpg",
+   "label": "amazon_large_image"
+  }
+ ]
+}

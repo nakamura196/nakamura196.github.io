@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "IIIF AR アプリ",
+  "en": "IIIF Augmented Reality — iOS App"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "IIIFマニフェストと連携し、史料・古地図をARで現実空間に重ねて閲覧できるiOSアプリ。屋外での地図比較・現地調査に活用可能。",
+  "en": "iOS app that overlays historical documents and old maps onto real space via AR using IIIF manifests. Useful for outdoor map comparison and fieldwork."
+ },
+ "see_also": [
+  {
+   "@id": "https://ar.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/iiif-ar-ios",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

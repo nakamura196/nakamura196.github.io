@@ -1,0 +1,57 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/16229161",
+ "@type": "published_papers",
+ "rm:id": "16229161",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-05-14T03:48:44Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-05-14T03:48:44Z",
+ "paper_title": {
+  "ja": "歴史学と情報学のより良い協働を目指して―オープンなDH支援ツールを用いたボスニアのカトリック修道院所蔵のオスマン・トルコ語文書群のデータ整理の一事例",
+  "en": "Toward better collaboration between history and informatics - An example of arrangement of Ottoman-Turkish documents from the Catholic monastery in Bosnia with open DH support tools"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "佐治奈通子"
+   },
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Natsuko Saji"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "publication_date": "2019-05",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2019-CH-120",
+ "number": "11",
+ "starting_page": "1",
+ "ending_page": "7",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00195477/",
+   "is_downloadable": false
+  }
+ ]
+}

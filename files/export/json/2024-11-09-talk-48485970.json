@@ -1,0 +1,43 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48485970",
+ "@type": "presentations",
+ "rm:id": "48485970",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T05:54:21Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T05:54:21Z",
+ "presentation_title": {
+  "ja": "System Using NDLOCR for Print Images of the Historiographical Institute The University of Tokyo",
+  "en": "System Using NDLOCR for Print Images of the Historiographical Institute The University of Tokyo"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Sophia Research Week presents the International Symposium: Showcasing the Japan Biographical Database (JBDB)",
+  "en": "Sophia Research Week presents the International Symposium: Showcasing the Japan Biographical Database (JBDB)"
+ },
+ "publication_date": "2024-11-09",
+ "from_event_date": "2024-11-09",
+ "to_event_date": "2024-11-09",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

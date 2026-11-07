@@ -1,0 +1,97 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/30022275",
+ "@type": "research_projects",
+ "rm:id": "30022275",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-05-31 05:08:46",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-09-10T02:45:17Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T07:12:35Z",
+ "research_project_title": {
+  "ja": "コンテキストに応じた人文科学データパッケージ化に関する研究",
+  "en": "A Study of Contextual Data Packaging for Humanities"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "山家 浩樹"
+   },
+   {
+    "name": "本郷 恵子"
+   },
+   {
+    "name": "尾上 陽介"
+   },
+   {
+    "name": "阿児 雄之"
+   },
+   {
+    "name": "林 晃弘"
+   },
+   {
+    "name": "井上 聡"
+   },
+   {
+    "name": "小瀬 玄士"
+   },
+   {
+    "name": "馬場 基"
+   },
+   {
+    "name": "山田 太造"
+   },
+   {
+    "name": "渋谷 綾子"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 基盤研究(A)",
+  "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)"
+ },
+ "category": {
+  "ja": "基盤研究(A)",
+  "en": "Grant-in-Aid for Scientific Research (A)"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2020-04",
+ "to_date": "2025-03",
+ "research_project_owner_role": "coinvestigator",
+ "overall_grant_amount": {
+  "total_cost": "44200000",
+  "direct_cost": "34000000",
+  "indirect_cost": "10200000"
+ },
+ "description": {
+  "ja": "2020年度までの成果にもとづき、以下に示す3課題を実施した。\n１．多様かつ大量なデータの統合と永続的な提供を可能にする環境整備：史料編纂所における基幹である所蔵史料目録DB（Hi-CAT）と史資料の物理的データ（紙質・状態・修理履歴など）を集約する「史料情報統合管理システム」との連携を引き続き進めた。大量のデータを管理・共有していくため、新規にストレージを導入した。さらにデスクトップ上で顕微鏡画像へアノテーションを簡易に付与し管理できるアプリケーション「caid」を史料情報統合管理システムへアップロードできるなど出力方式の確立と実装を進めた。\n2. データのパッケージ化と提示手法の確立：1.の成果をもとに、史料に関わるさまざまなデータの収集していくコンテキストに基づいたパッケージ化方式の確立につとめた。この結果に対して、LDAやCNNといったAI・機械学習手法の適用を進めることでデータ駆動型データ提示モデルの検証を進めるため、史料データの分類や可視化の手法を取り入れたシステムのプロトタイピングを進めた。\n3. 紙史資料以外の人文科学研究資源への適用可能性の分析・検証：紙史資料を主対象とした1.および2.の手法を、奈良文化財研究所が行っている出土木簡を対象とする取り組みとの比較検証を進め、プロトタイピングを進めた。また、東京国立博物館蔵ガラス原板をもとにした史料画像の利活用を前提とした適用手法についても検証を進めた。継続して、1.における史料情報統合管理システムへのフィードバックについても検証を進めた。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "20H00010"
+  ],
+  "national_grant_number": [
+   "JP20H00010"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20H00010"
+  }
+ ]
+}

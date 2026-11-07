@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/49116010",
+ "@type": "awards",
+ "rm:id": "49116010",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-02-10T12:19:30Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-02-10T12:19:30Z",
+ "award_name": {
+  "ja": "じんもんこん2024「優秀論文賞」"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "大井将生"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "大野健人"
+   },
+   {
+    "name": "髙橋傑"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用"
+ },
+ "association": {
+  "ja": "情報処理学会 (IPSJ) 人文科学とコンピュータ研究会 (SIG-CH)"
+ },
+ "description": {
+  "ja": "論文の概要：\n本研究の目的は, 荘園関係データの活用を促進する情報／学習モデルを開発することである. そのために, １）国立歴史民俗博物館のDB「日本荘園」と「荘園関係文献目録」を活用した「nihuBridge LOD」を開発する. また, ２）開発したLODを用いた高等学校での学習モデルを開発する. 本稿では, 開発したLODと学習モデルの概要を述べると共に, これらを用いて行なった高等学校での授業実践の結果について考察する."
+ },
+ "award_date": "2025-02",
+ "award_type": "japan_society",
+ "address_country": "JPN",
+ "see_also": [
+  {
+   "@id": "https://jinmoncom.jp/sympo2024/",
+   "label": "url"
+  }
+ ]
+}

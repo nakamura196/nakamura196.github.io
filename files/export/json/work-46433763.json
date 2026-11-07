@@ -1,0 +1,33 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433763",
+ "@type": "works",
+ "rm:id": "46433763",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-09T10:34:36Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-05-09T10:36:47Z",
+ "work_title": {
+  "ja": "電子展示『捃拾帖』（拡張版）"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東京大学総合図書館"
+   }
+  ]
+ },
+ "from_date": "2022-08-31",
+ "to_date": "9999",
+ "see_also": [
+  {
+   "@id": "https://kunshujo-i.dl.itc.u-tokyo.ac.jp/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

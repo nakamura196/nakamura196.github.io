@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12420395",
+ "@type": "presentations",
+ "rm:id": "12420395",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-07T08:01:42Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-07T08:01:42Z",
+ "presentation_title": {
+  "ja": "チュートリアル「Omeka」"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "宮本隆史"
+   },
+   {
+    "name": "元ナミ"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村覚, 宮本隆史, 元ナミ"
+ },
+ "event": {
+  "ja": "デジタルアーカイブ学会第3回研究大会"
+ },
+ "publication_date": "2019-03-15",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://digitalarchivejapan.org/kenkyutaikai/3rd/tutorial"
+  }
+ ]
+}

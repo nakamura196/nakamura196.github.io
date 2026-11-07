@@ -1,0 +1,94 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821",
+ "@type": "published_papers",
+ "rm:id": "52101821",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:16:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-08T02:01:06Z",
+ "paper_title": {
+  "ja": "源氏かるたに香りで迫る多感覚情報フローモデル：TEIと源氏香図着目して",
+  "en": "A Multisensory Information Flow Model Approaching Genji Karuta Through Smell： Focus on TEI and Genji Kōzu"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "小澤翔瑛"
+   },
+   {
+    "name": "松井愛"
+   },
+   {
+    "name": "小金澤一心"
+   },
+   {
+    "name": "森本理希"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "大井将生"
+   }
+  ],
+  "en": [
+   {
+    "name": "Shoei Kozawa"
+   },
+   {
+    "name": "Ai Matsui"
+   },
+   {
+    "name": "Hitomi Koganezawa"
+   },
+   {
+    "name": "Riki Morimoto"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Masao Oi"
+   }
+  ]
+ },
+ "publication_date": "2025-12-06",
+ "publication_name": {
+  "ja": "じんもんこん2025論文集"
+ },
+ "volume": "2025",
+ "starting_page": "289",
+ "ending_page": "296",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755",
+   "50851868",
+   "50553053"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50851868",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50553053",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

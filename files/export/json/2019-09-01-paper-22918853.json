@@ -1,0 +1,61 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/22918853",
+ "@type": "published_papers",
+ "rm:id": "22918853",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-31T01:25:41Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-10-23T00:41:58Z",
+ "paper_title": {
+  "ja": "An Attempt of Dissemination of TEI in a TEI-underdeveloped country: Activities of the SIG EAJ",
+  "en": "An Attempt of Dissemination of TEI in a TEI-underdeveloped country: Activities of the SIG EAJ"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kazuhiro Okada"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kazuhiro Okada"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ]
+ },
+ "publication_date": "2019-09",
+ "publication_name": {
+  "ja": "The 19th annual Conference and Members Meeting of the Text Encoding Initiative Consortium",
+  "en": "The 19th annual Conference and Members Meeting of the Text Encoding Initiative Consortium"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": true,
+ "see_also": [
+  {
+   "@id": "https://gams.uni-graz.at/o:tei2019.156",
+   "label": "url",
+   "is_downloadable": true
+  }
+ ]
+}

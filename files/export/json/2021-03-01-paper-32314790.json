@@ -1,0 +1,50 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/32314790",
+ "@type": "published_papers",
+ "rm:id": "32314790",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-04-23T08:14:37Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-04-25T22:13:55Z",
+ "paper_title": {
+  "ja": "The University of Tokyo Digital Archives Development Project: Developing an Approach for Utilizing Academic Assets across Different Organizations",
+  "en": "The University of Tokyo Digital Archives Development Project: Developing an Approach for Utilizing Academic Assets across Different Organizations"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2021-03",
+ "publication_name": {
+  "ja": "The National Museum of Japanese History. Japanese and Asian Historical Research In the Digital Age.",
+  "en": "The National Museum of Japanese History. Japanese and Asian Historical Research In the Digital Age."
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "https://hdl.handle.net/2027/fulcrum.5d86p217p",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

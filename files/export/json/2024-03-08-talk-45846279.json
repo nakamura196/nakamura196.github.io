@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45846279",
+ "@type": "presentations",
+ "rm:id": "45846279",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-03-19T00:48:44Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-01T11:57:55Z",
+ "presentation_title": {
+  "ja": "人文学におけるLinked Dataの普及・教育"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Linked Pasts Japan Kick-off"
+ },
+ "publication_date": "2024-03-08",
+ "from_event_date": "2024-03-07",
+ "to_event_date": "2024-03-10",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "dataset": {
+  "dataset_name": "人文学におけるLinked Data の普及・教育.pdf",
+  "dataset_type": "published",
+  "access_url": "https://researchmap.jp/nakamura.satoru/presentations/45846279/attachment_file.pdf",
+  "rm:media_type": "application/pdf",
+  "rm:use_password": false,
+  "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/45846279/attachment_file.pdf?thumbnail"
+ },
+ "rm:is_open_access": false
+}

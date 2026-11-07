@@ -1,0 +1,72 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/45735266",
+ "@type": "published_papers",
+ "rm:id": "45735266",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-03-06T02:41:09Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-13T02:09:14Z",
+ "paper_title": {
+  "ja": "静的サイトジェネレータを用いたデジタルアーカイブシステムの構築：『Digital Cultural Heritage』への適用",
+  "en": "静的サイトジェネレータを用いたデジタルアーカイブシステムの構築：『Digital Cultural Heritage』への適用"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "高嶋朋子"
+   }
+  ],
+  "en": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "高嶋朋子"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2024-03",
+ "publication_name": {
+  "ja": "東京大学大学院情報学環社会情報研究資料センターニュース",
+  "en": "東京大学大学院情報学環社会情報研究資料センターニュース"
+ },
+ "number": "34",
+ "starting_page": "1",
+ "ending_page": "6",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "published_paper_type": "research_institution",
+ "is_international_journal": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "rm:research_project_id": [
+   "39508593"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://www.center.iii.u-tokyo.ac.jp/wp-content/uploads/34_all.pdf",
+   "label": "url",
+   "is_downloadable": true
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508593",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "YouTube GPS Viewer",
+  "en": "YouTube GPS Viewer"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-11",
+ "to_date": "2026-09",
+ "description": {
+  "ja": "Insta360 X5の360度動画とGPXファイルのGPSデータを同期して再生。360度映像と位置情報を地図上でリアルタイム可視化。",
+  "en": "Syncs 360-degree video from Insta360 X5 with GPX GPS data. Real-time visualization of 360-degree footage and location on a map."
+ },
+ "see_also": [
+  {
+   "@id": "https://insta360-viewer.vercel.app/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/2505713",
+ "@type": "awards",
+ "rm:id": "2505713",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-22T01:05:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-12-25T13:34:25Z",
+ "award_name": {
+  "ja": "学生奨励賞"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "小風尚樹"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "清原和之"
+   },
+   {
+    "name": "山王綾乃"
+   },
+   {
+    "name": "纓田宗紀"
+   },
+   {
+    "name": "小林拓実"
+   }
+  ]
+ },
+ "winners_text": {
+  "ja": "小風尚樹・中村覚・清原和之・山王綾乃・纓田宗紀・小林拓実"
+ },
+ "award_title": {
+  "ja": "歴史研究者・アーキビスト・エンジニアの学際的協働に基づくコミュニティ構築：Tokyo Digital Historyを事例に"
+ },
+ "association": {
+  "ja": "情報処理学会 人文科学とコンピュータ研究会"
+ },
+ "award_date": "2018-05"
+}

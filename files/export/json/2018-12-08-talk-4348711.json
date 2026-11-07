@@ -1,0 +1,53 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/4348711",
+ "@type": "presentations",
+ "rm:id": "4348711",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-12-08T22:57:38Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-05-14T03:51:42Z",
+ "presentation_title": {
+  "ja": "Usage of Digitized “Daimin-chiri-no-zu”",
+  "en": "Usage of Digitized “Daimin-chiri-no-zu”"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "NAKAMURA Satoru"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚",
+  "en": "NAKAMURA Satoru"
+ },
+ "event": {
+  "ja": "Old Maps in Asia: Basic Information and Perspective for New Research, The Seventh International Symposium of Inter-Asia Research Networks",
+  "en": "Old Maps in Asia: Basic Information and Perspective for New Research, The Seventh International Symposium of Inter-Asia Research Networks"
+ },
+ "publication_date": "2018-12-08",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "others",
+ "is_international_presentation": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1629/00007055/"
+  }
+ ]
+}

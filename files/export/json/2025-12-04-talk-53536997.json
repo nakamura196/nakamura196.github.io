@@ -1,0 +1,62 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53536997",
+ "@type": "presentations",
+ "rm:id": "53536997",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-05-01T11:51:15Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-01T11:51:15Z",
+ "presentation_title": {
+  "ja": "A TEI-Based OCR Correction Tool Using GitHub for Collaborative Digital Humanities: Practical Implementation and Applications",
+  "en": "A TEI-Based OCR Correction Tool Using GitHub for Collaborative Digital Humanities: Practical Implementation and Applications"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "會谷佳光"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yoshimitsu Aitani"
+   }
+  ]
+ },
+ "event": {
+  "ja": "27th International Conference on Asia-Pacific Digital Libraries (ICADL 2025)",
+  "en": "27th International Conference on Asia-Pacific Digital Libraries (ICADL 2025)"
+ },
+ "publication_date": "2025-12-04",
+ "from_event_date": "2025-12-03",
+ "to_event_date": "2025-12-05",
+ "invited": false,
+ "presentation_type": "oral_presentation",
+ "dataset": {
+  "dataset_name": "icadl2025.pdf",
+  "dataset_type": "published",
+  "access_url": "https://researchmap.jp/nakamura.satoru/presentations/53536997/attachment_file.pdf",
+  "rm:media_type": "application/pdf",
+  "rm:use_password": false,
+  "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/53536997/attachment_file.pdf?thumbnail"
+ },
+ "is_international_presentation": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "https://doi.org/10.1007/978-981-95-4861-3_22",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

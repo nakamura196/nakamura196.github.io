@@ -1,0 +1,78 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48875601",
+ "@type": "published_papers",
+ "rm:id": "48875601",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-01-07T07:47:39Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-09-17T02:41:41Z",
+ "paper_title": {
+  "ja": "海上の道デジタルアーカイブの構築に向けて：絵図や地理情報の管理・活用を支援するシステムの開発",
+  "en": "Towards the Construction of a Digital Archive for Maritime Routes: Development of a System Supporting the Management and Utilization of Maps and Geographic Information"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "黒嶋, 敏"
+   },
+   {
+    "name": "小風, 綾乃"
+   },
+   {
+    "name": "山田, 太造"
+   },
+   {
+    "name": "Satoru, Nakamura"
+   },
+   {
+    "name": "Satoru, Kuroshima"
+   },
+   {
+    "name": "Ayano, Kokaze"
+   },
+   {
+    "name": "Taizo, Yamada"
+   }
+  ]
+ },
+ "description": {
+  "ja": "本研究では，絵図と地理情報を連携させたデジタルアーカイブを構築するためのデータモデルを提案する．また，このデータ作成を支援するシステムを構築することにより，データ作成プロセスの効率化や第三者による取り組みを支援する．\nThis study proposes a data model for building a digital archive that links maps and geographic information. Additionally, by developing a system that supports the creation of this data, the study aims to improve the efficiency of the data creation process and support third-party initiatives."
+ },
+ "publication_date": "2024-11-30",
+ "publication_name": {
+  "ja": "じんもんこん2024論文集"
+ },
+ "volume": "2024",
+ "starting_page": "113",
+ "ending_page": "118",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_cr_id": [
+   "1050021083347554048"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1050021083347554048?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://id.nii.ac.jp/1001/00241395/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

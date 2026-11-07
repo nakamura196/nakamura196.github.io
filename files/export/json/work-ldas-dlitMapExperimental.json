@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "デジタル文学地図 Experimental",
+  "en": "Digital Literary Map — Experimental"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "「日本のデジタル文学地図」に関する実験的なツール群。AIによるRAG検索や、地図上への文学資料のマッピングなど。",
+  "en": "Experimental tools for the Digital Literary Map of Japan. AI-powered RAG search and interactive literary mapping."
+ },
+ "see_also": [
+  {
+   "@id": "https://dlm.ldas.jp/ja",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/digital-literary-map",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

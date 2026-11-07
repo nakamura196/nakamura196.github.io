@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53627734",
+ "@type": "research_projects",
+ "rm:id": "53627734",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-05-11T22:01:57Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-11T22:01:57Z",
+ "research_project_title": {
+  "ja": "カイロ歴史地区の文化遺産アーカイビングと研究・教育実践"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "熊倉 和歌子"
+   },
+   {
+    "name": "後藤 絵美"
+   },
+   {
+    "name": "亀谷 学"
+   },
+   {
+    "name": "川本 智史"
+   },
+   {
+    "name": "佐藤 将"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "深見 奈緒子"
+   },
+   {
+    "name": "吉村 武典"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+ },
+ "system_name": {
+  "ja": "共同利用・共同研究課題"
+ },
+ "category": {
+  "ja": "共同利用・共同研究課題（一般型）"
+ },
+ "institution_name": {
+  "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+ },
+ "from_date": "2023-04",
+ "to_date": "2026-03",
+ "research_project_owner_role": "coinvestigator_not_use_grants",
+ "identifiers": {
+  "grant_number": [
+   "jrp000290"
+  ]
+ }
+}

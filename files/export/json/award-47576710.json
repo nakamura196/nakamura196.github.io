@@ -1,0 +1,31 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/47576710",
+ "@type": "awards",
+ "rm:id": "47576710",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-08-30T06:55:58Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-08-30T06:55:58Z",
+ "award_name": {
+  "ja": "デジタルアーカイブジャパン・アワード（DAJアワード）2024"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "東京大学デジタルアーカイブズ構築事業"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "東京大学デジタルアーカイブポータル"
+ },
+ "association": {
+  "ja": "デジタルアーカイブジャパン推進委員会実務者検討委員会"
+ },
+ "award_date": "2024-08"
+}

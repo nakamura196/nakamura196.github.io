@@ -1,0 +1,76 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46855268",
+ "@type": "presentations",
+ "rm:id": "46855268",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-06-24T03:58:29Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-01T10:45:50Z",
+ "presentation_title": {
+  "ja": "AIPを作成・利用するツール紹介",
+  "en": "AIPを作成・利用するツール紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Japan Open Science Summit 2024",
+  "en": "Japan Open Science Summit 2024"
+ },
+ "publication_date": "2024-06-21",
+ "from_event_date": "2024-06-21",
+ "to_event_date": "2024-06-21",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "dataset": {
+  "dataset_name": "AIPを作成・利用する ツール紹介.pdf",
+  "dataset_type": "published",
+  "access_url": "https://researchmap.jp/nakamura.satoru/presentations/46855268/attachment_file.pdf",
+  "rm:media_type": "application/pdf",
+  "rm:use_password": false,
+  "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/46855268/attachment_file.pdf?thumbnail"
+ },
+ "promoter": {
+  "ja": "国立情報学研究所、科学技術振興機構、物質・材料研究機構、科学技術・学術政策研究所、 情報通信研究機構、学術資源リポジトリ協議会、情報知識学会、合同会社AMANE"
+ },
+ "location": {
+  "ja": "国立情報学研究所 12階 1208会議室"
+ },
+ "address_country": "JPN",
+ "is_international_presentation": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "rm:research_project_id": [
+   "45661896"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://zenodo.org/doi/10.5281/zenodo.12508032",
+   "label": "url",
+   "is_downloadable": true
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45661896",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

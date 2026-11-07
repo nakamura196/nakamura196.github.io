@@ -1,0 +1,63 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/14063065",
+ "@type": "published_papers",
+ "rm:id": "14063065",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-12-11T10:32:44Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-12-23T06:53:31Z",
+ "paper_title": {
+  "ja": "TEI とIIIF をベースとしたオン/オフライン併合型史料研究支援システムの開発 - オスマン・トルコ語文書群を対象として",
+  "en": "Development of system to support historical study with on-offline combined tools based on TEI and IIIF – A case of Ottoman and Turkish documents"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "佐治奈通子"
+   },
+   {
+    "name": "永崎研宣"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Natsuko Saji"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ]
+ },
+ "publication_date": "2019-12",
+ "publication_name": {
+  "ja": "じんもんこん2019論文集"
+ },
+ "volume": "2019",
+ "starting_page": "293",
+ "ending_page": "300",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00201015/",
+   "is_downloadable": false
+  }
+ ]
+}

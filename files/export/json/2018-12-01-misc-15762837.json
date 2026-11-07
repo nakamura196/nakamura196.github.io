@@ -1,0 +1,43 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/15762837",
+ "@type": "misc",
+ "rm:id": "15762837",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-04-02T01:43:05Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-04-02T01:43:05Z",
+ "paper_title": {
+  "ja": "Omeka S を用いたデータ管理システムの試作"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "publication_date": "2018-12",
+ "publication_name": {
+  "ja": "人文情報学月報"
+ },
+ "number": "89",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "misc_type": "others",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "https://www.dhii.jp/DHM/dhm89-2",
+   "is_downloadable": false
+  }
+ ]
+}

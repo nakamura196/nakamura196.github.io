@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Mirador v4 物理定規プラグイン",
+  "en": "Physical Ruler Plugin for Mirador v4"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "IIIFビューワーMirador v4に物理スケール（cm/mm）の定規機能を追加するプラグイン。史料の実寸計測をブラウザ上で実現。",
+  "en": "Plugin adding a physical scale ruler (cm/mm) to the IIIF viewer Mirador v4. Enables actual-size measurement of historical documents in the browser."
+ },
+ "see_also": [
+  {
+   "@id": "https://ruler.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/mirador-physical-ruler",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

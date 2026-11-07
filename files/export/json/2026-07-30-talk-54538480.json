@@ -1,0 +1,53 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538480",
+ "@type": "presentations",
+ "rm:id": "54538480",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-08-02T06:48:01Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-08-02T06:48:01Z",
+ "presentation_title": {
+  "ja": "Reconstructing Maritime Routes: A IIIF-based Digital Archive for Comparative Analysis of Historical Maps and Geographic Information",
+  "en": "Reconstructing Maritime Routes: A IIIF-based Digital Archive for Comparative Analysis of Historical Maps and Geographic Information"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "黒嶋敏"
+   },
+   {
+    "name": "山田太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Satoru Kuroshima"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Digital Humanities 2026 (DH2026)",
+  "en": "Digital Humanities 2026 (DH2026)"
+ },
+ "publication_date": "2026-07-30",
+ "from_event_date": "2026-07-27",
+ "to_event_date": "2026-07-31",
+ "invited": false,
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": true,
+ "rm:is_open_access": false
+}

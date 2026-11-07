@@ -1,0 +1,72 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23509563",
+ "@type": "misc",
+ "rm:id": "23509563",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:29:04Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-08-26T01:19:11Z",
+ "paper_title": {
+  "ja": "社会情報研究資料センター『Digital Cultural Heritage』の公開休止に関する考察と再構築"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "宮本隆史"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "東京大学大学院情報学環"
+ },
+ "publication_date": "2017-03",
+ "publication_name": {
+  "ja": "東京大学大学院情報学環社会情報研究資料センターニュース"
+ },
+ "number": "27",
+ "starting_page": "274",
+ "ending_page": "279",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "misc_type": "report_research_institution",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "1880-7011"
+  ],
+  "cinii_na_id": [
+   "40021174743"
+  ],
+  "cinii_nc_id": [
+   "AA12126475"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/40021174743",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/AA12126475",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://www.center.iii.u-tokyo.ac.jp/wp-content/uploads/27_1.pdf",
+   "is_downloadable": false,
+   "label": "url"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/44305782",
+ "@type": "presentations",
+ "rm:id": "44305782",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-12-21T01:48:27Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-23T21:14:48Z",
+ "presentation_title": {
+  "ja": "オープンソースのOCR処理プログラム 「NDLOCR」の応用事例紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタルアーカイブ学会「第18回 DAショートトーク／産業のシーズを見つけよう！ 」"
+ },
+ "publication_date": "2023-10-27",
+ "invited": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "@id": "https://www.youtube.com/watch?v=pOmBTfj2yjk",
+   "label": "url"
+  }
+ ]
+}

@@ -14,4 +14,6 @@ lang: ja
   <a href="https://researchmap.jp/nakamura.satoru" class="btn btn--primary" target="_blank">researchmap で見る</a>
 </div>
 
+<p><a href="/ja/coauthors/">共同研究者</a></p>
+
 {% include rm-source.html lang="ja" %}

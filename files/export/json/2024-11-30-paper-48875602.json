@@ -1,0 +1,78 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48875602",
+ "@type": "published_papers",
+ "rm:id": "48875602",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-01-07T07:47:52Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-09-17T02:41:29Z",
+ "paper_title": {
+  "ja": "荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用",
+  "en": "Constructing “nihuBridge LOD” based on the manor-related database and applying to school education"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "大井, 将生"
+   },
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "大野, 健人"
+   },
+   {
+    "name": "髙橋, 傑"
+   },
+   {
+    "name": "Masao, Oi"
+   },
+   {
+    "name": "Satoru, Nakamura"
+   },
+   {
+    "name": "Kento, Ono"
+   },
+   {
+    "name": "Suguru, Takahashi"
+   }
+  ]
+ },
+ "description": {
+  "ja": "本研究の目的は, 荘園関係データの活用を促進する情報／学習モデルを開発することである. そのために, １）国立歴史民俗博物館のDB「日本荘園」と「荘園関係文献目録」を活用した「nihuBridge LOD」を開発する. また, ２）開発したLODを用いた高等学校での学習モデルを開発する. 本稿では, 開発したLODと学習モデルの概要を述べると共に, これらを用いて行なった高等学校での授業実践の結果について考察する.\nThe purpose of this study is to develop an information/learning model that facilitates the use of manor-related data. For this end, the following two methods were used. 1) To develop “nihuBridge LOD” utilizing National Museum of Japanese History's database “Nihon Shoen” and “Bibliography of Manor-Related Documents”. 2) To develop a learning model for high school students using the developed LOD. In this paper, the outline of the developed LOD and the learning model are described, and the results of the class practice at a high school using these LOD and the learning model are discussed."
+ },
+ "publication_date": "2024-11-30",
+ "publication_name": {
+  "ja": "じんもんこん2024論文集"
+ },
+ "volume": "2024",
+ "starting_page": "45",
+ "ending_page": "52",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_cr_id": [
+   "1050021083347559168"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1050021083347559168?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://id.nii.ac.jp/1001/00241386/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

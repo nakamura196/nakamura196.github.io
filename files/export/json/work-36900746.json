@@ -1,0 +1,42 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900746",
+ "@type": "works",
+ "rm:id": "36900746",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-05-06T03:10:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-05-06T03:10:16Z",
+ "work_title": {
+  "ja": "『大正新脩大蔵経』底本・校本データベース"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東洋文庫"
+   }
+  ]
+ },
+ "from_date": "2021-07-06",
+ "to_date": "9999",
+ "identifiers": {
+  "rm:research_project_id": [
+   "32708239"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://static.toyobunko-lab.jp/taishozo/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

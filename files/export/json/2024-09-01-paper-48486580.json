@@ -1,0 +1,53 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48486580",
+ "@type": "published_papers",
+ "rm:id": "48486580",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T07:04:37Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T07:04:37Z",
+ "paper_title": {
+  "ja": "Development of hi-text: an Attempt at Stable Encoded Character Shape and Unregistered Glyph Data Exchange in Transcribed Text Dataset",
+  "en": "Development of hi-text: an Attempt at Stable Encoded Character Shape and Unregistered Glyph Data Exchange in Transcribed Text Dataset"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamad"
+   }
+  ],
+  "en": [
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamad"
+   }
+  ]
+ },
+ "publication_date": "2024-09",
+ "publication_name": {
+  "ja": "The 13th International Conference of Japanese Association for Digital Humanities",
+  "en": "The 13th International Conference of Japanese Association for Digital Humanities"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false
+}

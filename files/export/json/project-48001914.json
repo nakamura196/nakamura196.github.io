@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/48001914",
+ "@type": "research_projects",
+ "rm:id": "48001914",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-04-17 00:51:06",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2024-09-29T06:01:12Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-09-29T06:01:12Z",
+ "research_project_title": {
+  "ja": "『エミール』関連手稿群の分析にもとづくルソーの道徳思想形成に関する文献学的研究"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "飯田 賢穂"
+   },
+   {
+    "name": "淵田 仁"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業"
+ },
+ "category": {
+  "ja": "基盤研究(C)"
+ },
+ "institution_name": {
+  "ja": "筑波大学"
+ },
+ "from_date": "2024-04-01",
+ "to_date": "2028-03-31",
+ "overall_grant_amount": {
+  "total_cost": "4550000",
+  "direct_cost": "3500000",
+  "indirect_cost": "1050000"
+ },
+ "identifiers": {
+  "grant_number": [
+   "24K03416"
+  ],
+  "national_grant_number": [
+   "JP24K03416"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K03416"
+  }
+ ]
+}

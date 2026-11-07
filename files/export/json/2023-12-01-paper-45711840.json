@@ -1,0 +1,58 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/45711840",
+ "@type": "published_papers",
+ "rm:id": "45711840",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-03-03T21:15:18Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-03-03T21:15:18Z",
+ "paper_title": {
+  "ja": "ジャン＝ジャック・ルソーのジュネーヴ手稿を対象としたデジタル批判版の試作",
+  "en": "A prototype of a digital critical edition targeting Jean-Jacques Rousseau's Geneva Manuscript."
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "飯田 賢穂"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "淵田 仁"
+   }
+  ],
+  "en": [
+   {
+    "name": "Yoshio Iida"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Masashi Fuchida"
+   }
+  ]
+ },
+ "publication_date": "2023-12",
+ "publication_name": {
+  "ja": "じんもんこん2023論文集",
+  "en": "じんもんこん2023論文集"
+ },
+ "volume": "2023",
+ "number": "2023",
+ "starting_page": "91",
+ "ending_page": "98",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false
+}

@@ -1,0 +1,88 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820",
+ "@type": "published_papers",
+ "rm:id": "52101820",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:16:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-09T06:50:35Z",
+ "paper_title": {
+  "ja": "一括処理を前提とした固有表現の関係づけ－TEI版『言継卿記』を例に",
+  "en": "Batch-Oriented Named-Entity Linking — A TEI Case Study of Tokitsugukyoki"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "小風綾乃"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "井上聡"
+   },
+   {
+    "name": "金子拓"
+   },
+   {
+    "name": "山田太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "Ayano Kokaze"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Satoshi Inoue"
+   },
+   {
+    "name": "Hiraku Kaneko"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "publication_date": "2025-12-06",
+ "publication_name": {
+  "ja": "じんもんこん2025論文集"
+ },
+ "volume": "2025",
+ "starting_page": "297",
+ "ending_page": "304",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755",
+   "47578926",
+   "39508595"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508595",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

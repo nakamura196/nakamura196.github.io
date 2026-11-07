@@ -1,0 +1,39 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/55407446",
+ "rm:id": "55407446",
+ "@type": "research_projects",
+ "display": "disclosed",
+ "research_project_title": {
+  "ja": "cjk_index — pure-Ruby full-text search for Chinese, Japanese and Korean",
+  "en": "cjk_index — pure-Ruby full-text search for Chinese, Japanese and Korean"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "一般財団法人Rubyアソシエーション",
+  "en": "Ruby Association"
+ },
+ "system_name": {
+  "ja": "2026年度Rubyアソシエーション開発助成金",
+  "en": "2026 Ruby Association Grant"
+ },
+ "from_date": "2026-10",
+ "to_date": "2027-03",
+ "see_also": [
+  {
+   "@id": "https://www.ruby.or.jp/ja/news/20261102",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

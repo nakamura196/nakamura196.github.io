@@ -1,0 +1,48 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/53693694",
+ "@type": "works",
+ "rm:id": "53693694",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-05-19T03:15:38Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-19T03:19:45Z",
+ "work_title": {
+  "ja": "TEI Tools（DOCX→TEI/XML変換・TEI/XMLビューワ）",
+  "en": "TEI Tools (DOCX to TEI/XML Converter and TEI/XML Viewer)"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-04",
+ "to_date": "9999",
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://toyo-bunko.github.io/tei-tools/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

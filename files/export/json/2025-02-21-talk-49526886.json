@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49526886",
+ "@type": "presentations",
+ "rm:id": "49526886",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-03-24T04:38:33Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-03-24T04:38:33Z",
+ "presentation_title": {
+  "ja": "データ駆動型の歴史研究支援に向けた テキスト作成とその応用"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "キックオフフォーラム「日本史研究に関するデータフロー確立に向けて」"
+ },
+ "publication_date": "2025-02-21",
+ "from_event_date": "2025-02-21",
+ "to_event_date": "2025-02-21",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

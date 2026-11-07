@@ -1,0 +1,74 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/47576941",
+ "@type": "published_papers",
+ "rm:id": "47576941",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-08-30T07:10:15Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-04-10T06:42:19Z",
+ "paper_title": {
+  "ja": "Construct Structured Data from Genealogies: Case Study on Kansei Chōshū Shokafu",
+  "en": "Construct Structured Data from Genealogies: Case Study on Kansei Chōshū Shokafu"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   },
+   {
+    "name": "Junichi Yamasaki"
+   },
+   {
+    "name": "Yasuo Takatsuki"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   },
+   {
+    "name": "Junichi Yamasaki"
+   },
+   {
+    "name": "Yasuo Takatsuki"
+   }
+  ]
+ },
+ "publication_date": "2024-08",
+ "publication_name": {
+  "ja": "PNC 2024 Annual Conference and Joint Meetings",
+  "en": "PNC 2024 Annual Conference and Joint Meetings"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.23919/PNC63053.2024.10697359"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.23919/PNC63053.2024.10697359",
+   "is_downloadable": false
+  }
+ ]
+}

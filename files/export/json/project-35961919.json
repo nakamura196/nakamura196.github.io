@@ -1,0 +1,78 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961919",
+ "@type": "research_projects",
+ "rm:id": "35961919",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-10-10 02:50:42",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-12-01T03:22:06Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T09:20:39Z",
+ "research_project_title": {
+  "ja": "漢文大蔵経の文献学的研究基盤の構築：『大正新脩大蔵経』底本・校本DBの活用と拡充",
+  "en": "Establishment of a philological research platform for Chinese Buddhist Canons: Utilization and expansion of the Original and Collated Texts Database of the Taisho Shinshu Daizokyo"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "會谷 佳光"
+   },
+   {
+    "name": "相原 佳之"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "宮崎 展昌"
+   },
+   {
+    "name": "清水 信子"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 基盤研究(A)",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(A)",
+  "en": "Grant-in-Aid for Scientific Research (A)"
+ },
+ "institution_name": {
+  "ja": "公益財団法人東洋文庫",
+  "en": "The Toyo Bunko"
+ },
+ "from_date": "2021-04-05",
+ "to_date": "2026-03-31",
+ "overall_grant_amount": {
+  "total_cost": "40820000",
+  "direct_cost": "31400000",
+  "indirect_cost": "9420000"
+ },
+ "description": {
+  "ja": "2021年度は、『大正新脩大蔵経』底本・校本データベース（以下「本DB」）の一般公開、酉蓮社本のデジタル撮影、データ作成、書誌調査、本DBの周知活動に取り組んだ。\n研究代表者會谷は、3社相見積もりで酉蓮社本の撮影業者を選定して、計15箱（全42函309冊）33,330コマのデジタル撮影を実施した。DB連携を行うSAT大藏經テキストデータベース研究会との連絡役を務め、新たに「宮内庁書陵部収蔵漢籍集覧」中の「[大藏經]1454種5733卷」（「備考」参照。所謂「宮本」）と連携させるためのリンク用データを作成した。また、これまで経典単位で公開していた画像データに対して、目次単位で書誌と画像データを紐付けるためのリンク用データの作成を行った。\n研究分担者相原は作業人員を指揮してIIIF化作業を推進した。清水は大谷大学図書館所蔵の原本20点の書誌調査を実施した。中村は本DBの設計・構築・改修を進め、DB化作業のための助言を行った。宮崎は本DBの外部への周知に取り組み、會谷とともに他科研の研究会（「学会発表」参照）にて本DBの利用法を紹介するともに、仏教学者の視点から改善・利活用の方法等を提示した。\n2021年6月に第1回研究打ち合わせを行い、本DBにGoogleフォームによるレビュー収集ページを組み込むなど改修を行った上で一般公開した（「備考」参照）。12月の第2回打ち合わせでは本DBの改修・拡張計画を検討して、2021年度に準備した撮影データや外部データベースとのリンク用データを取り込んで、2022年度の早い時期にリニューアル公開する方針を決定した。2022年2月には東洋文庫で開催した研究データベース会議にて、會谷、相原、中村、宮崎がそれぞれのテーマで報告を行い、質疑応答を通じて、有益な助言を得た。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "21H04345"
+  ],
+  "national_grant_number": [
+   "JP21H04345"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21H04345"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/39996013",
+ "@type": "presentations",
+ "rm:id": "39996013",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-09-16T13:12:26Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-09-16T13:12:26Z",
+ "presentation_title": {
+  "ja": "Digital Archives of the Shoho Ryukyu Kuniezu and Wako-zukan",
+  "en": "Digital Archives of the Shoho Ryukyu Kuniezu and Wako-zukan"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Kuroshima Satoru"
+   },
+   {
+    "name": "Suda Makiko"
+   },
+   {
+    "name": "Nakamura Satoru"
+   }
+  ],
+  "en": [
+   {
+    "name": "Kuroshima Satoru"
+   },
+   {
+    "name": "Suda Makiko"
+   },
+   {
+    "name": "Nakamura Satoru"
+   }
+  ]
+ },
+ "event": {
+  "ja": "The 32nd EAJRS Conference",
+  "en": "The 32nd EAJRS Conference"
+ },
+ "publication_date": "2022-09-16",
+ "from_event_date": "2022-09-16",
+ "to_event_date": "2022-09-16",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "32708239"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/32708239",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

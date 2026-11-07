@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505068",
+ "@type": "presentations",
+ "rm:id": "22505068",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-18T07:11:41Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-11-18T07:12:01Z",
+ "presentation_title": {
+  "ja": "「IIIF Discovery in Japan」について"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "歴史災害研究のためのオープンデータ・ショーケース"
+ },
+ "publication_date": "2018-11-19",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "invited_oral_presentation",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

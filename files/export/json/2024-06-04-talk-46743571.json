@@ -1,0 +1,58 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46743571",
+ "@type": "presentations",
+ "rm:id": "46743571",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-06-10T00:00:25Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-06-10T00:00:25Z",
+ "presentation_title": {
+  "ja": "Analytical Support Tools for Historical Drawing Maps: Utilization and Development of IIIF Georeference Extension and Mirador Plugin",
+  "en": "Analytical Support Tools for Historical Drawing Maps: Utilization and Development of IIIF Georeference Extension and Mirador Plugin"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "event": {
+  "ja": "2024 IIIF Annual Conference",
+  "en": "2024 IIIF Annual Conference"
+ },
+ "publication_date": "2024-06-04",
+ "from_event_date": "2024-06-04",
+ "to_event_date": "2024-06-07",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "@id": "https://iiif.io/event/2024/los-angeles/schedule/#112",
+   "label": "url"
+  }
+ ]
+}

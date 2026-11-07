@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139252",
+ "@type": "presentations",
+ "rm:id": "18139252",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T06:11:52Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T06:32:21Z",
+ "presentation_title": {
+  "ja": "LOD（Linked Open Data）について"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "東京大学学術資産アーカイブ化推進室主催セミナー「学術資産アーカイブズとメタデータ」"
+ },
+ "publication_date": "2018-02-13",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "promoter": {
+  "ja": "東京大学学術資産アーカイブ化推進室"
+ },
+ "location": {
+  "ja": "東京大学医学部総合中央館"
+ },
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/event/20180112"
+  }
+ ]
+}

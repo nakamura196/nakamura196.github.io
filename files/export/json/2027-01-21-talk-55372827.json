@@ -1,0 +1,67 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/55372827",
+ "@type": "presentations",
+ "rm:id": "55372827",
+ "rm:user_id": "B000288639",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-10-30T03:40:26Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-10-30T03:40:26Z",
+ "rm:is_open_access": false,
+ "display": "disclosed",
+ "presentation_title": {
+  "ja": "マークアップとしての読解支援：『水滸伝』3版本の階層的TEIデジタル版",
+  "en": "Reading Aids as Markup: A Layered TEI Edition of Three Editions of Shuihu zhuan"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "荒木達雄"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Tatsuo Araki"
+   }
+  ]
+ },
+ "event": {
+  "en": "HKADH 2027 (Hong Kong Association for Digital Humanities Conference)"
+ },
+ "location": {
+  "en": "The Education University of Hong Kong"
+ },
+ "publication_date": "2027-01-21",
+ "from_event_date": "2027-01-21",
+ "to_event_date": "2027-01-24",
+ "invited": false,
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": true,
+ "languages": [
+  "eng"
+ ],
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ],
+ "promoter": {
+  "en": "Hong Kong Association for Digital Humanities"
+ },
+ "address_country": "HKG"
+}

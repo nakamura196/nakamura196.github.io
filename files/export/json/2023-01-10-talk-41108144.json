@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41108144",
+ "@type": "presentations",
+ "rm:id": "41108144",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-01-12T01:06:57Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-01-12T01:06:57Z",
+ "presentation_title": {
+  "ja": "水滸伝版本対照プログラムの作り方"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "2022-2023年度U-PARL協働型アジア研究プロジェクト３「東京大学蔵『水滸伝』諸版本デジタルデータの整備およびこれを用いた研究」第2回研究報告会"
+ },
+ "publication_date": "2023-01-10",
+ "from_event_date": "2023-01-10",
+ "to_event_date": "2023-01-10",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

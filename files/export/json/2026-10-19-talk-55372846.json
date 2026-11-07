@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/55372846",
+ "@type": "presentations",
+ "rm:id": "55372846",
+ "rm:user_id": "B000288639",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-10-30T03:42:28Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-10-30T03:42:28Z",
+ "rm:is_open_access": false,
+ "display": "disclosed",
+ "presentation_title": {
+  "ja": "UBC の日本関係コレクションを使った初期の試み",
+  "en": "Some Early Experiments with UBC's Japanese Collections"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "UBC アジア図書館での講演",
+  "en": "Talk at UBC Asian Library"
+ },
+ "location": {
+  "en": "The University of British Columbia, Vancouver"
+ },
+ "promoter": {
+  "en": "UBC Asian Library"
+ },
+ "publication_date": "2026-10-19",
+ "from_event_date": "2026-10-19",
+ "to_event_date": "2026-10-19",
+ "invited": true,
+ "presentation_type": "invited_oral_presentation",
+ "is_international_presentation": true,
+ "languages": [
+  "eng"
+ ],
+ "address_country": "CAN"
+}

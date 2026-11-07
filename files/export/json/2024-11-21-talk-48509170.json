@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48509170",
+ "@type": "presentations",
+ "rm:id": "48509170",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-21T17:23:31Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-21T17:27:03Z",
+ "presentation_title": {
+  "ja": "Morrison Pamphlet database",
+  "en": "Morrison Pamphlet database"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "GEORGE ERNEST MORRISON A ONE-DAY SYMPOSIUM",
+  "en": "GEORGE ERNEST MORRISON A ONE-DAY SYMPOSIUM"
+ },
+ "publication_date": "2024-11-21",
+ "from_event_date": "2024-11-21",
+ "to_event_date": "2024-11-21",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "nominated_symposium",
+ "promoter": {
+  "ja": "State Library of New South Wales",
+  "en": "State Library of New South Wales"
+ },
+ "location": {
+  "ja": "State Library of New South Wales",
+  "en": "State Library of New South Wales"
+ },
+ "address_country": "AUS",
+ "description": {
+  "ja": "Hear about the database being developed to enhance the accessibility and utilization of the Morrison Pamphlets, by the Toyo Bunko. The use of IIIF for image distribution, OCR for full-text search, and various visualization techniques will be covered.",
+  "en": "Hear about the database being developed to enhance the accessibility and utilization of the Morrison Pamphlets, by the Toyo Bunko. The use of IIIF for image distribution, OCR for full-text search, and various visualization techniques will be covered."
+ },
+ "is_international_presentation": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "@id": "https://www.sl.nsw.gov.au/sites/default/files/2024-11/6262_GeorgeMorrison_program_final.pdf",
+   "label": "url"
+  }
+ ]
+}

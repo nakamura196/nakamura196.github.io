@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "中世禅籍史料研究プロジェクト 成果公開サイト",
+  "en": "Medieval Zen Texts Research Project"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2023-04",
+ "to_date": "9999",
+ "description": {
+  "ja": "中世禅籍史料研究プロジェクトの成果を公開。史料の翻刻をTEI/XML形式で提供し、ウェブブラウザ上で史料画像と翻刻を並べて表示可能。",
+  "en": "Publication site for the Medieval Zen Texts Research Project. Provides TEI/XML transcriptions with side-by-side image and text viewing."
+ },
+ "see_also": [
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/zenseki/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

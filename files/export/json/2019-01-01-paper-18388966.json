@@ -1,0 +1,75 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/18388966",
+ "@type": "published_papers",
+ "rm:id": "18388966",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-01-25T01:24:25Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-01-25T01:24:25Z",
+ "paper_title": {
+  "ja": "Linked Data とデジタルアーカイブを用いた 史料分析支援システムの開発",
+  "en": "Development of System to Support Analysis of Historical Materials by use of Digital Archive and Linked Data"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "大和 裕幸"
+   },
+   {
+    "name": "稗方 和夫"
+   },
+   {
+    "name": "満行 泰河"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Hiroyuki Yamato"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Taiga Mitsuyuki"
+   }
+  ]
+ },
+ "publication_date": "2019-01",
+ "publication_name": {
+  "ja": "デジタル・ヒューマニティーズ",
+  "en": "Japanese Journal of Digital Humanities"
+ },
+ "volume": "1",
+ "starting_page": "29",
+ "ending_page": "43",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24576/jadh.1.0_29"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24576/jadh.1.0_29",
+   "is_downloadable": false
+  }
+ ]
+}

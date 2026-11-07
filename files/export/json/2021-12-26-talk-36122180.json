@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/36122180",
+ "@type": "presentations",
+ "rm:id": "36122180",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-12-26T07:05:20Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-12-26T07:05:20Z",
+ "presentation_title": {
+  "ja": "TEIを用いた『延喜式』テキストの構造化とビューアの開発"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "総合書物学シンポジウム 「総合書物学」の現在"
+ },
+ "publication_date": "2021-12-26",
+ "from_event_date": "2021-12-26",
+ "to_event_date": "2021-12-26",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

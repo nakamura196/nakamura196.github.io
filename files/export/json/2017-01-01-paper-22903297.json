@@ -1,0 +1,81 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/22903297",
+ "@type": "published_papers",
+ "rm:id": "22903297",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-29T12:22:24Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2021-10-22T03:15:44Z",
+ "paper_title": {
+  "en": "Development of system to support knowledge discovery in historical study with linked data"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Taiga Mitsuyuki"
+   },
+   {
+    "name": "Satoshi Kato"
+   },
+   {
+    "name": "Takashi Miyamoto"
+   },
+   {
+    "name": "Tomoko Takashima"
+   }
+  ]
+ },
+ "publisher": {
+  "en": "IOS Press BV"
+ },
+ "publication_date": "2017",
+ "publication_name": {
+  "en": "Advances in Transdisciplinary Engineering"
+ },
+ "volume": "5",
+ "starting_page": "657",
+ "ending_page": "664",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.3233/978-1-61499-779-5-657"
+  ],
+  "scopus_id": [
+   "85032863923"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.3233/978-1-61499-779-5-657",
+   "is_downloadable": false
+  },
+  {
+   "label": "scopus",
+   "@id": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032863923&origin=inward",
+   "is_downloadable": false
+  },
+  {
+   "label": "scopus_citedby",
+   "@id": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032863923&origin=inward",
+   "is_downloadable": false
+  }
+ ]
+}

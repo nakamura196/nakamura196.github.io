@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/10985839",
+ "@type": "presentations",
+ "rm:id": "10985839",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-05-29T15:30:15Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-07T07:52:32Z",
+ "presentation_title": {
+  "ja": "国立国会図書館をめぐるデータオープン化の現状と展望 ～データの利活用促進に向けた取組～ 利活用サービスの実際"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "Japan Open Science Summit 2019"
+ },
+ "publication_date": "2019-05-27",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://joss.rcos.nii.ac.jp/session/0527/?id=se_97"
+  }
+ ]
+}

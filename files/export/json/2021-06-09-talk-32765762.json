@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/32765762",
+ "@type": "presentations",
+ "rm:id": "32765762",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-06-11T04:28:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-06-11T04:28:35Z",
+ "presentation_title": {
+  "ja": "ジャパンサーチとの連携とその活用"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "専門図書館協議会 2021年度 全国研究集会"
+ },
+ "publication_date": "2021-06-09",
+ "from_event_date": "2021-06-08",
+ "to_event_date": "2021-06-09",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false
+}

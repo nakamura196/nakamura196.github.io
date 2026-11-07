@@ -1,0 +1,67 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/55220947",
+ "@type": "books_etc",
+ "rm:id": "55220947",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-10-10T03:18:01Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-10-10T03:18:01Z",
+ "book_title": {
+  "ja": "日本古典文学DHシリーズ 源氏物語篇"
+ },
+ "book_owner_role": "contributor",
+ "authors": {
+  "ja": [
+   {
+    "name": "海野圭介"
+   },
+   {
+    "name": "加藤弓枝"
+   },
+   {
+    "name": "田村隆"
+   },
+   {
+    "name": "舟見一哉"
+   },
+   {
+    "name": "古田正幸"
+   },
+   {
+    "name": "横山恵理"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "〔技術ポイント〕画像とテキストをつなぐデータ構築の舞台裏、〔技術ポイント〕AI画像検索─自動化で広がる諸本比較、〔技術ポイント〕挿絵を並べる・重ねる技術"
+ },
+ "publisher": {
+  "ja": "武蔵野書院"
+ },
+ "publication_date": "2026-10-19",
+ "total_page": "238",
+ "identifiers": {
+  "isbn": [
+   "9784838608287"
+  ],
+  "rm:research_project_id": [
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://www.musashinoshoin.co.jp/shoseki/view/3146/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

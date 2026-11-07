@@ -1,0 +1,48 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18139258",
+ "@type": "presentations",
+ "rm:id": "18139258",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T06:25:48Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T06:25:48Z",
+ "presentation_title": {
+  "ja": "デジタルアーカイブ管理ツールであるOmeka チュートリアル"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "じんもんこん2017国立歴史民俗博物館 企画セッション「歴史研究と人文研究のためのツールを学ぶ」"
+ },
+ "publication_date": "2017-12-10",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "location": {
+  "ja": "大阪市立大学 学術情報総合センター"
+ },
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://www.metaresource.jp/2017%E5%B9%B412%E6%9C%8810%E6%97%A5%E3%80%80%E3%81%98%E3%82%93%E3%82%82%E3%82%93%E3%81%93%E3%82%932017%E6%AD%B4%E5%8D%9A%E5%85%B1%E5%82%AC%E4%BC%81%E7%94%BB%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7/"
+  }
+ ]
+}

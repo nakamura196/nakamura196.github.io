@@ -1,0 +1,39 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/35987582",
+ "@type": "presentations",
+ "rm:id": "35987582",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-12-05T00:28:46Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-12-05T00:28:46Z",
+ "presentation_title": {
+  "ja": "史料編纂所の新たな画像公開方法について―倭寇図巻デジタルアーカイブの構築を例として―"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "須田牧子"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "東京大学史料編纂所画像史料解析センター・前近代日本史情報国際センター主催の公開研究集会「新たな画像公開方法とデジタル連携」"
+ },
+ "publication_date": "2021-12-03",
+ "from_event_date": "2021-12-03",
+ "to_event_date": "2021-12-03",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

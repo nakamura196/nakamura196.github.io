@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23509573",
+ "@type": "misc",
+ "rm:id": "23509573",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T10:03:52Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T10:03:52Z",
+ "paper_title": {
+  "ja": "システムの仕様変更調査における設計情報を用いた影響分析システムの開発",
+  "en": "Development of Impact Analysis System for Specification Change of System"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "深田直人"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "岡田伊策"
+   },
+   {
+    "name": "齋藤稔"
+   },
+   {
+    "name": "笈田佳彰"
+   },
+   {
+    "name": "渡辺郁雄"
+   },
+   {
+    "name": "松本滋"
+   }
+  ]
+ },
+ "publication_date": "2014-09",
+ "publication_name": {
+  "ja": "日本機械学会第24回設計工学・システム部門講演会講演論文集",
+  "en": "日本機械学会第24回設計工学・システム部門講演会講演論文集"
+ },
+ "starting_page": "1305",
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://hdl.handle.net/2261/56330",
+   "is_downloadable": false
+  }
+ ]
+}

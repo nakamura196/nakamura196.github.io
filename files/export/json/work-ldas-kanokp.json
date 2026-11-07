@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Kano Knowledge Portal",
+  "en": "Kano Knowledge Portal"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "狩野亨吉旧蔵書・関係文書統合サイト。東北大学・東京大学・九州大学の図書館が所蔵する資料を横断的に検索・閲覧可能。",
+  "en": "Integrated search portal for Kano Kōkichi's former collection and related documents across Tohoku, Tokyo, and Kyushu universities."
+ },
+ "see_also": [
+  {
+   "@id": "https://kanokp.lib.u-tokyo.ac.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://kanokp.lib.u-tokyo.ac.jp/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

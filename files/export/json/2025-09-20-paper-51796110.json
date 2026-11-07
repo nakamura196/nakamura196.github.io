@@ -1,0 +1,84 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51796110",
+ "@type": "published_papers",
+ "rm:id": "51796110",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-12-04T21:15:37Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-19T06:34:53Z",
+ "paper_title": {
+  "ja": "Genetic Encoding of Jean-Jacques Rousseau's Writing Process",
+  "en": "Genetic Encoding of Jean-Jacques Rousseau's Writing Process"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Yoshiho Iida"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Masashi Fuchida"
+   }
+  ],
+  "en": [
+   {
+    "name": "Yoshiho Iida"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Masashi Fuchida"
+   }
+  ]
+ },
+ "publisher": {
+  "en": "IEEE"
+ },
+ "publication_date": "2025-09-20",
+ "publication_name": {
+  "ja": "2025 Pacific Neighborhood Consortium Annual Conference and Joint Meetings (PNC)",
+  "en": "2025 Pacific Neighborhood Consortium Annual Conference and Joint Meetings (PNC)"
+ },
+ "starting_page": "53",
+ "ending_page": "57",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.23919/pnc67749.2025.11245530"
+  ],
+  "rm:research_project_id": [
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.23919/pnc67749.2025.11245530",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://xplorestaging.ieee.org/ielx8/11245491/11245492/11245530.pdf?arnumber=11245530",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

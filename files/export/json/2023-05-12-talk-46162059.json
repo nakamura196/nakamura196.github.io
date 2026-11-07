@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/46162059",
+ "@type": "presentations",
+ "rm:id": "46162059",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-04-15T05:18:18Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-01T12:07:27Z",
+ "presentation_title": {
+  "ja": "日本語史料を対象としたテキストエンコーディングの事例紹介",
+  "en": "日本語史料を対象としたテキストエンコーディングの事例紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "史料のハイパーテキスト化（ハイパーリンク）研究会",
+  "en": "史料のハイパーテキスト化（ハイパーリンク）研究会"
+ },
+ "publication_date": "2023-05-12",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "invited_oral_presentation",
+ "dataset": {
+  "dataset_name": "Introduction of Case Studies of Text Encoding for Japanese Historical Documents.pdf",
+  "dataset_type": "published",
+  "access_url": "https://researchmap.jp/nakamura.satoru/presentations/46162059/attachment_file.pdf",
+  "rm:media_type": "application/pdf",
+  "rm:use_password": false,
+  "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/46162059/attachment_file.pdf?thumbnail"
+ },
+ "is_international_presentation": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false
+}

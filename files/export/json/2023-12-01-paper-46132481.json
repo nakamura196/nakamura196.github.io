@@ -1,0 +1,71 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46132481",
+ "@type": "published_papers",
+ "rm:id": "46132481",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-04-12T02:59:14Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-23T21:22:14Z",
+ "paper_title": {
+  "ja": "IIIFを用いた前近代絵図の比較支援ツールの開発",
+  "en": "Development of a comparison support tool for pre-modern maps using IIIF"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "黒嶋 敏"
+   },
+   {
+    "name": "畑山 周平"
+   },
+   {
+    "name": "山田 太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Satoru Kuroshima"
+   },
+   {
+    "name": "Shuhei Hatayama Taizo Yamada"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "description": {
+  "ja": "本研究では前近代絵図の比較支援を目的として開発したツールについて述べる．具体的にはIIIFを活用し，現代地図と絵図の並列表示機能,および複数絵図の比較支援機能などを有する機能およびビューアを開発した．また，東京大学史料編纂所所蔵の「正保琉球国絵図」と，都城島津邸所蔵の「琉球并諸島図」の２つの絵図を対象として，開発したツールの有用性について検証した．",
+  "en": "This study describes a tool developed to support the comparison and analysis of pre modern maps. Specifically, leveraging IIIF, we developed a viewer and plugin equipped with an image rotation function at any angle, a side -by-side display feature for contemporary maps and old maps, and a feature to assist in the comparison of multiple maps. Furthermore, the utility of the developed tool was validated using two maps : “正保琉球国絵図” held by the Historiographical Institute of the University of Tokyo, and “琉球并諸島図 ” by Miyakonojo Shimazu Residence."
+ },
+ "publication_date": "2023-12",
+ "publication_name": {
+  "ja": "じんもんこん2023論文集"
+ },
+ "volume": "2023",
+ "starting_page": "45",
+ "ending_page": "50",
+ "referee": true,
+ "invited": false,
+ "is_international_journal": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "http://id.nii.ac.jp/1001/00231232/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

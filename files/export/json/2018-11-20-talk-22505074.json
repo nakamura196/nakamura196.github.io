@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505074",
+ "@type": "presentations",
+ "rm:id": "22505074",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-18T07:13:15Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-11-18T07:13:15Z",
+ "presentation_title": {
+  "ja": "Omekaワークショップ"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "歴史災害研究のためのオープンデータ・ショーケース"
+ },
+ "publication_date": "2018-11-20",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

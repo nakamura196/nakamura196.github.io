@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36544161",
+ "@type": "published_papers",
+ "rm:id": "36544161",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-03-22T01:07:47Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-03-22T01:07:47Z",
+ "paper_title": {
+  "ja": "部品と画数で漢字を検索するためのUnicode入力支援ツール"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "劉 冠偉"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "山田 太造"
+   }
+  ]
+ },
+ "publication_date": "2022-02",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2022-CH-128",
+ "number": "2",
+ "starting_page": "1",
+ "ending_page": "4",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}

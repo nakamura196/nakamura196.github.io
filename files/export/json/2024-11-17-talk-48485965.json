@@ -1,0 +1,47 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48485965",
+ "@type": "presentations",
+ "rm:id": "48485965",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T05:52:25Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-21T17:24:14Z",
+ "presentation_title": {
+  "ja": "Technologies Supporting the Digitalization of Historical Materials",
+  "en": "Technologies Supporting the Digitalization of Historical Materials"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "International Symposium Commemorating the 100 th Anniversary of the Toyo Bunko",
+  "en": "International Symposium Commemorating the 100 th Anniversary of the Toyo Bunko"
+ },
+ "publication_date": "2024-11-17",
+ "from_event_date": "2024-11-16",
+ "to_event_date": "2024-11-17",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "nominated_symposium",
+ "promoter": {
+  "ja": "東洋文庫"
+ },
+ "is_international_presentation": true,
+ "rm:is_open_access": false
+}

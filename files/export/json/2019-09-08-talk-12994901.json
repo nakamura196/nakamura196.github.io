@@ -1,0 +1,41 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12994901",
+ "@type": "presentations",
+ "rm:id": "12994901",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-31T01:29:20Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-31T01:29:20Z",
+ "presentation_title": {
+  "ja": "東京大学学術資産等アーカイブズポータルの構築プロジェクト"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "前田朗"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "前田朗, 中村覚"
+ },
+ "event": {
+  "ja": "Code4Lib JAPANカンファレンス2019"
+ },
+ "publication_date": "2019-09-08",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

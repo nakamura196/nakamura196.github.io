@@ -1,0 +1,41 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/52101557",
+ "@type": "awards",
+ "rm:id": "52101557",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T08:25:17Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-01-26T08:25:17Z",
+ "award_name": {
+  "ja": "第7回デジタルアーカイブ学会賞・学術賞（研究論文）最優秀賞"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "金甫榮"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "渡邉英徳"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "デジタル資料の長期保存のためのOAIS参照モデルによる情報パッケージの作成：東京大学史料編纂所を事例に"
+ },
+ "association": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "award_date": "2026-01"
+}

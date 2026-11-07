@@ -1,0 +1,54 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796187",
+ "@type": "presentations",
+ "rm:id": "51796187",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-12-04T22:24:05Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-12-04T22:24:05Z",
+ "presentation_title": {
+  "en": "Uncovering Editors' Intentions and Implicit Historical Perspectives through TEI Markup: Case Study on Dai Nihon Shiryo"
+ },
+ "presenters": {
+  "en": [
+   {
+    "name": "Ayano Kokaze"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "event": {
+  "en": "Digital Humanities 2025"
+ },
+ "publication_date": "2025-07-17",
+ "from_event_date": "2025-07-14",
+ "to_event_date": "2025-07-18",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "promoter": {
+  "en": "The Alliance of Digital Humanities Organizations (ADHO)"
+ },
+ "location": {
+  "en": "Lisbon"
+ },
+ "address_country": "PRT",
+ "description": {
+  "en": "This project reevaluates the historiographical practices of Dai Nihon Shiryo, focusing on the functional representation of Bouchū (marginal notes) and Warichū (interlinear annotations) using TEI. By addressing their embedded temporal semantics and editorial distinctions, this study uncovers implicit historical perspectives and contributes to advancing TEI applications in digital scholarly editing."
+ },
+ "is_international_presentation": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false
+}

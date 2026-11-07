@@ -1,0 +1,57 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/50180021",
+ "@type": "published_papers",
+ "rm:id": "50180021",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-05-17T00:58:53Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-11T03:36:03Z",
+ "paper_title": {
+  "ja": "International Symposium Commemorating the 100th Anniversary of the Toyo Bunko. Accumulation of Asian Knowledge and East-West Exchange",
+  "en": "International Symposium Commemorating the 100th Anniversary of the Toyo Bunko. Accumulation of Asian Knowledge and East-West Exchange"
+ },
+ "publication_date": "2025-05-13",
+ "publication_name": {
+  "ja": "Modern Asian Studies Review / 新たなアジア研究に向けて",
+  "en": "Modern Asian Studies Review / 新たなアジア研究に向けて"
+ },
+ "volume": "16",
+ "starting_page": "29",
+ "ending_page": "49",
+ "languages": [
+  "eng"
+ ],
+ "referee": false,
+ "invited": true,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24739/0002000645"
+  ],
+  "rm:research_project_id": [
+   "50040755",
+   "51361068"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24739/0002000645",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

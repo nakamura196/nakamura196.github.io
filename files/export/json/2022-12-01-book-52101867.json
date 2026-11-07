@@ -1,0 +1,48 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/52101867",
+ "@type": "books_etc",
+ "rm:id": "52101867",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:29:03Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-01-26T09:34:59Z",
+ "book_title": {
+  "ja": "デジタル時代のアーカイブ系譜学",
+  "en": "デジタル時代のアーカイブ系譜学"
+ },
+ "book_owner_role": "contributor",
+ "authors": {
+  "ja": [
+   {
+    "name": "柳与志夫"
+   },
+   {
+    "name": "加藤諭"
+   },
+   {
+    "name": "宮本隆史"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "第8章 デジタルテキストのメディア特性"
+ },
+ "publisher": {
+  "ja": "みすず書房"
+ },
+ "publication_date": "2022-12",
+ "total_page": "280",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "isbn": [
+   "9784622095552"
+  ]
+ }
+}

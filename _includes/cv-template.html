@@ -155,7 +155,7 @@
       {% for award in cv.awards %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ award.title }}</div>
+          <div class="cv-item-title">{% if award.url %}<a href="{{ award.url }}">{{ award.title }}</a>{% else %}{{ award.title }}{% endif %}</div>
           <div class="cv-item-date">{{ award.date | slice: 0, 4 }}</div>
         </div>
         <div class="cv-item-content">

@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Domesday Digital Text Project",
+  "en": "Domesday Digital Text Project"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2024-05",
+ "to_date": "9999",
+ "description": {
+  "ja": "11世紀イングランドの土地台帳『ドゥームズデイ・ブック』のデジタル学術編集版。構造化した本文を TEI で記述して検索できるようにし、IIIF の頁画像と対応づけている。編者 David Roffe、鶴島博和氏の科研費プロジェクト。",
+  "en": "A digital scholarly edition of the Domesday Book, the great land survey of eleventh-century England: its structured text in TEI, searchable and aligned with IIIF page images. Edited by David Roffe, in a KAKENHI project led by Hirokazu Tsurushima."
+ },
+ "see_also": [
+  {
+   "@id": "https://gdb.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

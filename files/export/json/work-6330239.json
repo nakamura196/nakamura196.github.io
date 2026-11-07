@@ -1,0 +1,40 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330239",
+ "@type": "works",
+ "rm:id": "6330239",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T06:36:44Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-02-25T00:47:11Z",
+ "work_title": {
+  "ja": "明るい低炭素社会の実現に向けた都市変革プログラム 社会実験事例データベース"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "creators_text": {
+  "ja": "中村 覚"
+ },
+ "work_type": "database",
+ "from_date": "2015-03",
+ "to_date": "9999",
+ "location": {
+  "ja": "東京大学"
+ },
+ "see_also": [
+  {
+   "@id": "https://low-carbon-k.github.io/sedb/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

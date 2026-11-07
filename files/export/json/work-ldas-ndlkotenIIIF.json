@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "ndlkotenocr-lite-iiif",
+  "en": "NDL Koten OCR Lite — IIIF Integration"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-05",
+ "to_date": "2026-09",
+ "description": {
+  "ja": "IIIFマニフェストURLを入力することで、マニフェスト内の全画像に対してNDL古典籍OCRを実行するツール。",
+  "en": "Tool that runs NDL classical script OCR on all images in a manifest by entering an IIIF manifest URL."
+ },
+ "see_also": [
+  {
+   "@id": "https://nakamura196-ndlkotenocr-lite-iiif.hf.space/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/ndlocr-lite-spaces",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

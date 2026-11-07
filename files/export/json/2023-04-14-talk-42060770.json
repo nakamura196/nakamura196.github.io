@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/42060770",
+ "@type": "presentations",
+ "rm:id": "42060770",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-04-17T07:22:57Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-04-17T07:22:57Z",
+ "presentation_title": {
+  "ja": "「カルチュラル・ジャパン」に関する取り組み紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "第141回デジタルアーカイブサロン"
+ },
+ "publication_date": "2023-04-14",
+ "from_event_date": "2023-04-14",
+ "to_event_date": "2023-04-14",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

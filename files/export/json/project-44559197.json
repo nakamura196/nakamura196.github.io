@@ -1,0 +1,95 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/44559197",
+ "@type": "research_projects",
+ "rm:id": "44559197",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-04-21 13:01:15",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2024-01-30T04:46:28Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-01-30T04:46:28Z",
+ "research_project_title": {
+  "ja": "大型絵図類のデータ構造化と関連史料の連携による南西諸島「海上の道」の復元的研究"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "黒嶋 敏"
+   },
+   {
+    "name": "山田 浩世"
+   },
+   {
+    "name": "杉本 史子"
+   },
+   {
+    "name": "木土 博成"
+   },
+   {
+    "name": "畑山 周平"
+   },
+   {
+    "name": "松尾 晋一"
+   },
+   {
+    "name": "屋良 健一郎"
+   },
+   {
+    "name": "岡本 真"
+   },
+   {
+    "name": "須田 牧子"
+   },
+   {
+    "name": "渡辺 美季"
+   },
+   {
+    "name": "上杉 和央"
+   },
+   {
+    "name": "片桐 千亜紀"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業"
+ },
+ "category": {
+  "ja": "基盤研究(A)"
+ },
+ "institution_name": {
+  "ja": "東京大学"
+ },
+ "from_date": "2023-04-01",
+ "to_date": "2027-03-31",
+ "overall_grant_amount": {
+  "total_cost": "46930000",
+  "direct_cost": "36100000",
+  "indirect_cost": "10830000"
+ },
+ "identifiers": {
+  "grant_number": [
+   "23H00012"
+  ],
+  "national_grant_number": [
+   "JP23H00012"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H00012"
+  }
+ ]
+}

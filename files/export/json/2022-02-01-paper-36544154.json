@@ -1,0 +1,61 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36544154",
+ "@type": "published_papers",
+ "rm:id": "36544154",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-03-22T01:06:36Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-03-22T01:06:36Z",
+ "paper_title": {
+  "ja": "日本中世古記録を対象としたトピック抽出自動化システムの構築",
+  "en": "Development of an Automated Topic Extraction System for Ancient Japanese Medieval Records"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "鳥居 克哉"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "山田 太造"
+   },
+   {
+    "name": "稗方 和夫"
+   }
+  ],
+  "en": [
+   {
+    "name": "Katsuya Torii"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   }
+  ]
+ },
+ "publication_date": "2022-02",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2022-CH-128",
+ "number": "8",
+ "starting_page": "1",
+ "ending_page": "6",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "rm:is_open_access": false
+}

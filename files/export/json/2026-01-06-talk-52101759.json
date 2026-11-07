@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101759",
+ "@type": "presentations",
+ "rm:id": "52101759",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:07:29Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-09T06:45:10Z",
+ "presentation_title": {
+  "ja": "テキストが拓くデジタルアーカイブの可能性 ―生成・構造化・活用の実践―（運営責任者）",
+  "en": "テキストが拓くデジタルアーカイブの可能性 ―生成・構造化・活用の実践―（運営責任者）"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタルアーカイブ学会 第10回研究大会 サテライト企画セッション"
+ },
+ "publication_date": "2026-01-06",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755",
+   "47578926"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

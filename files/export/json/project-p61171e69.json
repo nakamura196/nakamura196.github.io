@@ -1,0 +1,35 @@
+{
+ "@type": "research_projects",
+ "display": "disclosed",
+ "research_project_title": {
+  "ja": "国書データベースとそのテキストデータを活用した教材作成とLODの構築 －学校での授業実践と国際連携を通して－"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "大井将生"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "国文学研究資料館"
+ },
+ "system_name": {
+  "ja": "国文研プロジェクト型共同研究 重点課題研究（公募型）"
+ },
+ "institution_name": {
+  "ja": "同志社大学"
+ },
+ "from_date": "2025-04",
+ "to_date": "2027-03",
+ "see_also": [
+  {
+   "@id": "https://www.nijl.ac.jp/r-activity/joint_research/ddh/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

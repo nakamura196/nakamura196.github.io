@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505376",
+ "@type": "presentations",
+ "rm:id": "22505376",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-18T09:23:36Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-11-18T09:23:36Z",
+ "presentation_title": {
+  "ja": "Tokyo Digital History活動紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "人文情報学の諸相 - デジタル・ヒューマニティーズ 東京大学大学院横断型教育プログラム"
+ },
+ "publication_date": "2018-11-07",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

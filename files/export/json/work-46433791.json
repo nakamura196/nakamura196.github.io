@@ -1,0 +1,33 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433791",
+ "@type": "works",
+ "rm:id": "46433791",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-09T10:41:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-05-09T10:41:26Z",
+ "work_title": {
+  "ja": "日本史用語翻訳グロッサリー・データベース"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東京大学史料編纂所"
+   }
+  ]
+ },
+ "from_date": "2023-08-21",
+ "to_date": "9999",
+ "see_also": [
+  {
+   "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/glossary/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

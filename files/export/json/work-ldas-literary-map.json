@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "日本のデジタル文学地図",
+  "en": "Digital Literary Map of Japan"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-11",
+ "to_date": "9999",
+ "description": {
+  "ja": "文学作品に登場する歌枕・名所を地図上にプロットし、作品をまたいで探索できるサイト。",
+  "en": "Utamakura and famous places from literary works plotted on a map, for exploring across works."
+ },
+ "see_also": [
+  {
+   "@id": "https://literarymaps.nijl.ac.jp",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://literarymaps.nijl.ac.jp/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

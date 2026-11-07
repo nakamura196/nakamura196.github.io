@@ -1,0 +1,103 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323319",
+ "@type": "published_papers",
+ "rm:id": "21323319",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T05:21:02Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2023-02-11T03:55:12Z",
+ "paper_title": {
+  "en": "Technique for Searching Tabular Form Documents Using Metadata Harvested by Table Structure Analysis",
+  "ja": "Technique for Searching Tabular Form Documents Using Metadata Harvested by Table Structure Analysis"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Isaac Okada"
+   },
+   {
+    "name": "Minoru Saito"
+   },
+   {
+    "name": "Yoshiaki Oida"
+   },
+   {
+    "name": "Hiroyuki Yamato"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Naoto Fukada"
+   }
+  ],
+  "ja": [
+   {
+    "name": "Isaac Okada"
+   },
+   {
+    "name": "Minoru Saito"
+   },
+   {
+    "name": "Yoshiaki Oida"
+   },
+   {
+    "name": "Hiroyuki Yamato"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Naoto Fukada"
+   }
+  ]
+ },
+ "publisher": {
+  "en": "Sciedu Press"
+ },
+ "publication_date": "2014",
+ "publication_name": {
+  "en": "Artificial Intelligence Research",
+  "ja": "Artificial Intelligence Research"
+ },
+ "volume": "3",
+ "number": "1",
+ "starting_page": "46",
+ "ending_page": "51",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.5430/air.v3n1p46"
+  ],
+  "issn": [
+   "1927-6974"
+  ],
+  "e_issn": [
+   "1927-6982"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.5430/air.v3n1p46",
+   "is_downloadable": false
+  }
+ ]
+}

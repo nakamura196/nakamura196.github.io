@@ -10,12 +10,13 @@
   {% assign other_url = page.url | prepend: "/ja" %}
   {% assign other_label = "日本語" %}
 {% endif %}
-{% assign bilingual = "/,/publications/,/talks/,/works/,/grants/,/cv/" | split: "," %}
+{% assign bilingual = "/,/publications/,/talks/,/works/,/grants/,/cv/,/coauthors/" | split: "," %}
 {% assign base_url = page.url | remove_first: "/ja" %}
 {% if base_url == "" %}{% assign base_url = "/" %}{% endif %}
-{% unless bilingual contains base_url %}
+{% unless bilingual contains base_url or page.alt_url %}
   {% if page.lang == "ja" %}{% assign other_url = "/" %}{% else %}{% assign other_url = "/ja/" %}{% endif %}
 {% endunless %}
+{% if page.alt_url %}{% assign other_url = page.alt_url %}{% endif %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">

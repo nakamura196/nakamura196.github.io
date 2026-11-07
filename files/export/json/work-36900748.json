@@ -1,0 +1,42 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/36900748",
+ "@type": "works",
+ "rm:id": "36900748",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-05-06T03:11:07Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-05-06T03:11:07Z",
+ "work_title": {
+  "ja": "酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東洋文庫"
+   }
+  ]
+ },
+ "from_date": "2021-07-06",
+ "to_date": "9999",
+ "identifiers": {
+  "rm:research_project_id": [
+   "13226485"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://static.toyobunko-lab.jp/u-renja/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

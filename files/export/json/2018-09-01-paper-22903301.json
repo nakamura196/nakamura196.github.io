@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/22903301",
+ "@type": "published_papers",
+ "rm:id": "22903301",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-07-29T12:49:21Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-09-17T11:23:25Z",
+ "paper_title": {
+  "ja": "Publication and Usage of TEI Data in UTokyo Digital Archives Development Project",
+  "en": "Publication and Usage of TEI Data in UTokyo Digital Archives Development Project"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "publication_date": "2018-09",
+ "publication_name": {
+  "ja": "The 18th annual Conference and Members Meeting of the Text Encoding Initiative Consortium",
+  "en": "The 18th annual Conference and Members Meeting of the Text Encoding Initiative Consortium"
+ },
+ "starting_page": "232",
+ "ending_page": "233",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false
+}

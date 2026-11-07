@@ -1,0 +1,61 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486084",
+ "@type": "presentations",
+ "rm:id": "48486084",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T06:08:34Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T06:08:34Z",
+ "presentation_title": {
+  "ja": "Analysis of Issues When Creating OAIS-based Archival Information Packages: Through an Exploratory Survey Using an Online Questionnaire",
+  "en": "Analysis of Issues When Creating OAIS-based Archival Information Packages: Through an Exploratory Survey Using an Online Questionnaire"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yasuyuki Minamiyama"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ],
+  "en": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yasuyuki Minamiyama"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ]
+ },
+ "event": {
+  "ja": "DCMI2024",
+  "en": "DCMI2024"
+ },
+ "publication_date": "2024-10-20",
+ "from_event_date": "2024-10-21",
+ "to_event_date": "2024-10-23",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false
+}

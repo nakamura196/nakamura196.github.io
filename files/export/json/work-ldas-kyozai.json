@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "デジタル教材作成支援システム",
+  "en": "Digital Teaching Material Creation Support System"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2024-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "教材作成を支援するシステムのプロトタイプ。",
+  "en": "Prototype system supporting the creation of teaching materials."
+ },
+ "see_also": [
+  {
+   "@id": "https://kyozai.tana.ai/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

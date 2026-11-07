@@ -1,0 +1,98 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818",
+ "@type": "published_papers",
+ "rm:id": "52101818",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:16:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-22T05:46:23Z",
+ "paper_title": {
+  "ja": "TEI を用いたデジタル編纂ワークフローの検討：史料編纂所の中世禅籍史料を事例として",
+  "en": "Examination of Digital Compilation Workflow Using TEI: A Case Study of Medieval Zen Buddhist Historical Materials"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "岡本真"
+   },
+   {
+    "name": "小風綾乃"
+   },
+   {
+    "name": "大月希望"
+   },
+   {
+    "name": "山田太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Makoto Okamoto"
+   },
+   {
+    "name": "Ayano Kokaze"
+   },
+   {
+    "name": "Nozomi Ohtsuki"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "publication_date": "2025-12-06",
+ "publication_name": {
+  "ja": "じんもんこん2025論文集"
+ },
+ "volume": "2025",
+ "starting_page": "49",
+ "ending_page": "54",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755",
+   "47578926",
+   "39508595",
+   "35961918",
+   "51008201"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508595",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/35961918",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51008201",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/13442040",
+ "@type": "books_etc",
+ "rm:id": "13442040",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-04-09T14:45:01Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-04T07:04:45Z",
+ "book_title": {
+  "ja": "デジタルアーカイブ・ベーシックス 1：権利処理と法の実務"
+ },
+ "book_owner_role": "editor",
+ "authors": {
+  "ja": [
+   {
+    "name": "数藤, 雅彦"
+   },
+   {
+    "name": "福井, 健策"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "勉誠出版"
+ },
+ "publication_date": "2019-03",
+ "total_page": "8, 223p",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "cinii_nc_id": [
+   "BB27953112"
+  ],
+  "isbn": [
+   "9784585202813"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BB27953112",
+   "is_downloadable": false
+  }
+ ]
+}

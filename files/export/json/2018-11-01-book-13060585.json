@@ -1,0 +1,42 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/13060585",
+ "@type": "books_etc",
+ "rm:id": "13060585",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-12-07T03:21:23Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-04-09T14:52:08Z",
+ "book_title": {
+  "ja": "現代思想2018年12月号 特集＝図書館の未来"
+ },
+ "book_owner_role": "joint_work",
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "学校図書館の行方：大学図書館とデジタルアーカイブ——東京大学における取り組みを例として"
+ },
+ "publisher": {
+  "ja": "現代思想"
+ },
+ "publication_date": "2018-11",
+ "rep_page": "108-113",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "identifiers": {
+  "isbn": [
+   "9784791713745"
+  ]
+ }
+}

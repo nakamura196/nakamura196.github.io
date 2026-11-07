@@ -1,0 +1,74 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46132566",
+ "@type": "published_papers",
+ "rm:id": "46132566",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-04-12T03:11:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-14T23:56:15Z",
+ "paper_title": {
+  "ja": "Toward a TEI/RDF Encoding for Semantic Annotations: Concept and Implementation as LOD Editor",
+  "en": "Toward a TEI/RDF Encoding for Semantic Annotations: Concept and Implementation as LOD Editor"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Jun OGAWA"
+   },
+   {
+    "name": "Kiyonori NAGASAKI"
+   },
+   {
+    "name": "Satoru NAKAMURA"
+   },
+   {
+    "name": "Ikki OHMUKAI"
+   },
+   {
+    "name": "Asanobu KITAMOTO"
+   }
+  ],
+  "en": [
+   {
+    "name": "Jun OGAWA"
+   },
+   {
+    "name": "Kiyonori NAGASAKI"
+   },
+   {
+    "name": "Satoru NAKAMURA"
+   },
+   {
+    "name": "Ikki OHMUKAI"
+   },
+   {
+    "name": "Asanobu KITAMOTO"
+   }
+  ]
+ },
+ "publication_date": "2023-09",
+ "publication_name": {
+  "ja": "JOINT MEC TEI Conference 2023",
+  "en": "JOINT MEC TEI Conference 2023"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "see_also": [
+  {
+   "@id": "https://teimec2023.uni-paderborn.de/contributions/165.html",
+   "label": "url",
+   "is_downloadable": true
+  }
+ ]
+}

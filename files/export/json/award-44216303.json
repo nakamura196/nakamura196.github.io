@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/44216303",
+ "@type": "awards",
+ "rm:id": "44216303",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-12-09T05:51:38Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-12-09T05:51:38Z",
+ "award_name": {
+  "ja": "Linked Open Data Challenge 2023 優秀賞（データ作成部門）"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "大井将生"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "S×UKILAM（スキラム）教育メタデータLOD"
+ },
+ "association": {
+  "ja": "Linked Open Data チャレンジ 2023 実行委員会"
+ },
+ "description": {
+  "ja": "受賞作品：S×UKILAM（スキラム）教育メタデータLOD（https://idea.linkdata.org/idea/idea1s3662i）\n\n審査講評：本作品は、デジタルアーカイブ資料を用いた教材と多様な教育情報を、LODの特徴を活かし、さまざまなメタデータや外部コンテンツとの接続しやすい形で構造化したデータセットとなっています。 オントロジーによるスキーマ定義やSPARQLエンドポイントの提供など、データ公開の技術面も優れていることに加え、それらを利用し、豊富なデータを直感的なインタフェースで可視化するアプリケーションも開発されており、優秀賞に値すると評価いたしました。"
+ },
+ "award_date": "2023-11",
+ "award_type": "japan_society",
+ "address_country": "JPN",
+ "see_also": [
+  {
+   "@id": "https://2023.lodc.jp/awardPressRelease2023.html",
+   "label": "url"
+  }
+ ]
+}

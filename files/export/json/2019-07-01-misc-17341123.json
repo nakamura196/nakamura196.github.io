@@ -1,0 +1,60 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/17341123",
+ "@type": "misc",
+ "rm:id": "17341123",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-07T08:21:34Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-07T08:21:54Z",
+ "paper_title": {
+  "ja": "Enriching the Life Cycle of data: Supporting a project by DH approach",
+  "en": "Enriching the Life Cycle of data: Supporting a project by DH approach"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Ayano Kokaze"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   },
+   {
+    "name": "Naoki Kokaze"
+   }
+  ],
+  "en": [
+   {
+    "name": "Ayano Kokaze"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   },
+   {
+    "name": "Naoki Kokaze"
+   }
+  ]
+ },
+ "publication_date": "2019-07",
+ "publication_name": {
+  "ja": "International Society for Eighteenth-Century Studies Congress 2019",
+  "en": "International Society for Eighteenth-Century Studies Congress 2019"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "misc_type": "summary_international_conference",
+ "rm:is_open_access": false
+}

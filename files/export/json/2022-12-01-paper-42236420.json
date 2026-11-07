@@ -1,0 +1,77 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/42236420",
+ "@type": "published_papers",
+ "rm:id": "42236420",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-05-09T08:31:56Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-05-09T08:31:56Z",
+ "paper_title": {
+  "ja": "構造化テキストデータの活用における現状と課題 ―TEIに準拠した『浄土真宗聖典全書』全文検索システムの開発を通じて―",
+  "en": "Current Status and Issues in Utilization of Structured Text Data: Development of a Full-Text Search System for TEI-Compliant Buddhist Scriptures"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "永崎 研宣"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "田中 真"
+   },
+   {
+    "name": "西河 雅人"
+   },
+   {
+    "name": "林 龍樹"
+   },
+   {
+    "name": "井上 慶淳"
+   },
+   {
+    "name": "下田 正弘"
+   }
+  ],
+  "en": [
+   {
+    "name": "Kiyonori Nagasaki"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Makoto Tanaka"
+   },
+   {
+    "name": "Masato Nishikawa"
+   },
+   {
+    "name": "Ryuju Hayashi"
+   },
+   {
+    "name": "Keijun Inoue"
+   },
+   {
+    "name": "Masahiro Shimoda"
+   }
+  ]
+ },
+ "publication_date": "2022-12",
+ "publication_name": {
+  "ja": "じんもんこん2022論文集",
+  "en": "じんもんこん2022論文集"
+ },
+ "volume": "2022",
+ "starting_page": "73",
+ "ending_page": "78",
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false
+}

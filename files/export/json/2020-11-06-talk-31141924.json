@@ -1,0 +1,30 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31141924",
+ "@type": "presentations",
+ "rm:id": "31141924",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-12-08T07:11:48Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-12-08T07:11:48Z",
+ "presentation_title": {
+  "ja": "ジャパンサーチとカルチュラル・ジャパン"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "図書館総合展 2020年度 フォーラム 正式公開となったジャパンサーチを使ってみる"
+ },
+ "publication_date": "2020-11-06",
+ "invited": true,
+ "rm:is_open_access": false
+}

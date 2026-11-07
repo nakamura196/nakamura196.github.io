@@ -1,0 +1,134 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+ "@type": "research_projects",
+ "rm:id": "51361068",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-10-10 02:50:42",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-09-30T06:47:10Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-09-30T06:47:10Z",
+ "research_project_title": {
+  "ja": "書誌学とデジタルアーカイブの融合による仏典デジタルライブラリの拠点形成",
+  "en": "Establishment of a Buddhist Texts Digital Library Hub by Integrating Bibliography and Digital Archiving"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "會谷 佳光"
+   },
+   {
+    "name": "相原 佳之"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "宮崎 展昌"
+   },
+   {
+    "name": "清水 信子"
+   }
+  ],
+  "en": [
+   {
+    "name": "Aitani Yoshimitsu"
+   },
+   {
+    "name": "Aihara Yoshiyuki"
+   },
+   {
+    "name": "Nakamura Satoru"
+   },
+   {
+    "name": "Miyazaki Tensho"
+   },
+   {
+    "name": "Shimizu Nobuko"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(A)",
+  "en": "Grant-in-Aid for Scientific Research (A)"
+ },
+ "institution_name": {
+  "ja": "公益財団法人東洋文庫",
+  "en": "Toyo Bunko"
+ },
+ "from_date": "2025-04",
+ "to_date": "2030-03",
+ "overall_grant_amount": {
+  "total_cost": "45370000",
+  "direct_cost": "34900000",
+  "indirect_cost": "10470000"
+ },
+ "description": {
+  "ja": "本研究は、これまでの研究課題（18K00073、21H04345）で構築してきた『大正新脩大蔵経』底本・校本DB、仏典書誌DB、酉蓮社蔵嘉興版大蔵経目録DBを基盤に、伝統的な書誌学の手法とデジタルアーカイブを融合して、『大正蔵』の枠を超えて仏典デジタルライブラリを構築し、これによって仏典の文献学的研究やデジタル保存の基盤を形成することを目指す。\n具体的には、『大正蔵』未収の仏典、酉蓮社本以外の大蔵経、『大正蔵』の底本・校本に用いられた寺院所蔵本や国内外所蔵の仏典等を対象に書誌調査を行うと同時に、酉蓮社本の続蔵・又続蔵や寺院所蔵本等のデジタル化を進め、国際規格IIIFで公開し、DBを拡充していく。"
+ },
+ "fund_type": "competitive_research_funding",
+ "identifiers": {
+  "grant_number": [
+   "25H00464"
+  ],
+  "national_grant_number": [
+   "JP25H00464"
+  ],
+  "rm:published_paper_id": [
+   "52107631",
+   "51774561",
+   "50180021"
+  ],
+  "rm:presentation_id": [
+   "52982498",
+   "52101757",
+   "51796134"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://app.toyobunko-lab.jp/s/main/collection/25H00464",
+   "label": "url"
+  },
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25H00464"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561"
+  },
+  {
+   "label": "rm:published_papers",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/50180021"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52982498"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101757"
+  },
+  {
+   "label": "rm:presentations",
+   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796134"
+  }
+ ]
+}

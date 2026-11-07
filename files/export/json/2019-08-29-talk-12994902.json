@@ -1,0 +1,58 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12994902",
+ "@type": "presentations",
+ "rm:id": "12994902",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-31T01:31:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-31T01:31:16Z",
+ "presentation_title": {
+  "ja": "Work shop on TEI by SIG-EA/JP",
+  "en": "Work shop on TEI by SIG-EA/JP"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Kazuhiro Okada"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ],
+  "en": [
+   {
+    "name": "Kazuhiro Okada"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "Kazuhiro Okada,Satoru Nakamura,Kiyonori Nagasaki",
+  "en": "Kazuhiro Okada,Satoru Nakamura,Kiyonori Nagasaki"
+ },
+ "event": {
+  "ja": "The 9th Conference of Japanese Association for Digital Humanities",
+  "en": "The 9th Conference of Japanese Association for Digital Humanities"
+ },
+ "publication_date": "2019-08-29",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "nominated_symposium",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

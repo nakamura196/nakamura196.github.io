@@ -1,0 +1,71 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509568",
+ "@type": "published_papers",
+ "rm:id": "23509568",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:46:06Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-08-27T12:07:35Z",
+ "paper_title": {
+  "ja": "ドメイン知識の記述支援と活用のためのデジタル資産管理システム基盤「KASHIWADE」の 開発 – 情報システム開発における設計書・設計知識への適用",
+  "en": "Development of the platform system for Digital Asset Management with Domain Knowledge : A Case Study on Design Documents and Knowledge in Information System Development"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "人工知能学会"
+ },
+ "publication_date": "2015-05",
+ "publication_name": {
+  "ja": "2015年度人工知能学会全国大会",
+  "en": "2015年度人工知能学会全国大会"
+ },
+ "volume": "29",
+ "number": "2M5-4",
+ "starting_page": "1",
+ "ending_page": "4",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "1347-9881"
+  ],
+  "cinii_na_id": [
+   "40020496476"
+  ],
+  "cinii_nc_id": [
+   "AA11578981"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/40020496476",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/AA11578981",
+   "is_downloadable": false
+  },
+  {
+   "@id": "http://hdl.handle.net/2261/58513",
+   "is_downloadable": false,
+   "label": "url"
+  }
+ ]
+}

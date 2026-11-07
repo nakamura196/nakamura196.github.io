@@ -1,0 +1,34 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/52884474",
+ "@type": "awards",
+ "rm:id": "52884474",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-03-09T22:10:59Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-09T22:10:59Z",
+ "award_name": {
+  "ja": "Linked Open Data チャレンジ Japan 2025 データ作成部門 優秀賞"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "大井将生"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "OdGenji：源氏物語の香りDB"
+ },
+ "association": {
+  "ja": "Linked Open Data チャレンジ 2025 実行委員会"
+ },
+ "award_date": "2026-02"
+}

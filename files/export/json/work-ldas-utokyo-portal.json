@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "東京大学デジタルアーカイブポータル",
+  "en": "UTokyo Digital Archive Portal"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2019-06",
+ "to_date": "9999",
+ "description": {
+  "ja": "東京大学の各部局が公開するデジタルアーカイブを横断して検索できるポータル。約28万件の資料を、画像の有無や利用条件で絞り込んで探せる。",
+  "en": "A portal for searching across the digital archives published by departments of the University of Tokyo. About 280,000 items, filterable by whether images are available and by terms of use."
+ },
+ "see_also": [
+  {
+   "@id": "https://da.dl.itc.u-tokyo.ac.jp/portal/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://da.dl.itc.u-tokyo.ac.jp/portal/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

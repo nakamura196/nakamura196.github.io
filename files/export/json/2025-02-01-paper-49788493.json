@@ -1,0 +1,57 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/49788493",
+ "@type": "published_papers",
+ "rm:id": "49788493",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-04-10T06:17:25Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-04-10T06:34:59Z",
+ "paper_title": {
+  "ja": "日本史史料データ管理と公開：人文学・社会科学研究データ基盤の強化に向けた取り組み",
+  "en": "Management and Publication of Japanese Historical Materials: Initiatives to Strengthen the Research Data Infrastructure for the Humanities and Social Sciences"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "publication_date": "2025-02",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Journal of the Japan Society for Digital Archive"
+ },
+ "volume": "9",
+ "number": "4",
+ "starting_page": "1",
+ "ending_page": "8",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "published_paper_type": "scientific_journal",
+ "is_international_journal": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.9.1_4"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.9.1_4",
+   "is_downloadable": true
+  }
+ ]
+}

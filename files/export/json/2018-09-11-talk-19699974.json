@@ -1,0 +1,46 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/19699974",
+ "@type": "presentations",
+ "rm:id": "19699974",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-09-14T01:38:51Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-09-14T01:38:51Z",
+ "presentation_title": {
+  "ja": "Integration of TEI and IIIF",
+  "en": "Integration of TEI and IIIF"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "NAKAMURA Satoru"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚",
+  "en": "NAKAMURA Satoru"
+ },
+ "event": {
+  "ja": "TEI SIG East Asian / Japanese Meeting 2018",
+  "en": "TEI SIG East Asian / Japanese Meeting 2018"
+ },
+ "publication_date": "2018-09-11",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "nominated_symposium",
+ "is_international_presentation": true,
+ "rm:is_open_access": false
+}

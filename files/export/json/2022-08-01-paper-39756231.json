@@ -1,0 +1,59 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/39756231",
+ "@type": "published_papers",
+ "rm:id": "39756231",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-08-27T07:11:07Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-08-27T07:11:07Z",
+ "paper_title": {
+  "ja": "NDLOCRを用いた東京大学史料編纂所史料集版面画像に対する検索システムの開発",
+  "en": "Development of a Retrieval System Using NDLOCR for Print Images of the Historiographical Institute The University of Tokyo"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "劉冠偉"
+   },
+   {
+    "name": "山田太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2022-08",
+ "publication_name": {
+  "ja": "研究報告人文科学とコンピュータ（CH）"
+ },
+ "volume": "2022-CH-130",
+ "number": "5",
+ "starting_page": "1",
+ "ending_page": "8",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}

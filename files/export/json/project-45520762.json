@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/45520762",
+ "@type": "research_projects",
+ "rm:id": "45520762",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2026-09-26 22:52:32",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "coauthor",
+ "rm:created": "2024-02-02T09:36:49Z",
+ "rm:modifier_id": "ai:assign_based_papers",
+ "rm:modifier_type": "coauthor",
+ "rm:modified": "2024-02-02T09:36:49Z",
+ "research_project_title": {
+  "ja": "多様なデジタル文化資源の教育活用を促進するための「人」と「データ」を つなぐネットワークの構築",
+  "en": "Construction of a network connecting 'people' and 'data' to promote the educational use of diverse digital cultural resources"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "大井将生"
+   },
+   {
+    "name": "渡邉英徳"
+   },
+   {
+    "name": "大向一輝"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "国立情報学研究所",
+  "en": "National Institute of Informatics"
+ },
+ "system_name": {
+  "ja": "公募型共同研究（自由提案公募型）"
+ },
+ "category": {
+  "ja": "情報学, コンテンツ"
+ },
+ "institution_name": {
+  "ja": "TRC-ADEAC / 東京大学大学院情報学環・学際情報学府"
+ },
+ "from_date": "2022-04",
+ "to_date": "2023-03",
+ "overall_grant_amount": {
+  "total_cost": "784000"
+ },
+ "fund_type": "competitive_research_funding",
+ "identifiers": {
+  "grant_number": [
+   "22FC03"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://www.nii.ac.jp/research/upload/2022NIIkobogatakyodokenkyusaitakuitiran.pdf",
+   "label": "url"
+  }
+ ]
+}

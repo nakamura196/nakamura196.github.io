@@ -1,0 +1,49 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/53057039",
+ "@type": "awards",
+ "rm:id": "53057039",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-03-25T07:48:49Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-25T07:48:49Z",
+ "award_name": {
+  "ja": "DAPCON産業賞2025"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "阿辺川武"
+   },
+   {
+    "name": "石山星亜良"
+   },
+   {
+    "name": "植田禎子"
+   },
+   {
+    "name": "萱島礼香"
+   },
+   {
+    "name": "神崎正英"
+   },
+   {
+    "name": "高野明彦"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "Cultural Japan"
+ },
+ "association": {
+  "ja": "デジタルアーカイブ推進コンソーシアム"
+ },
+ "award_date": "2026-03"
+}

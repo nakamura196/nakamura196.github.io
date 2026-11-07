@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/10985841",
+ "@type": "presentations",
+ "rm:id": "10985841",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-05-29T15:32:52Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-07T07:53:22Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業 - 学術資産の公開と活用 -"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "国立大学共同利用・共同研究拠点協議会 知の拠点セミナー"
+ },
+ "publication_date": "2019-04-19",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://www.kyoten.org/seminar/H31/85/"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41656247",
+ "@type": "published_papers",
+ "rm:id": "41656247",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:27:39Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:27:39Z",
+ "paper_title": {
+  "ja": "[B2] 真正なデジタル化資料の長期保存と公開：ArchivematicaとOmeka Sを用いた事例",
+  "en": "[B2] Long-term Preservation and Publication of Authentic Digitized Archive Materials: A Case Study Using Archivematica and Omeka S"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "金 甫榮"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "渡邉 英徳"
+   }
+  ],
+  "en": [
+   {
+    "name": "金 甫榮"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "渡邉 英徳"
+   }
+  ]
+ },
+ "publication_date": "2022-11",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Journal of the Japan Society for Digital Archive"
+ },
+ "volume": "6",
+ "number": "s3",
+ "starting_page": "s147",
+ "ending_page": "s150",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}

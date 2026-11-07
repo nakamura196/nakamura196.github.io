@@ -1,0 +1,88 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/13999190",
+ "@type": "published_papers",
+ "rm:id": "13999190",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-18T09:18:51Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-02-05T17:15:07Z",
+ "paper_title": {
+  "ja": "図書館における木版本のデジタル化と利活用の可能性―IIIFとTEIを用いた『水滸伝』諸版本のデジタル化を通じて―",
+  "en": "Possibility of Digitalization and Utilization of Block Books in Research Libraries - Case of Digitization of “Shuihuzhuan” various editions using IIIF and TEI"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "上原究一"
+   },
+   {
+    "name": "永井正勝"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "中尾道子"
+   },
+   {
+    "name": "近藤隼人"
+   },
+   {
+    "name": "荒木達雄"
+   },
+   {
+    "name": "蓑輪顕量"
+   }
+  ],
+  "en": [
+   {
+    "name": "Kyuichi Uehara"
+   },
+   {
+    "name": "Masakatsu Nagai"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Michiko Nakao"
+   },
+   {
+    "name": "Hayato Kondo"
+   },
+   {
+    "name": "Tatsuo Araki"
+   },
+   {
+    "name": "Kenryo Minowa"
+   }
+  ]
+ },
+ "publication_date": "2018-12",
+ "publication_name": {
+  "ja": "じんもんこん2018論文集",
+  "en": "IPSJ SIG Computers and the Humanities Symposium 2018"
+ },
+ "volume": "2018",
+ "starting_page": "381",
+ "ending_page": "388",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00192402/",
+   "is_downloadable": false
+  }
+ ]
+}

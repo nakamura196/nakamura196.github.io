@@ -1,0 +1,37 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101737",
+ "@type": "presentations",
+ "rm:id": "52101737",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T08:59:48Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-01-26T08:59:48Z",
+ "presentation_title": {
+  "ja": "史料編纂所における全学FW外のデバイスを守る取り組み"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "山田太造"
+   }
+  ]
+ },
+ "event": {
+  "ja": "2025年度第2回部局CERTミーティング"
+ },
+ "publication_date": "2026-01-23",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false
+}

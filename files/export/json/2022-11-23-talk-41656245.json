@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656245",
+ "@type": "presentations",
+ "rm:id": "41656245",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:24:58Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:24:58Z",
+ "presentation_title": {
+  "ja": "Historical Knowledge Graph Creation with User-friendly Linked Data Editor",
+  "en": "Historical Knowledge Graph Creation with User-friendly Linked Data Editor"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Jun OGAWA"
+   },
+   {
+    "name": "Satoru NAKAMURA"
+   },
+   {
+    "name": "Asanobu KITAMOTO"
+   }
+  ],
+  "en": [
+   {
+    "name": "Jun OGAWA"
+   },
+   {
+    "name": "Satoru NAKAMURA"
+   },
+   {
+    "name": "Asanobu KITAMOTO"
+   }
+  ]
+ },
+ "event": {
+  "ja": "DH_BUDAPEST_2022 & DARIAH DAYS",
+  "en": "DH_BUDAPEST_2022 & DARIAH DAYS"
+ },
+ "publication_date": "2022-11-23",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "rm:is_open_access": false
+}

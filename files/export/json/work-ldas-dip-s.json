@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "史料集版面検索",
+  "en": "Historiographical Image Page Search"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2022-05",
+ "to_date": "9999",
+ "description": {
+  "ja": "東京大学史料編纂所が公開する史料集の版面を全文検索できるサイト。NDL OCR で作ったテキストと IIIF 画像を合わせて検索し、語の出現頻度の推移や、地名からの地図検索にも対応。",
+  "en": "Full-text search across page images of the source collections published by the Historiographical Institute. Combines NDL OCR text with IIIF images, with term-frequency trends over time and map browsing by place name."
+ },
+ "see_also": [
+  {
+   "@id": "https://dip-s.lab.hi.u-tokyo.ac.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://dip-s.lab.hi.u-tokyo.ac.jp/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/24601597",
+ "@type": "works",
+ "rm:id": "24601597",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-02-25T00:46:36Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-02-25T00:46:36Z",
+ "work_title": {
+  "ja": "電子展示『捃拾帖』"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東京大学学術資産アーカイブ化推進室"
+   }
+  ]
+ },
+ "work_type": "database",
+ "from_date": "2019-01-16",
+ "to_date": "9999",
+ "description": {
+  "ja": "明治時代の博物学者である田中芳男が収集した、幕末から大正時代にかけてのパンフレットや商品ラベルなどを貼り込んだ膨大なスクラップブックである『捃拾帖』の内容検索を可能としたシステム。東京大学史料編纂所で作成された書誌データと、東京大学デジタルアーカイブズ構築事業でデジタル化した画像データをIIIF Curation Platformを用いて統合させることにより、『捃拾帖』(第1帖から第18帖)に貼り込まれた資料（以下、貼り込み資料）1点ごとの年代や内容に基づく資料検索を可能とした。その他、「歴史地名データ」を用いた地図へのマッピングや、深層学習を用いた貼り込み資料の自動抽出などにも取り組んでいる。本システムは静的サイトとして構築し、GitHub Pagesを用いて公開している。これにより、サーバ管理などの運用コストを下げ、長期的に運用可能なシステムを目指している。"
+ },
+ "see_also": [
+  {
+   "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

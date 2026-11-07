@@ -1,0 +1,82 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36178589",
+ "@type": "published_papers",
+ "rm:id": "36178589",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-01-07T01:57:55Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-10-02T00:26:24Z",
+ "paper_title": {
+  "ja": "写真資料のクラウドアノテーションシステムの開発: 『渋沢栄一伝記資料」別巻第 10 を事例に",
+  "en": "Shibusawa Eiichi Photograph: A Crowdsourced Annotation Platform for Shibusawa's Denki shiryō"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "橋本雄太"
+   },
+   {
+    "name": "金甫榮"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "小風尚樹"
+   },
+   {
+    "name": "井上さやか"
+   },
+   {
+    "name": "茂原暢"
+   },
+   {
+    "name": "永崎研宣"
+   }
+  ]
+ },
+ "description": {
+  "ja": "近代の写真資料のデジタル公開が進みつつあるが，その効果的な活用には撮影場所や被撮影者の名前などセマンティックな情報の構造化が欠かせない．本研究では『渋沢栄一伝記資料』別巻第10に収録された700 点あまりの写真を対象に，写真資料のクラウドアノテーションシステム「渋沢栄一フォトグラフ」を開発した．このシステムは写真に写った人物のタグ付け，撮影場所の特定，文字情報の翻刻，関連する写真のアップロード，文献情報の登録などをサポートし，写真資料の活用に寄与する情報を構造化して付与する．クラウドソーシングによる大規模なデータ付与を可能にするため，このシステムは教育学の手法のひとつである「協調学習」の仕組みを応用している．\nAlthough the digitization of modern photographic material has been acerating, it is essential for the effective use of these materials to digitize the semantic information such as the location where the picture was taken and the name of the person photographed. In this study, we have developed “Shibusawa Eiichi Photograph”, a crowd-annotation system that aims to annotate over 700 pictures included in the supplementary volume 10 of Shibusawa Eiichi Denki Shiryo. This system supports the tagging of people in photographs, identification of locations where photographs were taken, transcription of textual information, uploading of related photographs, and registration of bibliographic information. The system is designed according to a pedagogical method called \"collaborative learning\" to enable crowd annotation through citizen participation."
+ },
+ "publication_date": "2021-12",
+ "publication_name": {
+  "ja": "じんもんこん2021論文集"
+ },
+ "volume": "2021",
+ "starting_page": "132",
+ "ending_page": "137",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "is_international_journal": false,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_na_id": [
+   "170000186291"
+  ],
+  "cinii_cr_id": [
+   "1050855522098178816"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1050855522098178816?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00215672/",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "OdGenji — 嗅覚データベース",
+  "en": "Olfactory Database for Genji Monogatari"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-10",
+ "to_date": "9999",
+ "description": {
+  "ja": "『源氏物語』における香り・嗅覚表現を体系的に収録・公開するデータベース。",
+  "en": "Database collecting olfactory expressions in The Tale of Genji."
+ },
+ "see_also": [
+  {
+   "@id": "https://odgenji.vercel.app/ja/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://odgenji.vercel.app/en/",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561",
+ "@type": "published_papers",
+ "rm:id": "51774561",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "external:ORCID",
+ "rm:creator_type": "trusted_institution",
+ "rm:created": "2025-12-02T00:24:13Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-22T05:46:13Z",
+ "paper_title": {
+  "ja": "A TEI-Based OCR Correction Tool Using GitHub for Collaborative Digital Humanities: Practical Implementation and Applications",
+  "en": "A TEI-Based OCR Correction Tool Using GitHub for Collaborative Digital Humanities: Practical Implementation and Applications"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "會谷佳光"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Yoshimitsu Aitani"
+   }
+  ]
+ },
+ "publication_date": "2025-12-03",
+ "publication_name": {
+  "ja": "Intelligence and Equity: Shaping the Future of Knowledge: 27th International Conference on Asian Digital Libraries, ICADL 2025, Proceedings",
+  "en": "Intelligence and Equity: Shaping the Future of Knowledge: 27th International Conference on Asian Digital Libraries, ICADL 2025, Proceedings"
+ },
+ "starting_page": "255",
+ "ending_page": "263",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.1007/978-981-95-4861-3_22"
+  ],
+  "orcid_put_cd": [
+   "198391504"
+  ],
+  "rm:research_project_id": [
+   "51361068",
+   "50040755",
+   "47578926",
+   "51008201"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.1007/978-981-95-4861-3_22",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51008201",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

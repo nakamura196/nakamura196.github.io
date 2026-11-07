@@ -1,0 +1,30 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656226",
+ "@type": "presentations",
+ "rm:id": "41656226",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:22:59Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:22:59Z",
+ "presentation_title": {
+  "ja": "東京大学史料編纂所出版物を用いたNDLOCRの応用事例紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "2022年度「NDLデジタルライブラリーカフェ」"
+ },
+ "publication_date": "2023-01-18",
+ "invited": true,
+ "rm:is_open_access": false
+}

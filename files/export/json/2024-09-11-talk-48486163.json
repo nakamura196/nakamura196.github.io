@@ -1,0 +1,73 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486163",
+ "@type": "presentations",
+ "rm:id": "48486163",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T06:20:30Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T06:21:05Z",
+ "presentation_title": {
+  "ja": "東京大学における人文学・社会科学データの共有・利活用に関する取組",
+  "en": "Initiatives for Sharing and Utilization of Humanities and Social Science Data at the University of Tokyo"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "三輪悟"
+   },
+   {
+    "name": "横内陳正"
+   },
+   {
+    "name": "渋谷綾子"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "平澤加奈子"
+   }
+  ],
+  "en": [
+   {
+    "name": "Taizo Yamada"
+   },
+   {
+    "name": "Satoshi Miwa"
+   },
+   {
+    "name": "Nobutada Yokouchi"
+   },
+   {
+    "name": "Ayako Shibutani"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kanako Hirasawa"
+   }
+  ]
+ },
+ "event": {
+  "ja": "第34回日本資料専門家欧州協会年次大会",
+  "en": "The 34th EAJRS Conference"
+ },
+ "publication_date": "2024-09-11",
+ "from_event_date": "2024-09-11",
+ "to_event_date": "2024-09-14",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false
+}

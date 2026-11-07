@@ -1,0 +1,85 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51320494",
+ "@type": "research_projects",
+ "rm:id": "51320494",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2025-09-29T10:55:21Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2025-09-29T10:55:21Z",
+ "research_project_title": {
+  "ja": "日本近世史料学の再構築 ―基幹史料集の多角的利用環境形成と社会連携を通じて",
+  "en": "Reconstructing Early Modern Japanese Historiography - Through the Formation of a Multifaceted Usage Environment for Core Historical Documents and Social Collaboration"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "杉本 史子"
+   },
+   {
+    "name": "菊地 智博"
+   },
+   {
+    "name": "林 晃弘"
+   },
+   {
+    "name": "立石 了"
+   },
+   {
+    "name": "稲葉 継陽"
+   },
+   {
+    "name": "箱石 大"
+   },
+   {
+    "name": "母利 美和"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "鶴田 啓"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業",
+  "en": "Grants-in-Aid for Scientific Research"
+ },
+ "category": {
+  "ja": "基盤研究(B)",
+  "en": "Grant-in-Aid for Scientific Research (B)"
+ },
+ "from_date": "2022-04-01",
+ "to_date": "2025-03-31",
+ "overall_grant_amount": {
+  "total_cost": "17420000",
+  "direct_cost": "13400000",
+  "indirect_cost": "4020000"
+ },
+ "description": {
+  "ja": "本研究では、①デジタライゼーションによる史料研究、②史料所蔵機関との連携強化による社会連携、③研究交流による研究成果発信を行っている。\n①については、引き続き日本近世史基幹的史料集のデジタルデータ作成を集中的に行い、史料編纂所のデータベースから公開した。『大日本維新史料 類纂之部 井伊家史料』について、17051レコードの索引データを作成・登録・修正して公開したほか、未刊行原稿について843件のデータ化を行った。『大日本近世史料 市中取締類集』の目次データ896件を作成した。さらに、『大日本近世史料 細川家史料』第17巻の本文データを作成・公開した。また、後述のデジタライジング研究会で得た知見をもとに、オンラインによる会議を開催してデータベース改良方針を策定した。\n②については、公益財団法人永青文庫と同文庫所蔵史料のデジタル公開方法について協議を深め、公開の準備作業として目録データの作成を進めたほか、同文庫所蔵史料に関するシンポジウム「近世初期における「御国」と「公儀」」を熊本大学永青文庫研究センターと共同して開催した。\n③については、熊本大学永青文庫研究センターと共に9月にシンポジウム「近世初期における「御国」と「公儀」」を対面・オンラインのハイブリッドにて開催したほか、12月には史料編纂所・同所維新史料研究国際ハブ拠点形成プロジェクト主催の国際研究集会「維新史料研究と国際発信」開催に協力した。また、昨年度開催の国際研究集会「幕末維新史研究と井伊家史料」の成果を『東京大学史料編纂所研究紀要』第34号に掲載した。さらに、デジタル技術やその課題に関する理解を深めるために、デジタライジング研究会を4回開催し、最新の知見を共有した。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "23K21964"
+  ],
+  "national_grant_number": [
+   "JP23K21964"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K21964"
+  }
+ ]
+}

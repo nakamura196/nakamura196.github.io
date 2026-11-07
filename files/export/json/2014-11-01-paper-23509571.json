@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509571",
+ "@type": "published_papers",
+ "rm:id": "23509571",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:53:11Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T09:53:11Z",
+ "paper_title": {
+  "ja": "顧客要件に合致するパッケージシステムのノウハウ事例抽出支援システムの開発",
+  "en": "Development of Design Know-how Cases Retrieval Support System on a Pachage System which corresponds to Customer Requirements"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "岡田伊策"
+   },
+   {
+    "name": "齋藤稔"
+   },
+   {
+    "name": "笈田佳彰"
+   },
+   {
+    "name": "増田幸司"
+   },
+   {
+    "name": "阿部雅昭"
+   },
+   {
+    "name": "堀口隆三"
+   }
+  ]
+ },
+ "publication_date": "2014-11",
+ "publication_name": {
+  "ja": "人工知能学会第2種研究会(SIG-KST)",
+  "en": "人工知能学会第2種研究会(SIG-KST)"
+ },
+ "number": "SIG-KST-2014-11-21",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://hdl.handle.net/2261/56369",
+   "is_downloadable": false
+  }
+ ]
+}

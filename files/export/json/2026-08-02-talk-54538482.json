@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538482",
+ "@type": "presentations",
+ "rm:id": "54538482",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-08-02T06:48:27Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-08-02T06:48:27Z",
+ "presentation_title": {
+  "ja": "東洋文庫所蔵の東アジア関連資料における多言語OCR・TEI・IIIFと生成AIの適用事例",
+  "en": "Applications of Multilingual OCR, TEI, IIIF and Generative AI to East Asian Materials in the Toyo Bunko Collection"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "国際ワークショップ（2026年度）「ポストデジタルデータ化の東アジア文献研究－超域と越境、そして生成AI」（東洋文庫総合アジア圏域研究班）",
+  "en": "International Workshop 2026: East Asian Textual Studies in the Post-Digitization Era - Transregionality, Border-Crossing, and Generative AI (Toyo Bunko)"
+ },
+ "publication_date": "2026-08-02",
+ "from_event_date": "2026-08-02",
+ "to_event_date": "2026-08-02",
+ "invited": true,
+ "presentation_type": "invited_oral_presentation",
+ "is_international_presentation": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

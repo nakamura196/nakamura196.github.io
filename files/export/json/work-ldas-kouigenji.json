@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "校異源氏物語テキストDB",
+  "en": "Kōi Genji Monogatari Text Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2019-11",
+ "to_date": "9999",
+ "description": {
+  "ja": "『校異源氏物語』のテキストデータをLOD・DTS・IIIF対応で公開するデータベース。TEI/XMLによる構造化テキストを提供。",
+  "en": "Database publishing text data of Kōi Genji Monogatari in LOD, DTS, and IIIF formats with TEI/XML structured text."
+ },
+ "see_also": [
+  {
+   "@id": "https://kouigenjimonogatari.github.io/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

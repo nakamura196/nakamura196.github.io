@@ -1,0 +1,41 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/12994904",
+ "@type": "presentations",
+ "rm:id": "12994904",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-31T01:35:08Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-31T01:35:27Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業 －学術資産等の公開と活用－"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "東京大学学術資産アーカイブ化推進室"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村覚（東京大学学術資産アーカイブ化推進室）"
+ },
+ "event": {
+  "ja": "データ活用社会創成シンポジウム"
+ },
+ "publication_date": "2019-09-02",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_symposium",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

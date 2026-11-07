@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "NDL古典籍OCR Lite Next.js版",
+  "en": "NDL Koten OCR Lite — Next.js Port"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-08",
+ "to_date": "2026-09",
+ "description": {
+  "ja": "NDL古典籍OCR-liteのNext.js移植版。くずし字OCRをブラウザから手軽に利用できるインターフェースを提供。",
+  "en": "Next.js port of NDL Koten OCR-lite. Browser-friendly interface for kuzushiji (classical cursive) OCR."
+ },
+ "see_also": [
+  {
+   "@id": "https://nkol.vercel.app/ja/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/ndlkotenocr-lite",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

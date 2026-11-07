@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/4593942",
+ "@type": "misc",
+ "rm:id": "4593942",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-10-10T03:07:42Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-10-10T03:07:42Z",
+ "paper_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業における学術資産の利活用に向けた取り組み"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "publication_date": "2018-09",
+ "publication_name": {
+  "ja": "東北大学史料館だより"
+ },
+ "number": "29",
+ "starting_page": "2",
+ "ending_page": "3",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "misc_type": "others",
+ "rm:is_open_access": false
+}

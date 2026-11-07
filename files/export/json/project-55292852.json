@@ -1,0 +1,61 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/55292852",
+ "@type": "research_projects",
+ "rm:id": "55292852",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-10-19T16:46:00Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-10-19T16:46:00Z",
+ "research_project_title": {
+  "ja": "Google Antigravity 科学研究支援プログラム（最高利用枠）",
+  "en": "Google Antigravity Scientific Research Program (Highest Usage Tier)"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "Google",
+  "en": "Google"
+ },
+ "system_name": {
+  "ja": "Google Antigravity Scientific Research Program",
+  "en": "Google Antigravity Scientific Research Program"
+ },
+ "category": {
+  "ja": "計算資源・AIモデル提供",
+  "en": "Compute & AI Model Allocation"
+ },
+ "institution_name": {
+  "ja": "東京大学",
+  "en": "The University of Tokyo"
+ },
+ "from_date": "2026-10",
+ "to_date": "2027-03",
+ "research_project_owner_role": "principal_investigator",
+ "description": {
+  "ja": "Google Antigravityの学術研究支援プログラム（最高利用枠・6ヶ月間）に採択。Gemini 4 Argonモデルおよび最上位の利用枠制限を活用した学術研究の推進。",
+  "en": "Selected for Google Antigravity's highest usage tier scientific research support program (6 months) to accelerate academic research using Gemini 4 Argon and upgraded usage limits."
+ },
+ "fund_type": "competitive_research_funding",
+ "is_international_collaboration": true,
+ "see_also": [
+  {
+   "@id": "https://antigravity.google/",
+   "label": "url"
+  }
+ ]
+}

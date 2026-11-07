@@ -1,0 +1,31 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/48555061",
+ "@type": "awards",
+ "rm:id": "48555061",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-28T00:28:01Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-28T00:28:01Z",
+ "award_name": {
+  "ja": "Linked Open Data Challenge 2024 学術LOD賞"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "大井将生"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "nihuBridge LOD; 荘園関係DB LOD"
+ },
+ "award_date": "2024-11"
+}

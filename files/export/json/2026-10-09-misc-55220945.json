@@ -1,0 +1,128 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/55220945",
+ "@type": "misc",
+ "rm:id": "55220945",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-10-10T03:16:59Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-10-10T03:16:59Z",
+ "paper_title": {
+  "ja": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”",
+  "en": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Chizuko Yoshimizu"
+   },
+   {
+    "name": "Jonathan Silk"
+   },
+   {
+    "name": "Tokio Takata"
+   },
+   {
+    "name": "Yoshimitsu Aitani"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Markus Viehbeck"
+   },
+   {
+    "name": "Christian Luczanits"
+   },
+   {
+    "name": "Fumi Yao"
+   },
+   {
+    "name": "Fumio Shoji"
+   },
+   {
+    "name": "Tensho Miyazaki"
+   },
+   {
+    "name": "Akira Saito"
+   }
+  ],
+  "en": [
+   {
+    "name": "Chizuko Yoshimizu"
+   },
+   {
+    "name": "Jonathan Silk"
+   },
+   {
+    "name": "Tokio Takata"
+   },
+   {
+    "name": "Yoshimitsu Aitani"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Markus Viehbeck"
+   },
+   {
+    "name": "Christian Luczanits"
+   },
+   {
+    "name": "Fumi Yao"
+   },
+   {
+    "name": "Fumio Shoji"
+   },
+   {
+    "name": "Tensho Miyazaki"
+   },
+   {
+    "name": "Akira Saito"
+   }
+  ]
+ },
+ "publication_date": "2026-10-09",
+ "publication_name": {
+  "ja": "Asian Research Trends, Third series",
+  "en": "Asian Research Trends, Third series"
+ },
+ "volume": "1",
+ "number": "1",
+ "starting_page": "49",
+ "ending_page": "58",
+ "referee": false,
+ "invited": false,
+ "misc_type": "meeting_report",
+ "is_international_collaboration": true,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.82641/artt.1.1_49"
+  ],
+  "rm:research_project_id": [
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.82641/artt.1.1_49",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://www.jstage.jst.go.jp/article/artt/1/1/1_49/_article/-char/en",
+   "label": "url",
+   "is_downloadable": true
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538478",
+ "@type": "presentations",
+ "rm:id": "54538478",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-08-02T06:47:33Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-08-02T06:47:33Z",
+ "presentation_title": {
+  "ja": "データ分析と可視化入門",
+  "en": "Introduction to Data Analysis and Visualization"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタル人文学セミナー第3回（東洋文庫データベース会議）",
+  "en": "Digital Humanities Seminar No. 3 (Toyo Bunko Database Conference)"
+ },
+ "publication_date": "2026-07-11",
+ "from_event_date": "2026-07-11",
+ "to_event_date": "2026-07-11",
+ "invited": true,
+ "presentation_type": "public_discourse",
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

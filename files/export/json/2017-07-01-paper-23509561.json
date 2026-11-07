@@ -1,0 +1,90 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509561",
+ "@type": "published_papers",
+ "rm:id": "23509561",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T08:31:32Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-07-29T01:25:06Z",
+ "paper_title": {
+  "ja": "Linked Dataを用いた平賀譲デジタルアーカイブの構築と活用",
+  "en": "Development and Application of Yuzuru Hiraga Digital Archive with Linked Data"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Satoru NAKAMURA"
+   },
+   {
+    "name": "Hiroyuki YAMATO"
+   },
+   {
+    "name": "Kazuo HIEKATA"
+   },
+   {
+    "name": "Taiga MITSUYUKI"
+   }
+  ],
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "満行泰河"
+   }
+  ]
+ },
+ "description": {
+  "ja": "<p>歴史学研究は、歴史資料（以下、資料）の目録データの作成や整理を行う「資料管理」、研究者が資料を用いて研究課題の解明に取り組む「資料研究」、資料や研究成果を広く一般に公開する「成果公開」の三つのプロセスに整理することができる。各々のプロセスは、取り扱うデータや活動主体の違いにより、独立して進められることが多い。本研究では、上述したプロセス間の有機的な連携を支援することを目的とし、各プロセス間で取り扱うデータをLinked Dataを用いて関連づけ、それらを相互に利用可能なシステムを提案する。また、海軍造船中将・第13代東京帝国大学総長であった平賀譲が遺した資料群『平賀譲文書』を対象とした適用事例を通じ、提案するシステムの有用性を評価する。</p>"
+ },
+ "publisher": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "publication_date": "2017-07",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Paper of the 1st Research Meeting of the Japan Society for Digital Archive"
+ },
+ "volume": "1",
+ "number": "Pre",
+ "starting_page": "71",
+ "ending_page": "75",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.1.Pre_71"
+  ],
+  "cinii_na_id": [
+   "130006069687"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.1.Pre_71",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/130006069687",
+   "is_downloadable": false
+  }
+ ]
+}

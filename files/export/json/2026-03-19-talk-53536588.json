@@ -1,0 +1,42 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/53536588",
+ "@type": "presentations",
+ "rm:id": "53536588",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-05-01T10:35:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-01T10:35:16Z",
+ "presentation_title": {
+  "ja": "NDL古典籍OCR-Liteを活用したiOSアプリの開発"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "次世代システム開発研究室 オンライン勉強会（2026年3月）"
+ },
+ "publication_date": "2026-03-19",
+ "from_event_date": "2026-03-19",
+ "to_event_date": "2026-03-19",
+ "invited": false,
+ "presentation_type": "oral_presentation",
+ "dataset": {
+  "dataset_name": "2026-03-19_nakamura.pdf",
+  "dataset_type": "published",
+  "access_url": "https://researchmap.jp/nakamura.satoru/presentations/53536588/attachment_file.pdf",
+  "rm:media_type": "application/pdf",
+  "rm:use_password": false,
+  "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/53536588/attachment_file.pdf?thumbnail"
+ },
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

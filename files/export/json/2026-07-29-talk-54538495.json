@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/54538495",
+ "@type": "presentations",
+ "rm:id": "54538495",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-08-02T06:53:03Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-08-02T06:53:03Z",
+ "presentation_title": {
+  "ja": "Constructing an Event-Centered Knowledge Graph from the Dainihon Shiryo Integrated Database: Modelling Causal and Sequential Relations among Historical Events",
+  "en": "Constructing an Event-Centered Knowledge Graph from the Dainihon Shiryo Integrated Database: Modelling Causal and Sequential Relations among Historical Events"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "小風綾乃"
+   },
+   {
+    "name": "井上聡"
+   },
+   {
+    "name": "金子拓"
+   }
+  ],
+  "en": [
+   {
+    "name": "Taizo Yamada"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Ayano Kokaze"
+   },
+   {
+    "name": "Satoshi Inoue"
+   },
+   {
+    "name": "Hiraku Kaneko"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Digital Humanities 2026 (DH2026)",
+  "en": "Digital Humanities 2026 (DH2026)"
+ },
+ "publication_date": "2026-07-29",
+ "from_event_date": "2026-07-27",
+ "to_event_date": "2026-07-31",
+ "invited": false,
+ "presentation_type": "poster_presentation",
+ "is_international_presentation": true,
+ "rm:is_open_access": false
+}

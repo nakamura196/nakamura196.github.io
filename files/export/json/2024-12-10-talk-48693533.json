@@ -1,0 +1,55 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48693533",
+ "@type": "presentations",
+ "rm:id": "48693533",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-12-12T04:21:22Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-12-12T04:21:22Z",
+ "presentation_title": {
+  "ja": "Linked Data with Old Illustrated Maps",
+  "en": "Linked Data with Old Illustrated Maps"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Aayano Kokaze"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Aayano Kokaze"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "event": {
+  "ja": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1",
+  "en": "Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1"
+ },
+ "publication_date": "2024-12-10",
+ "from_event_date": "2024-12-09",
+ "to_event_date": "2024-12-12",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "public_symposium",
+ "rm:is_open_access": false
+}

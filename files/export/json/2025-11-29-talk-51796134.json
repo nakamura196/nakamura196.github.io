@@ -1,0 +1,59 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/51796134",
+ "@type": "presentations",
+ "rm:id": "51796134",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-12-04T21:38:27Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-19T06:35:25Z",
+ "presentation_title": {
+  "ja": "Technical Implementation of Digital Systems for Historical Materials: Experiences from Toyo Bunko’s Database Projects",
+  "en": "Technical Implementation of Digital Systems for Historical Materials: Experiences from Toyo Bunko’s Database Projects"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”",
+  "en": "The Twelfth International Symposium of Inter-Asia Research Networks Commemorating the Digitization Project of the Tibetan Manuscript Kanjur “Rediscovering the Buddhist Canon from Multiple Perspectives”"
+ },
+ "publication_date": "2025-11-29",
+ "from_event_date": "2025-11-29",
+ "to_event_date": "2025-11-30",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "51361068",
+   "50040755"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51361068",
+   "label": "rm:research_project_id"
+  },
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50040755",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

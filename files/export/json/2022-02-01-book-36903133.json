@@ -1,0 +1,50 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/36903133",
+ "@type": "books_etc",
+ "rm:id": "36903133",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-05-06T07:19:55Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-05-06T07:19:55Z",
+ "book_title": {
+  "ja": "紙のレンズから見た古典籍"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "勉誠"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "紙質観察画像のデータベース構築と自動分類に関する試み"
+ },
+ "publisher": {
+  "ja": "勉誠出版 (発売)"
+ },
+ "publication_date": "2022-02",
+ "total_page": "106, 20p",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "cinii_nc_id": [
+   "BC13224326"
+  ],
+  "isbn": [
+   "9784585307198"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BC13224326",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52101743",
+ "@type": "presentations",
+ "rm:id": "52101743",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-01-26T09:01:38Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-01-26T09:01:38Z",
+ "presentation_title": {
+  "ja": "Comments on \"From Archiving to Intelligence: Developing Interoperable and AI-Ready GIS Datasets\"",
+  "en": "Comments on \"From Archiving to Intelligence: Developing Interoperable and AI-Ready GIS Datasets\""
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "社会科学データインフラストラクチャーワークショップ（国際ワークショップ）2026",
+  "en": "JSPS Humanities and Social Sciences Data Infrastructure Workshop 2026"
+ },
+ "publication_date": "2026-01-22",
+ "from_event_date": "2026-01-22",
+ "to_event_date": "2026-01-22",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "invited_oral_presentation",
+ "is_international_presentation": true,
+ "rm:is_open_access": false
+}

@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/32844912",
+ "@type": "presentations",
+ "rm:id": "32844912",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-06-20T05:37:17Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-06-20T05:37:17Z",
+ "presentation_title": {
+  "ja": "研究資源の共有と持続可能性の追究――オンライン・データベースDatabase of Historical Monuments in Islamic Cairoの制作を通じて"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "熊倉和歌子"
+   },
+   {
+    "name": "深見奈緒子"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "佐藤将"
+   },
+   {
+    "name": "吉村武典"
+   },
+   {
+    "name": "宍戸克実"
+   }
+  ]
+ },
+ "event": {
+  "ja": "東京外国語大学アジア・アフリカ言語文化研究所 2021年度海外学術調査フォーラム"
+ },
+ "publication_date": "2021-06-20",
+ "from_event_date": "2021-06-20",
+ "to_event_date": "2021-06-20",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "poster_presentation",
+ "rm:is_open_access": false
+}

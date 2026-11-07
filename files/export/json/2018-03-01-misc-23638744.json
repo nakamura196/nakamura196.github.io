@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23638744",
+ "@type": "misc",
+ "rm:id": "23638744",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-04-02T01:32:09Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-04-02T01:38:19Z",
+ "paper_title": {
+  "ja": "「東京大学デジタルアーカイブズ構築事業」について"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "東京大学学術資産アーカイブ化推進室"
+   }
+  ]
+ },
+ "publication_date": "2018-03",
+ "publication_name": {
+  "ja": "東京大学大学院情報学環社会情報研究資料センターニュース"
+ },
+ "number": "28",
+ "starting_page": "1",
+ "ending_page": "2",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "misc_type": "others",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://www.center.iii.u-tokyo.ac.jp/wp-content/uploads/28_1.pdf",
+   "is_downloadable": false
+  }
+ ]
+}

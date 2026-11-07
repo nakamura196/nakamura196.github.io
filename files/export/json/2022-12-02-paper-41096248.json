@@ -1,0 +1,65 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41096248",
+ "@type": "published_papers",
+ "rm:id": "41096248",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2023-01-11T03:31:00Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2023-01-11T03:31:00Z",
+ "paper_title": {
+  "ja": "日本史史料データプラットフォーム構築に向けた取り組みと課題",
+  "en": "Efforts and Challenges in Data Platform Construction for Japanese Historical Material"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "山田, 太造"
+   },
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "劉, 冠偉"
+   },
+   {
+    "name": "井上, 聡"
+   }
+  ]
+ },
+ "description": {
+  "ja": "人文科学研究において，研究デジタルトランスフォーメーションの実現していくことが急務である．本稿では，日本史研究におけるDX，特に日本史史料データを中心としたデータプラットフォームの構築に向けた東京大学史料編纂所における取り組みと，そこで検討してきた研究データ管理について述べる．\nIn the humanities, it is urgent to realize the digital transformation of research. In this paper, we describe the efforts at Historiographical Institute the University of Tokyo to establish a data platform for DX in Japanese historical research, especially for Japanese historical data, and the research data management that has been studied there."
+ },
+ "publication_date": "2022-12-02",
+ "publication_name": {
+  "ja": "じんもんこん2022論文集"
+ },
+ "volume": "2022",
+ "starting_page": "249",
+ "ending_page": "256",
+ "languages": [
+  "jpn"
+ ],
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_cr_id": [
+   "1050294643541502976"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1050294643541502976?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00223191/",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49526817",
+ "@type": "presentations",
+ "rm:id": "49526817",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-03-24T04:35:26Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-03-24T04:35:26Z",
+ "presentation_title": {
+  "ja": "研究データの管理と公開 ：人文学の観点から"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "三重大学オープンサイエンス推進シンポジウム「学術データの管理と共有、未来ヘの課題―科研費等の動向を踏まえて―」"
+ },
+ "publication_date": "2025-03-18",
+ "from_event_date": "2025-03-18",
+ "to_event_date": "2025-03-18",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

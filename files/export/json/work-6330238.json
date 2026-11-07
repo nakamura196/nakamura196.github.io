@@ -1,0 +1,37 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330238",
+ "@type": "works",
+ "rm:id": "6330238",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T05:58:59Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-02-25T00:48:27Z",
+ "work_title": {
+  "ja": "東京大学柏図書館「第11回」企画展示 ふね遺産『平賀譲文書』"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "creators_text": {
+  "ja": "中村覚"
+ },
+ "work_type": "artistic_activity",
+ "from_date": "2017-12",
+ "to_date": "2018-12",
+ "see_also": [
+  {
+   "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/kashiwa/news/20171218",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

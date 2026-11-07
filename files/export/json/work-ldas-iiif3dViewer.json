@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "IIIF 3D ビューア",
+  "en": "IIIF 3D Viewer"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-07",
+ "to_date": "9999",
+ "description": {
+  "ja": "IIIFマニフェストに基づいた3Dモデルの表示とアノテーション機能を提供するビューアアプリケーション。Three.js使用。",
+  "en": "Viewer providing 3D model display and annotation based on IIIF manifests. Built with Three.js."
+ },
+ "see_also": [
+  {
+   "@id": "https://3d.ldas.jp",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/iiif-3d-viewer",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

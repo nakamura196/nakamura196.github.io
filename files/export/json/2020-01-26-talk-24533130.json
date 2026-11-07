@@ -1,0 +1,34 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/24533130",
+ "@type": "presentations",
+ "rm:id": "24533130",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-02-07T13:13:26Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-02-07T13:13:26Z",
+ "presentation_title": {
+  "ja": "東京大学発のデジタル文化資源について"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "文化資源学会「デジタル文化資源の未来」シンポジウム"
+ },
+ "publication_date": "2020-01-26",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

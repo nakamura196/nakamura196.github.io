@@ -1,0 +1,71 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41096245",
+ "@type": "published_papers",
+ "rm:id": "41096245",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2023-01-11T03:30:59Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2023-01-11T03:30:59Z",
+ "paper_title": {
+  "ja": "花押を対象としたデータ駆動型歴史情報学研究の実践",
+  "en": "Implementation of data-driven historical informatics research on Kao Signature"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "劉, 冠偉"
+   },
+   {
+    "name": "宮﨑, 肇"
+   },
+   {
+    "name": "井上, 聡"
+   },
+   {
+    "name": "大山, 航"
+   },
+   {
+    "name": "山田, 太造"
+   }
+  ]
+ },
+ "description": {
+  "ja": "東京大学史料編纂所では，「データ駆動型歴史情報研究基盤の構築」プロジェクトを実施している．本研究では当該プロジェクトにおける1 つの適用事例として，花押を対象とした歴史情報学研究の実践例について述べる．具体的には，花押の検出や分類など，花押に対する定量的な分析を試みることで，データ駆動型の歴史情報研究のモデル検証を行う．\nHistoriographical Institute, The University of Tokyo has been implementing the \"Construction of Datadriven Historical Information Research Infrastructure\" project. This study describes a practical example of historical informatics research on Kao (signature) as one of the applications of this project. Specifically, we attempt quantitative analysis of Kao, such as detection and classification of them, to verify a model for data-driven historical information research."
+ },
+ "publication_date": "2022-12-02",
+ "publication_name": {
+  "ja": "じんもんこん2022論文集"
+ },
+ "volume": "2022",
+ "starting_page": "171",
+ "ending_page": "178",
+ "languages": [
+  "jpn"
+ ],
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_cr_id": [
+   "1050294643541392640"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1050294643541392640?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00223180/",
+   "is_downloadable": false
+  }
+ ]
+}

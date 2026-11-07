@@ -1,0 +1,57 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45661845",
+ "@type": "presentations",
+ "rm:id": "45661845",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-02-26T09:21:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-14T23:43:49Z",
+ "presentation_title": {
+  "ja": "Development of a User-friendly Application to Support Long-term Digital Preservation Using Archivematica",
+  "en": "Development of a User-friendly Application to Support Long-term Digital Preservation Using Archivematica"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kim Boyoung"
+   },
+   {
+    "name": "Yasuyuki Minamiyama"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kim Boyoung"
+   },
+   {
+    "name": "Yasuyuki Minamiyama"
+   }
+  ]
+ },
+ "event": {
+  "ja": "18th International Digital Curation Conference",
+  "en": "18th International Digital Curation Conference"
+ },
+ "publication_date": "2024-02-20",
+ "from_event_date": "2024-02-19",
+ "to_event_date": "2024-02-21",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": false
+}

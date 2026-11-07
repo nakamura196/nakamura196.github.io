@@ -1,0 +1,52 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46132492",
+ "@type": "published_papers",
+ "rm:id": "46132492",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-04-12T03:00:49Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-12T03:00:49Z",
+ "paper_title": {
+  "ja": "オープンソース漢字字形管理システムhi-glyphの開発と応用",
+  "en": "Development and Application of the Open-Source Chinese Character Glyph Management System: hi-glyph"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "劉 冠偉"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "山田 太造"
+   }
+  ],
+  "en": [
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Satoru"
+   },
+   {
+    "name": "Nakamura Taizo Yamada"
+   }
+  ]
+ },
+ "publication_date": "2023-12",
+ "publication_name": {
+  "ja": "じんもんこん2023論文集"
+ },
+ "volume": "2023",
+ "starting_page": "285",
+ "ending_page": "290",
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false
+}

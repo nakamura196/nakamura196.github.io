@@ -1,0 +1,43 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48485983",
+ "@type": "presentations",
+ "rm:id": "48485983",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T05:56:30Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T05:56:30Z",
+ "presentation_title": {
+  "ja": "東京大学史料編纂所における史料編纂・歴史研究支援に関する取り組み",
+  "en": "Efforts to Support Historical Compilation and Research at the Historiographical Institute of the University of Tokyo"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "第140回 国際ＡＲＣセミナー",
+  "en": "140th International ARC Seminar"
+ },
+ "publication_date": "2024-11-13",
+ "from_event_date": "2024-11-13",
+ "to_event_date": "2024-11-13",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "rm:is_open_access": false
+}

@@ -1,0 +1,68 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31141361",
+ "@type": "published_papers",
+ "rm:id": "31141361",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-12-08T06:16:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-03T06:33:59Z",
+ "paper_title": {
+  "ja": "Hieratische Paläographie DBの構築",
+  "en": "Development of Hieratische Paläographie DB"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "永井 正勝"
+   },
+   {
+    "name": "和氣 愛仁"
+   },
+   {
+    "name": "高橋 洋成"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Masakatsu Nagai"
+   },
+   {
+    "name": "Toshihito Waki"
+   },
+   {
+    "name": "Yona Takahashi"
+   }
+  ]
+ },
+ "published_paper_owner_roles": [
+  "lead"
+ ],
+ "publication_date": "2020-12",
+ "publication_name": {
+  "ja": "じんもんこん2020論文集"
+ },
+ "volume": "2020",
+ "starting_page": "191",
+ "ending_page": "196",
+ "referee": true,
+ "invited": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "http://id.nii.ac.jp/1001/00208595/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

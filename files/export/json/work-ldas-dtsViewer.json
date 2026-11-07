@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "DTS Viewer",
+  "en": "Distributed Text Services Viewer"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-05",
+ "to_date": "9999",
+ "description": {
+  "ja": "DTS（Distributed Text Services）APIを使用してテキストコレクションを閲覧・検索できるアプリ。",
+  "en": "Application for browsing and searching text collections using the DTS (Distributed Text Services) API."
+ },
+ "see_also": [
+  {
+   "@id": "https://dtsview.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/dts-viewer",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

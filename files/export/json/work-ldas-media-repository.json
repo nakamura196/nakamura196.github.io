@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "東洋文庫 画像公開リポジトリ",
+  "en": "Toyo Bunko Media Repository"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2022-06",
+ "to_date": "9999",
+ "description": {
+  "ja": "東洋文庫の所蔵資料の画像を IIIF で公開するリポジトリ。",
+  "en": "Image repository publishing the Toyo Bunko collection through IIIF."
+ },
+ "see_also": [
+  {
+   "@id": "https://app.toyobunko-lab.jp/s/main/page/home",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

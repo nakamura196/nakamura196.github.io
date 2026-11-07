@@ -1,0 +1,35 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/41656217",
+ "@type": "awards",
+ "rm:id": "41656217",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:17:07Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:17:20Z",
+ "award_name": {
+  "ja": "学術賞（著書)"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "井上透"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "自然史・理工系研究データの活用（デジタルアーカイブ・ベーシックス3）."
+ },
+ "association": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "award_date": "2022-11"
+}

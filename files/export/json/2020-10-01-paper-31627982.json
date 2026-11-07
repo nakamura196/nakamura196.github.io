@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31627982",
+ "@type": "published_papers",
+ "rm:id": "31627982",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-02-10T22:38:34Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-10T22:38:34Z",
+ "paper_title": {
+  "ja": "法帖画像アーカイブを研究資源として活用するために"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "成田健太郎"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "水野遊大"
+   }
+  ]
+ },
+ "publication_date": "2020-10",
+ "publication_name": {
+  "ja": "書学書道史研究(書学書道史学会)"
+ },
+ "volume": "30",
+ "starting_page": "71",
+ "ending_page": "82",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false
+}

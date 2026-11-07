@@ -1,0 +1,95 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/23707562",
+ "@type": "misc",
+ "rm:id": "23707562",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-05-11T00:42:15Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-05-11T00:42:15Z",
+ "paper_title": {
+  "ja": "デジタルヒストリー入門 : 2018 Spring Tokyo Digital History Symposium開催報告"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "小風 尚樹"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "纓田 宗紀"
+   },
+   {
+    "name": "山王 綾乃"
+   },
+   {
+    "name": "小林 拓実"
+   },
+   {
+    "name": "清原 和之"
+   },
+   {
+    "name": "金 甫榮"
+   },
+   {
+    "name": "福田 真人"
+   },
+   {
+    "name": "山崎 翔平"
+   },
+   {
+    "name": "槙野 翔"
+   },
+   {
+    "name": "小川 潤"
+   },
+   {
+    "name": "橋本 雄太"
+   },
+   {
+    "name": "宮本 隆史"
+   },
+   {
+    "name": "菊池 信彦"
+   },
+   {
+    "name": "後藤 真"
+   },
+   {
+    "name": "崎山 直樹"
+   },
+   {
+    "name": "元 ナミ"
+   },
+   {
+    "name": "加藤 諭"
+   }
+  ]
+ },
+ "publication_date": "2018-05",
+ "publication_name": {
+  "ja": "東京大学学術機関リポジトリ"
+ },
+ "starting_page": "1",
+ "ending_page": "57",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "misc_type": "meeting_report",
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "label": "url",
+   "@id": "http://hdl.handle.net/2261/00074493",
+   "is_downloadable": false
+  }
+ ]
+}

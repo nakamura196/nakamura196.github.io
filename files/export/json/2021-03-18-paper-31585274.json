@@ -1,0 +1,83 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31585274",
+ "@type": "published_papers",
+ "rm:id": "31585274",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-02-04T06:59:17Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-10-01T04:14:43Z",
+ "paper_title": {
+  "ja": "日本史学者の要求分析に基づく歴史資料のトピック推定システムの開発",
+  "en": "日本史学者の要求分析に基づく歴史資料のトピック推定システムの開発"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "鳥居克哉"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "山田太造"
+   },
+   {
+    "name": "稗方和夫"
+   }
+  ]
+ },
+ "description": {
+  "ja": "この発表では、要求分析の結果に基づき、日本史研究者の史料群に対する可用性と有用性を向上させるための要求を満たす要件を定義した。鎌倉中期の公家である藤原（勘解由小路）経光が記した『民経記』を対象に、ルールベースにより抽出した人名及びn-gram分割により本文から抽出した単語とその頻度からbag-of-wordsを生成し、LDA(Latent Dirichlet Allocation)を適用することでトピックを推定した。また、トピックを特徴づける単語を選定し、その単語により史料の参照を容易にし、定義した要求を満たすユーザーインターフェースを開発し、動作の検証をした。"
+ },
+ "publication_date": "2021-03-18",
+ "publication_name": {
+  "ja": "情報処理学会 第83回全国大会",
+  "en": "The 83rd National Convention of IPSJ"
+ },
+ "volume": "83",
+ "starting_page": "1",
+ "ending_page": "2",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "is_international_collaboration": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_na_id": [
+   "170000186500"
+  ],
+  "cinii_cr_id": [
+   "1010009142313595008"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1010009142313595008?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00215448/",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18H03576/",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20H00010/",
+   "is_downloadable": false
+  }
+ ]
+}

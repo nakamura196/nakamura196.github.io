@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/49104690",
+ "@type": "presentations",
+ "rm:id": "49104690",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2025-02-09T02:38:31Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2025-02-09T02:38:31Z",
+ "presentation_title": {
+  "ja": "TEIデータ構築の実践"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "千葉大学卓越大学院プログラム・人間文化研究機構DHコンソーシアム事業 DHウインターワークショップ"
+ },
+ "publication_date": "2025-02-04",
+ "from_event_date": "2025-02-03",
+ "to_event_date": "2025-02-05",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

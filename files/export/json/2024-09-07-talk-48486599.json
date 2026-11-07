@@ -1,0 +1,43 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48486599",
+ "@type": "presentations",
+ "rm:id": "48486599",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-11-19T07:08:22Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-11-19T07:08:22Z",
+ "presentation_title": {
+  "ja": "歴史資料のデジタル化を支える技術",
+  "en": "歴史資料のデジタル化を支える技術"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "デジタル化と歴史研究の未来―人文学・社会科学の協働",
+  "en": "デジタル化と歴史研究の未来―人文学・社会科学の協働"
+ },
+ "publication_date": "2024-09-07",
+ "from_event_date": "2024-09-07",
+ "to_event_date": "2024-09-07",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

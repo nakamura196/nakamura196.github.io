@@ -1,0 +1,79 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46132558",
+ "@type": "published_papers",
+ "rm:id": "46132558",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-04-12T03:10:16Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-14T23:54:51Z",
+ "paper_title": {
+  "ja": "Collecting Pieces of Historical Knowledge from Documents: Introduction of HIMIKO (Historical Micro Knowledge and Ontology)",
+  "en": "Collecting Pieces of Historical Knowledge from Documents: Introduction of HIMIKO (Historical Micro Knowledge and Ontology)"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Jun OGAWA"
+   },
+   {
+    "name": "Ikki OHMUKAI"
+   },
+   {
+    "name": "Satoru NAKAMURA"
+   },
+   {
+    "name": "Asanobu KITAMOTO"
+   }
+  ],
+  "en": [
+   {
+    "name": "Jun OGAWA"
+   },
+   {
+    "name": "Ikki OHMUKAI"
+   },
+   {
+    "name": "Satoru NAKAMURA"
+   },
+   {
+    "name": "Asanobu KITAMOTO"
+   }
+  ]
+ },
+ "publication_date": "2023-07",
+ "publication_name": {
+  "ja": "Digital Humanities 2023",
+  "en": "Digital Humanities 2023"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "is_international_collaboration": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.5281/zenodo.8107411"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.5281/zenodo.8107411",
+   "is_downloadable": true
+  },
+  {
+   "@id": "https://zenodo.org/records/8107411",
+   "label": "url",
+   "is_downloadable": true
+  }
+ ]
+}

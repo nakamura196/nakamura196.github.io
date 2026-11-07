@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/45846290",
+ "@type": "presentations",
+ "rm:id": "45846290",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-03-19T00:51:26Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-01T12:00:55Z",
+ "presentation_title": {
+  "ja": "Domesday Bookの可視化システムの開発"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "「延喜式のデジタル技術による汎用化」プロジェクト研究会"
+ },
+ "publication_date": "2024-03-17",
+ "from_event_date": "2024-03-17",
+ "to_event_date": "2024-03-17",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "dataset": {
+  "dataset_name": "Domesday Bookの 可視化システムの開発.pdf",
+  "dataset_type": "published",
+  "access_url": "https://researchmap.jp/nakamura.satoru/presentations/45846290/attachment_file.pdf",
+  "rm:media_type": "application/pdf",
+  "rm:use_password": false,
+  "thumbnail_url": "https://researchmap.jp/nakamura.satoru/presentations/45846290/attachment_file.pdf?thumbnail"
+ },
+ "rm:is_open_access": false
+}

@@ -1,0 +1,67 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/22505037",
+ "@type": "presentations",
+ "rm:id": "22505037",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-18T07:09:19Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-11-18T07:09:19Z",
+ "presentation_title": {
+  "ja": "NCC Digital Scholarship Workshop: IIIF",
+  "en": "NCC Digital Scholarship Workshop: IIIF"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "永崎研宣"
+   },
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Kiyonori NAGASAKI"
+   },
+   {
+    "name": "Satoru NAKAMURA"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "永崎研宣, 中村覚",
+  "en": "Kiyonori NAGASAKI, Satoru NAKAMURA"
+ },
+ "event": {
+  "ja": "NCC Digital Scholarship Workshop November 15-16, 2018",
+  "en": "NCC Digital Scholarship Workshop November 15-16, 2018"
+ },
+ "publication_date": "2018-11-16",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "public_discourse",
+ "promoter": {
+  "ja": "北米日本研究資料調整協議会",
+  "en": "North American Coordinating Council on Japanese Library Resources"
+ },
+ "location": {
+  "ja": "Princeton University",
+  "en": "Princeton University"
+ },
+ "is_international_presentation": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "https://guides.nccjapan.org/homepage/news/ncc-digital-scholarship-workshop-november-15-16-2018"
+  }
+ ]
+}

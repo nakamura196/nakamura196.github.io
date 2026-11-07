@@ -1,0 +1,75 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509569",
+ "@type": "published_papers",
+ "rm:id": "23509569",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:48:01Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-08-26T12:23:55Z",
+ "paper_title": {
+  "ja": "平賀譲デジタルアーカイブと史料研究環境の構築",
+  "en": "Yuzuru Hiraga Digital Archive and Development of the System to support Historical Research"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Nakamura Satoru"
+   }
+  ],
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "日本船舶海洋工学会"
+ },
+ "publication_date": "2015-05",
+ "publication_name": {
+  "ja": "日本船舶海洋工学会講演会論文集",
+  "en": "Conference proceedings, the Japan Society of Naval Architects and Ocean Engineers"
+ },
+ "number": "20",
+ "starting_page": "89",
+ "ending_page": "92",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "2185-1840"
+  ],
+  "cinii_na_id": [
+   "40020806676"
+  ],
+  "cinii_nc_id": [
+   "AA12500786"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/40020806676",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/AA12500786",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.ndl.go.jp/bib/027259790",
+   "is_downloadable": false
+  }
+ ]
+}

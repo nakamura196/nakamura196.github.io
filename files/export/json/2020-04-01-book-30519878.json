@@ -1,0 +1,51 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/30519878",
+ "@type": "books_etc",
+ "rm:id": "30519878",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-10-19T22:19:28Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-04T07:04:16Z",
+ "book_title": {
+  "ja": "デジタルアーカイブ・ベーシックス 3：自然史・理工系研究データの活用"
+ },
+ "book_owner_role": "editor",
+ "authors": {
+  "ja": [
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "井上, 透"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "勉誠出版"
+ },
+ "publication_date": "2020-04",
+ "total_page": "233p",
+ "languages": [
+  "jpn"
+ ],
+ "identifiers": {
+  "cinii_nc_id": [
+   "BB30439354"
+  ],
+  "isbn": [
+   "9784585202837"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/BB30439354",
+   "is_downloadable": false
+  }
+ ]
+}

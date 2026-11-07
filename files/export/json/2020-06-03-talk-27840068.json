@@ -1,0 +1,43 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/27840068",
+ "@type": "presentations",
+ "rm:id": "27840068",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2020-06-18T01:35:51Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-06-18T01:35:51Z",
+ "presentation_title": {
+  "ja": "Cultural Japan -- 日本文化に関する情報源のディスカバリーシステム",
+  "en": "Cultural Japan -- Discovery System for Cultural Japanese Resources"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "IIIF Week: Japan Showcase 「日本におけるIIIF関連活動の紹介」",
+  "en": "IIIF Week: Japan Showcase"
+ },
+ "publication_date": "2020-06-03",
+ "from_event_date": "2020-06-03",
+ "to_event_date": "2020-06-03",
+ "invited": true,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false
+}

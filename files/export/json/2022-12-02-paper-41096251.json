@@ -1,0 +1,62 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41096251",
+ "@type": "published_papers",
+ "rm:id": "41096251",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2023-01-11T03:31:00Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2023-01-11T03:31:00Z",
+ "paper_title": {
+  "ja": "研究資源としてのWEB APIの利用：歴史資料・古典籍の字形を横断的に検索するアプリケーションの開発",
+  "en": "The Utilization of WEB API as a Research Resource: Development of an Application for Cross-sectional Search of Glyphs in Historical Materials and Classical Books"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "劉, 冠偉"
+   },
+   {
+    "name": "中村, 覚"
+   },
+   {
+    "name": "山田, 太造"
+   }
+  ]
+ },
+ "description": {
+  "ja": "オープンデータとオープンサイエンスの台頭により，史料・古典籍のテキストデータセットと画像データセットが多く公開されるとともに，WEB API を同時に提供するサービスも増えている．それにともない，研究資源の一種として既存のWEB API の活用方法が課題となる．漢字字体規範史データセット，平安時代漢字字書総合データベース，史的文字データベース連携検索システムの三つのプロジェクトのWEB API を用いて，史料・古典籍に渡って，漢字部品での検索，異体字変換，検索結果のカスタマイズなどの機能を供する字形検索ウェブ・アプリケーションを開発した．\nWith the rise of open data and open science，many text and image data sets of historical materials and classical books have been released to the public，and an increasing number of services provide WEB API at the same time. The challenge is how to utilize existing Web APIs as a kind of research resource. Using the WEB APIs of the three projects: the Hanzi Normative Glyphs，the Integrated Database of Hanzi Dictionaries in Early Japan， and the Multi-database Search System for Historical Chinese Characters，we have developed a web application that provides functions such as searching by Chinese characters components，converting variant characters，and customizing search results."
+ },
+ "publication_date": "2022-12-02",
+ "publication_name": {
+  "ja": "じんもんこん2022論文集"
+ },
+ "volume": "2022",
+ "starting_page": "165",
+ "ending_page": "170",
+ "languages": [
+  "jpn"
+ ],
+ "rm:is_open_access": false,
+ "identifiers": {
+  "cinii_cr_id": [
+   "1050857593494813952"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_research",
+   "@id": "https://cir.nii.ac.jp/crid/1050857593494813952?lang=ja",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.nii.ac.jp/1001/00223179/",
+   "is_downloadable": false
+  }
+ ]
+}

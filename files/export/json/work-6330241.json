@@ -1,0 +1,42 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/6330241",
+ "@type": "works",
+ "rm:id": "6330241",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T06:43:35Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2020-02-25T01:34:13Z",
+ "work_title": {
+  "ja": "東京大学学術資産等アーカイブズプラットフォーム",
+  "en": "UTokyo Academic Archives Platform"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "東京大学学術資産アーカイブ化推進室"
+   }
+  ]
+ },
+ "creators_text": {
+  "ja": "中村 覚",
+  "en": "Nakamura Satoru"
+ },
+ "work_type": "database",
+ "from_date": "2017-12",
+ "to_date": "9999",
+ "description": {
+  "ja": "「東京大学が保持する学術資産のアーカイブを構築し、その公開と活用を促進することで、学術の多様性を支える基盤を強化する」ことを目的とした東京大学デジタルアーカイブズ構築事業において、画像等の公開と学術資産の発見可能性の向上、データの利活用促進を支援するシステム群の総称。学内の学術資産デジタル化に関連するウェブサイトをまとめた「リンク集」、東京大学内の各部局等でデジタル公開されている資料のメタデータを集積し資料単位での横断検索を可能とする「ポータル」、デジタルアーカイブシステムの構築・運用が困難な部局等に対する公開支援を行う「共用サーバ」、の3つのシステムから構成され、これらのシステムの設計、開発、運用に関わっている。\n特に「ポータル」については、システムの設計、プロトタイプの開発、仕様書の作成、業者との開発を担当した。また「共用サーバ」については、システムの設計、開発、導入、運用を担当し、IIIFやTEI、LODなどのデータの利活用を支援するための国際標準規格、OmekaをはじめとするDH関連のオープンソースソフトウェアを積極的に採用している。"
+ },
+ "see_also": [
+  {
+   "@id": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/overview",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

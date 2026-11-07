@@ -1,0 +1,39 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/works/46433855",
+ "@type": "works",
+ "rm:id": "46433855",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-09T10:46:23Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-05-09T10:46:23Z",
+ "work_title": {
+  "ja": "TEI Genetic Editions Viewer"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "飯田賢穂"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "淵田仁"
+   }
+  ]
+ },
+ "from_date": "2023-12-03",
+ "to_date": "9999",
+ "see_also": [
+  {
+   "@id": "https://timeline-ashen.vercel.app/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

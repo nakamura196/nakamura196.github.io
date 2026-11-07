@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "大日本海志編纂資料「起絵図」",
+  "en": "Okoshi-ezu from the Dai Nihon Kaishi Materials"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2020-08",
+ "to_date": "9999",
+ "description": {
+  "ja": "駒場図書館が所蔵する大日本海志編纂資料のうち、船の起絵図（平面図に壁や天井の図を貼り、組み立てると立体になる折り畳みの模型図）6点を、IIIF のレイヤー機能で組み立てる様子が見えるように表現した例。",
+  "en": "Six okoshi-ezu of ships from the Dai Nihon Kaishi materials in the Komaba Library — folding plans whose wall and ceiling sheets stand up into a 3D model — shown with IIIF layers so the assembly can be played step by step."
+ },
+ "see_also": [
+  {
+   "@id": "https://utda.github.io/kaishi/",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

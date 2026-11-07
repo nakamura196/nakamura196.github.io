@@ -1,0 +1,88 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/34782177",
+ "@type": "published_papers",
+ "rm:id": "34782177",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_internal_feeds",
+ "rm:creator_type": "ai",
+ "rm:created": "2021-10-23T16:58:02Z",
+ "rm:modifier_id": "ai:assign_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2021-10-23T16:58:02Z",
+ "paper_title": {
+  "ja": "チュートリアル・エクスカーション報告",
+  "en": "Reports on Excursion and Tutorials"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "天野 絵里子"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "永崎 研宣"
+   },
+   {
+    "name": "橋本 阿友子"
+   }
+  ],
+  "en": [
+   {
+    "name": "AMANO Eriko"
+   },
+   {
+    "name": "NAKAMURA Satoru"
+   },
+   {
+    "name": "NAGASAKI Kiyonori"
+   },
+   {
+    "name": "HASHIMOTO Ayuko"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "デジタルアーカイブ学会",
+  "en": "Japan Society for Digital Archive"
+ },
+ "publication_date": "2019",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Dejitaru Akaibu Gakkaishi"
+ },
+ "volume": "3",
+ "number": "3",
+ "starting_page": "281",
+ "ending_page": "282",
+ "languages": [
+  "jpn"
+ ],
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.3.3_281"
+  ],
+  "issn": [
+   "2432-9762"
+  ],
+  "cinii_na_id": [
+   "130007697285"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.3.3_281",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/130007697285",
+   "is_downloadable": false
+  }
+ ]
+}

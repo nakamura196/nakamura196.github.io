@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/20451870",
+ "@type": "presentations",
+ "rm:id": "20451870",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-12-11T10:15:22Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-12-11T10:15:22Z",
+ "presentation_title": {
+  "ja": "デジタルヒューマニティーズの研究動向と技術紹介"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "情報化時代の東洋学 ーデジタルアーカイブスの現状と課題ー"
+ },
+ "publication_date": "2019-11-30",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://www.ku-orcas.kansai-u.ac.jp/news/20191030_521/"
+  }
+ ]
+}

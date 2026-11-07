@@ -1,0 +1,54 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/39995995",
+ "@type": "published_papers",
+ "rm:id": "39995995",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-09-16T13:07:56Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-09-16T13:07:56Z",
+ "paper_title": {
+  "ja": "Building Interfaces for East Asian/Japanese TEI data",
+  "en": "Building Interfaces for East Asian/Japanese TEI data"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "K. Nagasaki"
+   },
+   {
+    "name": "S. Nakamura"
+   },
+   {
+    "name": "K. Okada"
+   }
+  ],
+  "en": [
+   {
+    "name": "K. Nagasaki"
+   },
+   {
+    "name": "S. Nakamura"
+   },
+   {
+    "name": "K. Okada"
+   }
+  ]
+ },
+ "publication_date": "2022-09",
+ "publication_name": {
+  "ja": "TEI Conference and Members' Meeting 2022",
+  "en": "TEI Conference and Members' Meeting 2022"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false
+}

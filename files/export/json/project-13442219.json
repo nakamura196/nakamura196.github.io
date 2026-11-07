@@ -1,0 +1,76 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13442219",
+ "@type": "research_projects",
+ "rm:id": "13442219",
+ "rm:user_id": "B000288639",
+ "identifiers_id_modified": "2024-11-03 23:01:50",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-07T08:07:09Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2024-02-01T05:39:33Z",
+ "research_project_title": {
+  "ja": "近世中国の刑罰制度に関する総合的研究―軍制との関係を中心として―",
+  "en": "A Study of punishment in early modern China"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "徳永 洋介"
+   },
+   {
+    "name": "高橋 亨"
+   },
+   {
+    "name": "中村 正人"
+   },
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "日本学術振興会",
+  "en": "Japan Society for the Promotion of Science"
+ },
+ "system_name": {
+  "ja": "科学研究費助成事業 基盤研究(C)",
+  "en": "Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (C)"
+ },
+ "category": {
+  "ja": "基盤研究(C)",
+  "en": "Grant-in-Aid for Scientific Research (C)"
+ },
+ "institution_name": {
+  "ja": "富山大学",
+  "en": "University of Toyama"
+ },
+ "from_date": "2019-04",
+ "to_date": "2022-03",
+ "research_project_owner_role": "coinvestigator",
+ "overall_grant_amount": {
+  "total_cost": "4290000",
+  "direct_cost": "3300000",
+  "indirect_cost": "990000"
+ },
+ "description": {
+  "ja": "本研究の課題は、宋代以降、死刑に次ぐ重刑がつねに軍制と密接な関係を有しながら推移した事実に焦点をあわせ、近世中国の法秩序の構造と特徴を明らかにすることにある。その第一年目にあたる平成31年度（令和元年度）は、第一に、宋代の刑罰体系のなかでも特異な位置を占める配軍の構造と特徴を明らかにするための基礎作業として、『慶元条法事類』刑獄門の会読作業を定期的に行い、宋代の法と刑罰に関わる基本史料の整理と分析に着手した。この結果、全体の三分の一にあたる巻73について、訳稿の作成と関連史料との校合をあらまし終えることができた。\n第二に、明代の刑罰制度に関する基本史料の収集作業の一環として、『明実録』に収める充軍史料を重点的にあつめ、『太祖実録』から『憲宗実録』までの調査作業をおおむね終えることができた。これは該書全体のほぼ五分の二にあたるが、『明実録』には充軍とは明確に断らなくとも、この刑罰に該当する記事も少なからず含まれることから、明代の法制用語に関しては、さらなる収集作業をふまえて帰納的に分類・整理していく必要があることも改めて明らかになった。\n第三に、令和元年11月には富山大学人文学部にて本科研費メンバーはもとより、平成28年度科学研究費助成事業・基盤研究(B)「情報時代における中国学研究・教育オープンプラットフォームの構築」(研究代表者：二階堂善弘)および富山大学附属図書館との共催というかたちで、「情報化時代の東洋学―デジタルアーカイブスの現状と課題―」と題する共同シンポジウムを開催し、この科研費のもうひとつのテーマである、デジタルヒューマニティーズの手法を活かした東洋学研究の今後について活発な議論を行った。"
+ },
+ "identifiers": {
+  "grant_number": [
+   "19K01032"
+  ],
+  "national_grant_number": [
+   "JP19K01032"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "kaken",
+   "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K01032"
+  }
+ ]
+}

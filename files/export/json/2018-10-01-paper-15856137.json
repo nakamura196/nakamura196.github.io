@@ -1,0 +1,39 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/15856137",
+ "@type": "published_papers",
+ "rm:id": "15856137",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-11-30T09:21:11Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-11-30T09:21:50Z",
+ "paper_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業：学術資産の利活用に向けた取り組み"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "publication_date": "2018-10",
+ "publication_name": {
+  "ja": "漢字文献情報処理研究",
+  "en": "Journal of Japan Association for East Asian Text Processing"
+ },
+ "number": "18",
+ "starting_page": "29",
+ "ending_page": "34",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false
+}

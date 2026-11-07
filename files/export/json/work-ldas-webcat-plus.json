@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "Webcat Plus",
+  "en": "Webcat Plus — Associative Search"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2023-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "本・作品・人物の連想検索サービス。Elasticsearch・SPARQLを活用して知の世界を横断的に探索できる。",
+  "en": "Associative search service for books, works, and people. Uses Elasticsearch and SPARQL for cross-domain knowledge exploration."
+ },
+ "see_also": [
+  {
+   "@id": "https://webcatplus.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://webcatplus.jp/en",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

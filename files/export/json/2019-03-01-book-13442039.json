@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/books_etc/13442039",
+ "@type": "books_etc",
+ "rm:id": "13442039",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-04-09T14:41:13Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-04-09T14:47:44Z",
+ "book_title": {
+  "ja": "歴史情報学の教科書"
+ },
+ "book_owner_role": "contributor",
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "book_owner_range": {
+  "ja": "歴史データをつなぐこと - 画像データ -"
+ },
+ "publisher": {
+  "ja": "文学通信"
+ },
+ "publication_date": "2019-03",
+ "total_page": "207",
+ "rep_page": "37-52",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "book_type": "scholarly_book",
+ "identifiers": {
+  "isbn": [
+   "4909658122"
+  ]
+ }
+}

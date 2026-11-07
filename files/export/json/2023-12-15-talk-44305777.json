@@ -1,0 +1,30 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/44305777",
+ "@type": "presentations",
+ "rm:id": "44305777",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-12-21T01:46:54Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-12-21T01:46:54Z",
+ "presentation_title": {
+  "ja": "東京大学史料編纂所における史料編纂・歴史研究支援に関する取り組み"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "歴博共同研究・日本歴史文化知 人文情報ユニット研究会 「DHのデータ構築の先にあるもの、研究の促進と広がり」"
+ },
+ "publication_date": "2023-12-15",
+ "invited": true,
+ "rm:is_open_access": false
+}

@@ -1,0 +1,98 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323316",
+ "@type": "published_papers",
+ "rm:id": "21323316",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T04:59:32Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-08-25T10:03:46Z",
+ "paper_title": {
+  "ja": "『文部省往復』を中心としたデジタルアーカイブの構築とその活用",
+  "en": "Development and Application of Digital Archive with the Collection of Correspondences between the University of Tokyo and Ministry of Education"
+ },
+ "authors": {
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Taiga Mitsuyuki"
+   },
+   {
+    "name": "Satoshi Kato"
+   },
+   {
+    "name": "Takashi Miyamomo"
+   },
+   {
+    "name": "Tomoko Takashima"
+   }
+  ],
+  "ja": [
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "稗方 和夫"
+   },
+   {
+    "name": "満行 泰河"
+   },
+   {
+    "name": "加藤 諭"
+   },
+   {
+    "name": "宮本 隆史"
+   },
+   {
+    "name": "高嶋 朋子"
+   }
+  ]
+ },
+ "publisher": {
+  "ja": "東京大学文書館"
+ },
+ "publication_date": "2017-03",
+ "publication_name": {
+  "ja": "東京大学文書館紀要",
+  "en": "Journal of the University of Tokyo Archives"
+ },
+ "number": "35",
+ "starting_page": "30",
+ "ending_page": "43",
+ "languages": [
+  "jpn"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "research_institution",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "issn": [
+   "2432-7913"
+  ],
+  "cinii_na_id": [
+   "40021201331"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/40021201331",
+   "is_downloadable": false
+  },
+  {
+   "label": "url",
+   "@id": "http://id.ndl.go.jp/bib/028193266",
+   "is_downloadable": false
+  }
+ ]
+}

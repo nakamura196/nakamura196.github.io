@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/52899942",
+ "@type": "misc",
+ "rm:id": "52899942",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-03-11T01:17:48Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-03-11T01:17:48Z",
+ "paper_title": {
+  "ja": "東京大学蔵水滸伝諸版本テキストデータ作成について"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "荒木達雄"
+   }
+  ]
+ },
+ "publication_date": "2022-08",
+ "publication_name": {
+  "ja": "2020-2021年度協働型アジア研究「東京大学所蔵水滸伝諸版本に関する研究」成果報告集"
+ },
+ "starting_page": "37",
+ "ending_page": "50",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "rm:is_open_access": false
+}

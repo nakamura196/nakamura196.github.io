@@ -1,0 +1,55 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/47576794",
+ "@type": "published_papers",
+ "rm:id": "47576794",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-08-30T06:59:52Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-08-30T06:59:52Z",
+ "paper_title": {
+  "ja": "Development and Application of hi-glyph: A Chinese Character Glyph Management System",
+  "en": "Development and Application of hi-glyph: A Chinese Character Glyph Management System"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ],
+  "en": [
+   {
+    "name": "Guanwei Liu"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Taizo Yamada"
+   }
+  ]
+ },
+ "publication_date": "2024-08",
+ "publication_name": {
+  "ja": "Digital Humanities 2024",
+  "en": "Digital Humanities 2024"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_collaboration": true,
+ "rm:is_open_access": false
+}

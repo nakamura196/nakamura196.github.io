@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/32844922",
+ "@type": "presentations",
+ "rm:id": "32844922",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-06-20T05:39:41Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-06-20T05:39:41Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業におけるデータ保存の取り組み"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "ジャパン・オープンサイエンス・サミット2021"
+ },
+ "publication_date": "2021-06-15",
+ "from_event_date": "2021-06-14",
+ "to_event_date": "2021-06-18",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "oral_presentation",
+ "rm:is_open_access": false
+}

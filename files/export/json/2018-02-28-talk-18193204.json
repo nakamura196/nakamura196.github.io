@@ -1,0 +1,41 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/18193204",
+ "@type": "presentations",
+ "rm:id": "18193204",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-03-01T06:36:25Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-03-01T06:39:04Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業とLOD（Linked Open Data）による利活用"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "第6回東北大学史料館アーカイブズセミナー"
+ },
+ "publication_date": "2018-02-28",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "public_discourse",
+ "location": {
+  "ja": "東北大学附属図書館本館"
+ },
+ "is_international_presentation": false,
+ "rm:is_open_access": false
+}

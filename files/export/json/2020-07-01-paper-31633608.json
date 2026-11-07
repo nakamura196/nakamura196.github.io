@@ -1,0 +1,96 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31633608",
+ "@type": "published_papers",
+ "rm:id": "31633608",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-02-12T05:04:16Z",
+ "rm:modifier_id": "ai:identify_based_internal_feeds",
+ "rm:modifier_type": "ai",
+ "rm:modified": "2022-09-30T05:17:17Z",
+ "paper_title": {
+  "ja": "特集 デジタル・ヒストリーの諸実践",
+  "en": "Current Practices in Digital History"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "岡崎敦"
+   },
+   {
+    "name": "藤川隆男"
+   },
+   {
+    "name": "佐治奈通子"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "田野崎アンドレーア嵐"
+   },
+   {
+    "name": "濱野未来"
+   },
+   {
+    "name": "大邑潤三"
+   }
+  ]
+ },
+ "description": {
+  "ja": "特集「デジタル・ヒストリーの諸実践」 に寄せてデジタル時代のアーカイブズ学と文書学公共圏の歴史的構造歴史学と情報学のより良い協働を目指して証書研究におけるTEIマークアップの活用歴史学における計量テキスト分析の活用歴史災害研究における GIS活用の試み"
+ },
+ "publisher": {
+  "ja": "東京大学大学院人文社会系研究科西洋史学研究室「クリオの会」"
+ },
+ "publication_date": "2020-07",
+ "publication_name": {
+  "ja": "クリオ = Clio : a journal of European studies",
+  "en": "Clio : a journal of European studies"
+ },
+ "number": "34",
+ "starting_page": "117",
+ "ending_page": "140",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.15083/00079645"
+  ],
+  "cinii_na_id": [
+   "120006884861"
+  ],
+  "cinii_nc_id": [
+   "AN10177047"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.15083/00079645",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_articles",
+   "@id": "http://ci.nii.ac.jp/naid/120006884861",
+   "is_downloadable": false
+  },
+  {
+   "label": "cinii_books",
+   "@id": "http://ci.nii.ac.jp/ncid/AN10177047",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://ci.nii.ac.jp/naid/120006902135/",
+   "is_downloadable": false,
+   "label": "url"
+  }
+ ]
+}

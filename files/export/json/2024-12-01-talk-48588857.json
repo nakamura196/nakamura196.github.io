@@ -1,0 +1,55 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/48588857",
+ "@type": "presentations",
+ "rm:id": "48588857",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-12-02T12:08:15Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-12-02T12:08:15Z",
+ "presentation_title": {
+  "ja": "デジタル源氏物語​ 研究者と図書館職員との連携による​ 「源氏物語」研究プラットフォームの構築",
+  "en": "デジタル源氏物語​ 研究者と図書館職員との連携による​ 「源氏物語」研究プラットフォームの構築"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "裏源氏勉強会"
+   },
+   {
+    "name": "東京大学附属図書館職員有志"
+   },
+   {
+    "name": "教員によるデジタルアーカイブ活用に関する"
+   }
+  ],
+  "en": [
+   {
+    "name": "裏源氏勉強会"
+   },
+   {
+    "name": "東京大学附属図書館職員有志"
+   },
+   {
+    "name": "教員によるデジタルアーカイブ活用に関する"
+   }
+  ]
+ },
+ "event": {
+  "ja": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」",
+  "en": "データ駆動による課題解決型人文学の創成～データ基盤の構築・活用による次世代型人文学研究の開拓～KICKOFF SYMPOSIUM 「AI×人文学 ーデータ駆動による未来形成ー」"
+ },
+ "publication_date": "2024-12-01",
+ "from_event_date": "2024-12-01",
+ "to_event_date": "2024-12-01",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

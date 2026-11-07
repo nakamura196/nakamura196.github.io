@@ -1,0 +1,40 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/41656254",
+ "@type": "presentations",
+ "rm:id": "41656254",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:32:10Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:32:10Z",
+ "presentation_title": {
+  "ja": "OCRテキストを用いた幕末維新史料・横断検索システムの開発",
+  "en": "OCRテキストを用いた幕末維新史料・横断検索システムの開発"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "明治維新史学会例会",
+  "en": "明治維新史学会例会"
+ },
+ "publication_date": "2022-10-29",
+ "invited": false,
+ "languages": [
+  "jpn"
+ ],
+ "rm:is_open_access": false
+}

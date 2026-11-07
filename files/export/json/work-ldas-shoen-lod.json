@@ -1,0 +1,33 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "nihuBridge LOD / 荘園関係DB LOD",
+  "en": "nihuBridge LOD — Shōen Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2024-09",
+ "to_date": "9999",
+ "description": {
+  "ja": "人間文化研究機構のnihuBridgeから国立歴史民俗博物館のデータベースをLOD形式で提供するサイト。",
+  "en": "Site providing National Museum of Japanese History database data in LOD format via the nihuBridge platform."
+ },
+ "see_also": [
+  {
+   "@id": "https://shoen.vercel.app",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

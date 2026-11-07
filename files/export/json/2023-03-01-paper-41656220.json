@@ -1,0 +1,41 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41656220",
+ "@type": "published_papers",
+ "rm:id": "41656220",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:19:43Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:19:43Z",
+ "paper_title": {
+  "ja": "Rubi as a Text: A Note on the Ruby Gloss Encoding"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Kazuhiro Okada"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Kiyonori Nagasaki"
+   }
+  ]
+ },
+ "publication_date": "2023-03",
+ "publication_name": {
+  "ja": "Journal of the Text Encoding Initiative"
+ },
+ "volume": "14",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "published_paper_type": "scientific_journal",
+ "rm:is_open_access": false
+}

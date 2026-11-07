@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "IIIF Annotation Viewer",
+  "en": "IIIF Annotation Viewer — Clustering"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2025-10",
+ "to_date": "9999",
+ "description": {
+  "ja": "IIIF Presentation API v3対応のアノテーションビューアー。大量のアノテーションをマーカークラスタリングで効率的に表示。",
+  "en": "IIIF Presentation API v3 annotation viewer with marker clustering for large annotation sets. Includes virtual scroll and search."
+ },
+ "see_also": [
+  {
+   "@id": "https://iiif-annotation-viewer.vercel.app/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/iiif-annotation-viewer",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "IIIF Animated Viewer",
+  "en": "IIIF Animated Viewer — AI Video Overlay"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2026-03",
+ "to_date": "9999",
+ "description": {
+  "ja": "IIIF画像上にAI生成動画（Google Veo）をオーバーレイ表示するビューア。百鬼夜行図の妖怪たちが動き出す。空間音声・日英アノテーション対応。",
+  "en": "Viewer overlaying AI-generated videos (Google Veo) onto IIIF images. Brings Hyakki Yagyō scroll creatures to life with spatial audio and bilingual annotations."
+ },
+ "see_also": [
+  {
+   "@id": "https://anim.ldas.jp/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://github.com/nakamura196/iiif-animated-viewer",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

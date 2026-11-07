@@ -1,0 +1,34 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/31585200",
+ "@type": "presentations",
+ "rm:id": "31585200",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2021-02-04T06:50:17Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2021-02-04T06:50:17Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業の取り組みとその利活用について"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "event": {
+  "ja": "2020年度KU-ORCAS国際シンポジウム：デジタルヒューマニティーズ推進のための環境構築とその課題"
+ },
+ "publication_date": "2021-02-27",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "rm:is_open_access": false
+}

@@ -137,3 +137,40 @@
 .lang-switch a {
   font-size: $type-size-6;
 }
+
+/* filter bar, detail pages, export blocks */
+.rm-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 0.8em;
+  align-items: center;
+  margin: 0 0 1.2em;
+  font-size: $type-size-6;
+
+  input[type="search"] { flex: 1 1 14em; min-width: 10em; padding: 0.3em 0.6em; }
+  select { padding: 0.3em 0.4em; max-width: 100%; }
+  .rm-chk { white-space: nowrap; }
+  .rm-count { color: var(--global-text-color-light); }
+  .rm-dl-links { margin-left: auto; font-size: $type-size-7; }
+}
+
+[hidden] { display: none !important; }
+
+.rm-dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.4em 1.2em;
+  margin: 1em 0 1.5em;
+  font-size: $type-size-6;
+
+  dt { margin: 0; font-weight: bold; color: var(--global-text-color-light); }
+  dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+}
+
+@media (max-width: 599px) {
+  .rm-dl { grid-template-columns: 1fr; }
+  .rm-dl dd { margin-bottom: 0.6em; }
+}
+
+.rm-detail-img { max-width: 100%; max-height: 260px; border: 1px solid var(--global-border-color); border-radius: 4px; }
+.rm-bib { font-size: $type-size-7; overflow-x: auto; }

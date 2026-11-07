@@ -1,0 +1,38 @@
+{
+ "@type": "works",
+ "display": "disclosed",
+ "work_title": {
+  "ja": "仏典書誌データベース",
+  "en": "Buddhist Texts Bibliographic Database"
+ },
+ "creators": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "from_date": "2024-09",
+ "to_date": "9999",
+ "description": {
+  "ja": "仏典の書誌情報と画像を閲覧するためのデータベース。仏典単位でも巻ごとにも調べられ、データセットと IIIF マニフェストを公開している。『大正新脩大蔵経』底本・校本データベースや酉蓮社の嘉興版大蔵経目録とつながる。",
+  "en": "A database for browsing bibliographic records and images of Buddhist texts, searchable by text or by fascicle, with a published dataset and IIIF manifests. Linked with the Taishō Canon base-text database and the Yūren-ja Jiaxing Canon catalogue."
+ },
+ "see_also": [
+  {
+   "@id": "https://toyobunko-lab.jp/butten-shoshi/",
+   "label": "url",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://toyobunko-lab.jp/butten-shoshi/en/",
+   "label": "url_en",
+   "is_downloadable": false
+  }
+ ]
+}

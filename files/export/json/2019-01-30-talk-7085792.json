@@ -1,0 +1,45 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/7085792",
+ "@type": "presentations",
+ "rm:id": "7085792",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-01-31T13:44:15Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-02-10T01:23:11Z",
+ "presentation_title": {
+  "ja": "東京大学デジタルアーカイブズ構築事業におけるオープンデータに関する取り組み"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "presenters_text": {
+  "ja": "中村 覚"
+ },
+ "event": {
+  "ja": "シンポジウム 「オープンデータと大学」| 九州大学附属図書館"
+ },
+ "publication_date": "2019-01-30",
+ "invited": true,
+ "languages": [
+  "jpn"
+ ],
+ "presentation_type": "nominated_symposium",
+ "is_international_presentation": false,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "is_downloadable": false,
+   "label": "url",
+   "@id": "http://hdl.handle.net/2324/2197530"
+  }
+ ]
+}

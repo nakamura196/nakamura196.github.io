@@ -1,0 +1,49 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/awards/39368098",
+ "@type": "awards",
+ "rm:id": "39368098",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-08-01T04:37:02Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-08-01T04:37:02Z",
+ "award_name": {
+  "ja": "2022年度（令和4年度）山下記念研究賞",
+  "en": "IPSJ Yamashita SIG Research Award"
+ },
+ "winners": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "award_title": {
+  "ja": "デジタル源氏物語（AI画像検索版）：くずし字OCRと編集距離を用いた写本・版本の比較支援システムの開発"
+ },
+ "association": {
+  "ja": "情報処理学会",
+  "en": "Information Processing Society of Japan"
+ },
+ "award_date": "2022-07",
+ "identifiers": {
+  "rm:research_project_id": [
+   "13226485"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/13226485",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

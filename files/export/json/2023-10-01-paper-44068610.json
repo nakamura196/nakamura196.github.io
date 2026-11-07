@@ -1,0 +1,71 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/44068610",
+ "@type": "published_papers",
+ "rm:id": "44068610",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "ai:assign_based_papers",
+ "rm:creator_type": "ai",
+ "rm:created": "2023-11-18T18:54:06Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-04-14T23:32:36Z",
+ "paper_title": {
+  "ja": "Archivematicaを活⽤したデジタルデータの⻑期保存を支援する簡易操作アプリケーションの開発",
+  "en": "Development of a User-friendly Application to Support Long-term Digital Preservation Using Archivematica"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "金甫榮"
+   },
+   {
+    "name": "南山泰之"
+   }
+  ],
+  "en": [
+   {
+    "name": "NAKAMURA Satoru"
+   },
+   {
+    "name": "KIM Boyoung"
+   },
+   {
+    "name": "MINAMIYAMA Yasuyuki"
+   }
+  ]
+ },
+ "publication_date": "2023-10",
+ "publication_name": {
+  "ja": "デジタルアーカイブ学会誌",
+  "en": "Dejitaru Akaibu Gakkaishi"
+ },
+ "volume": "7",
+ "number": "S2",
+ "starting_page": "s107",
+ "ending_page": "s110",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "published_paper_type": "symposium",
+ "is_international_journal": false,
+ "rm:is_open_access": true,
+ "identifiers": {
+  "doi": [
+   "10.24506/jsda.7.s2_s107"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.24506/jsda.7.s2_s107",
+   "is_downloadable": true
+  }
+ ]
+}

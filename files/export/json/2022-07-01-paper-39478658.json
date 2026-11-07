@@ -1,0 +1,53 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/39478658",
+ "@type": "published_papers",
+ "rm:id": "39478658",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2022-08-03T05:54:19Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2022-08-03T05:54:19Z",
+ "paper_title": {
+  "ja": "Crowdsourcing as Collaborative Learning: A Participatory Annotation Project for the Photographic Materials of Shibusawa Eiichi"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Hashimoto, Yuta"
+   },
+   {
+    "name": "Kim, Boyoung"
+   },
+   {
+    "name": "Nakamura, Satoru"
+   },
+   {
+    "name": "Kokaze, Naoki"
+   },
+   {
+    "name": "Inoue, Sayaka"
+   },
+   {
+    "name": "Shigehara, Toru"
+   },
+   {
+    "name": "Nagasaki, Kiyonori"
+   }
+  ]
+ },
+ "publication_date": "2022-07",
+ "publication_name": {
+  "ja": "Digital Humanities 2022"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "rm:is_open_access": false
+}

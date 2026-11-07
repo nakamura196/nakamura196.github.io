@@ -1,0 +1,70 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23517692",
+ "@type": "published_papers",
+ "rm:id": "23517692",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-03-01T06:31:56Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "system",
+ "rm:modified": "2018-03-01T06:31:56Z",
+ "paper_title": {
+  "ja": "デジタルアーカイブの「裾野のモデル」を求めて －東京大学附属図書館U-PARL「古典籍on flickr！～漢籍・法帖を写真サイトでオープンしてみると～」報告",
+  "en": "Seeking a Low-hurdles, High-aggregation Model for Digital Archive: A Report on a Talk Event by the U-PARL of the University of Tokyo Library System, \"Classical Books on flickr!: Publication of Digital Images of Rare Chinese Books and Calligraphic Models on a Photo-sharing Platform\""
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "冨澤かな"
+   },
+   {
+    "name": "木村拓"
+   },
+   {
+    "name": "成田健太郎"
+   },
+   {
+    "name": "永井正勝"
+   },
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "福島幸宏"
+   }
+  ]
+ },
+ "publication_date": "2018-03",
+ "publication_name": {
+  "ja": "情報の科学と技術",
+  "en": "The Journal of Information Science and Technology Association"
+ },
+ "volume": "68",
+ "number": "3",
+ "starting_page": "129",
+ "ending_page": "134",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.18919/jkg.68.3_129"
+  ],
+  "issn": [
+   "2189-8278"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.18919/jkg.68.3_129",
+   "is_downloadable": false
+  }
+ ]
+}

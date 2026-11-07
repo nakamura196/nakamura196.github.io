@@ -1,0 +1,44 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509567",
+ "@type": "published_papers",
+ "rm:id": "23509567",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:44:10Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T11:17:23Z",
+ "paper_title": {
+  "ja": "標準プロセス体系を基にした手戻り作業削減手法開発のための一考察"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "笈田佳彰"
+   },
+   {
+    "name": "齋藤稔"
+   },
+   {
+    "name": "岡田伊策"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "publication_date": "2015-11",
+ "number": "SIG-KST-026-04",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}

@@ -1,0 +1,38 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/46364843",
+ "@type": "misc",
+ "rm:id": "46364843",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2024-05-02T06:56:36Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2024-05-02T06:56:36Z",
+ "paper_title": {
+  "ja": "検索アルゴリズムの基本"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "publication_date": "2023-12",
+ "publication_name": {
+  "ja": "西洋史学",
+  "en": "The studies in Western history"
+ },
+ "number": "276",
+ "starting_page": "44",
+ "ending_page": "48",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "rm:is_open_access": false
+}

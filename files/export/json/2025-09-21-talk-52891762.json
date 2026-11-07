@@ -1,0 +1,61 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/52891762",
+ "@type": "presentations",
+ "rm:id": "52891762",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-03-10T06:34:56Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-04-09T06:44:50Z",
+ "presentation_title": {
+  "ja": "Vectorizing History: Sentence-BERT-Based Similarity Analysis of Japanese Historical Event",
+  "en": "Vectorizing History: Sentence-BERT-Based Similarity Analysis of Japanese Historical Event"
+ },
+ "presenters": {
+  "ja": [
+   {
+    "name": "Taizo Yamada"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ],
+  "en": [
+   {
+    "name": "Taizo Yamada"
+   },
+   {
+    "name": "Satoru Nakamura"
+   }
+  ]
+ },
+ "event": {
+  "ja": "PNC 2025 Annual Conference and Joint Meetings",
+  "en": "PNC 2025 Annual Conference and Joint Meetings"
+ },
+ "publication_date": "2025-09-21",
+ "from_event_date": "2025-09-20",
+ "to_event_date": "2025-09-22",
+ "invited": false,
+ "languages": [
+  "eng"
+ ],
+ "presentation_type": "oral_presentation",
+ "is_international_presentation": true,
+ "rm:is_open_access": false,
+ "identifiers": {
+  "rm:research_project_id": [
+   "47578926"
+  ]
+ },
+ "see_also": [
+  {
+   "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/47578926",
+   "label": "rm:research_project_id"
+  }
+ ]
+}

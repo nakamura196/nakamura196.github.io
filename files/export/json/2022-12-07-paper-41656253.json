@@ -1,0 +1,86 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41656253",
+ "@type": "published_papers",
+ "rm:id": "41656253",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2023-03-07T22:29:11Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2023-03-07T22:29:11Z",
+ "paper_title": {
+  "ja": "Using Archivematica and Omeka S for Long-Term Preservation and Access of Digitized Archive Materials",
+  "en": "Using Archivematica and Omeka S for Long-Term Preservation and Access of Digitized Archive Materials"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ],
+  "en": [
+   {
+    "name": "Boyoung Kim"
+   },
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Hidenori Watanave"
+   }
+  ]
+ },
+ "publisher": {
+  "en": "Springer International Publishing"
+ },
+ "publication_date": "2022-12-07",
+ "publication_name": {
+  "ja": "From Born-Physical to Born-Virtual: Augmenting Intelligence in Digital Libraries",
+  "en": "From Born-Physical to Born-Virtual: Augmenting Intelligence in Digital Libraries"
+ },
+ "starting_page": "241",
+ "ending_page": "250",
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "in_book",
+ "rm:is_open_access": false,
+ "identifiers": {
+  "doi": [
+   "10.1007/978-3-031-21756-2_20"
+  ],
+  "issn": [
+   "0302-9743"
+  ],
+  "e_issn": [
+   "1611-3349"
+  ],
+  "isbn": [
+   "9783031217555",
+   "9783031217562"
+  ]
+ },
+ "see_also": [
+  {
+   "label": "doi",
+   "@id": "https://doi.org/10.1007/978-3-031-21756-2_20",
+   "is_downloadable": false
+  },
+  {
+   "@id": "https://link.springer.com/content/pdf/10.1007/978-3-031-21756-2_20",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}

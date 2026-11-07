@@ -1,0 +1,71 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/53627737",
+ "@type": "research_projects",
+ "rm:id": "53627737",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-05-11T22:02:23Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-05-11T22:02:23Z",
+ "research_project_title": {
+  "ja": "歴史都市カイロの空間構造分析と地図・景観データの統合的アーカイブ構築"
+ },
+ "investigators": {
+  "ja": [
+   {
+    "name": "熊倉 和歌子"
+   },
+   {
+    "name": "後藤 絵美"
+   },
+   {
+    "name": "深見 奈緒子"
+   },
+   {
+    "name": "岩田 和馬"
+   },
+   {
+    "name": "亀谷 学"
+   },
+   {
+    "name": "川本 智史"
+   },
+   {
+    "name": "佐藤 将"
+   },
+   {
+    "name": "中村 覚"
+   },
+   {
+    "name": "吉村 武典"
+   },
+   {
+    "name": "ELSHAYEB Yasser"
+   }
+  ]
+ },
+ "offer_organization": {
+  "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+ },
+ "system_name": {
+  "ja": "共同利用・共同研究課題"
+ },
+ "category": {
+  "ja": "共同利用・共同研究課題（一般型）"
+ },
+ "institution_name": {
+  "ja": "東京外国語大学アジア・アフリカ言語文化研究所"
+ },
+ "from_date": "2026-04",
+ "to_date": "2029-03",
+ "research_project_owner_role": "coinvestigator_not_use_grants",
+ "identifiers": {
+  "grant_number": [
+   "jrp000319"
+  ]
+ }
+}

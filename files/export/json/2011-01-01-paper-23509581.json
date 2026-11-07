@@ -1,0 +1,40 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509581",
+ "@type": "published_papers",
+ "rm:id": "23509581",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T10:24:43Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T11:19:20Z",
+ "paper_title": {
+  "ja": "平賀譲デジタルアーカイブを用いた歴史研究支援システムの構築"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "満行泰河"
+   },
+   {
+    "name": "中村覚"
+   }
+  ]
+ },
+ "publication_date": "2011",
+ "publication_name": {
+  "ja": "日本船舶海洋工学会秋季講演会ポスターセッション"
+ },
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}

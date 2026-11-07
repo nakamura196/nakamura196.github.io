@@ -1,0 +1,36 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/17341048",
+ "@type": "misc",
+ "rm:id": "17341048",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2019-08-07T08:12:13Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2019-08-07T08:12:13Z",
+ "paper_title": {
+  "ja": "IIIF2019カンファレンス参加記"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村 覚"
+   }
+  ]
+ },
+ "publication_date": "2019-07",
+ "publication_name": {
+  "ja": "人文情報学月報"
+ },
+ "number": "96",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": true,
+ "misc_type": "meeting_report",
+ "rm:is_open_access": false
+}

@@ -1,0 +1,71 @@
+{
+ "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509564",
+ "@type": "published_papers",
+ "rm:id": "23509564",
+ "rm:user_id": "B000288639",
+ "display": "disclosed",
+ "major_achievement": false,
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2018-02-18T09:34:07Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2018-02-18T09:35:01Z",
+ "paper_title": {
+  "ja": "情報検索タスクのモデル化を目的としたタスクオントロジー構築手法の提案",
+  "en": "Proposal of a Method to Build Task Ontology for Modeling of Search Tasks – A Case Study on Design Knowledge Management in Information System Development"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "大和裕幸"
+   },
+   {
+    "name": "稗方和夫"
+   },
+   {
+    "name": "岡田伊策"
+   },
+   {
+    "name": "齋藤稔"
+   },
+   {
+    "name": "笈田佳彰"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Hiroyuki Yamato"
+   },
+   {
+    "name": "Kazuo Hiekata"
+   },
+   {
+    "name": "Isaac Okada"
+   },
+   {
+    "name": "Minoru Saito"
+   },
+   {
+    "name": "Yoshiaki Oida"
+   }
+  ]
+ },
+ "publication_date": "2016-06",
+ "publication_name": {
+  "ja": "2016年度人工知能学会全国大会"
+ },
+ "number": "1J2-2",
+ "languages": [
+  "jpn"
+ ],
+ "referee": false,
+ "invited": false,
+ "rm:is_open_access": false
+}
