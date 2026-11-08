@@ -36,7 +36,8 @@
   "academic_society_name": {
    "ja": "Text Encoding Initiative",
    "en": "Text Encoding Initiative"
-  }
+  },
+  "from_date": "2018"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/9155798",
@@ -74,7 +75,8 @@
   "academic_society_name": {
    "ja": "デジタルアーカイブ学会",
    "en": "Japan Society for Digital Archive"
-  }
+  },
+  "from_date": "2017"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952754",
@@ -96,7 +98,8 @@
   },
   "x-en-source": {
    "academic_society_name": "https://www.jadh.org/"
-  }
+  },
+  "from_date": "2017"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952751",
@@ -115,7 +118,8 @@
   "academic_society_name": {
    "ja": "情報処理学会",
    "en": "INFORMATION PROCESSING SOCIETY OF JAPAN"
-  }
+  },
+  "from_date": "2017"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952750",

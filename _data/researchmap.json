@@ -987,9 +987,33 @@
   ],
   "memberships": [
     {
+      "name": "Text Encoding Initiative",
+      "nameJa": "Text Encoding Initiative",
+      "startDate": "2018",
+      "endDate": ""
+    },
+    {
       "name": "Japan Society of Information and Knowledge",
       "nameJa": "情報知識学会",
       "startDate": "2017-04",
+      "endDate": ""
+    },
+    {
+      "name": "Japan Society for Digital Archive",
+      "nameJa": "デジタルアーカイブ学会",
+      "startDate": "2017",
+      "endDate": ""
+    },
+    {
+      "name": "Japanese Association for Digital Humanities",
+      "nameJa": "日本デジタル・ヒューマニティーズ学会",
+      "startDate": "2017",
+      "endDate": ""
+    },
+    {
+      "name": "INFORMATION PROCESSING SOCIETY OF JAPAN",
+      "nameJa": "情報処理学会",
+      "startDate": "2017",
       "endDate": ""
     },
     {
@@ -1005,32 +1029,8 @@
       "endDate": ""
     },
     {
-      "name": "Text Encoding Initiative",
-      "nameJa": "Text Encoding Initiative",
-      "startDate": "",
-      "endDate": ""
-    },
-    {
       "name": "The Alliance of Digital Humanities Organizations",
       "nameJa": "The Alliance of Digital Humanities Organizations",
-      "startDate": "",
-      "endDate": ""
-    },
-    {
-      "name": "Japan Society for Digital Archive",
-      "nameJa": "デジタルアーカイブ学会",
-      "startDate": "",
-      "endDate": ""
-    },
-    {
-      "name": "Japanese Association for Digital Humanities",
-      "nameJa": "日本デジタル・ヒューマニティーズ学会",
-      "startDate": "",
-      "endDate": ""
-    },
-    {
-      "name": "INFORMATION PROCESSING SOCIETY OF JAPAN",
-      "nameJa": "情報処理学会",
       "startDate": "",
       "endDate": ""
     }
