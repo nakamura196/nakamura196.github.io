@@ -134,7 +134,9 @@
   "academic_society_name": {
    "ja": "人工知能学会",
    "en": "THE JAPANESE SOCIETY FOR ARTIFICIAL INTELLIGENCE"
-  }
+  },
+  "from_date": "2013",
+  "to_date": "2019-11"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/association_memberships/8952749",
@@ -153,6 +155,7 @@
   "academic_society_name": {
    "ja": "日本船舶海洋工学会",
    "en": "THE JAPAN SOCIETY OF NAVAL ARCHITECTS AND OCEAN ENGINEERS"
-  }
+  },
+  "from_date": "2011"
  }
 ]

@@ -993,6 +993,18 @@
       "endDate": ""
     },
     {
+      "name": "THE JAPANESE SOCIETY FOR ARTIFICIAL INTELLIGENCE",
+      "nameJa": "人工知能学会",
+      "startDate": "2013",
+      "endDate": "2019-11"
+    },
+    {
+      "name": "THE JAPAN SOCIETY OF NAVAL ARCHITECTS AND OCEAN ENGINEERS",
+      "nameJa": "日本船舶海洋工学会",
+      "startDate": "2011",
+      "endDate": ""
+    },
+    {
       "name": "Text Encoding Initiative",
       "nameJa": "Text Encoding Initiative",
       "startDate": "",
@@ -1019,18 +1031,6 @@
     {
       "name": "INFORMATION PROCESSING SOCIETY OF JAPAN",
       "nameJa": "情報処理学会",
-      "startDate": "",
-      "endDate": ""
-    },
-    {
-      "name": "THE JAPANESE SOCIETY FOR ARTIFICIAL INTELLIGENCE",
-      "nameJa": "人工知能学会",
-      "startDate": "",
-      "endDate": ""
-    },
-    {
-      "name": "THE JAPAN SOCIETY OF NAVAL ARCHITECTS AND OCEAN ENGINEERS",
-      "nameJa": "日本船舶海洋工学会",
       "startDate": "",
       "endDate": ""
     }
