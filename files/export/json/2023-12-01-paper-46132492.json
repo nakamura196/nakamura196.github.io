@@ -48,5 +48,6 @@
  "ending_page": "290",
  "referee": true,
  "invited": false,
- "rm:is_open_access": false
+ "rm:is_open_access": false,
+ "published_paper_type": "symposium"
 }

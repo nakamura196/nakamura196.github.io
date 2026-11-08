@@ -57,5 +57,6 @@
   "jpn"
  ],
  "referee": false,
- "rm:is_open_access": false
+ "rm:is_open_access": false,
+ "published_paper_type": "symposium"
 }

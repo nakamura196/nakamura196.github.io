@@ -96,7 +96,8 @@
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/39508595",
     "label": "rm:research_project_id"
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52107631",
@@ -182,7 +183,8 @@
     "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/50553053",
     "label": "rm:research_project_id"
    }
-  ]
+  ],
+  "published_paper_type": "scientific_journal"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101822",
@@ -270,7 +272,8 @@
   ],
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1050025020476533376"
-  }
+  },
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101821",
@@ -368,7 +371,8 @@
   ],
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1050587970429956096"
-  }
+  },
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101820",
@@ -460,7 +464,8 @@
   ],
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1050306495453245440"
-  }
+  },
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101819",
@@ -559,7 +564,8 @@
   ],
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1050587970429952896"
-  }
+  },
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/52101818",
@@ -661,7 +667,8 @@
   ],
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1050306495453308800"
-  }
+  },
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/51774561",
@@ -1098,7 +1105,8 @@
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1390867654669019520",
    "publication_name": "https://cir.nii.ac.jp/crid/1390585095042641408"
-  }
+  },
+  "published_paper_type": "scientific_journal"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/49605064",
@@ -1250,7 +1258,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48875601",
@@ -1329,7 +1338,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48875599",
@@ -1402,7 +1412,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48875594",
@@ -1481,7 +1492,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/48486589",
@@ -2054,7 +2066,8 @@
     "@id": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402249346917710",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "scientific_journal"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/44244274",
@@ -2122,7 +2135,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46132492",
@@ -2175,7 +2189,8 @@
   "ending_page": "290",
   "referee": true,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/46132481",
@@ -2247,7 +2262,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/45711840",
@@ -2394,7 +2410,8 @@
   "ending_page": "198",
   "referee": true,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/44068610",
@@ -3202,7 +3219,8 @@
     "@id": "http://id.nii.ac.jp/1001/00223179/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41096248",
@@ -3268,7 +3286,8 @@
     "@id": "http://id.nii.ac.jp/1001/00223191/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41096245",
@@ -3340,7 +3359,8 @@
     "@id": "http://id.nii.ac.jp/1001/00223180/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/42236420",
@@ -3418,7 +3438,8 @@
   "ending_page": "78",
   "referee": true,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/41656247",
@@ -3480,7 +3501,8 @@
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1390856904109788928",
    "publication_name": "https://cir.nii.ac.jp/crid/1390585095042641408"
-  }
+  },
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/39995995",
@@ -3595,7 +3617,8 @@
   ],
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/39479276",
@@ -3947,7 +3970,8 @@
   ],
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36544154",
@@ -4009,7 +4033,8 @@
    "jpn"
   ],
   "referee": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/36178622",
@@ -4602,161 +4627,6 @@
   ]
  },
  {
-  "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/42128491",
-  "@type": "published_papers",
-  "@reverse": "https://api.researchmap.jp/nakamura.satoru/published_papers",
-  "rm:id": "42128491",
-  "rm:user_id": "B000288639",
-  "display": "disclosed",
-  "major_achievement": false,
-  "rm:creator_id": "ai:assign_based_internal_feeds",
-  "rm:creator_type": "ai",
-  "rm:created": "2023-04-25T03:32:22Z",
-  "rm:modifier_id": "ai:assign_based_internal_feeds",
-  "rm:modifier_type": "ai",
-  "rm:modified": "2023-04-25T03:32:22Z",
-  "paper_title": {
-   "ja": "受賞のことば",
-   "en": "In Receiving the Award"
-  },
-  "authors": {
-   "ja": [
-    {
-     "name": "アンドルー・ゴードン"
-    },
-    {
-     "name": "大網白里市教育委員会"
-    },
-    {
-     "name": "沖縄アーカイブ研究所"
-    },
-    {
-     "name": "久米川 正好"
-    },
-    {
-     "name": "チーム カルチュラル・ジャパン"
-    },
-    {
-     "name": "東京大学学術資産アーカイブ化推進室"
-    },
-    {
-     "name": "中村 覚"
-    },
-    {
-     "name": "青池 亨"
-    },
-    {
-     "name": "木下 貴文"
-    },
-    {
-     "name": "里見 航"
-    },
-    {
-     "name": "川島 隆徳"
-    },
-    {
-     "name": "大井 将生"
-    },
-    {
-     "name": "永崎 研宣"
-    },
-    {
-     "name": "柳 与志夫"
-    }
-   ],
-   "en": [
-    {
-     "name": "Andrew GORDON"
-    },
-    {
-     "name": "The Board of Education, Oamishirasato City"
-    },
-    {
-     "name": "Okinawa Archives Laboratory"
-    },
-    {
-     "name": "KUMEGAWA Masayoshi"
-    },
-    {
-     "name": "Team - Cultural Japan"
-    },
-    {
-     "name": "University of Tokyo Academic Archives Project Office"
-    },
-    {
-     "name": "NAKAMURA Satoru"
-    },
-    {
-     "name": "AOIKE Toru"
-    },
-    {
-     "name": "KINOSHITA Takahumi"
-    },
-    {
-     "name": "SATOMI Wataru"
-    },
-    {
-     "name": "KAWASHIMA Takanori"
-    },
-    {
-     "name": "OI Masao"
-    },
-    {
-     "name": "NAGASAKI Kiyonori"
-    },
-    {
-     "name": "YANAGI Yoshio"
-    }
-   ]
-  },
-  "publisher": {
-   "ja": "デジタルアーカイブ学会",
-   "en": "Japan Society for Digital Archive"
-  },
-  "publication_date": "2021-07-01",
-  "publication_name": {
-   "ja": "デジタルアーカイブ学会誌",
-   "en": "Dejitaru Akaibu Gakkaishi"
-  },
-  "volume": "5",
-  "number": "3",
-  "starting_page": "147",
-  "ending_page": "150",
-  "languages": [
-   "jpn"
-  ],
-  "rm:is_open_access": false,
-  "identifiers": {
-   "doi": [
-    "10.24506/jsda.5.3_147"
-   ],
-   "issn": [
-    "2432-9762"
-   ],
-   "e_issn": [
-    "2432-9770"
-   ],
-   "cinii_na_id": [
-    "130008080568"
-   ],
-   "cinii_cr_id": [
-    "1390289225022639872"
-   ]
-  },
-  "see_also": [
-   {
-    "label": "doi",
-    "@id": "https://doi.org/10.24506/jsda.5.3_147",
-    "is_downloadable": false
-   },
-   {
-    "label": "cinii_research",
-    "@id": "https://cir.nii.ac.jp/crid/1390289225022639872?lang=ja",
-    "is_downloadable": false
-   }
-  ]
- },
- {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31585274",
   "@type": "published_papers",
   "@reverse": "https://api.researchmap.jp/nakamura.satoru/published_papers",
@@ -4945,7 +4815,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "in_book"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31573792",
@@ -4997,7 +4868,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31573764",
@@ -5064,7 +4936,8 @@
     "@id": "https://doi.org/10.24506/jsda.5.1_56",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "scientific_journal"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31141424",
@@ -5129,7 +5002,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31141399",
@@ -5227,7 +5101,8 @@
     "is_downloadable": false,
     "label": "url"
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31141361",
@@ -5296,7 +5171,8 @@
     "label": "url",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/31627982",
@@ -5559,7 +5435,8 @@
   ],
   "x-en-source": {
    "publication_name": "https://cir.nii.ac.jp/crid/1390009224603743616"
-  }
+  },
+  "published_paper_type": "scientific_journal"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/30022251",
@@ -6180,7 +6057,8 @@
     "@id": "https://iiif.io/event/2019/goettingen/program/38/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "international_conference_proceedings"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/16975922",
@@ -6235,7 +6113,8 @@
     "@id": "https://iiif.io/event/2019/goettingen/program/35/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "international_conference_proceedings"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/16229161",
@@ -6293,7 +6172,8 @@
     "@id": "http://id.nii.ac.jp/1001/00195477/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/15864842",
@@ -6363,7 +6243,8 @@
     "@id": "https://doi.org/10.24506/jsda.3.2_207",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/15864841",
@@ -6421,7 +6302,8 @@
     "@id": "https://doi.org/10.24506/jsda.3.2_155",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/15674134",
@@ -6469,96 +6351,8 @@
     "@id": "http://www.center.iii.u-tokyo.ac.jp/wp-content/uploads/29_1.pdf",
     "is_downloadable": false
    }
-  ]
- },
- {
-  "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/34782177",
-  "@type": "published_papers",
-  "@reverse": "https://api.researchmap.jp/nakamura.satoru/published_papers",
-  "rm:id": "34782177",
-  "rm:user_id": "B000288639",
-  "display": "disclosed",
-  "major_achievement": false,
-  "rm:creator_id": "ai:assign_based_internal_feeds",
-  "rm:creator_type": "ai",
-  "rm:created": "2021-10-23T16:58:02Z",
-  "rm:modifier_id": "ai:assign_based_internal_feeds",
-  "rm:modifier_type": "ai",
-  "rm:modified": "2021-10-23T16:58:02Z",
-  "paper_title": {
-   "ja": "チュートリアル・エクスカーション報告",
-   "en": "Reports on Excursion and Tutorials"
-  },
-  "authors": {
-   "ja": [
-    {
-     "name": "天野 絵里子"
-    },
-    {
-     "name": "中村 覚"
-    },
-    {
-     "name": "永崎 研宣"
-    },
-    {
-     "name": "橋本 阿友子"
-    }
-   ],
-   "en": [
-    {
-     "name": "AMANO Eriko"
-    },
-    {
-     "name": "NAKAMURA Satoru"
-    },
-    {
-     "name": "NAGASAKI Kiyonori"
-    },
-    {
-     "name": "HASHIMOTO Ayuko"
-    }
-   ]
-  },
-  "publisher": {
-   "ja": "デジタルアーカイブ学会",
-   "en": "Japan Society for Digital Archive"
-  },
-  "publication_date": "2019",
-  "publication_name": {
-   "ja": "デジタルアーカイブ学会誌",
-   "en": "Dejitaru Akaibu Gakkaishi"
-  },
-  "volume": "3",
-  "number": "3",
-  "starting_page": "281",
-  "ending_page": "282",
-  "languages": [
-   "jpn"
   ],
-  "rm:is_open_access": false,
-  "identifiers": {
-   "doi": [
-    "10.24506/jsda.3.3_281"
-   ],
-   "issn": [
-    "2432-9762"
-   ],
-   "cinii_na_id": [
-    "130007697285"
-   ]
-  },
-  "see_also": [
-   {
-    "label": "doi",
-    "@id": "https://doi.org/10.24506/jsda.3.3_281",
-    "is_downloadable": false
-   },
-   {
-    "label": "cinii_articles",
-    "@id": "http://ci.nii.ac.jp/naid/130007697285",
-    "is_downloadable": false
-   }
-  ]
+  "published_paper_type": "research_institution"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/18388966",
@@ -6841,7 +6635,8 @@
     "@id": "http://seikeisi.ssoj.info/program_2018.pdf",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/15856137",
@@ -7062,7 +6857,8 @@
     "@id": "http://id.nii.ac.jp/1001/00190728/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23707561",
@@ -7123,7 +6919,8 @@
     "@id": "http://id.nii.ac.jp/1001/00187426/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/22060591",
@@ -7293,7 +7090,8 @@
   "x-en-source": {
    "paper_title": "https://cir.nii.ac.jp/crid/1390001204233486464",
    "publication_name": "https://cir.nii.ac.jp/crid/1390001204233486464"
-  }
+  },
+  "published_paper_type": "scientific_journal"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323313",
@@ -7385,126 +7183,6 @@
   ]
  },
  {
-  "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/26161118",
-  "@type": "published_papers",
-  "@reverse": "https://api.researchmap.jp/nakamura.satoru/published_papers",
-  "rm:id": "26161118",
-  "rm:user_id": "B000288639",
-  "display": "disclosed",
-  "major_achievement": false,
-  "rm:creator_id": "ai:assign_based_papers",
-  "rm:creator_type": "coauthor",
-  "rm:created": "2020-04-10T01:15:07Z",
-  "rm:modifier_id": "ai:assign_based_papers",
-  "rm:modifier_type": "coauthor",
-  "rm:modified": "2020-04-10T01:15:07Z",
-  "paper_title": {
-   "ja": "デジタルアーカイブの「裾野のモデル」を求めて －東京大学附属図書館U-PARL「古典籍on flickr！～漢籍・法帖を写真サイトでオープンしてみると～」報告",
-   "en": "Seeking a Low-hurdles, High-aggregation Model for Digital Archive: A Report on a Talk Event by the U-PARL of the University of Tokyo Library System, \"Classical Books on flickr!: Publication of Digital Images of Rare Chinese Books and Calligraphic Models on a Photo-sharing Platform\""
-  },
-  "authors": {
-   "ja": [
-    {
-     "name": "冨澤 かな"
-    },
-    {
-     "name": "木村 拓"
-    },
-    {
-     "name": "成田 健太郎"
-    },
-    {
-     "name": "永井 正勝"
-    },
-    {
-     "name": "中村 覚"
-    },
-    {
-     "name": "福島 幸宏"
-    }
-   ],
-   "en": [
-    {
-     "name": "TOMIZAWA Kana"
-    },
-    {
-     "name": "KIMURA Taku"
-    },
-    {
-     "name": "NARITA Kentaro"
-    },
-    {
-     "name": "NAGAI Masakatsu"
-    },
-    {
-     "name": "NAKAMURA Satoru"
-    },
-    {
-     "name": "FUKUSIMA Yukihiro"
-    }
-   ]
-  },
-  "description": {
-   "ja": "<p>東京大学附属図書館U-PARL（アジア研究図書館上廣倫理財団寄付研究部門）は，本学所蔵資料から選定した漢籍・碑帖拓本の資料画像をFlickr上で公開している。資料のデジタル化とアーカイブ構築のあり方を模索した結果，限られたリソースでも実現と持続が可能な，小さい構成でありながら，広域的な学術基盤整備と断絶せず，高度な研究利用にも展開しうる，デジタルアーカイブの「裾野のモデル」を実現しうる方策として選択したものである。その経緯と現状及び今後の展望について，特に漢籍・碑帖拓本資料の統合メタデータ策定，CCライセンス表示，OmekaとIIIFを利用した研究環境構築の試みに焦点をあてて論ずる。</p>",
-   "en": "<p>U-PARL (Uehiro Project for the Asian Research Library) at the University of Tokyo Library System has opened on Flickr a collection of digital images of rare Chinese books and calligraphic models selected from the library holdings. U-PARL chose Flickr with the aim of constructing a digital archive that was not only compact and inexpensive, but that also held the potential for aggregation by much larger database networks as well as usage by a wide-ranging audience. This paper explains how U-PARL made this choice, and shows the current status and agenda facing the archive. The focus of the paper is placed on newly designed metadata categories and cataloging conventions, the use of Creative Commons licenses and the construction of a research environment using Omeka.</p>"
-  },
-  "publisher": {
-   "ja": "一般社団法人 情報科学技術協会",
-   "en": "Information Science and Technology Association, Japan"
-  },
-  "publication_date": "2018",
-  "publication_name": {
-   "ja": "情報の科学と技術",
-   "en": "The Journal of Information Science and Technology Association"
-  },
-  "volume": "68",
-  "number": "3",
-  "starting_page": "129",
-  "ending_page": "134",
-  "languages": [
-   "jpn"
-  ],
-  "referee": false,
-  "invited": false,
-  "rm:is_open_access": false,
-  "identifiers": {
-   "doi": [
-    "10.18919/jkg.68.3_129"
-   ],
-   "issn": [
-    "0913-3801"
-   ],
-   "cinii_na_id": [
-    "130006407004"
-   ],
-   "cinii_nc_id": [
-    "AN10005857"
-   ]
-  },
-  "see_also": [
-   {
-    "label": "doi",
-    "@id": "https://doi.org/10.18919/jkg.68.3_129",
-    "is_downloadable": false
-   },
-   {
-    "label": "cinii_articles",
-    "@id": "http://ci.nii.ac.jp/naid/130006407004",
-    "is_downloadable": false
-   },
-   {
-    "label": "cinii_books",
-    "@id": "http://ci.nii.ac.jp/ncid/AN10005857",
-    "is_downloadable": false
-   },
-   {
-    "label": "url",
-    "@id": "http://id.ndl.go.jp/bib/028844099",
-    "is_downloadable": false
-   }
-  ]
- },
- {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23536936",
   "@type": "published_papers",
   "@reverse": "https://api.researchmap.jp/nakamura.satoru/published_papers",
@@ -7590,7 +7268,8 @@
     "@id": "http://ci.nii.ac.jp/naid/130006742690",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509556",
@@ -7665,7 +7344,8 @@
     "@id": "http://id.nii.ac.jp/1001/00185462/",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323321",
@@ -7854,7 +7534,8 @@
     "@id": "http://ci.nii.ac.jp/naid/130006069687",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323316",
@@ -8107,7 +7788,8 @@
   ],
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509566",
@@ -8158,7 +7840,8 @@
   ],
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509567",
@@ -8203,7 +7886,11 @@
   ],
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium",
+  "publication_name": {
+   "ja": "人工知能学会第2種研究会(SIG-KST)"
+  }
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509565",
@@ -8255,7 +7942,11 @@
     "@id": "http://hdl.handle.net/2261/59073",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium",
+  "publication_name": {
+   "ja": "人工知能学会第2種研究会(SIG-KST)"
+  }
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509569",
@@ -8334,7 +8025,8 @@
   ],
   "x-en-source": {
    "publication_name": "https://cir.nii.ac.jp/crid/1520009407041548160"
-  }
+  },
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509568",
@@ -8406,7 +8098,8 @@
     "is_downloadable": false,
     "label": "url"
    }
-  ]
+  ],
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509571",
@@ -8472,7 +8165,8 @@
     "@id": "http://hdl.handle.net/2261/56369",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509575",
@@ -8521,7 +8215,8 @@
   ],
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509570",
@@ -8574,7 +8269,8 @@
   ],
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323319",
@@ -8726,7 +8422,8 @@
   "rm:is_open_access": false,
   "x-en-source": {
    "publication_name": "https://cir.nii.ac.jp/crid/1520009407041548160"
-  }
+  },
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509584",
@@ -8785,7 +8482,8 @@
     "@id": "http://hdl.handle.net/2261/53655",
     "is_downloadable": false
    }
-  ]
+  ],
+  "published_paper_type": "symposium"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509583",
@@ -8871,7 +8569,8 @@
     "is_downloadable": false,
     "label": "url"
    }
-  ]
+  ],
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/21323336",
@@ -8983,7 +8682,8 @@
   "rm:is_open_access": false,
   "x-en-source": {
    "publication_name": "https://cir.nii.ac.jp/crid/1520009407041548160"
-  }
+  },
+  "published_paper_type": "research_society"
  },
  {
   "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/23509581",
@@ -9024,6 +8724,7 @@
   },
   "referee": false,
   "invited": false,
-  "rm:is_open_access": false
+  "rm:is_open_access": false,
+  "published_paper_type": "research_society"
  }
 ]

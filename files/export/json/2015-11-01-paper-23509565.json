@@ -47,5 +47,9 @@
    "@id": "http://hdl.handle.net/2261/59073",
    "is_downloadable": false
   }
- ]
+ ],
+ "published_paper_type": "symposium",
+ "publication_name": {
+  "ja": "人工知能学会第2種研究会(SIG-KST)"
+ }
 }

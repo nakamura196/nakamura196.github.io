@@ -1,5 +1,251 @@
 [
  {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/55436258?format=json",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "55436258",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-11-08T02:29:29Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-11-08T02:29:29Z",
+  "paper_title": {
+   "ja": "受賞のことば",
+   "en": "In Receiving the Award"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "アンドルー・ゴードン"
+    },
+    {
+     "name": "大網白里市教育委員会"
+    },
+    {
+     "name": "沖縄アーカイブ研究所"
+    },
+    {
+     "name": "久米川 正好"
+    },
+    {
+     "name": "チーム カルチュラル・ジャパン"
+    },
+    {
+     "name": "東京大学学術資産アーカイブ化推進室"
+    },
+    {
+     "name": "中村 覚"
+    },
+    {
+     "name": "青池 亨"
+    },
+    {
+     "name": "木下 貴文"
+    },
+    {
+     "name": "里見 航"
+    },
+    {
+     "name": "川島 隆徳"
+    },
+    {
+     "name": "大井 将生"
+    },
+    {
+     "name": "永崎 研宣"
+    },
+    {
+     "name": "柳 与志夫"
+    }
+   ],
+   "en": [
+    {
+     "name": "Andrew GORDON"
+    },
+    {
+     "name": "The Board of Education, Oamishirasato City"
+    },
+    {
+     "name": "Okinawa Archives Laboratory"
+    },
+    {
+     "name": "KUMEGAWA Masayoshi"
+    },
+    {
+     "name": "Team - Cultural Japan"
+    },
+    {
+     "name": "University of Tokyo Academic Archives Project Office"
+    },
+    {
+     "name": "NAKAMURA Satoru"
+    },
+    {
+     "name": "AOIKE Toru"
+    },
+    {
+     "name": "KINOSHITA Takahumi"
+    },
+    {
+     "name": "SATOMI Wataru"
+    },
+    {
+     "name": "KAWASHIMA Takanori"
+    },
+    {
+     "name": "OI Masao"
+    },
+    {
+     "name": "NAGASAKI Kiyonori"
+    },
+    {
+     "name": "YANAGI Yoshio"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "publication_date": "2021-07-01",
+  "publication_name": {
+   "ja": "デジタルアーカイブ学会誌",
+   "en": "Dejitaru Akaibu Gakkaishi"
+  },
+  "volume": "5",
+  "number": "3",
+  "starting_page": "147",
+  "ending_page": "150",
+  "languages": [
+   "jpn"
+  ],
+  "misc_type": "others",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "doi": [
+    "10.24506/jsda.5.3_147"
+   ],
+   "issn": [
+    "2432-9762"
+   ],
+   "e_issn": [
+    "2432-9770"
+   ],
+   "cinii_na_id": [
+    "130008080568"
+   ],
+   "cinii_cr_id": [
+    "1390289225022639872"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "doi",
+    "@id": "https://doi.org/10.24506/jsda.5.3_147",
+    "is_downloadable": false
+   },
+   {
+    "label": "cinii_research",
+    "@id": "https://cir.nii.ac.jp/crid/1390289225022639872?lang=ja",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
+  "@id": "https://api.researchmap.jp/nakamura.satoru/misc/55436264?format=json",
+  "@type": "misc",
+  "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",
+  "rm:id": "55436264",
+  "rm:user_id": "B000288639",
+  "display": "disclosed",
+  "major_achievement": false,
+  "rm:creator_id": "B000288639",
+  "rm:creator_type": "myself",
+  "rm:created": "2026-11-08T02:30:22Z",
+  "rm:modifier_id": "B000288639",
+  "rm:modifier_type": "myself",
+  "rm:modified": "2026-11-08T02:30:22Z",
+  "paper_title": {
+   "ja": "チュートリアル・エクスカーション報告",
+   "en": "Reports on Excursion and Tutorials"
+  },
+  "authors": {
+   "ja": [
+    {
+     "name": "天野 絵里子"
+    },
+    {
+     "name": "中村 覚"
+    },
+    {
+     "name": "永崎 研宣"
+    },
+    {
+     "name": "橋本 阿友子"
+    }
+   ],
+   "en": [
+    {
+     "name": "AMANO Eriko"
+    },
+    {
+     "name": "NAKAMURA Satoru"
+    },
+    {
+     "name": "NAGASAKI Kiyonori"
+    },
+    {
+     "name": "HASHIMOTO Ayuko"
+    }
+   ]
+  },
+  "publisher": {
+   "ja": "デジタルアーカイブ学会",
+   "en": "Japan Society for Digital Archive"
+  },
+  "publication_date": "2019",
+  "publication_name": {
+   "ja": "デジタルアーカイブ学会誌",
+   "en": "Dejitaru Akaibu Gakkaishi"
+  },
+  "volume": "3",
+  "number": "3",
+  "starting_page": "281",
+  "ending_page": "282",
+  "languages": [
+   "jpn"
+  ],
+  "misc_type": "meeting_report",
+  "rm:is_open_access": false,
+  "identifiers": {
+   "doi": [
+    "10.24506/jsda.3.3_281"
+   ],
+   "issn": [
+    "2432-9762"
+   ],
+   "cinii_na_id": [
+    "130007697285"
+   ]
+  },
+  "see_also": [
+   {
+    "label": "doi",
+    "@id": "https://doi.org/10.24506/jsda.3.3_281",
+    "is_downloadable": false
+   },
+   {
+    "label": "cinii_articles",
+    "@id": "http://ci.nii.ac.jp/naid/130007697285",
+    "is_downloadable": false
+   }
+  ]
+ },
+ {
   "@id": "https://api.researchmap.jp/nakamura.satoru/misc/55220945",
   "@type": "misc",
   "@reverse": "https://api.researchmap.jp/nakamura.satoru/misc",

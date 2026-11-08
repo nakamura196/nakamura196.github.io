@@ -1,16 +1,16 @@
 {
- "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/34782177",
- "@type": "published_papers",
- "rm:id": "34782177",
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/55436264?format=json",
+ "@type": "misc",
+ "rm:id": "55436264",
  "rm:user_id": "B000288639",
  "display": "disclosed",
  "major_achievement": false,
- "rm:creator_id": "ai:assign_based_internal_feeds",
- "rm:creator_type": "ai",
- "rm:created": "2021-10-23T16:58:02Z",
- "rm:modifier_id": "ai:assign_based_internal_feeds",
- "rm:modifier_type": "ai",
- "rm:modified": "2021-10-23T16:58:02Z",
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-11-08T02:30:22Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-11-08T02:30:22Z",
  "paper_title": {
   "ja": "チュートリアル・エクスカーション報告",
   "en": "Reports on Excursion and Tutorials"
@@ -61,6 +61,7 @@
  "languages": [
   "jpn"
  ],
+ "misc_type": "meeting_report",
  "rm:is_open_access": false,
  "identifiers": {
   "doi": [

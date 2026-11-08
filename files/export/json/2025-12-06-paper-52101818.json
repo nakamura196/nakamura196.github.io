@@ -94,5 +94,6 @@
    "@id": "https://api.researchmap.jp/nakamura.satoru/research_projects/51008201",
    "label": "rm:research_project_id"
   }
- ]
+ ],
+ "published_paper_type": "symposium"
 }

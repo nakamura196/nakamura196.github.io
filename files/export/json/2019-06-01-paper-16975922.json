@@ -50,5 +50,6 @@
    "@id": "https://iiif.io/event/2019/goettingen/program/35/",
    "is_downloadable": false
   }
- ]
+ ],
+ "published_paper_type": "international_conference_proceedings"
 }

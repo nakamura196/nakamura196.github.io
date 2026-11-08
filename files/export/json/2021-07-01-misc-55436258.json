@@ -1,16 +1,16 @@
 {
- "@id": "https://api.researchmap.jp/nakamura.satoru/published_papers/42128491",
- "@type": "published_papers",
- "rm:id": "42128491",
+ "@id": "https://api.researchmap.jp/nakamura.satoru/misc/55436258?format=json",
+ "@type": "misc",
+ "rm:id": "55436258",
  "rm:user_id": "B000288639",
  "display": "disclosed",
  "major_achievement": false,
- "rm:creator_id": "ai:assign_based_internal_feeds",
- "rm:creator_type": "ai",
- "rm:created": "2023-04-25T03:32:22Z",
- "rm:modifier_id": "ai:assign_based_internal_feeds",
- "rm:modifier_type": "ai",
- "rm:modified": "2023-04-25T03:32:22Z",
+ "rm:creator_id": "B000288639",
+ "rm:creator_type": "myself",
+ "rm:created": "2026-11-08T02:29:29Z",
+ "rm:modifier_id": "B000288639",
+ "rm:modifier_type": "myself",
+ "rm:modified": "2026-11-08T02:29:29Z",
  "paper_title": {
   "ja": "受賞のことば",
   "en": "In Receiving the Award"
@@ -121,6 +121,7 @@
  "languages": [
   "jpn"
  ],
+ "misc_type": "others",
  "rm:is_open_access": false,
  "identifiers": {
   "doi": [
