@@ -83,6 +83,76 @@
   }
 }
 
+// 作品等: 画像を主役にしたタイル表示（tech.ldas.jp に合わせる）
+.rm-tiles {
+  .rm-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1em;
+  }
+
+  .rm-item {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    border: 1px solid var(--global-border-color);
+    border-radius: 6px;
+    overflow: hidden;
+    transition: box-shadow 0.15s;
+
+    &:hover {
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    }
+
+    &[hidden] {
+      display: none;
+    }
+
+  }
+
+  // 画像の無い作品: 画像と同じ大きさの枠に作品名を置く
+  .rm-thumb.rm-thumb--none {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 16 / 10;
+    padding: 0.8em;
+    box-sizing: border-box;
+    background: var(--global-code-background-color, #f6f6f6);
+    border-bottom: 1px solid var(--global-border-color);
+    color: var(--global-text-color-light);
+    font-size: $type-size-5;
+    font-weight: bold;
+    line-height: 1.4;
+    text-align: center;
+    text-decoration: none;
+    overflow-wrap: anywhere;
+  }
+
+  .rm-thumb {
+    display: block;
+    flex: none;
+    margin: 0;
+
+    img {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 16 / 10;
+      object-fit: contain;
+      padding: 6px;
+      border: 0;
+      border-bottom: 1px solid var(--global-border-color);
+      border-radius: 0;
+    }
+  }
+
+  .rm-body {
+    padding: 0.6em 0.8em 0.7em;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+}
+
 .rm-title {
   font-weight: bold;
 }

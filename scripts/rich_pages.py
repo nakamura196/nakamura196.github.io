@@ -852,14 +852,16 @@ def lists():
             it = e["it"]
             th = it.get("x-thumbnail")
             who = ", ".join(plist(it.get("creators"), lg)) or pick(it, "creators_text", lg)
-            inner = ((f'<a class="rm-thumb" href="{esc(url(e, lg))}" tabindex="-1" aria-hidden="true"><img src="{esc(th)}" alt="{esc(e["title"][lg])}" loading="lazy" width="160" height="100"></a>' if th else "")
+            inner = ((f'<a class="rm-thumb" href="{esc(url(e, lg))}" tabindex="-1" aria-hidden="true"><img src="{esc(th)}" alt="{esc(e["title"][lg])}" loading="lazy" width="160" height="100"></a>' if th
+                      # 画像の無い作品は、画像の位置に作品名を置く（タイルの見分けがつくように）
+                      else f'<a class="rm-thumb rm-thumb--none" href="{esc(url(e, lg))}" tabindex="-1" aria-hidden="true"><span>{esc(e["title"][lg])}</span></a>')
                      + f'<div class="rm-body"><span class="rm-title">{link_a(url(e, lg), e["title"][lg])}</span>'
                        + (f' {link_a(B.link(it), "↗", "rm-link")}' if B.link(it) else "")
                        + f'<br><span class="rm-meta">{esc(who)} · {esc(period(it.get("from_date"), it.get("to_date"), lg))}</span></div>')
             lis.append((e, _li(e, lg, inner, {"cls": " rm-item--thumb" if th else "",
                                               "type": val(it["work_type"], lg) if it.get("work_type") else ""})))
         _write(B.ROOT / "_includes" / "gen" / f"list-works-{lg}.html",
-               lq('<div data-rm-list>' + _toolbar(lg, ["sel"], [("csv", "/files/export/works.csv")]) + _grouped(lis, lg, None)
+               lq('<div data-rm-list class="rm-tiles">' + _toolbar(lg, ["sel"], [("csv", "/files/export/works.csv")]) + _grouped(lis, lg, None)
                   + f'<p class="rm-empty" hidden>{F["none"]}</p></div><script src="/assets/js/rm-list.js" defer></script>'))
         # --- grants
         lis = []
