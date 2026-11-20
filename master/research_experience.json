@@ -180,6 +180,25 @@
   "address_country": "JPN"
  },
  {
+  "display": "disclosed",
+  "major_achievement": false,
+  "from_date": "2026-11",
+  "to_date": "2027-02",
+  "affiliation": {
+   "ja": "アイダホ大学",
+   "en": "University of Idaho"
+  },
+  "section": {
+   "ja": "図書館",
+   "en": "University of Idaho Library"
+  },
+  "job": {
+   "ja": "CollectionBuilder Community Developer",
+   "en": "CollectionBuilder Community Developer"
+  },
+  "address_country": "USA"
+ },
+ {
   "@id": "https://api.researchmap.jp/nakamura.satoru/research_experience/54538484",
   "@type": "research_experience",
   "@reverse": "https://api.researchmap.jp/nakamura.satoru/research_experience",
