@@ -2,12 +2,11 @@
 ---
 
 /*
- * LDAS Design System clean stylesheet build (legacy Academicpages layout CSS removed to prevent conflicts)
+ * LDAS Design System clean stylesheet build (legacy Academicpages & json_cv CSS fully removed)
  */
 
 @import
     "layout/ldas_clean",
-    "layout/json_cv",
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
