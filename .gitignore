@@ -1,5 +1,7 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
+vendor/
+.bundle/
 .sass-cache/
 
 # Ignore the directory for local files during development

@@ -20,9 +20,15 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><span class="navicon"></span></button>
-        <ul class="visible-links">
+      <nav class="ldas-nav" aria-label="Main navigation">
+        <div class="ldas-nav__top">
+          <a class="ldas-nav__brand" href="{{ base_path }}{{ home }}">{{ site.title }}</a>
+          <div class="ldas-nav__mobile-actions">
+            <a class="ldas-nav__mobile-lang" href="{{ base_path }}{{ other_url }}" hreflang="{% if page.lang == 'ja' %}en{% else %}ja{% endif %}">{{ other_label }}</a>
+            <button type="button" class="ldas-nav__toggle" aria-expanded="false" aria-controls="ldas-nav-list">☰ Menu</button>
+          </div>
+        </div>
+        <ul id="ldas-nav-list" class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == home or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}{{ home }}">{{ site.title }}</a>
           </li>
