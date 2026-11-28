@@ -1,5 +1,74 @@
 [
  {
+  "x-local-id": "ieee-bigdata-2026-cas-talk",
+  "@type": "presentations",
+  "display": "disclosed",
+  "major_achievement": false,
+  "presentation_title": {
+   "ja": "Making Archival AI Resource Use Visible: A Framework for Transaction-Level Energy and Water Estimation in Clio-X",
+   "en": "Making Archival AI Resource Use Visible: A Framework for Transaction-Level Energy and Water Estimation in Clio-X"
+  },
+  "presenters": {
+   "ja": [
+    {
+     "name": "中村覚"
+    },
+    {
+     "name": "Hassan Khodaiemehr"
+    },
+    {
+     "name": "Gabriella Laatikainen"
+    },
+    {
+     "name": "Victoria Lemieux"
+    }
+   ],
+   "en": [
+    {
+     "name": "Satoru Nakamura"
+    },
+    {
+     "name": "Hassan Khodaiemehr"
+    },
+    {
+     "name": "Gabriella Laatikainen"
+    },
+    {
+     "name": "Victoria Lemieux"
+    }
+   ]
+  },
+  "event": {
+   "en": "2026 IEEE International Conference on Big Data (BigData 2026), Workshop on Computational Archival Science (CAS)"
+  },
+  "promoter": {
+   "en": "IEEE"
+  },
+  "location": {
+   "en": "Sheraton Phoenix Downtown, Phoenix, AZ, USA"
+  },
+  "address_country": "USA",
+  "publication_date": "2026-12-14",
+  "from_event_date": "2026-12-14",
+  "to_event_date": "2026-12-17",
+  "invited": false,
+  "languages": [
+   "eng"
+  ],
+  "presentation_type": "oral_presentation",
+  "is_international_presentation": true,
+  "rm:is_open_access": false,
+  "see_also": [
+   {
+    "@id": "https://github.com/ciferresearch/Clio-X-Energy-Water-Study",
+    "label": "url",
+    "is_downloadable": false
+   }
+  ],
+  "x-note": "Presented by Satoru Nakamura (15 min). The day of the CAS workshop within Dec 14-17 is not yet announced.",
+  "x-source": "Acceptance notice (2026-11-19), IEEE copyright receipt (2026-11-24) and workshop chairs' notice (2026-11-25): Phoenix, AZ, Dec 14-17, 2026"
+ },
+ {
   "@context": "https://api.researchmap.jp/researcher.jsonld",
   "@id": "https://api.researchmap.jp/nakamura.satoru/presentations/55432618?format=json",
   "@type": "presentations",

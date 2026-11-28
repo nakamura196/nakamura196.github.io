@@ -235,7 +235,7 @@ def gen_publications():
     n = 0
 
     for it in fetch("books_etc"):
-        rid = it.get("rm:id", str(n))
+        rid = (it.get("rm:id") or it.get("x-local-id") or str(n))
         date = full_date(it.get("publication_date"))
         title = lang(it.get("book_title")) or "(untitled)"
         venue = lang(it.get("publisher"))
@@ -261,7 +261,7 @@ def gen_publications():
         n += 1
 
     for it in fetch("published_papers"):
-        rid = it.get("rm:id", str(n))
+        rid = (it.get("rm:id") or it.get("x-local-id") or str(n))
         date = full_date(it.get("publication_date"))
         title = lang(it.get("paper_title")) or "(untitled)"
         venue = lang(it.get("publication_name"))
@@ -307,7 +307,7 @@ def gen_publications():
         n += 1
 
     for it in fetch("misc"):
-        rid = it.get("rm:id", str(n))
+        rid = (it.get("rm:id") or it.get("x-local-id") or str(n))
         date = full_date(it.get("publication_date"))
         title = lang(it.get("paper_title")) or "(untitled)"
         venue = lang(it.get("publication_name"))
@@ -342,7 +342,7 @@ def gen_talks():
     out = ROOT / "_talks"
     n = 0
     for it in fetch("presentations"):
-        rid = it.get("rm:id", str(n))
+        rid = (it.get("rm:id") or it.get("x-local-id") or str(n))
         date = full_date(it.get("publication_date") or it.get("from_event_date"))
         title = lang(it.get("presentation_title")) or "(untitled)"
         venue = lang(it.get("event"))

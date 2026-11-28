@@ -1,0 +1,59 @@
+{
+ "@type": "published_papers",
+ "display": "disclosed",
+ "major_achievement": false,
+ "paper_title": {
+  "ja": "Making Archival AI Resource Use Visible: A Framework for Transaction-Level Energy and Water Estimation in Clio-X",
+  "en": "Making Archival AI Resource Use Visible: A Framework for Transaction-Level Energy and Water Estimation in Clio-X"
+ },
+ "authors": {
+  "ja": [
+   {
+    "name": "中村覚"
+   },
+   {
+    "name": "Hassan Khodaiemehr"
+   },
+   {
+    "name": "Gabriella Laatikainen"
+   },
+   {
+    "name": "Victoria Lemieux"
+   }
+  ],
+  "en": [
+   {
+    "name": "Satoru Nakamura"
+   },
+   {
+    "name": "Hassan Khodaiemehr"
+   },
+   {
+    "name": "Gabriella Laatikainen"
+   },
+   {
+    "name": "Victoria Lemieux"
+   }
+  ]
+ },
+ "publication_date": "2026-12",
+ "publication_name": {
+  "ja": "2026 IEEE International Conference on Big Data (BigData), Workshop on Computational Archival Science (CAS)",
+  "en": "2026 IEEE International Conference on Big Data (BigData), Workshop on Computational Archival Science (CAS)"
+ },
+ "languages": [
+  "eng"
+ ],
+ "referee": true,
+ "invited": false,
+ "published_paper_type": "international_conference_proceedings",
+ "is_international_journal": true,
+ "rm:is_open_access": false,
+ "see_also": [
+  {
+   "@id": "https://github.com/ciferresearch/Clio-X-Energy-Water-Study",
+   "label": "url",
+   "is_downloadable": false
+  }
+ ]
+}
