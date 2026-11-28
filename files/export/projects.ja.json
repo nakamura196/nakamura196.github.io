@@ -1,0 +1,320 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "lang": "ja",
+    "note": "Generated from projects/*.md by scripts/build_projects.py. Fields starting with x- are local extensions to JSON Resume."
+  },
+  "projects": [
+    {
+      "name": "東京大学デジタルアーカイブズ構築事業",
+      "entity": "東京大学 学術資産等アーカイブズ委員会",
+      "roles": [
+        "学術資産アーカイブ化推進室員"
+      ],
+      "startDate": "2017-04",
+      "url": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/overview",
+      "description": "設計の段階（2018-02 にアーカイブズシステム（仮称）について発表）から、事業の技術面を担当した。アーカイブズプラットフォーム（Omeka によるコレクション、IIIF、TEI、LOD）と、部局を横断するデジタルアーカイブポータルを設計・構築した。データの保存（2021）にも取り組み、2018〜2021 年に 10 回以上、事業について発表した。現在も、チームの一員として運用を担当している。",
+      "type": "project",
+      "highlights": [
+        "東京大学学術資産等アーカイブズプラットフォーム",
+        "電子展示『捃拾帖』",
+        "東京大学デジタルアーカイブポータル（各部局のアーカイブを横断、約28万件）",
+        "東京大学学術資産等アーカイブズポータル・ポスター検索"
+      ],
+      "x-id": "utokyo-digital-archives",
+      "x-outputs": [
+        {
+          "name": "東京大学学術資産等アーカイブズプラットフォーム",
+          "url": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/overview",
+          "startDate": "2017-12"
+        },
+        {
+          "name": "電子展示『捃拾帖』",
+          "url": "https://kunshujo.dl.itc.u-tokyo.ac.jp",
+          "startDate": "2019-01"
+        },
+        {
+          "name": "東京大学デジタルアーカイブポータル（各部局のアーカイブを横断、約28万件）",
+          "url": "https://da.dl.itc.u-tokyo.ac.jp/portal/",
+          "startDate": "2019-06",
+          "x-local-id": "ldas-utokyo-portal"
+        },
+        {
+          "name": "東京大学学術資産等アーカイブズポータル・ポスター検索",
+          "url": "https://portal-pro.dl.itc.u-tokyo.ac.jp/",
+          "startDate": "2019-08",
+          "x-local-id": "ldas-portal-posters"
+        }
+      ],
+      "x-evidence": [
+        "論文: 中村覚「東京大学デジタルアーカイブズ構築事業における学術資産の公開と活用」『デジタルアーカイブ学会誌』2024-05（単著）",
+        "論文: 中村覚「東京大学デジタルアーカイブズ構築事業：学術資産の利活用に向けた取り組み」2018-10（単著）",
+        "論文: Satoru Nakamura, \"Publication and Usage of TEI Data in UTokyo Digital Archives Development Project\", 2018-09",
+        "発表: 前田朗・中村覚「東京大学学術資産等アーカイブズポータルの構築プロジェクト」Code4Lib JAPAN カンファレンス 2019",
+        "受賞: デジタルアーカイブジャパン・アワード 2024（受賞者は東京大学デジタルアーカイブズ構築事業、2024-08）"
+      ]
+    },
+    {
+      "name": "東洋文庫の研究データベース",
+      "entity": "公益財団法人東洋文庫 総合アジア圏域研究班",
+      "roles": [
+        "研究データベース共同研究グループ 研究協力者"
+      ],
+      "startDate": "2020-12",
+      "url": "https://toyobunko-lab.jp/",
+      "description": "研究班の研究データベースと IIIF の画像公開リポジトリを構築した。大蔵経や地図の資料について、東洋文庫の研究者と共同で進めた。東洋文庫の東アジア資料に、多言語 OCR・TEI・IIIF・生成 AI を当てている（2026-08 発表）。漢文大蔵経・仏典デジタルライブラリの科研費 2 件では研究分担者。",
+      "type": "project",
+      "highlights": [
+        "『大正新脩大蔵経』底本・校本データベース",
+        "酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース",
+        "東洋文庫水経注図データベース",
+        "東洋文庫 画像公開リポジトリ（IIIF）",
+        "東洋文庫「大明地理之図」データベース（注記 3,897 件）",
+        "東洋文庫 漢籍データベース（約10万件）"
+      ],
+      "x-id": "toyo-bunko",
+      "x-outputs": [
+        {
+          "name": "『大正新脩大蔵経』底本・校本データベース",
+          "url": "https://static.toyobunko-lab.jp/taishozo/",
+          "startDate": "2021-07"
+        },
+        {
+          "name": "酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース",
+          "url": "https://static.toyobunko-lab.jp/u-renja/",
+          "startDate": "2021-07"
+        },
+        {
+          "name": "東洋文庫水経注図データベース",
+          "url": "https://static.toyobunko-lab.jp/suikeichuzu/",
+          "startDate": "2021-11"
+        },
+        {
+          "name": "東洋文庫 画像公開リポジトリ（IIIF）",
+          "url": "https://app.toyobunko-lab.jp/s/main/page/home",
+          "startDate": "2022-06",
+          "x-local-id": "ldas-media-repository"
+        },
+        {
+          "name": "東洋文庫「大明地理之図」データベース（注記 3,897 件）",
+          "url": "https://toyobunko-lab.jp/app/daiminchiri/",
+          "startDate": "2023-05",
+          "x-local-id": "ldas-daiminchiri"
+        },
+        {
+          "name": "東洋文庫 漢籍データベース（約10万件）",
+          "url": "https://kanseki.toyobunko-lab.jp/",
+          "startDate": "2026-10",
+          "x-local-id": "ldas-kanseki"
+        }
+      ],
+      "x-grants": [
+        {
+          "name": "漢文大蔵経の文献学的研究基盤の構築：『大正新脩大蔵経』底本・校本DBの活用と拡充（科研費 基盤研究(A)）",
+          "period": "2021-04〜2026-03",
+          "grantNumber": "21H04345",
+          "role": "研究分担者"
+        },
+        {
+          "name": "書誌学とデジタルアーカイブの融合による仏典デジタルライブラリの拠点形成（科研費）",
+          "period": "2025-04〜2030-03",
+          "grantNumber": "25H00464",
+          "role": "研究分担者"
+        }
+      ],
+      "x-evidence": [
+        "発表: 中村覚「東洋文庫所蔵の東アジア関連資料における多言語OCR・TEI・IIIFと生成AIの適用事例」2026-08",
+        "発表: Satoru Nakamura, \"Technical Implementation of Digital Systems for Historical Materials\", 2025-11",
+        "論文: 東洋文庫創立 100 周年記念国際シンポジウム、2025-05"
+      ]
+    },
+    {
+      "name": "国立歴史民俗博物館",
+      "entity": "国立歴史民俗博物館",
+      "roles": [
+        "共同研究員"
+      ],
+      "startDate": "2020-11",
+      "url": "https://www.rekihaku.ac.jp/",
+      "description": "『延喜式』の本文を TEI で構造化し、IIIF の画像と合わせて見るビューアを作った。歴博のデータベース「日本荘園」と「荘園関係文献目録」から nihuBridge LOD を作った。共著者はこれを使って、高等学校での学習モデルを作り、授業で試した。",
+      "type": "project",
+      "highlights": [
+        "デジタル延喜式",
+        "nihuBridge LOD / 荘園関係DB LOD"
+      ],
+      "x-id": "rekihaku",
+      "x-outputs": [
+        {
+          "name": "デジタル延喜式",
+          "url": "https://khirin-t.rekihaku.ac.jp/engishiki/",
+          "startDate": "2022-04"
+        },
+        {
+          "name": "nihuBridge LOD / 荘園関係DB LOD",
+          "url": "https://shoen.vercel.app",
+          "startDate": "2024-09",
+          "x-local-id": "ldas-shoen-lod"
+        }
+      ],
+      "x-evidence": [
+        "論文: 小風尚樹・中村覚・永崎研宣・渡辺美紗子「相互運用性を高めた日本歴史資料データ実装:『延喜式』TEI と IIIF を事例として」じんもんこん2021",
+        "発表: 中村覚「TEIを用いた『延喜式』テキストの構造化とビューアの開発」2021-12",
+        "論文: 大井将生・中村覚・大野健人・髙橋傑「荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用」じんもんこん2024（優秀論文賞、2025-02）",
+        "受賞: LOD チャレンジ 2024 学術 LOD 賞、LOD チャレンジ Japan 2025 データ作成部門優秀賞・IIJ 賞（大井将生と共同）"
+      ]
+    },
+    {
+      "name": "国立国会図書館",
+      "entity": "国立国会図書館",
+      "roles": [
+        "非常勤調査員"
+      ],
+      "startDate": "2019-04",
+      "url": "https://www.ndl.go.jp/",
+      "description": "ジャパンサーチのデータの利活用を担当した。LOD・API・利活用スキーマの使い方を、Cultural Japan を実例にして、2019 年から NDL の催しなどで示した。",
+      "type": "project",
+      "endDate": "2026-07",
+      "highlights": [
+        "史料集版面検索（NDL の OCR テキストと IIIF 画像）",
+        "れきおん文字起こし検索",
+        "ndlkotenocr-lite-iiif",
+        "NDL古典籍OCR Lite Next.js版",
+        "KotenOCR（iOS アプリ）"
+      ],
+      "x-id": "ndl",
+      "x-outputs": [
+        {
+          "name": "史料集版面検索（NDL の OCR テキストと IIIF 画像）",
+          "url": "https://dip-s.lab.hi.u-tokyo.ac.jp/",
+          "startDate": "2022-05",
+          "x-local-id": "ldas-dip-s"
+        },
+        {
+          "name": "れきおん文字起こし検索",
+          "url": "https://ab.ldas.jp/na-kamura-1263/rekion",
+          "startDate": "2024-07",
+          "x-local-id": "ldas-rekion"
+        },
+        {
+          "name": "ndlkotenocr-lite-iiif",
+          "url": "https://nakamura196-ndlkotenocr-lite-iiif.hf.space/",
+          "startDate": "2025-05",
+          "x-local-id": "ldas-ndlkotenIIIF"
+        },
+        {
+          "name": "NDL古典籍OCR Lite Next.js版",
+          "url": "https://nkol.vercel.app/ja/",
+          "startDate": "2025-08",
+          "x-local-id": "ldas-ndlOcrLite"
+        },
+        {
+          "name": "KotenOCR（iOS アプリ）",
+          "url": "https://kotenocr.ldas.jp/",
+          "startDate": "2026-03",
+          "x-local-id": "ldas-kotenOCR"
+        }
+      ],
+      "x-evidence": [
+        "発表: 中村覚「国立国会図書館をめぐるデータオープン化の現状と展望 ～データの利活用促進に向けた取組～ 利活用サービスの実際」2019-05",
+        "発表: 「ジャパンサーチが提供するLODとその活用例」2019-07、「ジャパンサーチのメタデータ利活用事例」2019-07、「ジャパンサーチとカルチュラル・ジャパン」2020-11、「ジャパンサーチのAPIを用いたオープンデータの活用事例の紹介」2021-11、「ジャパンサーチAPIの利活用事例」2023-02",
+        "論文: 中村覚「Cultural Japanの構築におけるジャパンサーチ利活用スキーマの活用」2020-10",
+        "NDLOCR: 中村覚・劉冠偉・山田太造「NDLOCRを用いた東京大学史料編纂所史料集版面画像に対する検索システムの開発」2022-08"
+      ],
+      "x-notes": {
+        "プロジェクト": "ジャパンサーチ"
+      }
+    },
+    {
+      "name": "Cultural Japan",
+      "entity": "Cultural Japan チーム（ディレクションは高野明彦（国立情報学研究所）、協力は NPO 法人連想出版）",
+      "roles": [
+        "開発（検索システム、IIIF ビューア、IIIF Discovery）"
+      ],
+      "startDate": "2020-08",
+      "url": "https://cultural.jp/",
+      "description": "チームの頁にあるとおり、検索システム、IIIF ビューア、IIIF Discovery を開発した。現在は、RDF ストアを除き、運用・保守を含めてすべてを担当している。2026-11 時点で、204 のデータベースから 2,778,052 件を収録している。ジャパンサーチのほか、大英博物館やシカゴ美術館など海外の館のデータも含む。",
+      "type": "project",
+      "highlights": [
+        "Cultural Japan"
+      ],
+      "x-id": "cultural-japan",
+      "x-outputs": [
+        {
+          "name": "Cultural Japan",
+          "url": "https://cultural.jp/",
+          "startDate": "2020-08",
+          "x-local-id": "ldas-cultural-japan"
+        }
+      ],
+      "x-evidence": [
+        "チームの頁: https://cultural.jp/team （中村 覚: Search System, IIIF Viewers, IIIF Discovery。高野 明彦: Direction）",
+        "トップの頁（2026-11-27 に確認）:「204のデータベース、2,778,052件のデータを収録」（https://cultural.jp/）",
+        "論文: 中村覚「Cultural Japanの構築におけるジャパンサーチ利活用スキーマの活用」2020-10",
+        "受賞: 2025デジタルアーカイブ産業賞 貢献賞（サイトのお知らせ、2026-06-13）"
+      ]
+    },
+    {
+      "name": "デジタル源氏物語",
+      "entity": "有志の取り組み（研究者と東京大学附属図書館の職員有志による「裏源氏勉強会」）",
+      "roles": [
+        "開発（JSPS 科研費 19K20626 の研究代表者）"
+      ],
+      "startDate": "2019-11",
+      "url": "https://genji.dl.itc.u-tokyo.ac.jp/",
+      "description": "システムの開発者で、論文の第一著者。IIIF と TEI による本文研究の基盤と、くずし字 OCR と編集距離で写本・版本を比べる AI 画像検索を作った。田村隆、永崎研宣、東京大学附属図書館の職員有志の勉強会（裏源氏勉強会）と進めた。",
+      "type": "project",
+      "highlights": [
+        "デジタル源氏物語",
+        "校異源氏物語テキストDB（TEI/XML、LOD、DTS、IIIF）",
+        "デジタル源氏物語（AI画像検索版）",
+        "OdGenji — 嗅覚データベース"
+      ],
+      "x-id": "digital-genji",
+      "x-outputs": [
+        {
+          "name": "デジタル源氏物語",
+          "url": "https://genji.dl.itc.u-tokyo.ac.jp/",
+          "startDate": "2019-11"
+        },
+        {
+          "name": "校異源氏物語テキストDB（TEI/XML、LOD、DTS、IIIF）",
+          "url": "https://kouigenjimonogatari.github.io/",
+          "startDate": "2019-11",
+          "x-local-id": "ldas-kouigenji"
+        },
+        {
+          "name": "デジタル源氏物語（AI画像検索版）",
+          "url": "https://genji-ai.web.app/",
+          "startDate": "2021-04"
+        },
+        {
+          "name": "OdGenji — 嗅覚データベース",
+          "url": "https://odgenji.vercel.app/ja/",
+          "startDate": "2025-10",
+          "x-local-id": "ldas-odgenji"
+        }
+      ],
+      "x-grants": [
+        {
+          "name": "IIIFとTEIを用いたオンライン翻刻支援システムの開発（科研費 若手研究）",
+          "period": "2019-04〜2021-03",
+          "grantNumber": "19K20626",
+          "role": "研究代表者"
+        },
+        {
+          "name": "デジタル文学地図の構築と日本古典文学研究・古典教育への展開（科研費）",
+          "period": "2021-04〜2026-03",
+          "grantNumber": "23K20445",
+          "role": "研究分担者"
+        }
+      ],
+      "x-evidence": [
+        "論文: 中村覚・田村隆・永崎研宣「源氏物語本文研究支援システム「デジタル源氏物語」の開発におけるIIIF・TEIの活用」研究報告人文科学とコンピュータ、2020-09",
+        "論文: 中村覚・田村隆・永崎研宣「デジタル源氏物語（AI画像検索版）」2022-02（2022年度 情報処理学会 山下記念研究賞）",
+        "発表: 田村隆・中村覚・中村美里・永崎研宣「「デジタル源氏物語」の構築と展開」2020-11",
+        "勉強会への受賞: 第59回国立大学図書館協会賞（2024-06）、デジタルアーカイブジャパン・アワード 2025（2025-08）",
+        "サイトの「デジタル源氏物語について」: JSPS 科研費 19K20626 の助成。東京大学総合図書館所蔵『源氏物語』は東京大学デジタルアーカイブズ構築事業でデジタル化（https://genji.dl.itc.u-tokyo.ac.jp/）"
+      ]
+    }
+  ]
+}

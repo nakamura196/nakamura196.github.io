@@ -179,6 +179,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - master
+  - projects
   - build
   - config
   - Dockerfile

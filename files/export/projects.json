@@ -1,0 +1,320 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "lang": "en",
+    "note": "Generated from projects/*.md by scripts/build_projects.py. Fields starting with x- are local extensions to JSON Resume."
+  },
+  "projects": [
+    {
+      "name": "UTokyo Digital Archives Project",
+      "entity": "The University of Tokyo, Committee on Archives of Academic Assets",
+      "roles": [
+        "Member, Office for the Digitization of Academic Assets"
+      ],
+      "startDate": "2017-04",
+      "url": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/overview",
+      "description": "Technical lead of the project from its design stage (talk on the planned archive system, 2018-02). Designed and built the archive platform (Omeka-based collections, IIIF, TEI, LOD) and the cross-departmental UTokyo Digital Archive Portal. Worked on data preservation (2021) and presented the project at more than ten meetings from 2018 to 2021. Continues to operate the platform and portal as a member of the team.",
+      "type": "project",
+      "highlights": [
+        "UTokyo Academic Archives Platform",
+        "Online exhibition *Kunshūjō*",
+        "UTokyo Digital Archive Portal (about 280,000 items across departmental archives)",
+        "UTokyo Digital Archive Portal: Poster Search"
+      ],
+      "x-id": "utokyo-digital-archives",
+      "x-outputs": [
+        {
+          "name": "UTokyo Academic Archives Platform",
+          "url": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/overview",
+          "startDate": "2017-12"
+        },
+        {
+          "name": "Online exhibition *Kunshūjō*",
+          "url": "https://kunshujo.dl.itc.u-tokyo.ac.jp",
+          "startDate": "2019-01"
+        },
+        {
+          "name": "UTokyo Digital Archive Portal (about 280,000 items across departmental archives)",
+          "url": "https://da.dl.itc.u-tokyo.ac.jp/portal/",
+          "startDate": "2019-06",
+          "x-local-id": "ldas-utokyo-portal"
+        },
+        {
+          "name": "UTokyo Digital Archive Portal: Poster Search",
+          "url": "https://portal-pro.dl.itc.u-tokyo.ac.jp/",
+          "startDate": "2019-08",
+          "x-local-id": "ldas-portal-posters"
+        }
+      ],
+      "x-evidence": [
+        "Paper: 中村覚「東京大学デジタルアーカイブズ構築事業における学術資産の公開と活用」『デジタルアーカイブ学会誌』2024-05 (sole author)",
+        "Paper: 中村覚「東京大学デジタルアーカイブズ構築事業：学術資産の利活用に向けた取り組み」2018-10 (sole author)",
+        "Paper: Satoru Nakamura, \"Publication and Usage of TEI Data in UTokyo Digital Archives Development Project\", 2018-09",
+        "Talk: 前田朗・中村覚「東京大学学術資産等アーカイブズポータルの構築プロジェクト」Code4Lib JAPAN 2019",
+        "Award: Digital Archive Japan Award 2024, given to the UTokyo Digital Archives Project (2024-08)"
+      ]
+    },
+    {
+      "name": "Toyo Bunko research databases",
+      "entity": "Toyo Bunko, Research Group for Comprehensive Asian Area Studies",
+      "roles": [
+        "Research collaborator, Research Database Group"
+      ],
+      "startDate": "2020-12",
+      "url": "https://toyobunko-lab.jp/",
+      "description": "Built the group's research databases and the IIIF image repository, working with Toyo Bunko researchers on the Buddhist canon and map materials. Applies multilingual OCR, TEI, IIIF and generative AI to the Toyo Bunko's East Asian materials (talk, 2026-08). Co-investigator on the two KAKENHI projects on the Chinese Buddhist canon.",
+      "type": "project",
+      "highlights": [
+        "Original and Collated Texts Database of the *Taishō Shinshū Daizōkyō*",
+        "Catalogue Database of the Jiaxing Canon held by Yurenja (formerly Zōjōji Hōonzō)",
+        "Toyo Bunko *Shuijingzhu* Maps Database",
+        "Toyo Bunko Media Repository (IIIF)",
+        "Toyo Bunko *Daimin Chiri no Zu* Database (3,897 annotations)",
+        "Toyo Bunko Chinese Classics Database (about 100,000 records)"
+      ],
+      "x-id": "toyo-bunko",
+      "x-outputs": [
+        {
+          "name": "Original and Collated Texts Database of the *Taishō Shinshū Daizōkyō*",
+          "url": "https://static.toyobunko-lab.jp/taishozo/",
+          "startDate": "2021-07"
+        },
+        {
+          "name": "Catalogue Database of the Jiaxing Canon held by Yurenja (formerly Zōjōji Hōonzō)",
+          "url": "https://static.toyobunko-lab.jp/u-renja/",
+          "startDate": "2021-07"
+        },
+        {
+          "name": "Toyo Bunko *Shuijingzhu* Maps Database",
+          "url": "https://static.toyobunko-lab.jp/suikeichuzu/",
+          "startDate": "2021-11"
+        },
+        {
+          "name": "Toyo Bunko Media Repository (IIIF)",
+          "url": "https://app.toyobunko-lab.jp/s/main/page/home",
+          "startDate": "2022-06",
+          "x-local-id": "ldas-media-repository"
+        },
+        {
+          "name": "Toyo Bunko *Daimin Chiri no Zu* Database (3,897 annotations)",
+          "url": "https://toyobunko-lab.jp/app/daiminchiri/",
+          "startDate": "2023-05",
+          "x-local-id": "ldas-daiminchiri"
+        },
+        {
+          "name": "Toyo Bunko Chinese Classics Database (about 100,000 records)",
+          "url": "https://kanseki.toyobunko-lab.jp/",
+          "startDate": "2026-10",
+          "x-local-id": "ldas-kanseki"
+        }
+      ],
+      "x-grants": [
+        {
+          "name": "Establishment of a philological research platform for Chinese Buddhist Canons (JSPS KAKENHI, Scientific Research (A))",
+          "period": "2021-04–2026-03",
+          "grantNumber": "21H04345",
+          "role": "Co-investigator"
+        },
+        {
+          "name": "Establishment of a Buddhist Texts Digital Library Hub by Integrating Bibliography and Digital Archiving (JSPS KAKENHI)",
+          "period": "2025-04–2030-03",
+          "grantNumber": "25H00464",
+          "role": "Co-investigator"
+        }
+      ],
+      "x-evidence": [
+        "Talk: 中村覚「東洋文庫所蔵の東アジア関連資料における多言語OCR・TEI・IIIFと生成AIの適用事例」2026-08",
+        "Talk: Satoru Nakamura, \"Technical Implementation of Digital Systems for Historical Materials\", 2025-11",
+        "Paper: International Symposium Commemorating the 100th Anniversary of the Toyo Bunko, 2025-05"
+      ]
+    },
+    {
+      "name": "National Museum of Japanese History",
+      "entity": "National Museum of Japanese History (Rekihaku)",
+      "roles": [
+        "Joint researcher"
+      ],
+      "startDate": "2020-11",
+      "url": "https://www.rekihaku.ac.jp/",
+      "description": "Structured the *Engishiki* text in TEI and built its viewer with IIIF images. Built nihuBridge LOD from Rekihaku's databases \"Nihon Shōen\" and the bibliography of shōen studies; co-authors used it to design and test a high-school learning model.",
+      "type": "project",
+      "highlights": [
+        "Digital *Engishiki*",
+        "nihuBridge LOD — Shōen Database"
+      ],
+      "x-id": "rekihaku",
+      "x-outputs": [
+        {
+          "name": "Digital *Engishiki*",
+          "url": "https://khirin-t.rekihaku.ac.jp/engishiki/",
+          "startDate": "2022-04"
+        },
+        {
+          "name": "nihuBridge LOD — Shōen Database",
+          "url": "https://shoen.vercel.app",
+          "startDate": "2024-09",
+          "x-local-id": "ldas-shoen-lod"
+        }
+      ],
+      "x-evidence": [
+        "Paper: 小風尚樹・中村覚・永崎研宣・渡辺美紗子「相互運用性を高めた日本歴史資料データ実装:『延喜式』TEI と IIIF を事例として」じんもんこん2021",
+        "Talk: 中村覚「TEIを用いた『延喜式』テキストの構造化とビューアの開発」2021-12",
+        "Paper: 大井将生・中村覚・大野健人・髙橋傑「荘園関係データベースを活用した「nihuBridge LOD」の構築と学校教育への応用」じんもんこん2024 — Best Paper Award (IPSJ SIG-CH, 2025-02)",
+        "Awards: LOD Challenge 2024 Academic LOD Award; LOD Challenge Japan 2025 Data Creation Excellence Award and IIJ Award (with Masao Ōi)"
+      ]
+    },
+    {
+      "name": "National Diet Library",
+      "entity": "National Diet Library",
+      "roles": [
+        "Part-time research fellow"
+      ],
+      "startDate": "2019-04",
+      "url": "https://www.ndl.go.jp/",
+      "description": "Worked on the reuse of Japan Search data. Showed how to use its LOD, API and utilization schema, with Cultural Japan as a working example, at NDL and other meetings from 2019.",
+      "type": "project",
+      "endDate": "2026-07",
+      "highlights": [
+        "Historiographical Image Page Search (NDL OCR text with IIIF images)",
+        "Historical Audio — Whisper + IIIF Search (NDL Rekion)",
+        "ndlkotenocr-lite-iiif",
+        "NDL Koten OCR Lite — Next.js Port",
+        "KotenOCR (iOS app)"
+      ],
+      "x-id": "ndl",
+      "x-outputs": [
+        {
+          "name": "Historiographical Image Page Search (NDL OCR text with IIIF images)",
+          "url": "https://dip-s.lab.hi.u-tokyo.ac.jp/",
+          "startDate": "2022-05",
+          "x-local-id": "ldas-dip-s"
+        },
+        {
+          "name": "Historical Audio — Whisper + IIIF Search (NDL Rekion)",
+          "url": "https://ab.ldas.jp/na-kamura-1263/rekion",
+          "startDate": "2024-07",
+          "x-local-id": "ldas-rekion"
+        },
+        {
+          "name": "ndlkotenocr-lite-iiif",
+          "url": "https://nakamura196-ndlkotenocr-lite-iiif.hf.space/",
+          "startDate": "2025-05",
+          "x-local-id": "ldas-ndlkotenIIIF"
+        },
+        {
+          "name": "NDL Koten OCR Lite — Next.js Port",
+          "url": "https://nkol.vercel.app/ja/",
+          "startDate": "2025-08",
+          "x-local-id": "ldas-ndlOcrLite"
+        },
+        {
+          "name": "KotenOCR (iOS app)",
+          "url": "https://kotenocr.ldas.jp/",
+          "startDate": "2026-03",
+          "x-local-id": "ldas-kotenOCR"
+        }
+      ],
+      "x-evidence": [
+        "Talk: 中村覚「国立国会図書館をめぐるデータオープン化の現状と展望 ～データの利活用促進に向けた取組～ 利活用サービスの実際」2019-05",
+        "Talks: 「ジャパンサーチが提供するLODとその活用例」2019-07; 「ジャパンサーチのメタデータ利活用事例」2019-07; 「ジャパンサーチとカルチュラル・ジャパン」2020-11; 「ジャパンサーチのAPIを用いたオープンデータの活用事例の紹介」2021-11; 「ジャパンサーチAPIの利活用事例」2023-02",
+        "Paper: 中村覚「Cultural Japanの構築におけるジャパンサーチ利活用スキーマの活用」2020-10",
+        "NDLOCR: 中村覚・劉冠偉・山田太造「NDLOCRを用いた東京大学史料編纂所史料集版面画像に対する検索システムの開発」2022-08"
+      ],
+      "x-notes": {
+        "Project": "Japan Search"
+      }
+    },
+    {
+      "name": "Cultural Japan",
+      "entity": "Cultural Japan team (direction by Akihiko Takano, National Institute of Informatics; with the NPO Rensō Shuppan)",
+      "roles": [
+        "Developer (Search System, IIIF Viewers, IIIF Discovery)"
+      ],
+      "startDate": "2020-08",
+      "url": "https://cultural.jp/",
+      "description": "Developed the search system, the IIIF viewers and IIIF Discovery, as listed on the team page. Now runs the whole service, including operation and maintenance, except for the RDF store. As of 2026-11, Cultural Japan holds 2,778,052 records from 204 databases, including Japan Search and overseas museums such as the British Museum and the Art Institute of Chicago.",
+      "type": "project",
+      "highlights": [
+        "Cultural Japan"
+      ],
+      "x-id": "cultural-japan",
+      "x-outputs": [
+        {
+          "name": "Cultural Japan",
+          "url": "https://cultural.jp/",
+          "startDate": "2020-08",
+          "x-local-id": "ldas-cultural-japan"
+        }
+      ],
+      "x-evidence": [
+        "Team page: https://cultural.jp/team (Satoru Nakamura: Search System, IIIF Viewers, IIIF Discovery; Akihiko Takano: Direction)",
+        "Top page, checked 2026-11-27: \"204 databases, 2,778,052 records\" (https://cultural.jp/)",
+        "Paper: 中村覚「Cultural Japanの構築におけるジャパンサーチ利活用スキーマの活用」2020-10",
+        "Award: 2025 Digital Archive Industry Award, Contribution Award (announced on the site 2026-06-13)"
+      ]
+    },
+    {
+      "name": "Digital Tale of Genji",
+      "entity": "Volunteer initiative of researchers and University of Tokyo Library staff (the \"Ura-Genji\" study group)",
+      "roles": [
+        "Developer; principal investigator of JSPS KAKENHI 19K20626"
+      ],
+      "startDate": "2019-11",
+      "url": "https://genji.dl.itc.u-tokyo.ac.jp/",
+      "description": "Developer of the system and first author of its papers. Built the text-research platform with IIIF and TEI, and the AI image search that compares manuscripts and printed editions using kuzushiji OCR and edit distance. Worked with Takashi Tamura, Kiyonori Nagasaki and the University of Tokyo Library staff study group (\"Ura-Genji\").",
+      "type": "project",
+      "highlights": [
+        "Digital Tale of Genji",
+        "Kōi Genji Monogatari Text Database (TEI/XML, LOD, DTS, IIIF)",
+        "Digital Tale of Genji: AI image search",
+        "OdGenji — Olfactory Database for *The Tale of Genji*"
+      ],
+      "x-id": "digital-genji",
+      "x-outputs": [
+        {
+          "name": "Digital Tale of Genji",
+          "url": "https://genji.dl.itc.u-tokyo.ac.jp/",
+          "startDate": "2019-11"
+        },
+        {
+          "name": "Kōi Genji Monogatari Text Database (TEI/XML, LOD, DTS, IIIF)",
+          "url": "https://kouigenjimonogatari.github.io/",
+          "startDate": "2019-11",
+          "x-local-id": "ldas-kouigenji"
+        },
+        {
+          "name": "Digital Tale of Genji: AI image search",
+          "url": "https://genji-ai.web.app/",
+          "startDate": "2021-04"
+        },
+        {
+          "name": "OdGenji — Olfactory Database for *The Tale of Genji*",
+          "url": "https://odgenji.vercel.app/ja/",
+          "startDate": "2025-10",
+          "x-local-id": "ldas-odgenji"
+        }
+      ],
+      "x-grants": [
+        {
+          "name": "Development of Online Transcription System with IIIF and TEI (JSPS KAKENHI, Early-Career Scientists)",
+          "period": "2019-04–2021-03",
+          "grantNumber": "19K20626",
+          "role": "Principal investigator"
+        },
+        {
+          "name": "Construction of a Digital Literary Map and its Application to the Study and Education of Japanese Classical Literature (JSPS KAKENHI)",
+          "period": "2021-04–2026-03",
+          "grantNumber": "23K20445",
+          "role": "Co-investigator"
+        }
+      ],
+      "x-evidence": [
+        "Paper: 中村覚・田村隆・永崎研宣「源氏物語本文研究支援システム「デジタル源氏物語」の開発におけるIIIF・TEIの活用」IPSJ SIG-CH, 2020-09",
+        "Paper: 中村覚・田村隆・永崎研宣「デジタル源氏物語（AI画像検索版）」2022-02 — IPSJ Yamashita SIG Research Award 2022",
+        "Talk: 田村隆・中村覚・中村美里・永崎研宣「「デジタル源氏物語」の構築と展開」2020-11",
+        "Awards to the study group: 59th Japan Association of National University Libraries Award (2024-06); Digital Archive Japan Award 2025 (2025-08)",
+        "Site, \"About Digital Tale of Genji\": supported by JSPS KAKENHI 19K20626; the University of Tokyo General Library copy was digitized by the UTokyo Digital Archives Project (https://genji.dl.itc.u-tokyo.ac.jp/)"
+      ]
+    }
+  ]
+}

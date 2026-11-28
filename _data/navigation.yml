@@ -9,6 +9,9 @@ main:
   - title: "Works"
     url: /works/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Grants"
     url: /grants/
 
@@ -27,6 +30,9 @@ ja:
 
   - title: "作品等"
     url: /ja/works/
+
+  - title: "プロジェクト"
+    url: /ja/projects/
 
   - title: "研究課題"
     url: /ja/grants/
